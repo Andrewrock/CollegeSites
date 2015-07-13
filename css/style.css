@@ -46,7 +46,7 @@ Navigation
   height: 100%;
   width: -webkit-calc(100% - 4px);
   width: calc(100% - 4px);
-  background-color: #131519;
+  background-color: #464d5c;
 }
 .cd-side-navigation ul {
   height: 100%;
@@ -63,7 +63,7 @@ Navigation
   padding: 4em 0 1.5em;
   font-size: 1.2rem;
   text-align: center;
-  color: #4a5261;
+  color:#F0F0F0;
   -webkit-transition: background-color 0.2s, color 0.2s;
   -moz-transition: background-color 0.2s, color 0.2s;
   transition: background-color 0.2s, color 0.2s;
@@ -101,14 +101,14 @@ Navigation
   pointer-events: none;
 }
 .no-touch .cd-side-navigation a:hover {
-  background-color: #08090b;
+  background-color: #464d5c;
 }
 .no-touch .cd-side-navigation a:hover::after {
   opacity: 1;
 }
 .cd-side-navigation a.selected, .no-touch .cd-side-navigation a.selected:hover {
   background-color: #ffffff;
-  color: #131519;
+  color: #464d5c;
 }
 .cd-side-navigation a.selected > svg *, .no-touch .cd-side-navigation a.selected:hover > svg * {
   stroke: #83b0b9;
