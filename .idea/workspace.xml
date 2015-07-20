@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556baf14-92d5-4e7e-b8cc-68c155cced1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json/colleges.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partials/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partials/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/partials/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/colleges.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cao.jpeg" afterPath="$PROJECT_DIR$/img/cao.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/colleges.jpeg" afterPath="$PROJECT_DIR$/img/colleges.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/courses.jpeg" afterPath="$PROJECT_DIR$/img/courses.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ucc.jpg" afterPath="$PROJECT_DIR$/img/ucc.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CollegeSites.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43289226" vertical-offset="1196" max-vertical-offset="4890">
-              <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.6597353" vertical-offset="1571" max-vertical-offset="4890">
+              <caret line="128" column="44" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -650,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43289226" vertical-offset="1196" max-vertical-offset="4890">
-          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.6597353" vertical-offset="1571" max-vertical-offset="4890">
+          <caret line="128" column="44" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
           <folding />
         </state>
       </provider>
