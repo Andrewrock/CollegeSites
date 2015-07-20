@@ -111,10 +111,11 @@ video{
 
 h1 {
   color: #EF695B!important;
-  line-height: 0.8em;
+  /* line-height: 0.8em; */
   text-align: center;
-  margin: 50px 0 0 0;
+  margin: 0 0 0 0;
   text-transform: uppercase;
+  /* padding-top: 0px; */
 }
 
 h1.chain {
@@ -277,87 +278,12 @@ a:hover {
 
 
 
-.shape {
-  display: table-cell;
-  vertical-align: middle;
+.svg-image {
+  /* display: inline-block; */
+  /* width: 134px; */
+  height: 135px;
+  /* margin: 40px 30px; */
+  /* float: left; */
+  margin-bottom: -25px;
+  margin-top: -60px;
 }
-
-.copy {
-  display: table-cell;
-  vertical-align: middle;
-  font-family: 'Nunito';
-}
-
-h1 {
-  font-family: 'Oswald';
-  font-weight: normal;
-  letter-spacing: -2px;
-  font-size: 56px;
-}
-
-h2 {
-  font-weight: 300;
-  font-size: 24px;
-  margin: 0.5em;
-}
-
-.outer-border {
-  width: 150px;
-  height: 150px;
-  position: relative;
-  margin: 0 auto;
-  background-color: #FFF;
-  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-.outer-border:before {
-  content: "";
-  display: block;
-  width: 494px;
-  height: 494px;
-  background-color: #333;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-.outer-border:after {
-  content: "";
-  display: block;
-  width: 476px;
-  height: 476px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  background-color: #FFF;
-}
-
-.inner-border {
-  width: 100px;
-  height: 100px;
-  position: absolute;
-  display: table;
-  text-align: center;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  z-index: 2;
-  background-color: #333;
-  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-}
-
-
-
-
