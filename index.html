@@ -4,12 +4,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  <link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
   <link rel="stylesheet" href="css/custom.css"> <!-- My over-ride css -->
-  <link rel="stylesheet" href="css/bootstrap.min.css"> <!-- My over-ride css -->
 
 
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -21,13 +22,14 @@
 		<ul>
 			<li>
 				<a href="#0" class="selected" data-menu="index">
-					<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24"><g transform="translate(0, 0)"> <polygon fill="none" stroke="#ff5a5f" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2 3,10 3,23 9,23 9,16 15,16 15,23 21,23 21,10 " stroke-linejoin="miter"></polygon> </g></svg>
-					Intro
+					<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24">
+            <g transform="translate(0, 0)"> <polygon fill="none" stroke="#ff5a5f" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2 3,10 3,23 9,23 9,16 15,16 15,23 21,23 21,10 " stroke-linejoin="miter"></polygon> </g></svg>
+					Home
 				</a>
 			</li>
 
 			<li>
-				<a href="#0" data-menu="services">
+				<a href="#0" data-menu="colleges">
 					<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24">
             <g transform="translate(0, 0)">
               <polyline data-color="color-2" fill="none" stroke="#ff5a5f" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points=" 16,7 16,2 8,2 8,7 " stroke-linejoin="miter"></polyline>
@@ -36,7 +38,7 @@
               <line fill="none" stroke="#ff5a5f" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" x1="19" y1="7" x2="19" y2="22" stroke-linejoin="miter"></line>
             </g>
           </svg>
-					Services
+					Colleges
 				</a>
 			</li>
 
@@ -80,68 +82,70 @@
         </div><!-- emd of my video container -->
 
         <div class="cd-title">
-          <h2>Welcome Back</h2>
-          <span>This is the start of something great</span>
         </div>
       </div>
 
 			<div class="cd-content" id="index-content">
         <div class="container">
-          <div class="container-fluid intro" id="about">
+          <div class="container-fluid intro" id="page">
 
-          <section class="card-holder">
-            <div class="row">
-              <h2 class="text-center">What we do</h2>
-                <div class="col-sm-4 col-xs-12">
-                    <div class="service college">
-                      <div class="service-content">
-                      <h2 class="effect3d">CAO</h2>
-                       <span>Gauge what's needed.</span>
-                        <button>Submit</button>
-                    </div>
-                </div>
-                </div>
 
-                <div class="col-sm-4 col-xs-12">
-                  <div class="service courses">
-                    <div class="service-content">
-                      <h2 class="effect3d">Colleges</h2>
-                      <span>Discover a course.</span>
-                      <button>Submit</button>
-                    </div>
+            <div class="container-fluid intro" id="welcome">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                  <h1>Information not opinion</h1>
+                  <div class="block">
+                    <p><span class="comfortable-skin">W</span>e have all been there, it's time to consider college, What should be an exciting
+                      time, can often become stressful. While we appreciate everyone is trying to help with college tips, course recommendations,
+                      job opportunities and of course the CAO.</p>
+                    <p>We want to provide with all the information that is publicly available, in one central place. We hope that this information
+                    can help and serve as a point of reference if confused about the CAO points from previous years or about college information such as
+                      course and module details.
+                    </p>
                   </div>
                 </div>
-
-
-                <div class="col-sm-4 col-xs-12">
-                  <div class="service cao">
-                    <div class="service-content">
-                      <h2 class="effect3d">Courses</h2>
-                      <span>Maybe it's for you, maybe it's not.</span>
-                      <button>Submit</button>
-                    </div>
-                  </div>
-                </div>
+              </div>
             </div>
-        </section>
 
+
+            <div class="row">
+              <ul class="thumbnails">
+                <li class="col-sm-4">
+                  <div class="thumbnail">
+                    <img src="img/cao.jpeg" alt="ALT NAME">
+                    <div class="caption">
+                      <div class="caption-header">CAO</div>
+                    </div>
+                  </div>
+                </li>
+                <li class="col-sm-4">
+                  <div class="thumbnail">
+                    <img src="img/colleges.jpeg" alt="colleges">
+                    <div class="caption">
+                      <div class="caption-header">Colleges</div>
+                    </div>
+                  </div>
+                </li>
+                <li class="col-sm-4">
+                  <div class="thumbnail">
+                    <img src="img/courses.jpeg" alt="courses">
+                    <div class="caption">
+                      <div class="caption-header">Courses</div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
 
 
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
-                <h1 class="CAO">CAO</h1>
+                <h1 class="CAO animated bounceInLeft">CAO</h1>
                 <div class="block">
-                  <p><span class="blue">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
-                    He fell in love with the sheepskin experience and was convinced the world would one day share this love.
-                    The beaches of Southern California had long been an epicenter of a relaxed, casual lifestyle,
-                    a lifestyle that Brian felt was a perfect fit for his brand. So he founded the UGG brand,
-                    began selling his sheepskin boots and they were an immediate sensation.
-                    By the mid 1980's, the UGG brand became a symbol of relaxed southern California culture,
-                    gaining momentum through surf shops and other shops up and down the coast of California,
-                    from San Diego to Santa Cruz. UGG boots reached beyond the beach, popping up in big cities
-                    and small towns all over, and in every level of society. Girls wore their surfer boyfriend's
-                    pair of UGG boots like a letterman jacket. When winter came along, UGG boots were in ski shops
-                    and were seen in lodges from Mammoth to Aspen.
+                  <p><span class="melonjoly">T</span>he CAO, if you want to attend any of the national universities then you better become
+                    familiar with the CAO. For many this is the main cause of stress throughout the leaving cert, it is the one variable you cannot
+                    predict. The CAO is the college gatekeeper. Fortunately previous years of CAO statistics are public information and free to everyone,
+                    We provide the previous four years of CAO stats. We hope by doing this, it will save you vital time wasted searching for this information elsewhere.
                   </p>
                 </div>
               </div>
@@ -192,17 +196,12 @@
               <div class="col-md-8 col-md-offset-2">
                 <h1 class="Colleges">Every College</h1>
                 <div class="block">
-                  <p><span class="brown">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
-                    He fell in love with the sheepskin experience and was convinced the world would one day share this love.
-                    The beaches of Southern California had long been an epicenter of a relaxed, casual lifestyle,
-                    a lifestyle that Brian felt was a perfect fit for his brand. So he founded the UGG brand,
-                    began selling his sheepskin boots and they were an immediate sensation.
-                    By the mid 1980's, the UGG brand became a symbol of relaxed southern California culture,
-                    gaining momentum through surf shops and other shops up and down the coast of California,
-                    from San Diego to Santa Cruz. UGG boots reached beyond the beach, popping up in big cities
-                    and small towns all over, and in every level of society. Girls wore their surfer boyfriend's
-                    pair of UGG boots like a letterman jacket. When winter came along, UGG boots were in ski shops
-                    and were seen in lodges from Mammoth to Aspen.
+                  <p><span class="comfortable-skin">A</span>s speciality careers on the rise, the so called real world is changing
+                    far too quickly for the established colleges to keep up, as a result many smaller colleges are offering
+                    speciality courses. We believe students should have access to at least basic information about every
+                    college no matter of size. Providing the college requires leaving cert points for entry we will provide
+                    information about the college such as location, estimated student population, and course information.
+                   ability  .
                   </p>
                 </div>
               </div>
@@ -210,27 +209,25 @@
           </div>
 
 
-            <div class="container-fluid intro" id="design">
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div id="secondSlider">
-                          <div class="col-xs-12 col-sm-6">
-                            <div class="flat-box">
-                              <div class="colourway colour1"></div>
-                              <p class="title">Undergrad courses</p>
-                              <p class="feature-text">Considering a degree? Check out courses and modules with us.</p>
-                            </div>
-                          </div>
-                          <div class="col-xs-12 col-sm-6">
-                            <div class="flat-box">
-                              <div class="colourway colour2"></div>
-                              <p class="title">Postgraduate courses</p>
-                              <p class="feature-text">Considering a degree? Check out courses and modules with us.</p>
-                            </div>
-                          </div>
+            <div class="container-fluid intro" id="under-post">
+              <div class="row">
+                <div class="col-xs-12">
+                  <div class="col-xs-12 col-sm-6">
+                    <div class="flat-box">
+                      <div class="colourway colour1"></div>
+                        <p class="title">Undergrad courses</p>
+                        <p class="feature-text">Considering a degree? Check out courses and modules with us.</p>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6">
+                    <div class="flat-box">
+                      <div class="colourway colour2"></div>
+                        <p class="title">Postgraduate courses</p>
+                        <p class="feature-text">Considering a degree? Check out courses and modules with us.</p>
                     </div>
                   </div>
                 </div>
+              </div>
             </div>
 
           <div class="container-fluid intro" id="courses">
@@ -238,7 +235,7 @@
               <div class="col-md-8 col-md-offset-2">
                 <h1 class="chain">Every Course</h1>
                 <div class="block">
-                  <p><span class="pink">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
+                  <p><span class="complete-coral">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
                     He fell in love with the sheepskin experience and was convinced the world would one day share this love.
                     The beaches of Southern California had long been an epicenter of a relaxed, casual lifestyle,
                     a lifestyle that Brian felt was a perfect fit for his brand. So he founded the UGG brand,
@@ -263,7 +260,7 @@
                 <div class="col-xs-6">
                 <div class="college-option-undergrad">
                   <div class="block">
-                    <p><span class="pink">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
+                    <p><span class="seeking-sage">I</span>n 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope.
                       He fell in love with the sheepskin experience and was convinced the world would one day share this love.
                       The beaches of Southern California had long been an epicenter of a relaxed, casual lifestyle,
                       a lifestyle that Brian felt was a perfect fit for his brand. So he founded the UGG brand,
@@ -277,6 +274,12 @@
             </div>
           </div>
 </div>
+
+
+
+
+
+
 
         </div><!-- container -->
 
