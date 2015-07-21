@@ -220,12 +220,16 @@ a:hover {
   text-align: justify;
 }
 
-.college-option-postgrad{
-  min-height:350px;
+.college-options{
   max-height:350px;
+  height:350px;
   width:100%;
-  background: url("../img/POSTGRAD.png")no-repeat top center #252930;
+}
 
+.college-option-postgrad{
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
 }
 
 .design{
