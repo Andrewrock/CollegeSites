@@ -45,7 +45,7 @@ Navigation
   height: 100%;
   width: -webkit-calc(100% - 4px);
   width: calc(100% - 4px);
-  background-color: #464d5c;
+  background-color: #2A363B;
 }
 .cd-side-navigation ul {
   height: 100%;
@@ -105,9 +105,10 @@ Navigation
 .no-touch .cd-side-navigation a:hover::after {
   opacity: 1;
 }
+
 .cd-side-navigation a.selected, .no-touch .cd-side-navigation a.selected:hover {
   background-color: #ffffff;
-  color: #464d5c;
+  background-color: #2A363B;
 }
 .cd-side-navigation a.selected > svg *, .no-touch .cd-side-navigation a.selected:hover > svg * {
   stroke: #83b0b9;
