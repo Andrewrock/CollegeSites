@@ -8,13 +8,11 @@ Primary style
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 65%;
 }
 
 body {
   font-size: 1.6rem;
-  color: #83b0b9;
-  background-color: #343943;
 }
 
 a {
@@ -165,6 +163,7 @@ Navigation
   height: 100%;
   width: 100%;
   overflow-y: auto;
+  overflow-x: hidden;
   padding-left: 70px;
   /* Force Hardware Acceleration */
   -webkit-backface-visibility: hidden;
@@ -194,11 +193,18 @@ Navigation
   background: #83b0b9;
   overflow: hidden;
 }
+.cd-section.colleges header {
+  background-image:url('../img/college-header.jpeg');
+  background-size:cover;
+  position:relative;
+}
+
 .cd-section.services header {
   background-image:url('../img/college-header.jpeg');
   background-size:cover;
   position:relative;
 }
+
 .cd-section.projects header {
   background-color: #343943;
 }
