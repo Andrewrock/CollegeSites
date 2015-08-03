@@ -1433,7 +1433,462 @@
       },
       "leinster":{
         "id":2,
-        "title":"Leinster"
+        "title":"Leinster",
+        "trinity-college-dublin": {
+          "id": 1,
+          "title": "Trinity College Dublin",
+          "text": "",
+          "phone": "01-8961000",
+          "site": "www.tcd.ie",
+          "province": "Leinster",
+          "address": "College Green Dublin 2",
+          "location": "Dublin",
+          "courses": {
+            "human-nutrition-dietetics": {
+              "id": "1",
+              "title": "Human nutrition and dietetics",
+              "code": "DT223",
+              "points":"",
+              "duration" :""
+            },
+            "ancient-history-archaeology": {
+              "id": "2",
+              "title": "Ancient history and archaeology",
+              "code": "TR00",
+              "points":"",
+              "duration" :""
+            },
+            "arts-international": {
+              "id": "3",
+              "title": "Arts International",
+              "code": "CK108",
+              "points":"",
+              "duration" :""
+            },
+            "arts-music": {
+              "id": "4",
+              "title": "Arts Music",
+              "code": "CK104",
+              "points":"",
+              "duration" :""
+            },
+            "criminology": {
+              "id": "5",
+              "title": "Criminology",
+              "code": "CK113",
+              "points":"",
+              "duration" :""
+            },
+            "digital-humanities": {
+              "id": "6",
+              "title": "Digital Humanities and Information Technology",
+              "code": "CK118",
+              "points":"",
+              "duration" :""
+            },
+            "drama-theatre": {
+              "id": "7",
+              "title": "Drama and Theatre Studies",
+              "code": "CK112",
+              "points":"",
+              "duration" :""
+            },
+            "economics-transformation": {
+              "id": "8",
+              "title": "Economics Through Transformational Learning",
+              "code": "CK117",
+              "points":"",
+              "duration" :""
+            },
+            "english": {
+              "id": "9",
+              "title": "English",
+              "code": "CK109",
+              "points":"",
+              "duration" :""
+            },
+            "early-years": {
+              "id": "10",
+              "title": "Early Years and Childhood Studies",
+              "code": "CK111",
+              "points":"",
+              "duration" :""
+            },
+            "film-screen": {
+              "id": "11",
+              "title": "Film and Screen Media",
+              "code": "CK105",
+              "points":"",
+              "duration" :""
+            },
+            "geography-arch": {
+              "id": "12",
+              "title": "Geography and Archaeology",
+              "code": "CK107",
+              "points":"",
+              "duration" :""
+            },
+            "social-science": {
+              "id": "13",
+              "title": "Social Science",
+              "code": "CK115",
+              "points":"",
+              "duration" :""
+            },
+            "social-work": {
+              "id": "14",
+              "title": "Social Work",
+              "code": "CK115",
+              "points":"",
+              "duration" :""
+            },
+            "sports-studies": {
+              "id": "15",
+              "title": "Sports Studies and Physical Education",
+              "code": "CK116",
+              "points":"",
+              "duration" :""
+            },
+            "world-language": {
+              "id": "16",
+              "title": "World Languages",
+              "code": "CK110",
+              "points":"",
+              "duration" :""
+            },
+            "youth-community": {
+              "id": "17",
+              "title": "Youth and Community Work",
+              "code": "CK114",
+              "points":"",
+              "duration" :""
+            },
+            "accounting": {
+              "id": "18",
+              "title": "Accounting",
+              "code": "CK202",
+              "points":"",
+              "duration" :""
+            },
+            "bis": {
+              "id": "19",
+              "title": "Business Information Systems",
+              "code": "CK203",
+              "points":"",
+              "duration" :""
+            },
+            "commerce": {
+              "id": "20",
+              "title": "Commerce",
+              "code": "CK201",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-chinese": {
+              "id": "21",
+              "title": "Commerce with Chinese",
+              "code": "CK211",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-french": {
+              "id": "22",
+              "title": "Commerce with French",
+              "code": "205",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-german": {
+              "id": "23",
+              "title": "Commerce with German",
+              "code": "CK206",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-hispanic": {
+              "id": "24",
+              "title": "Commerce Hispanic Studies",
+              "code": "CK208",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-irish": {
+              "id": "25",
+              "title": "Commerce with Irish",
+              "code": "CK209",
+              "points":"",
+              "duration" :""
+            },
+            "commerce-italian": {
+              "id": "26",
+              "title": "Commerce with Italian",
+              "code": "CK207",
+              "points":"",
+              "duration" :""
+            },
+            "government": {
+              "id": "27",
+              "title": "Government",
+              "code": "CK210",
+              "points":"",
+              "duration" :""
+            },
+            "finance": {
+              "id": "28",
+              "title": "Finance",
+              "code": "CK204",
+              "points":"",
+              "duration" :""
+            },
+            "law": {
+              "id": "29",
+              "title": "Law",
+              "code": "CK301"
+            },
+            "law-french": {
+              "id": "30",
+              "title": "Law and French",
+              "code": "CK302",
+              "points":"",
+              "duration" :""
+            },
+            "law-irish": {
+              "id": "31",
+              "title": "Law and Irish",
+              "code": "CK304",
+              "points":"",
+              "duration" :""
+            },
+            "law-clinical": {
+              "id": "32",
+              "title": "Law Clinical",
+              "code": "CK305",
+              "points":"",
+              "duration" :""
+            },
+            "law-international": {
+              "id": "33",
+              "title": "Law International",
+              "code": "CK306",
+              "points":"",
+              "duration" :""
+            },
+            "food-marketing": {
+              "id": "34",
+              "title": "Food Marketing and Entrepreneurship",
+              "code": "",
+              "points":"",
+              "duration" :""
+            },
+            "nutrition": {
+              "id": "35",
+              "title": "Nutritional Sciences",
+              "code": "",
+              "points":"",
+              "duration" :""
+            },
+            "food-science": {
+              "id": "36",
+              "title": "Food Science",
+              "code": "",
+              "points":"",
+              "duration" :""
+            },
+            "food-policy": {
+              "id": "37",
+              "title": "International Development and Food Policy",
+              "code": "",
+              "points":"",
+              "duration" :""
+            },
+            "children-general": {
+              "id": "38",
+              "title": "Children's & General Nursing",
+              "code": "CK712",
+              "points":"",
+              "duration" :""
+            },
+            "nursing-general": {
+              "id": "39",
+              "title": "Nursing General",
+              "code": "CK710",
+              "points":"",
+              "duration" :""
+            },
+            "nursing-mental": {
+              "id": "40",
+              "title": "Nursing Mental",
+              "code": "CK720",
+              "points":"",
+              "duration" :""
+            },
+            "nursing-intellectual": {
+              "id": "41",
+              "title": "Nursing Intellectual Disability",
+              "code": "CK730",
+              "points":"",
+              "duration" :""
+            },
+            "midwifery": {
+              "id": "42",
+              "title": "Midwifery",
+              "code": "CK740",
+              "points":"",
+              "duration" :""
+            },
+            "nursing-studies": {
+              "id": "43",
+              "title": "Nursing Studies",
+              "code": "",
+              "points":"",
+              "duration" :""
+            },
+            "dentistry": {
+              "id": "44",
+              "title": "Dentistry",
+              "code": "CK702",
+              "points":"",
+              "duration" :""
+            },
+            "medicine": {
+              "id": "45",
+              "title": "Medicine",
+              "code": "CK701",
+              "points":"",
+              "duration" :""
+            },
+            "medicine-graduate": {
+              "id": "46",
+              "title": "Medicine Graduate Entry",
+              "code": "CK791",
+              "points":"",
+              "duration" :""
+            },
+            "occupational-therapy": {
+              "id": "47",
+              "title": "Occupational Therapy",
+              "code": "CK704",
+              "points":"",
+              "duration" :""
+            },
+            "pharmacy": {
+              "id": "48",
+              "title": "Pharmacy",
+              "code": "CK703",
+              "points":"",
+              "duration" :""
+            },
+            "speech-language": {
+              "id": "49",
+              "title": "Speech and Language Therapy",
+              "code": "CK705",
+              "points":"",
+              "duration" :""
+            },
+            "public-health": {
+              "id": "50",
+              "title": "Public Health",
+              "code": "CK706",
+              "points":"",
+              "duration" :""
+            },
+            "bio-chem": {
+              "id": "51",
+              "title": "Biological and Chemical Studies",
+              "code": "CK402",
+              "points":"",
+              "duration" :""
+            },
+            "bio-earth": {
+              "id": "52",
+              "title": "Biological, Earth and Environmental Studies",
+              "code": "CK404",
+              "points":"",
+              "duration" :""
+            },
+            "bio-med": {
+              "id": "53",
+              "title": "Biomedical Studies",
+              "code": "CR320",
+              "points":"",
+              "duration" :""
+            },
+            "chemical-studies": {
+              "id": "54",
+              "title": "Chemical Studies",
+              "code": "CK406",
+              "points":"",
+              "duration" :""
+            },
+            "computer-science": {
+              "id": "55",
+              "title": "Computer Science",
+              "code": "CK401",
+              "points":"",
+              "duration" :""
+            },
+            "genetics": {
+              "id": "56",
+              "title": "Genetics",
+              "code": "CK405"
+            },
+            "math-science": {
+              "id": "57",
+              "title": "Mathematical Sciences",
+              "code": "CK407",
+              "points":"",
+              "duration" :""
+            },
+            "physics-astro": {
+              "id": "58",
+              "title": "Physics and Astrophysics",
+              "code": "CK408"
+            },
+            "architecture": {
+              "id": "59",
+              "title": "Architecture",
+              "code": "CK606",
+              "points":"",
+              "duration" :""
+            },
+            "civil-environment-engineering": {
+              "id": "60",
+              "title": "Civil and Environmental Engineering",
+              "code": "CK600 CEE",
+              "points":"",
+              "duration" :""
+            },
+            "electrical-engineering": {
+              "id": "61",
+              "title": "Electrical and Electronic Engineering",
+              "code": "CK600 CEE",
+              "points":"",
+              "duration" :""
+            },
+            "energy-engineering": {
+              "id": "62",
+              "title": "Enegry Engineering",
+              "code": "CK600 NRG",
+              "points":"",
+              "duration" :""
+            },
+            "no-preference-engineering": {
+              "id": "63",
+              "title": "No Preference Engineering",
+              "code": "CK600 NPF",
+              "points":"",
+              "duration" :""
+            },
+            "process-chemical-engineering": {
+              "id": "64",
+              "title": "Process and Chemical Engineering",
+              "code": "CK600 PCE",
+              "points":"",
+              "duration" :""
+            }
+          }
+        }
+
 
 
       },
