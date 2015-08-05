@@ -1753,279 +1753,281 @@
               "title": "Wood Science & Technology",
               "code": "LM067",
               "points": "315",
-              "duration":""
+              "duration":"4yrs"
             },
             "aeronautical-engineering": {
               "id": "44",
               "title": "Aeronautical Engineering",
               "code": "LM077",
               "points": "390",
-              "duration":""
+              "duration":"4yrs"
             },
             "aircraft-operations": {
               "id": "45",
               "title": "Aircraft Maintenance and Operations",
               "code": "LM120",
               "points": "New",
-              "duration":""
+              "duration":"4yrs"
             },
             "architecture": {
               "id": "46",
               "title": "Architecture",
               "code": "LM099",
               "points": "385",
-              "duration":""
+              "duration":"5yrs"
             },
             "biomedical-engineering": {
               "id": "47",
               "title": "Biomedical Engineering",
               "code": "LM071",
               "points": "415",
-              "duration":""
+              "duration":"4yrs"
             },
             "chem-bio-chem-engineering": {
               "id": "48",
               "title": "Chemical and Biochemical Engineering",
               "code": "LM115",
               "points": "470",
-              "duration":""
+              "duration":"4yrs"
             },
             "civil-engineering": {
               "id": "49",
               "title": "Civil Engineering",
               "code": "LM085",
               "points": "450",
-              "duration":""
+              "duration":"4yrs"
             },
             "computer-games": {
               "id": "50",
               "title": "Computer Games Development",
               "code": "LM110",
               "points": "355",
-              "duration":""
+              "duration":"4yrs"
             },
             "computer-systems": {
               "id": "51",
               "title": "Computer Systems ",
               "code": "LM051",
               "points": "335",
-              "duration":""
+              "duration":"4yrs"
             },
             "construction-management-engineering": {
               "id": "52",
               "title": "Construction Management and Engineering",
               "code": "LM082",
               "points": "310",
-              "duration":""
+              "duration":"4yrs"
             },
             "international-business": {
               "id": "53",
               "title": "International Business",
               "code": "LM056",
-              "points": "",
-              "duration":""
+              "points": "470",
+              "duration":"4yrs"
             },
             "design-manufacture": {
               "id": "54",
               "title": "Design and Manufacture ",
               "code": "LM119",
               "points": "460",
-              "duration":""
+              "duration":"4yrs"
             },
             "digital-media-design": {
               "id": "55",
               "title": "Digital Media Design",
               "code": "LM113",
               "points": "315",
-              "duration":""
+              "duration":"4yrs"
             },
             "electronic-computing-engineering": {
               "id": "56",
               "title": "Electronic and Computer Engineering",
               "code": "LM118",
               "points": "400",
-              "duration":""
+              "duration":"4yrs"
             },
             "electronics": {
               "id": "57",
               "title": "Electronics",
               "code": "LM080",
               "points": "305",
-              "duration":""
+              "duration":"4yrs"
             },
             "engineering-choice": {
               "id": "58",
               "title": "Engineering Choice",
               "code": "LM116",
               "points": "405",
-              "duration":""
+              "duration":"4yrs"
             },
             "mechanical-engineering": {
               "id": "59",
               "title": "Mechanical Engineering",
               "code": "LM073",
               "points": "420",
-              "duration":""
+              "duration":"4yrs"
             },
             "mobile-communications-security": {
               "id": "60",
               "title": "Mobile Communications and Security",
               "code": "LM083",
               "points": "370",
-              "duration":""
+              "duration":"4yrs"
             },
             "music-media-performance-technology": {
               "id": "61",
               "title": "Music Media and Performance Technology",
               "code": "LM114",
               "points": "310",
-              "duration":""
+              "duration":"4yrs"
             },
             "product-design-technology": {
               "id": "62",
               "title": "Product Design and Technology",
               "code": "LM076",
               "points": "400",
-              "duration":""
+              "duration":"4yrs"
             },
             "tech-management": {
               "id": "63",
               "title": "Technology  Management",
               "code": "LM063",
               "points": "300",
-              "duration":""
+              "duration":"4yrs"
             },
-
-
             "applied-languages": {
               "id": "64",
               "title": "Applied Languages",
               "code": "LM044",
               "points": "440",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-joint": {
               "id": "65",
               "title": "Arts (Joint Honours)",
               "code": "LM032",
               "points": "430",
-              "duration":""
+              "duration":"4yrs"
             },
             "economics-sociology": {
               "id": "66",
               "title": "Economics and Sociology",
               "code": "LM036",
               "points": "325",
-              "duration":""
+              "duration":"4yrs"
             },
             "english-history": {
               "id": "67",
               "title": "English and History",
               "code": "LM035",
               "points": "325",
-              "duration":""
+              "duration":"4yrs"
             },
             "european-studies": {
               "id": "68",
               "title": "European Studies",
               "code": "LM040",
               "points": "375",
-              "duration":""
+              "duration":"4yrs"
             },
             "history-politics-sociology-social-studies": {
               "id": "69",
               "title": "History Politics Sociology and Social Studies",
-              "code": "LM048",
+              "code": "LM046",
               "points": "325",
-              "duration":""
+              "duration":"4yrs"
             },
             "irish": {
               "id": "70",
               "title": "Gaeilge+",
-              "code": "LM046",
+              "code": "LM048",
               "points": "355",
-              "duration":""
+              "duration":"4yrs"
             },
             "international-insurance-european-studies": {
               "id": "71",
               "title": "International Insurance and European Studies",
               "code": "LM043",
               "points": "320",
-              "duration":""
+              "duration":"4yrs"
             },
             "irish-music-dance": {
               "id": "72",
               "title": "Irish Music and Dance",
               "code": "LM030",
               "points": "305",
-              "duration":""
+              "duration":"4yrs"
             },
             "journalism-new-media": {
               "id": "73",
               "title": "Journalism and New Media",
               "code": "LM039",
               "points": "365",
-              "duration":""
+              "duration":"4yrs"
             },
             "language-literature": {
               "id": "74",
               "title": "Language and Literature",
               "code": "LM045",
               "points": "340",
-              "duration":""
+              "duration":"4yrs"
             },
             "law-accounting": {
               "id": "75",
               "title": "Law and Accounting",
               "code": "LM020",
               "points": "415",
-              "duration":""
+              "duration":"4yrs"
             },
             "law-plus": {
               "id": "76",
               "title": "Law Plus",
               "code": "LM029",
               "points": "425",
-              "duration":""
+              "duration":"4yrs"
             },
             "new-media-english": {
               "id": "77",
               "title": "New Media and English",
               "code": "LM033",
               "points": "355",
-              "duration":""
+              "duration":"4yrs"
             },
             "politics-international-relations": {
               "id": "78",
               "title": "Politics and International Relations",
               "code": "LM022",
               "points": "370",
-              "duration":""
+              "duration":"4yrs"
             },
             "voice-dance": {
               "id": "79",
               "title": "Voice and Dance",
               "code": "LM031",
               "points": "310",
-              "duration":""
+              "duration":"4yrs"
             },
             "politics-public-admin": {
               "id": "80",
               "title": "Politics and Public Administration",
               "code": "LM041",
               "points": "335",
-              "duration":""
+              "duration":"4yrs"
             },
             "psychology-sociology": {
               "id": "81",
               "title": "Psychology and Sociology",
               "code": "LM038",
               "points": "485",
-              "duration":""
+              "duration":"4yrs"
+            },
+            "voice-dance": {
+              "id": "82",
+              "title": "Voice and Dance",
+              "code": "LM031",
+              "points": "310",
+              "duration":"4yrs"
             }
-
-
-
           }
         }
 
