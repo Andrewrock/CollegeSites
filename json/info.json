@@ -2136,14 +2136,14 @@
               "id": "29",
               "title": "Law",
               "code": "TR002",
-              "points":"405",
+              "points":"390",
               "duration" :"4yrs"
             },
             "history-full": {
               "id": "30",
               "title": "History",
               "code": "TR003",
-              "points":"465",
+              "points":"485",
               "duration" :"4yrs"
             },
             "law-full": {
@@ -2157,7 +2157,7 @@
               "id": "32",
               "title": "Philosophy",
               "code": "TR005",
-              "points":"435",
+              "points":"400",
               "duration" :"4yrs"
             },
             "psychology-full": {
@@ -2178,35 +2178,35 @@
               "id": "35",
               "title": "World religions and theology",
               "code": "TR008",
-              "points":"380",
+              "points":"370",
               "duration" :"4yrs"
             },
             "music-education": {
               "id": "36",
               "title": "Music education",
               "code": "TR009",
-              "points":"405",
+              "points":"465",
               "duration" :"4yrs"
             },
             "history-political-science": {
               "id": "37",
               "title": "History and political science",
               "code": "TR012",
-              "points":"510",
+              "points":"500",
               "duration" :"4yrs"
             },
             "philosophy-pol-science-economics-soc": {
               "id": "38",
               "title": "Philosophy, political science, economics and sociology",
               "code": "TR015",
-              "points":"530",
+              "points":"540",
               "duration" :"4yrs"
             },
             "deaf-studies": {
               "id": "39",
               "title": "Deaf Studies",
-              "code": "TR015",
-              "points":"390",
+              "code": "TR016",
+              "points":"400",
               "duration" :"4yrs"
             },
             "law-business": {
@@ -2234,49 +2234,49 @@
               "id": "43",
               "title": "Law and political science",
               "code": "TR020",
-              "points":"570",
+              "points":"575",
               "duration" :"4yrs"
             },
             "classics": {
               "id": "44",
               "title": "Classics",
               "code": "TR021",
-              "points":"465",
+              "points":"435",
               "duration" :"4yrs"
             },
             "early-modern-irish": {
               "id": "45",
               "title": "Early and Modern Irish",
               "code": "TR022",
-              "points":"365",
+              "points":"360",
               "duration" :"4yrs"
             },
             "english-studies": {
               "id": "46",
               "title": "English studies",
               "code": "TR023",
-              "points":"515",
+              "points":"505",
               "duration" :"4yrs"
             },
             "european-studies": {
               "id": "47",
               "title": "European studies",
               "code": "TR024",
-              "points":"535",
+              "points":"520",
               "duration" :"4yrs"
             },
             "drama-theatre": {
               "id": "48",
               "title": "Drama and theatre studies",
               "code": "TR025",
-              "points":"450",
+              "points":"440",
               "duration" :"4yrs"
             },
             "irish-studies": {
               "id": "49",
               "title": "Irish studies: An interdisciplinary course in Irish civilisation",
               "code": "TR027",
-              "points":"",
+              "points":"435",
               "duration" :""
             },
             "ancient-medieval": {
@@ -2290,259 +2290,259 @@
               "id": "51",
               "title": "Political science and geography",
               "code": "TR029",
-              "points":"445",
+              "points":"490",
               "duration" :"4yrs"
             },
             "catholic": {
               "id": "52",
               "title": "Catholic theological studies",
               "code": "TR030",
-              "points":"",
+              "points":"310",
               "duration" :"4yrs"
             },
             "bio-med-engineering": {
               "id": "53",
               "title": "Biomedical engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "civil-structural-engineering": {
               "id": "54",
               "title": "Civil, structural, and environmental engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5"
             },
             "computer-engineering": {
               "id": "55",
               "title": "Computer engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "electronic-computer-engineering": {
               "id": "56",
               "title": "Electronic and computer engineering (joint programme)",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "electronic-engineering": {
               "id": "57",
               "title": "Electronic engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "engineering": {
               "id": "58",
               "title": "Engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "mechanical-man-engineering": {
               "id": "59",
               "title": "Mechanical and manufacturing engineering",
               "code": "TR032",
-              "points":"455",
+              "points":"470",
               "duration" :"5yrs"
             },
             "computer-science": {
               "id": "60",
               "title": "Civil and Environmental Engineering",
               "code": "TR033",
-              "points":"460",
+              "points":"465",
               "duration" :"4yrs"
             },
             "management-science-iss": {
               "id": "61",
               "title": "Management science and information systems studies (MSISS)",
               "code": "TR034",
-              "points":"480",
+              "points":"515",
               "duration" :"4"
             },
             "theoretical-physics": {
               "id": "62",
               "title": "Theoretical physics",
               "code": "TR035",
-              "points":"490",
+              "points":"550",
               "duration" :"4yrs"
             },
             "engineering-management": {
               "id": "63",
               "title": "Engineering with Management",
               "code": "TR038",
-              "points":"450",
+              "points":"460",
               "duration" :"5yrs"
             },
             "computer-science-language": {
               "id": "64",
               "title": "Computer science and language",
               "code": "TR039",
-              "points":"525",
+              "points":"450",
               "duration" :"4yrs"
             },
             "medicine": {
               "id": "64",
               "title": "Medicine",
               "code": "TR051",
-              "points":"525",
+              "points":"#733",
               "duration" :"4yrs"
             },
             "dental-science": {
               "id": "65",
               "title": "Dental Science",
               "code": "TR052",
-              "points":"575",
+              "points":"585",
               "duration" :"5yrs"
             },
             "physiotherapy": {
               "id": "66",
               "title": "Physiotherapy",
               "code": "TR053",
-              "points":"535",
+              "points":"545",
               "duration" :"4yrs"
             },
             "occupational-therapy": {
               "id": "66",
               "title": "Occupational therapy",
               "code": "TR054",
-              "points":"505",
+              "points":"500",
               "duration" :"4yrs"
             },
             "radiation-therapy": {
               "id": "67",
               "title": "Radiation therapy",
               "code": "TR055",
-              "points":"530",
+              "points":"535",
               "duration" :"4yrs"
             },
             "human-health-disease": {
               "id": "68",
               "title": "Human health and disease",
               "code": "TR056",
-              "points":"530",
+              "points":"535",
               "duration" :"4yrs"
             },
             "biochemistry": {
               "id": "69",
               "title": "Biochemistry",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "chemistry": {
               "id": "70",
               "title": "Chemistry",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "environmental-science": {
               "id": "71",
               "title": "Environmental-science",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "functional-biology": {
               "id": "72",
               "title": "Functional Biology - the comparative physiology of organisms",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "genetics": {
               "id": "73",
               "title": "Genetics",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "geography": {
               "id": "74",
               "title": "Geography",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "geology": {
               "id": "76",
               "title": "Geology",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "immunology": {
               "id": "77",
               "title": "Immunology",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "micro-biology": {
               "id": "78",
               "title": "Microbiology",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "molecular": {
               "id": "79",
               "title": "Molecular medicine",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "neuroscience": {
               "id": "80",
               "title": "Neuroscience",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "physics": {
               "id": "81",
               "title": "Physics",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "physics-astrophysics": {
               "id": "82",
               "title": "Physics and astrophysics",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "physiology": {
               "id": "83",
               "title": "Physiology",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "plant-sciences": {
               "id": "84",
               "title": "Plant sciences",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "science-common": {
               "id": "85",
               "title": "Science common entry",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "zoology": {
               "id": "86",
               "title": "Zoology",
               "code": "TR071",
-              "points":"505",
+              "points":"515",
               "duration" :"4yrs"
             },
             "pharmacy":{
@@ -2563,7 +2563,7 @@
               "id": "89",
               "title": "Chemistry with molecular modelling",
               "code": "TR074",
-              "points":"470",
+              "points":"505",
               "duration" :"4yrs"
             },
             "medicinal-chem": {
@@ -2577,14 +2577,14 @@
               "id": "91",
               "title": "Nanoscience, physics and chemistry of advanced materials",
               "code": "TR076",
-              "points":"570",
+              "points":"595",
               "duration" :"4yrs"
             },
             "earth-sciences": {
               "id": "92",
               "title": "Earth sciences",
               "code": "TR077",
-              "points":"490",
+              "points":"475",
               "duration" :"4yrs"
             },
             "bess": {
@@ -2598,14 +2598,14 @@
               "id": "94",
               "title": "Computer science and business",
               "code": "TR082",
-              "points":"490",
+              "points":"465",
               "duration" :"4yrs"
             },
             "sociology-social-policy": {
               "id": "95",
               "title": "Sociology and social policy",
               "code": "TR083",
-              "points":"455",
+              "points":"460",
               "duration" :"4yrs"
             },
             "social-studies": {
@@ -2619,35 +2619,35 @@
               "id": "97",
               "title": "Business studies and French",
               "code": "TR085",
-              "points":"490",
+              "points":"515",
               "duration" :"4yrs"
             },
             "business-german": {
               "id": "98",
               "title": "Business studies and German",
               "code": "TR086",
-              "points":"485",
+              "points":"490",
               "duration" :"4yrs"
             },
             "business-russian": {
               "id": "99",
               "title": "Business studies and Russian",
               "code": "TR087",
-              "points":"470",
+              "points":"445",
               "duration" :"4yrs"
             },
             "business-polish": {
               "id": "100",
               "title": "Business studies and Polish",
               "code": "TR089",
-              "points":"490",
+              "points":"405",
               "duration" :"4yrs"
             },
             "business-spanish": {
               "id": "101",
               "title": "Business studies and Spanish",
               "code": "TR090",
-              "points":"510",
+              "points":"525",
               "duration" :"4yrs"
             },
             "general-nursing": {
@@ -2661,14 +2661,14 @@
               "id": "103",
               "title": "General nursing mature",
               "code": "TR092",
-              "points":"560",
+              "points":"n/a",
               "duration" :"4yrs"
             },
             "nursing-general-adelaide": {
               "id": "104",
               "title": "Nursing - General Nursing Adelaide",
               "code": "TR093",
-              "points":"420",
+              "points":"400",
               "duration" :"4yrs"
             },
             "nursing-general-adelaide-mature": {
@@ -2682,7 +2682,7 @@
               "id": "106",
               "title": "Nursing - Mental Health ",
               "code": "TR095",
-              "points":"395",
+              "points":"4055",
               "duration" :"4yrs"
             },
             "nursing-mental-mature": {
@@ -2696,7 +2696,7 @@
               "id": "108",
               "title": "Nursing Intellectual Disability",
               "code": "TR097",
-              "points":"390",
+              "points":"400",
               "duration" :"4yrs"
             },
             "nursing-intellectual-mature": {
@@ -2745,7 +2745,7 @@
               "id": "115",
               "title": "Midwifery",
               "code": "TR913",
-              "points":"445",
+              "points":"460",
               "duration" :"4yrs"
             },
             "midwifery-mature": {
