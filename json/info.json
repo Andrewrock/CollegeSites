@@ -95,119 +95,119 @@
               "title": "Applied Psychology",
               "code": "CK106",
               "points":"510",
-              "duration" :""
+              "duration" :"3yrs"
             },
             "arts": {
               "id": "2",
               "title": "Arts",
               "code": "CK101",
               "points":"345",
-              "duration" :""
+              "duration" :"3yrs"
             },
             "arts-international": {
               "id": "3",
               "title": "Arts International",
               "code": "CK108",
               "points":"455",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "arts-music": {
               "id": "4",
               "title": "Arts Music",
               "code": "CK104",
               "points":"390",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "criminology": {
               "id": "5",
               "title": "Criminology",
               "code": "CK113",
               "points":"435",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "digital-humanities": {
               "id": "6",
               "title": "Digital Humanities and Information Technology",
               "code": "CK118",
-              "points":"",
-              "duration" :""
+              "points":"null",
+              "duration" :"3-4yrs"
             },
             "drama-theatre": {
               "id": "7",
               "title": "Drama and Theatre Studies",
               "code": "CK112",
               "points":"380",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "economics-transformation": {
               "id": "8",
               "title": "Economics Through Transformational Learning",
               "code": "CK117",
               "points":"345",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "english": {
               "id": "9",
               "title": "English",
               "code": "CK109",
               "points":"415",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "early-years": {
               "id": "10",
               "title": "Early Years and Childhood Studies",
               "code": "CK111",
               "points":"380",
-              "duration" :""
+              "duration" :"3yrs"
             },
             "film-screen": {
               "id": "11",
               "title": "Film and Screen Media",
               "code": "CK105",
               "points":"460",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "geography-arch": {
               "id": "12",
               "title": "Geography and Archaeology",
               "code": "CK107",
               "points":"340",
-              "duration" :""
+              "duration" :"3-4yrs"
             },
             "social-science": {
               "id": "13",
               "title": "Social Science",
-              "code": "CK114",
-              "points":"",
-              "duration" :""
+              "code": "CK102",
+              "points":"405",
+              "duration" :"3yrs"
             },
             "social-work": {
               "id": "14",
               "title": "Social Work",
               "code": "CK115",
-              "points":"",
-              "duration" :""
+              "points":"null",
+              "duration" :"4yrs"
             },
             "sports-studies": {
               "id": "15",
               "title": "Sports Studies and Physical Education",
               "code": "CK116",
               "points":"480",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "world-language": {
               "id": "16",
               "title": "World Languages",
               "code": "CK110",
               "points":"460",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "youth-community": {
               "id": "17",
               "title": "Youth and Community Work",
               "code": "CK114",
-              "points":"",
-              "duration" :""
+              "points":"null",
+              "duration" :"3yrs"
             },
             "accounting": {
               "id": "18",
@@ -277,7 +277,7 @@
               "title": "Government",
               "code": "CK210",
               "points":"325",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "finance": {
               "id": "28",
@@ -291,35 +291,35 @@
               "title": "Law",
               "code": "CK301",
               "points":"480",
-              "duration":""
+              "duration":"3yrs"
             },
             "law-french": {
               "id": "30",
               "title": "Law and French",
               "code": "CK302",
               "points":"510",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "law-irish": {
               "id": "31",
               "title": "Law and Irish",
               "code": "CK304",
               "points":"485",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "law-clinical": {
               "id": "32",
               "title": "Law Clinical",
               "code": "CK305",
               "points":"525",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "law-international": {
               "id": "33",
               "title": "Law International",
               "code": "CK306",
               "points":"545",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "food-marketing": {
               "id": "34",
@@ -347,56 +347,56 @@
               "title": "International Development and Food Policy",
               "code": "CK506",
               "points":"360",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "children-general": {
               "id": "38",
               "title": "Children's & General Nursing",
               "code": "CK712",
               "points":"525",
-              "duration" :""
+              "duration" :"4.5yrs"
             },
             "nursing-general": {
               "id": "39",
               "title": "Nursing General",
               "code": "CK710",
               "points":"445",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "nursing-mental": {
               "id": "40",
               "title": "Psychiatric Nursing",
               "code": "CK720",
               "points":"450",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "nursing-intellectual": {
               "id": "41",
               "title": "Nursing Intellectual Disability",
               "code": "CK730",
               "points":"425",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "midwifery": {
               "id": "42",
               "title": "Midwifery",
               "code": "CK740",
               "points":"455",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "nursing-studies": {
               "id": "43",
               "title": "Nursing Studies",
-              "code": "",
-              "points":"",
-              "duration" :""
+              "code": "NA",
+              "points":"null",
+              "duration" :"1-2yrs"
             },
             "dentistry": {
               "id": "44",
               "title": "Dentistry",
               "code": "CK702",
               "points":"575",
-              "duration" :""
+              "duration" :"5yrs"
             },
             "medicine": {
               "id": "45",
@@ -410,136 +410,165 @@
               "title": "Medicine Graduate Entry",
               "code": "CK791",
               "points":"55*",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "occupational-therapy": {
               "id": "47",
               "title": "Occupational Therapy",
               "code": "CK704",
               "points":"525",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "pharmacy": {
               "id": "48",
               "title": "Pharmacy",
               "code": "CK703",
               "points":"565",
-              "duration" :""
+              "duration" :"5yrs"
             },
             "speech-language": {
               "id": "49",
               "title": "Speech and Language Therapy",
               "code": "CK705",
               "points":"510",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "public-health": {
               "id": "50",
               "title": "Public Health",
               "code": "CK706",
               "points":"390",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "bio-chem": {
               "id": "51",
               "title": "Biological and Chemical Studies",
               "code": "CK402",
               "points":"445",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "bio-earth": {
               "id": "52",
               "title": "Biological, Earth and Environmental Studies",
               "code": "CK404",
               "points":"420",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "bio-med": {
               "id": "53",
               "title": "Biomedical Studies",
               "code": "CR320",
-              "points":"",
-              "duration" :""
+              "points":"520",
+              "duration" :"4yrs"
             },
             "chemical-studies": {
               "id": "54",
               "title": "Chemical Studies",
               "code": "CK406",
               "points":"435",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "computer-science": {
               "id": "55",
               "title": "Computer Science",
               "code": "CK401",
               "points":"430",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "genetics": {
               "id": "56",
               "title": "Genetics",
               "code": "CK405",
               "points":"470",
-              "duration" :""
-
+              "duration" :"4yrs"
             },
             "math-science": {
               "id": "57",
               "title": "Mathematical Sciences",
               "code": "CK407",
               "points":"555",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "physics-astro": {
               "id": "58",
               "title": "Physics and Astrophysics",
               "code": "CK408",
               "points":"510",
-              "duration" :""
-
+              "duration" :"4yrs"
             },
             "architecture": {
               "id": "59",
               "title": "Architecture",
               "code": "CK606",
               "points":"420",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "civil-environment-engineering": {
               "id": "60",
               "title": "Civil and Environmental Engineering",
               "code": "CK602",
               "points":"405",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "electrical-engineering": {
               "id": "61",
               "title": "Electrical and Electronic Engineering",
               "code": "CK605",
               "points":"405",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "energy-engineering": {
               "id": "62",
               "title": "Enegry Engineering",
               "code": "CK603",
               "points":"425",
-              "duration" :""
+              "duration" :"4yrs"
             },
             "no-preference-engineering": {
               "id": "63",
               "title": "No Preference Engineering",
               "code": "CK600 NPF",
-              "points":"",
-              "duration" :""
+              "points":"New",
+              "duration" :"4yrs"
             },
             "process-chemical-engineering": {
               "id": "64",
               "title": "Process and Chemical Engineering",
               "code": "CK601",
               "points":"505",
-              "duration" :""
+              "duration" :"4yrs"
+            },
+            "process-chemical-engineering-engineering": {
+              "id": "65",
+              "title": "Engineering (Process and Chemical Engineering)",
+              "code": "CK600 PCE",
+              "points":"New",
+              "duration" :"4yrs"
+            },
+            "energy-engineering": {
+              "id": "66",
+              "title": "Engineering (Energy Engineering)",
+              "code": "CK600 NRG",
+              "points":"New",
+              "duration" :"4yrs"
+            },
+            "civil-environmental-engineering": {
+              "id": "67",
+              "title": "Engineering (Civil and Environmental Engineering)",
+              "code": "CK600 CEE",
+              "points":"New",
+              "duration" :"4yrs"
+            },
+            "process-chemical-engineering": {
+              "id": "68",
+              "title": "Engineering (Electrical & Electronic Engineering",
+              "code": "CK600 EEE",
+              "points":"New",
+              "duration" :"4yrs"
             }
+
+
+
           }
         },
         "cork-institute-of-technology": {
@@ -557,253 +586,284 @@
               "title": "Applied Physics & Instrumentation",
               "code": "CR001",
               "points": "280",
-              "duration":""
+              "duration":"3yrs"
             },
             "applied-bio-sciences": {
               "id": "2",
               "title": "Applied Biosciences",
               "code": "CR006",
               "points": "280",
-              "duration":""
+              "duration":"3yrs"
             },
             "analytical-pharmaceutical-chem": {
               "id": "3",
               "title": "Analytical & Pharmaceutical Chemistry",
               "code": "CR007",
               "points": "270",
-              "duration":""
+              "duration":"3yrs"
             },
             "agriculture": {
               "id": "4",
               "title": "Agriculture",
               "code": "CR010",
               "points": "350",
-              "duration":""
+              "duration":"3yrs"
             },
             "horticulture": {
               "id": "5",
               "title": "Horticulture",
               "code": "CR011",
               "points": "180",
-              "duration":""
+              "duration":"3yrs"
             },
             "computing": {
               "id": "6",
               "title": "Computing",
               "code": "CR016",
               "points": "300",
-              "duration":""
+              "duration":"3yrs"
             },
             "business-studies": {
               "id": "7",
               "title": "Business Studies",
               "code": "CR021",
               "points": "275",
-              "duration":""
+              "duration":"3yrs"
             },
             "business-admin": {
               "id": "8",
               "title": "Business Administration",
               "code": "CR022",
               "points": "240",
-              "duration":""
+              "duration":"3yrs"
             },
             "accounting": {
               "id": "9",
               "title": "Accounting",
               "code": "CR023",
               "points": "310",
-              "duration":""
+              "duration":"3yrs"
             },
             "social-care": {
               "id": "10",
               "title": "Social Care",
               "code": "CR031",
               "points": "365",
-              "duration":""
+              "duration":"3yrs"
             },
             "recreation-leisure": {
               "id": "11",
               "title": "Recreation & Leisure Management",
               "code": "CR032",
               "points": "320",
-              "duration":""
+              "duration":"3yrs"
             },
             "tourism": {
               "id": "12",
               "title": "Tourism",
               "code": "CR041",
               "points": "250",
-              "duration":""
+              "duration":"3yrs"
             },
             "hospitality-management": {
               "id": "13",
               "title": "Hospitality Management",
               "code": "CR042",
               "points": "250",
-              "duration":""
+              "duration":"3yrs"
             },
             "transport-management-tech": {
               "id": "14",
               "title": "Transport Management & Technology",
               "code": "CR046",
               "points": "210",
-              "duration":""
+              "duration":"3yrs"
             },
             "civil-engineering": {
               "id": "15",
               "title": "Civil Engineering",
               "code": "CR051",
               "points": "220",
-              "duration":""
+              "duration":"3yrs"
             },
             "construction": {
               "id": "16",
               "title": "Construction",
               "code": "CR052",
               "points": "210",
-              "duration":""
+              "duration":"3yrs"
             },
             "interior-arch": {
               "id": "17",
               "title": "Interior Architecture",
               "code": "CR053",
               "points": "215",
-              "duration":""
+              "duration":"3yrs"
             },
             "environment-engineering": {
               "id": "18",
               "title": "Environmental Engineering",
               "code": "CR055",
               "points": "235",
-              "duration":""
+              "duration":"3yrs"
             },
             "electronic-engineering": {
               "id": "19",
               "title": "Electronic Engineering",
               "code": "CR061",
               "points": "215",
-              "duration":""
+              "duration":"3yrs"
             },
             "electrical-engineering": {
               "id": "20",
               "title": "Electrical Engineering",
               "code": "CR062",
               "points": "210",
-              "duration":""
+              "duration":"3yrs"
             },
             "analytical-pharmaceutical-chem": {
               "id": "21",
               "title": "Mechanical Engineering",
               "code": "CR071",
               "points": "260",
-              "duration":""
+              "duration":"3yrs"
             },
             "building-services-engineering": {
               "id": "22",
               "title": "Building Services Engineering",
               "code": "CR072",
               "points": "215",
-              "duration":""
+              "duration":"3yrs"
             },
             "bio-med": {
               "id": "23",
               "title": "Biomedical Engineering",
               "code": "CR075",
               "points": "300",
-              "duration":""
+              "duration":"3yrs"
             },
             "craft-services": {
               "id": "24",
               "title": "Craft Technology (Wood) with Business",
               "code": "CR077",
               "points": "215",
-              "duration":""
+              "duration":"3yrs"
             },
             "craft-mechanical": {
               "id": "25",
               "title": "Craft Technology - Mechanical Services",
               "code": "CR078",
               "points": "215",
-              "duration":""
+              "duration":"3yrs"
             },
             "architectural-tech": {
               "id": "26",
               "title": "Architectural Technology",
               "code": "CR090",
               "points": "245",
-              "duration":""
+              "duration":"3yrs"
             },
             "nautical-science": {
               "id": "27",
               "title": "Nautical Science",
               "code": "CR094",
               "points": "310",
-              "duration":""
+              "duration":"3.5yrs"
             },
             "marine-engineering": {
               "id": "28",
               "title": "Marine Engineering",
               "code": "CR095",
               "points": "270",
-              "duration":""
+              "duration":"4yrs"
             },
             "physical-sciences": {
               "id": "29",
               "title": "Physical Sciences ",
               "code": "CR300",
               "points": "315",
-              "duration":""
+              "duration":"3yrs"
             },
             "early-years-education": {
               "id": "30",
               "title": "Early Years Education",
               "code": "CR620",
               "points": "370",
-              "duration":""
+              "duration":"3yrs"
             },
             "culinary-arts": {
               "id": "31",
               "title": "Culinary Arts",
               "code": "CR640",
               "points": "310",
-              "duration":""
+              "duration":"3yrs"
             },
             "bar-management": {
               "id": "32",
               "title": "Bar Management",
               "code": "CR650",
               "points": "250",
-              "duration":""
+              "duration":"3yrs"
             },
             "marine-elec": {
               "id": "33",
               "title": "Marine Electrotechnolgy",
               "code": "CR805",
               "points": "220",
-              "duration":""
+              "duration":"4yrs"
             },
             "it-support": {
               "id": "34",
-              "title": "Information Technology Support ",
+              "title": "Information Technology",
               "code": "CR888",
               "points": "260",
-              "duration":""
+              "duration":"3yrs"
             },
             "culinary-studies": {
               "id": "35",
               "title": "Culinary Studies",
               "code": "CR655",
               "points": "230",
-              "duration":""
+              "duration":"2yrs"
             },
             "hospitality-studies": {
               "id": "36",
               "title": "Hospitality Studies",
               "code": "CR657",
               "points": "200",
+              "duration":"2yrs"
+            },
+            "chemical-biopharmaceutical-engineering": {
+              "id": "37",
+              "title": "Chemical and Biopharmaceutical Engineering",
+              "code": "CR657",
+              "points": "410",
+              "duration":"4yrs"
+            },
+            "software-dev": {
+              "id": "38",
+              "title": "Software Developemnt",
+              "code": "CR657",
+              "points": "320",
+              "duration":"4yrs"
+            },
+            "community-dev": {
+              "id": "39",
+              "title": "Software Developemnt",
+              "code": "CR035",
+              "points": "New",
+              "duration":""
+            },
+            "common-biological-sciences": {
+              "id": "40",
+              "title": "Common Entry Biological Sciences",
+              "code": "CR335",
+              "points": "New",
               "duration":""
             }
+
+
+
           }
         },
         "griffith-college-cork": {
@@ -816,102 +876,114 @@
           "address": "Bishopstown, Cork, Ireland.",
           "location": "Cork",
           "courses": {
+            "law": {
+              "id": "1",
+              "title": "Law",
+              "code": "GC203",
+              "points": "null",
+              "duration":"3yrs"
+            },
+            "computer-science": {
+              "id": "2",
+              "title": "Computing Science",
+              "code": "GC230",
+              "points": "295",
+              "duration":"4yrs"
+            },
+            "business": {
+              "id": "3",
+              "title": "Business",
+              "code": "GC211",
+              "points": "170",
+              "duration":"3yrs"
+            },
+            "journalism": {
+              "id": "4",
+              "title": "Journalism",
+              "code": "GC265",
+              "points": "130",
+              "duration":"3yrs"
+            }
+          }
+        },
+        "griffith-college-limerick": {
+          "title": "Griffith College Limerick",
+          "id": 4,
+          "text": "Located in in the heart of Limerick students enjoy all of the amenities and facilities available to students in the city centre. The college provides a wide range of internationally recognised full-time and part-time courses. All courses are taught from a state-of-the-art facility on O’Connell Avenue. Our track record for excellence is demonstrated in the many prize-winners and successful graduates the College produces each year.",
+          "phone": "+353 (0) 61 31 0031",
+          "site": "http://www.griffith.ie",
+          "province": "Munster",
+          "address": "Limerick",
+          "location": "Limerick",
+          "courses": {
             "accounting-finance": {
               "id": "1",
               "title": "Accounting Finance",
-              "code": "GC200",
-              "points": "",
-              "duration":""
+              "code": "GC301",
+              "points": "275",
+              "duration":"3yrs"
             },
             "business-studies": {
               "id": "2",
               "title": "Business Studies",
-              "code": "GC201",
-              "points": "",
-              "duration":""
-            },
-            "business-LAW": {
-              "id": "3",
-              "title": "Business",
-              "code": "GC204",
-              "points": "",
-              "duration":""
-            },
-            "marketing": {
-              "id": "4",
-              "title": "Marketing",
-              "code": "",
-              "points": "",
-              "duration":""
-            },
-            "journalism": {
-              "id": "5",
-              "title": "Journalism",
-              "code": "",
-              "points": "",
-              "duration":""
+              "code": "GC300",
+              "points": "280",
+              "duration":"3yrs"
             },
             "computer-science": {
+              "id": "3",
+              "title": "Computing Science",
+              "code": "GC330",
+              "points": "245",
+              "duration":"4yrs"
+            },
+            "international-hospitality-management": {
+              "id": "4",
+              "title": "International Hospitality Management",
+              "code": "GC306",
+              "points": "120",
+              "duration":"1.5yrs"
+            },
+            "marketing": {
+              "id": "5",
+              "title": "Marketing",
+              "code": "GC310",
+              "points": "AQA",
+              "duration":"3yrs"
+            },
+            "business-studies": {
               "id": "6",
-              "title": "Computer Science",
-              "code": "",
-              "points": "",
-              "duration":""
+              "title": "Business Studies",
+              "code": "GC311",
+              "points": "125",
+              "duration":"3yrs"
             },
-            "office-administration": {
+            "business": {
               "id": "7",
-              "title": "Office Administration",
-              "code": "",
-              "points": "",
-              "duration":""
+              "title": "Business",
+              "code": "GC316",
+              "points": "355",
+              "duration":"2yrs"
             },
-            "cert-office-admin": {
+            "computing": {
               "id": "8",
-              "title": "Certificate in Administration",
-              "code": "",
-              "points": "",
-              "duration":""
+              "title": "Computing",
+              "code": "GC335",
+              "points": "AQA",
+              "duration":"3yrs"
             },
-            "diploma-office-admin": {
+            "computing-hons": {
               "id": "9",
-              "title": "Diploma in Administration and Office Skills",
-              "code": "",
-              "points": "",
-              "duration":""
-            },
-            "diploma-legal-studies": {
-              "id": "10",
-              "title": "Diploma in Legal Studies and Practice",
-              "code": "",
-              "points": "",
-              "duration":""
-            },
-            "high-cert-computing": {
-              "id": "11",
-              "title": "Higher Certificate in Computing",
-              "code": "",
-              "points": "",
-              "duration":""
-            },
-            "llb-hons-law": {
-              "id": "12",
-              "title": "LL.B. Law",
-              "code": "",
-              "points": "",
-              "duration":""
-            },
-            "llb-hons-law-online": {
-              "id": "13",
-              "title": "LL.B. Law Blended/Online",
-              "code": "",
-              "points": "",
-              "duration":""
+              "title": "Computing",
+              "code": "GC340",
+              "points": "155",
+              "duration":"2yrs"
             }
           }
         },
         "mary-immaculate-college": {
           "title": "Mary Immaculate College",
-          "id": 4,
+          "id": 5,
           "text": "",
           "phone": "+353 61 204300",
           "site": "http://www.mic.ul.ie",
@@ -924,40 +996,40 @@
               "title": "Bachelor of Arts",
               "code": "MI004",
               "points": "325",
-              "duration":""
+              "duration":"4yrs"
             },
             "education-psychology": {
               "id": "2",
               "title": "Education and Psychology",
               "code": "MI008",
               "points": "550",
-              "duration":""
+              "duration":"4yrs"
             },
             "early-child-care": {
               "id": "3",
               "title": "Early Childhood Care & Education",
               "code": "MI007",
               "points": "360",
-              "duration":""
+              "duration":"4yrs"
             },
             "education": {
               "id": "4",
               "title": "Education - Primary Teaching",
               "code": "M1005",
               "points": "465",
-              "duration":""
+              "duration":"4yrs"
             },
             "education-gaeltacht": {
               "id": "4",
               "title": "Education - Primary Teaching - Gaeltacht Applicant",
               "code": "M1006",
               "points": "425",
-              "duration":""
+              "duration":"4yrs"
             }
           }
         },
         "waterford-institute-of-technology": {
-          "id": 5,
+          "id": 6,
           "title": "Waterford Institute of Technology",
           "text": "",
           "phone": "",
@@ -991,7 +1063,7 @@
               "id": "4",
               "title": "Marketing & Digital Media",
               "code": "WD193",
-              "points":"",
+              "points":"New",
               "duration":"4yrs"
             },
             "international-business": {
@@ -1005,28 +1077,28 @@
               "id": "6",
               "title": "Business",
               "code": "WD159",
-              "points":"",
+              "points":"205",
               "duration":"3yrs"
             },
             "retail-management": {
               "id": "7",
               "title": "Retail Management",
               "code": "WD184",
-              "points":"",
+              "points":"205",
               "duration":"3yrs"
             },
             "higher-cert-business": {
               "id": "8",
               "title": "Higher Certificate in Business",
               "code": "WD003",
-              "points":"",
+              "points":"200",
               "duration":"2yrs"
             },
             "higher-certificate-in-engineering-in-electronic-engineering": {
               "id": "9",
               "title": "Higher Certificate in Engineering in Electronic Engineering",
-              "code": "",
-              "points":"",
+              "code": "WD010",
+              "points":"205",
               "duration":"2yrs"
             },
             "electronic-engineering": {
@@ -1040,7 +1112,7 @@
               "id": "11",
               "title": "Higher Certificate in Engineering in Mechanical Engineering",
               "code": "WD011",
-              "points":"",
+              "points":"200",
               "duration":"2yrs"
             },
             "engineering-mechanical-manufacturing": {
@@ -1068,14 +1140,14 @@
               "id": "15",
               "title": "BEng in Electrical Engineering",
               "code": "WD182",
-              "points":"",
+              "points":"200",
               "duration":"3yrs"
             },
             "civil-engineering": {
               "id": "16",
               "title": "BEng in Civil Engineering",
               "code": "WD139",
-              "points":"",
+              "points":"200",
               "duration":"3yrs"
             },
             "quantity-surveying": {
@@ -1096,14 +1168,14 @@
               "id": "19",
               "title": "Architectural Technology",
               "code": "WD094",
-              "points":"",
+              "points":"205",
               "duration":"3yrs"
             },
             "architectural-building-information-modelling-technology": {
               "id": "20",
               "title":"Architectural & Building Information Modelling Technology",
               "code": "WD195",
-              "points":"",
+              "points":"New",
               "duration":"4yrs"
             },
             "architecture": {
@@ -1131,28 +1203,28 @@
               "id": "24",
               "title": "General Nursing - Mature Applicants",
               "code": "WD816",
-              "points":"n/a",
+              "points":"null",
               "duration":"4yrs"
             },
             "psychiatric-nursing-mature": {
               "id": "25",
               "title": "Psychiatric Nursing - Mature Applicants",
               "code": "WD817",
-              "points":"n/a",
+              "points":"null",
               "duration":"4yrs"
             },
             "intellectual-nursing-mature": {
               "id": "26",
               "title": "Intellectual Disability Nursing - Mature Applicants",
               "code": "WD820",
-              "points":"n/a",
+              "points":"null",
               "duration":"4yrs"
             },
             "applied-health-care": {
               "id": "27",
               "title": "Applied Health Care",
               "code": "WD188",
-              "points":"",
+              "points":"225",
               "duration":"3yrs"
             },
             "sports-coach": {
@@ -1166,7 +1238,7 @@
               "id": "29",
               "title": "Business in Recreation & Sport Management",
               "code": "WD019",
-              "points":"",
+              "points":"265",
               "duration":"3yrs"
             },
             "intellectual-nursing": {
@@ -1229,14 +1301,14 @@
               "id": "38",
               "title": "Applied Social Studies in Social Care",
               "code": "WD018",
-              "points":"",
+              "points":"280",
               "duration":"3yrs"
             },
             "social-care-practice": {
               "id": "39",
               "title": "Social Care Practice",
               "code": "WD192",
-              "points":"",
+              "points":"New",
               "duration":"4yrs"
             },
             "early-childhood-studies": {
@@ -1250,7 +1322,7 @@
               "id": "41",
               "title": "Higher Certificate in Arts in Legal Studies",
               "code": "WD013",
-              "points":"",
+              "points":"200",
               "duration":"2yrs"
             },
             "tourism-marketing": {
@@ -1264,21 +1336,21 @@
               "id": "43",
               "title": "Arts in Hospitality Studies",
               "code": "WD173",
-              "points":"",
+              "points":"200",
               "duration":"2yrs"
             },
             "arts-culinary-arts": {
               "id": "44",
               "title": "Arts in Culinary Arts",
               "code": "WD172",
-              "points":"",
+              "points":"220",
               "duration":"2yrs"
             },
             "business-tourism": {
               "id": "45",
               "title": "Business in Tourism",
               "code": "WD174",
-              "points":"",
+              "points":"200",
               "duration":"2yrs"
             },
             "visual-art": {
@@ -1299,7 +1371,7 @@
               "id": "48",
               "title": "Arts (Hons) in Culinary Arts",
               "code": "WD194",
-              "points":"",
+              "points":"New",
               "duration":"4yrs"
             },
             "hospitality-management": {
@@ -1312,36 +1384,36 @@
             "music": {
               "id": "50",
               "title": "Music",
-              "code": "W295D027",
-              "points":"",
+              "code": "WD027",
+              "points":"#295",
               "duration":"2yrs"
             },
             "science-common": {
               "id": "51",
               "title": "Science (Common Entry)",
               "code": "WD177",
-              "points":"",
+              "points":"360",
               "duration":"3yrs"
             },
             "pharmaceutical-science": {
               "id": "52",
               "title": "Pharmaceutical Science",
               "code": "WD175",
-              "points":"",
+              "points":"305",
               "duration":"3yrs"
             },
             "applied-biology": {
               "id": "53",
               "title": "Applied Biology",
               "code": "WD176",
-              "points":"",
+              "points":"325",
               "duration":"2yrs"
             },
             "food-science-business": {
               "id": "54",
               "title": "Food Science with Business",
               "code": "WD164",
-              "points":"",
+              "points":"265",
               "duration":"3yrs"
             },
             "physics-modern-tech": {
@@ -1369,35 +1441,35 @@
               "id": "58",
               "title": "Agriculture",
               "code": "WD126",
-              "points":"",
+              "points":"385",
               "duration":"4yrs"
             },
             "forestry": {
               "id": "59",
               "title": "Forestry",
               "code": "WD076",
-              "points":"",
+              "points":"275",
               "duration":"3yrs"
             },
             "horticulture": {
               "id": "60",
               "title": "BSc in Horticulture (Kildalton College)",
               "code": "WD096",
-              "points":"",
+              "points":"205",
               "duration":"3yrs"
             },
             "horticulture-botanic": {
               "id": "61",
               "title": "BSc in Horticulture (National Botanic Gardens)",
               "code": "WD097",
-              "points":"",
+              "points":"205",
               "duration":"3yrs"
             },
             "internet-of-things": {
               "id": "62",
               "title": "BSc in the Internet of Things",
               "code": "WD197",
-              "points":"",
+              "points":"New",
               "duration":"4yrs"
             },
             "applied-computing": {
@@ -1425,28 +1497,28 @@
               "id": "66",
               "title": "Software Systems Development",
               "code": "WD151",
-              "points":"",
+              "points":"200",
               "duration":"3yrs"
             },
             "information-technology": {
               "id": "67",
               "title": "Information Technology",
               "code": "WD155",
-              "points":"",
+              "points":"200",
               "duration":"3yrs"
             },
             "software-systems": {
               "id": "68",
               "title": "Multimedia Applications Development",
               "code": "WD153",
-              "points":"",
+              "points":"200",
               "duration":"3yrs"
             }
           }
         },
         "university-of-limerick": {
           "title": "University of Limerick",
-          "id": 2,
+          "id": 7,
           "text": "",
           "phone": "",
           "site": "",
@@ -1493,8 +1565,8 @@
               "id": "6",
               "title": "Economics & Sociology",
               "code": "LM036",
-              "points": "34yrs25",
-              "duration":""
+              "points": "325",
+              "duration":"4yrs"
             },
             "financial-maths": {
               "id": "7",
@@ -1661,7 +1733,7 @@
               "id": "30",
               "title": "Nursing Studies (for international students)",
               "code": "LM196",
-              "points": "N/A",
+              "points": "null",
               "duration":"4yrs"
             },
             "applied-physics": {
@@ -2029,7 +2101,985 @@
               "duration":"4yrs"
             }
           }
+        },
+        "limerick-institute-technology": {
+          "title": "Limerick Institute of Technology",
+          "id": 8,
+          "text": "",
+          "phone": "061- 293000",
+          "site": "www.lit.ie",
+          "province": "Munster",
+          "address": "Moylish Park",
+          "location": "limerick",
+          "courses": {
+            "creative-multimedia": {
+              "id": "1",
+              "title": "Creative Multimedia",
+              "code": "LC504",
+              "points": "210",
+              "duration":"3yrs"
+            },
+            "creative-multimedia-hons": {
+              "id": "2",
+              "title": "Creative Multimedia (Honours)",
+              "code": "LC517",
+              "points": "260",
+              "duration":"4yrs"
+            },
+            "digital-animation": {
+              "id": "3",
+              "title": "Digital Animation Production",
+              "code": "LC518",
+              "points": "#550",
+              "duration":"4yrs"
+            },
+            "fashion-knit-textiles": {
+              "id": "4",
+              "title": "Fashion Knitwear and Textiles ",
+              "code": "LC111",
+              "points": "#583",
+              "duration":"2yrs"
+            },
+            "economics-maths": {
+              "id": "5",
+              "title": "Economics & Mathematical Sciences",
+              "code": "LC114",
+              "points": "#760",
+              "duration":"4yrs"
+            },
+            "art-design-first-year": {
+              "id": "6",
+              "title": "First Year Art and Design",
+              "code": "LC110",
+              "points": "#602",
+              "duration":"4yrs"
+            },
+            "game-art-design": {
+              "id": "7",
+              "title": "Game Art and Design",
+              "code": "LC502",
+              "points": "New",
+              "duration":"4yrs"
+            },
+            "applied-biology": {
+              "id": "8",
+              "title": "Applied Biology ",
+              "code": "LC260",
+              "points": "300",
+              "duration":"3yrs"
+            },
+            "applied-chemistry": {
+              "id": "9",
+              "title": "Applied Chemistry",
+              "code": "LC261",
+              "points": "255",
+              "duration":"2yrs"
+            },
+            "drug-medical-product": {
+              "id": "10",
+              "title": "Drug and Medicinal Product Analysis",
+              "code": "LC266",
+              "points": "267",
+              "duration":"4yrs"
+            },
+            "environmental-analytical-science": {
+              "id": "11",
+              "title": "Environmental and Analytical Science",
+              "code": "LC264",
+              "points": "200",
+              "duration":"3yrs"
+            },
+            "natural-resource-management": {
+              "id": "12",
+              "title": "Environmental and Natural Resource Management",
+              "code": "LC408",
+              "points": "275",
+              "duration":"4yrs"
+            },
+            "natural-resource-management-cert": {
+              "id": "13",
+              "title": "Environmental and Natural Resource Management Cert",
+              "code": "LC425",
+              "points": "240",
+              "duration":"3yrs"
+            },
+            "environmental-management-agriculture": {
+              "id": "14",
+              "title": "Environmental Management in Agriculture",
+              "code": "LC428",
+              "points": "New",
+              "duration":"3yrs"
+            },
+            "civil-engineering": {
+              "id": "15",
+              "title": "Civil Engineering BEng",
+              "code": "LC251",
+              "points": "205",
+              "duration":"4yrs"
+            },
+            "civil-engineering-hons": {
+              "id": "16",
+              "title": "Civil Engineering Management",
+              "code": "LC252",
+              "points": "215",
+              "duration":"4yrs"
+            },
+            "construction-high-cert-science": {
+              "id": "17",
+              "title": "Construction Higher Certificate in Science",
+              "code": "LC253",
+              "points": "205",
+              "duration":"2yrs"
+            },
+            "construction-management": {
+              "id": "18",
+              "title": "Construction Management Honours",
+              "code": "LC241",
+              "points": "225",
+              "duration":"4yrs"
+            },
+            "construction-practice": {
+              "id": "19",
+              "title": "Construction Practice Higher Certificate in Science ",
+              "code": "LC256",
+              "points": "170",
+              "duration":"2yrs"
+            },
+            "gis-engineering-asset": {
+              "id": "20",
+              "title": "GIS & Engineering Asset Management Higher Cert",
+              "code": "LC258",
+              "points": "",
+              "duration":"2yrs"
+            },
+            "interior-design-technology": {
+              "id": "21",
+              "title": "Interior Design and Technology",
+              "code": "LC257",
+              "points": "210",
+              "duration":"3yrs"
+            },
+            "property-valuation-management": {
+              "id": "22",
+              "title": "Property Valuation and Management",
+              "code": "LC242",
+              "points": "225",
+              "duration":"4yrs"
+            },
+            "quantity-surveying": {
+              "id": "23",
+              "title": "Quantity Surveying",
+              "code": "LC243",
+              "points": "235",
+              "duration":"4yrs"
+            },
+            "sustainable-building-renewable-management": {
+              "id": "24",
+              "title": "Sustainable Building and Renewable Energy",
+              "code": "LC244",
+              "points": "205",
+              "duration":"3yrs"
+            },
+            "electronic-engineering": {
+              "id": "25",
+              "title": "Electronic Engineering",
+              "code": "LC279",
+              "points": "200",
+              "duration":"3yrs"
+            },
+            "industrial-automation-robotic": {
+              "id": "26",
+              "title": "Industrial Automation & Robotic Systems",
+              "code": "LC277",
+              "points": "200",
+              "duration":"3yrs"
+            },
+            "industrial-electrical-engineering": {
+              "id": "27",
+              "title": "Industrial Electrical Engineering",
+              "code": "LC271",
+              "points": "225",
+              "duration":"3yrs"
+            },
+            "music-technology-production": {
+              "id": "28",
+              "title": "Music Technology & Production",
+              "code": "LC270",
+              "points": "325",
+              "duration":"3yrs"
+            },
+            "renewable-energy-electrical-systems": {
+              "id": "29",
+              "title": "Renewable & Electrical Energy Systems",
+              "code": "LC278",
+              "points": "200",
+              "duration":"3yrs"
+            },
+            "video-sound-technology": {
+              "id": "30",
+              "title": "Video & Sound Technology",
+              "code": "LC276",
+              "points": "235",
+              "duration":"2yrs"
+            },
+            "business-computing": {
+              "id": "31",
+              "title": "Business Computing Higher Certificate",
+              "code": "LC232",
+              "points": "215",
+              "duration":"2yrs"
+            },
+            "business-technology-info-systems": {
+              "id": "32",
+              "title": "Business Technology Information Systems",
+              "code": "LC231",
+              "points": "250",
+              "duration":"4yrs"
+            },
+            "business-tech-management": {
+              "id": "33",
+              "title": "Business Technology Management",
+              "code": "LC238",
+              "points": "310",
+              "duration":"4yrs"
+            },
+            "computer-networks-systems-management": {
+              "id": "34",
+              "title": "Computer Networks & Systems Management",
+              "code": "LC239",
+              "points": "300",
+              "duration":"4yrs"
+            },
+            "computer-services": {
+              "id": "35",
+              "title": "Computer Services",
+              "code": "LC406",
+              "points": "New",
+              "duration":"2yrs"
+            },
+            "computer-services-management": {
+              "id": "36",
+              "title": "Computer Services Management",
+              "code": "LC416",
+              "points": "185",
+              "duration":"3yrs"
+            },
+            "computing": {
+              "id": "37",
+              "title": "Computing",
+              "code": "LC403",
+              "points": "170",
+              "duration":"3yrs"
+            },
+            "e-business": {
+              "id": "38",
+              "title": "e-Business Management Systems",
+              "code": "LC237",
+              "points": "210",
+              "duration":"3yrs"
+            },
+            "game-design": {
+              "id": "39",
+              "title": "Games Design & Development",
+              "code": "LC418",
+              "points": "260",
+              "duration":"4yrs"
+            },
+            "internet-systems-development": {
+              "id": "40",
+              "title": "Internet Systems Development",
+              "code": "LC235",
+              "points": "245",
+              "duration":"3yrs"
+            },
+            "internet-systems-development-hons": {
+              "id": "41",
+              "title": "Internet Systems Development Honours",
+              "code": "LC236",
+              "points": "330",
+              "duration":"4yrs"
+            },
+            "multimedia-programming": {
+              "id": "42",
+              "title": "Multimedia Programming & Design",
+              "code": "LC234",
+              "points": "270",
+              "duration":"4yrs"
+            },
+            "software-design-development": {
+              "id": "43",
+              "title": "Software Design & Development",
+              "code": "LC415",
+              "points": "215",
+              "duration":"4yrs"
+            },
+            "software-development": {
+              "id": "44",
+              "title": "Software Development",
+              "code": "LC223",
+              "points": "265",
+              "duration":"4yrs"
+            },
+            "applied-social-sciences-social-care": {
+              "id": "45",
+              "title": "Applied Social Studies in Social Care",
+              "code": "LC292",
+              "points": "340",
+              "duration":"4yrs"
+            },
+            "applied-social-sciences-social-care-ba": {
+              "id": "46",
+              "title": "Applied Social Studies in Social Care",
+              "code": "LC402",
+              "points": "new",
+              "duration":"4yrs"
+            },
+            "social-community-studies": {
+              "id": "47",
+              "title": "Social & Community Services",
+              "code": "LC407",
+              "points": "210",
+              "duration":"4yrs"
+            },
+            "business-clonmel": {
+              "id": "48",
+              "title": "Business (Clonmel)",
+              "code": "LC501",
+              "points": "170",
+              "duration":"3yrs"
+            },
+            "business-clonmel-hons": {
+              "id": "49",
+              "title": "Business (Clonmel) Honours",
+              "code": "LC513",
+              "points": "315",
+              "duration":"4yrs"
+            },
+            "business-thurles": {
+              "id": "50",
+              "title": "Business (Thurles)",
+              "code": "LC401",
+              "points": "190",
+              "duration":"3yrs"
+            },
+            "business-thurles-hons": {
+              "id": "51",
+              "title": "Business (Thurles) Honours",
+              "code": "LC413",
+              "points": "245",
+              "duration":"4yrs"
+            },
+            "entrepreneurship": {
+              "id": "52",
+              "title": "Entrepreneurship",
+              "code": "LC226",
+              "points": "250",
+              "duration":"4yrs"
+            },
+            "law-tax": {
+              "id": "53",
+              "title": "Law & Taxation",
+              "code": "LC223",
+              "points": "280",
+              "duration":"4yrs"
+            },
+            "marketing-management-hons": {
+              "id": "54",
+              "title": "Marketing & Management Honours",
+              "code": "LC225",
+              "points": "280",
+              "duration":"4yrs"
+            },
+            "marketing-management": {
+              "id": "55",
+              "title": "Marketing & Management Higher Cert",
+              "code": "LC222",
+              "points": "250",
+              "duration":"2yrs"
+            },
+            "business-studies-event": {
+              "id": "56",
+              "title": "Business Studies & Event Management",
+              "code": "LC294",
+              "points": "270",
+              "duration":"4yrs"
+            },
+            "business-studies-tourism": {
+              "id": "57",
+              "title": "Business Studies & Tourism Management",
+              "code": "LC293",
+              "points": "270",
+              "duration":"4yrs"
+            },
+            "culinary-arts": {
+              "id": "58",
+              "title": "Culinary Arts",
+              "code": "LC298",
+              "points": "330",
+              "duration":"2yrs"
+            },
+            "hospitality-studies": {
+              "id": "59",
+              "title": "Hospitality Studies",
+              "code": "LC299",
+              "points": "250",
+              "duration":"2yrs"
+            },
+            "hotel-front-office": {
+              "id": "60",
+              "title": "Hotel Front Office Management",
+              "code": "LC296",
+              "points": "215",
+              "duration":"2yrs"
+            },
+            "accounting-finance": {
+              "id": "61",
+              "title": "Accounting & Finance",
+              "code": "LC224",
+              "points": "300",
+              "duration":"4yrs"
+            },
+            "accounting-finance-cert-cert": {
+              "id": "62",
+              "title": "Accounting & Finance Higher Certificate",
+              "code": "LC221",
+              "points": "250",
+              "duration":"2yrs"
+            },
+            "business-studies-sports": {
+              "id": "63",
+              "title": "Business Studies & Sports Management",
+              "code": "LC295",
+              "points": "300",
+              "duration":"4yrs"
+            },
+            "sports-coaching-development": {
+              "id": "64",
+              "title": "Sports Coaching & Development",
+              "code": "LC228",
+              "points": "250",
+              "duration":"2yrs"
+            },
+            "sports-strength-conditioning": {
+              "id": "65",
+              "title": "Sports Strength & Conditioning",
+              "code": "LC423",
+              "points": "265",
+              "duration":"3yrs"
+            },
+            "sports-strength-conditioning-hons": {
+              "id": "66",
+              "title": "Sports Strength & Conditioning Honours",
+              "code": "LC422",
+              "points": "300",
+              "duration":"4yrs"
+            },
+            "med-tech": {
+              "id": "67",
+              "title": "Medical Technology",
+              "code": "LC268",
+              "points": "New",
+              "duration":""
+            }
+
+          }
+        },
+        "tralee-institute-of-technology": {
+          "id": 9,
+          "title": "Tralee Institute of Technology",
+          "text": "",
+          "phone": "353 (0)66 7145600",
+          "site": "www.ittralee.ie",
+          "province": "Munster",
+          "address": "Tralee",
+          "location": "Kerry",
+          "courses": {
+            "high-cert-culinary-arts": {
+              "id": "1",
+              "title": "Higher Certificate in Arts in Culinary Arts",
+              "code": "TL620",
+              "points":"135",
+              "duration":"2yrs"
+            },
+            "high-cert-business-office-info-systems": {
+              "id": "2",
+              "title": "Higher Certificate in Business in Office Information Systems",
+              "code": "TL605",
+              "points":"185",
+              "duration":"2yrs"
+            },
+            "high-cert-hospitality-studies": {
+              "id": "3",
+              "title": "Higher Certificate in Arts in Hospitality Studies",
+              "code": "TL621",
+              "points":"AQA",
+              "duration":"2yrs"
+            },
+            "high-cert-science-biological-environmental-studies": {
+              "id": "4",
+              "title": "Higher Certificate in Arts in Hospitality Studies",
+              "code": "TL651",
+              "points":"260",
+              "duration":"2yrs"
+            },
+            "business": {
+              "id": "5",
+              "title": "International Business",
+              "code": "TL731",
+              "points":"200",
+              "duration":"3yrs"
+            },
+            "civil-environmental-engineering": {
+              "id": "6",
+              "title": "Civil and Environmental Engineering ",
+              "code": "TL745",
+              "points":"230",
+              "duration":"3yrs"
+            },
+            "agricultural-engineering": {
+              "id": "7",
+              "title": "Agricultural Engineering",
+              "code": "TL744",
+              "points":"220",
+              "duration":"3yrs"
+            },
+            "manufacturing-mechatronics-engineering": {
+              "id": "8",
+              "title": "Manufacturing and Mechatronics Engineering",
+              "code": "TL747",
+              "points":"225",
+              "duration":"3yrs"
+            },
+            "energy-tech-built-environment": {
+              "id": "9",
+              "title": "Energy Technology and the Built Environment",
+              "code": "TL746",
+              "points":"225",
+              "duration":"3yrs"
+            },
+            "culinary-arts": {
+              "id": "10",
+              "title": "Culinary Arts",
+              "code": "TL719",
+              "points":"250",
+              "duration":"3yrs"
+            },
+            "early-childhood-care": {
+              "id": "11",
+              "title": "Early Childhood Care and Education ",
+              "code": "TL780",
+              "points":"200",
+              "duration":"3yrs"
+            },
+            "social-care": {
+              "id": "12",
+              "title": "Social Care",
+              "code": "TL781",
+              "points":"250",
+              "duration":"3yrs"
+            },
+            "youth-community-work": {
+              "id": "13",
+              "title": "Youth and Community Work Practice",
+              "code": "TL782",
+              "points":"260",
+              "duration":"3yrs"
+            },
+            "mobile-app": {
+              "id": "14",
+              "title": "Computing with Mobile App Development",
+              "code": "TL714",
+              "points":"233",
+              "duration":"3yrs"
+            },
+            "games-dev": {
+              "id": "15",
+              "title": "Computing with Games Development",
+              "code": "TL711",
+              "points":"220",
+              "duration":"3yrs"
+            },
+            "computing-multimedia": {
+              "id": "16",
+              "title": "Computing with Multimedia",
+              "code": "TL712",
+              "points":"215",
+              "duration":"3yrs"
+            },
+            "computing-software-dev": {
+              "id": "17",
+              "title": "Computing with Software Development",
+              "code": "TL710",
+              "points":"205",
+              "duration":"3yrs"
+            },
+            "adventure-tourism-management": {
+              "id": "18",
+              "title": "Adventure Tourism Management",
+              "code": "TL721",
+              "points":"245",
+              "duration":"3yrs"
+            },
+            "hotel-management": {
+              "id": "19",
+              "title": "Hotel Management",
+              "code": "TL722",
+              "points":"451",
+              "duration":"3yrs"
+            },
+            "travel-tourism-management": {
+              "id": "20",
+              "title":"Travel and Tourism Management",
+              "code": "TL720",
+              "points":"205",
+              "duration":"3yrs"
+            },
+            "agricultural-science": {
+              "id": "21",
+              "title": "Agricultural Science",
+              "code": "TL748",
+              "points":"305",
+              "duration":"3yrs"
+            },
+            "food-science-innovation": {
+              "id": "22",
+              "title": "Food Science with Innovation",
+              "code": "TL749",
+              "points":"300",
+              "duration":"3yrs"
+            },
+            "health-leisure-massage": {
+              "id": "23",
+              "title": "Health and Leisure with Massage",
+              "code": "TL772",
+              "points":"330",
+              "duration":"3yrs"
+            },
+            "health-leisure": {
+              "id": "24",
+              "title": "Health and Leisure",
+              "code": "TL771",
+              "points":"290",
+              "duration":"3yrs"
+            },
+            "psychiatric-nursing-mature": {
+              "id": "25",
+              "title": "Psychiatric Nursing - Mature Applicants",
+              "code": "TL755",
+              "points":"null",
+              "duration":"3yrs"
+            },
+            "advanced-wood-tech": {
+              "id": "26",
+              "title": "Advanced Wood Technology",
+              "code": "TL743",
+              "points":"205",
+              "duration":"3yrs"
+            },
+            "business-studies": {
+              "id": "27",
+              "title": "Business Studies",
+              "code": "TL831",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "ag-engineering": {
+              "id": "28",
+              "title": "Agricultural Engineering",
+              "code": "TL844",
+              "points":"New",
+              "duration":"4yrs"
+            },
+            "manufacturing-engineering": {
+              "id": "29",
+              "title": "Manufacturing Engineering",
+              "code": "TL847",
+              "points":"265",
+              "duration":"3yrs"
+            },
+            "early-childhood-care": {
+              "id": "30",
+              "title": "Early Childhood Care and Education",
+              "code": "TL880",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "interactive-media-design": {
+              "id": "31",
+              "title": "Design for Interactive  Media ",
+              "code": "TL801",
+              "points":"283",
+              "duration":"4yrs"
+            },
+            "mobile-app-computing-development": {
+              "id": "32",
+              "title": "Computing with Mobile App Development",
+              "code": "TL814",
+              "points":"375",
+              "duration":"4yrs"
+            },
+            "computing-games-dev": {
+              "id": "33",
+              "title": "Computing with Games Development",
+              "code": "TL811",
+              "points":"333",
+              "duration":"4yrs"
+            },
+            "computing-multimedia": {
+              "id": "34",
+              "title": "Computing with Multimedia",
+              "code": "TL812",
+              "points":"310",
+              "duration":"4yrs"
+            },
+            "computing-software-dev": {
+              "id": "35",
+              "title": "Computing with Software Development",
+              "code": "TL810",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "creative-writing-digital-media": {
+              "id": "36",
+              "title": "Creative Writing for Digital Media",
+              "code": "TL804",
+              "points":"295",
+              "duration":"4yrs"
+            },
+            "information-systems-management": {
+              "id": "37",
+              "title": "Information Systems Management",
+              "code": "TL805",
+              "points":"370",
+              "duration":"4yrs"
+            },
+            "music-technology": {
+              "id": "38",
+              "title": "Music Technology",
+              "code": "TL803",
+              "points":"270",
+              "duration":"4yrs"
+            },
+            "tv-news": {
+              "id": "39",
+              "title": "TV Radio and New Media Broadcasting",
+              "code": "TL802",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "general-nursing": {
+              "id": "40",
+              "title": "General Nursing",
+              "code": "TL890",
+              "points":"415",
+              "duration":"4yrs"
+            },
+            "mature-general-nursing": {
+              "id": "41",
+              "title": "Mature Applicants General Nursing",
+              "code": "TL892",
+              "points":"null",
+              "duration":"4yrs"
+            },
+            "mental-health-nurse": {
+              "id": "432",
+              "title": "Mental Health Nursing",
+              "code": "TL891",
+              "points":"385",
+              "duration":"4yrs"
+            },
+            "mature-mental-health-nurse": {
+              "id": "43",
+              "title": "Mature Applicants Mental Health Nursing",
+              "code": "TL893",
+              "points":"null",
+              "duration":"4yrs"
+            },
+            "adventure-tourism": {
+              "id": "44",
+              "title": "Adventure Tourism Management ",
+              "code": "TL821",
+              "points":"310",
+              "duration":"4yrs"
+            },
+            "hotel-management": {
+              "id": "45",
+              "title": "Hotel Management",
+              "code": "TL822",
+              "points":"544",
+              "duration":"4yrs"
+            },
+            "travel-tourism-management": {
+              "id": "46",
+              "title": "Travel and Tourism Management",
+              "code": "TL820",
+              "points":"350",
+              "duration":"2yrs"
+            },
+            "ag-science": {
+              "id": "47",
+              "title": "Agricultural Science",
+              "code": "TL848",
+              "points":"New",
+              "duration":"4yrs"
+            },
+            "field-biology-wildlife-tourism": {
+              "id": "48",
+              "title": "Field Biology and Wildlife Tourism ",
+              "code": "TL850",
+              "points":"315",
+              "duration":"4yrs"
+            },
+            "health-leisure-massage": {
+              "id": "49",
+              "title": "Health and Leisure with Massage",
+              "code": "TL872",
+              "points":"390",
+              "duration":"4yrs"
+            },
+            "health-leisure": {
+              "id": "50",
+              "title": "Health and Leisure",
+              "code": "TL871",
+              "points":"350",
+              "duration":"4yrs"
+            },
+            "pharmaceutical-science": {
+              "id": "51",
+              "title": "Pharmaceutical Science",
+              "code": "TL855",
+              "points":"New",
+              "duration":"4yrs"
+            },
+            "wildlife-biology": {
+              "id": "52",
+              "title": "Wildlife Biology ",
+              "code": "TL851",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "ag-engineering": {
+              "id": "53",
+              "title": "Agricultural Engineering",
+              "code": "TL344",
+              "points":"New",
+              "duration":""
+            },
+            "manufacturing-engineering": {
+              "id": "54",
+              "title": "Manufacturing Engineering",
+              "code": "TL347",
+              "points":"New",
+              "duration":""
+            },
+            "wildlife-biology": {
+              "id": "55",
+              "title": "Pharmaceutical Science",
+              "code": "TL355",
+              "points":"300",
+              "duration":"4yrs"
+            },
+            "ag-science": {
+              "id": "56",
+              "title": "Agricultural Science",
+              "code": "TL347",
+              "points":"New",
+              "duration":""
+            }
+
+          }
+        },
+        "irish-college-of-humanities-applied-science": {
+          "title": "Irish College of Humanities & Applied Sciences",
+          "id": 10,
+          "text": "",
+          "phone": "+",
+          "site": "",
+          "province": "Munster",
+          "address": "",
+          "location": "Limerick",
+          "courses": {
+            "counselling-skills-psychotherapy-studies": {
+              "id": "1",
+              "title": "Counselling Skills and Psychotherapy Studies",
+              "code": "CI001",
+              "points": "AQA",
+              "duration":"3yrs"
+            },
+            "counselling-skills-addiction-studies": {
+              "id": "2",
+              "title": "Counselling Skills and Addiction Studies",
+              "code": "CI002",
+              "points": "140",
+              "duration":"3yrs"
+            },
+            "counselling-skills-youth-studies": {
+              "id": "3",
+              "title": "Counselling Skills and Youth Studies",
+              "code": "CI005",
+              "points": "105",
+              "duration":"3yrs"
+            },
+            "child-care-practice": {
+              "id": "4",
+              "title": "Childhood Care and Practice",
+              "code": "CI008",
+              "points": "135",
+              "duration":"1yr"
+            },
+            "child-adolescent-care": {
+              "id": "5",
+              "title": "Childhood and Adolescent Care and Practices",
+              "code": "CI009",
+              "points": "155",
+              "duration":"2yrs"
+            },
+            "counselling-psychotherapy": {
+              "id": "6",
+              "title": "Counselling and Psychotherapy",
+              "code": "CI101",
+              "points": "233",
+              "duration":"4yrs"
+            },
+            "child-adolescent-care-hons": {
+              "id": "7",
+              "title": "Childhood and Adolescent Care and Practices Honours",
+              "code": "CI104",
+              "points": "255",
+              "duration":"4yrs"
+            }
+          }
+        },
+        "shannon-college": {
+          "title": "Shannon College",
+          "id": 11,
+          "text": "",
+          "phone": "+",
+          "site": "",
+          "province": "Munster",
+          "address": "",
+          "location": "Shannon",
+          "courses": {
+            "business-studies-international-hotel-management": {
+              "id": "1",
+              "title": "Business Studies in International Hotel Management",
+              "code": "SN001",
+              "points": "#512",
+              "duration":"4yrs"
+            },
+            "commerce": {
+              "id": "2",
+              "title": "Commerce",
+              "code": "SN002",
+              "points": "#651",
+              "duration":"4yrs"
+            }
+          }
         }
+
+
+
+
 
       },
       "leinster":{
@@ -2770,7 +3820,7 @@
               "id": "103",
               "title": "General nursing mature",
               "code": "TR092",
-              "points":"n/a",
+              "points":"null",
               "duration" :"4yrs"
             },
             "nursing-general-adelaide": {
@@ -2826,14 +3876,14 @@
               "id": "111",
               "title": "Dental hygiene (diploma)",
               "code": "TR802",
-              "points":"435",
+              "points":"415",
               "duration" :"2yrs"
             },
             "dental-technology": {
               "id": "112",
               "title": "Dental technology (ordinary degree)",
               "code": "TR803",
-              "points":"410",
+              "points":"420",
               "duration" :"3yrs"
             },
             "child-general-nursing": {
