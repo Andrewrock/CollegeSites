@@ -3332,6 +3332,46 @@
               "duration": "4yrs"
             }
           }
+        },
+        "st-patricks-thurles": {
+          "title": "St Patrick's College Thurles",
+          "id": 12,
+          "text": "",
+          "phone": "+353 504 21201",
+          "site": "http://www.stpats.ie",
+          "province": "Munster",
+          "address": "Cathedral Street, Thurles",
+          "location": "Tipperary",
+          "courses": {
+            "education-business-accounting": {
+              "id": "1",
+              "title": "Education, Business, Accounting",
+              "code": "TH002",
+              "points": "330",
+              "duration": "4yrs"
+            },
+            "education-business-religion": {
+              "id": "2",
+              "title": "Education, Business, Religion",
+              "code": "TH003",
+              "points": "325",
+              "duration": "4yrs"
+            },
+            "education-irish-religion": {
+              "id": "3",
+              "title": "Education, Irish, Religion",
+              "code": "TH004",
+              "points": "345",
+              "duration": "4yrs"
+            },
+            "education-irish-business": {
+              "id": "4",
+              "title": "Education, Irish, Business",
+              "code": "TH005",
+              "points": "335",
+              "duration": "4yrs"
+            }
+          }
         }
       },
       "leinster": {
@@ -4174,7 +4214,7 @@
         "title": "Connacht",
         "galway-mayo-it": {
           "title": "Galway Mayo IT",
-          "id": 11,
+          "id": 1,
           "text": "",
           "phone": "+353 (0)61 712210",
           "site": "www.gmit.ie",
@@ -4721,12 +4761,952 @@
               "points": "New",
               "duration": "4yrs"
             }
-
-
-
-
+          }
+        },
+        "st-angelas-college": {
+          "title": "St. Angela's College",
+          "id": 2,
+          "text": "",
+          "phone": "+353 (0) 71 9143580",
+          "site": "http://www.stangelas.nuigalway.ie",
+          "province": "Connacht",
+          "address": "LLough Gill",
+          "location": "Sligo",
+          "courses": {
+            "arts": {
+              "id": "1",
+              "title": "Arts (Education, Home Economics and Biology)",
+              "code": "AS001",
+              "points": "515*",
+              "duration": "4yrs"
+            },
+            "arts-rel": {
+              "id": "2",
+              "title": "Arts (Education, Home Economics and Religious Education)",
+              "code": "AS002",
+              "points": "450",
+              "duration": "4yrs"
+            },
+            "arts-irish": {
+              "id": "3",
+              "title": "Arts (Education, Home Economics and Irish)",
+              "code": "AS003",
+              "points": "450",
+              "duration": "4yrs"
+            },
+            "home-economics-economics": {
+              "id": "4",
+              "title": "Home Economics with Economics",
+              "code": "AS004",
+              "points": "455",
+              "duration": "4yrs"
+            },
+            "food-business-management": {
+              "id": "5",
+              "title": "Food and Business Management",
+              "code": "AS051",
+              "points": "265",
+              "duration": "4yrs"
+            },
+            "health-disability": {
+              "id": "6",
+              "title": "Health and Disability Studies",
+              "code": "AS052",
+              "points": "230",
+              "duration": "3yrs"
+            },
+            "general-nursing": {
+              "id": "7",
+              "title": "General Nursing",
+              "code": "AS110",
+              "points": "410",
+              "duration": "4yrs"
+            },
+            "general-nursing-mature": {
+              "id": "8",
+              "title": "General Nursing Mature",
+              "code": "AS111",
+              "points": "#177",
+              "duration": "4yrs"
+            },
+            "intellectual-nursing-disability": {
+              "id": "8",
+              "title": "Intellectual Disability Nursing",
+              "code": "AS130",
+              "points": "370*",
+              "duration": "4yrs"
+            },
+            "intellectual-nursing-disability-mature": {
+              "id": "8",
+              "title": "Intellectual Disability Nursing",
+              "code": "AS131",
+              "points": "#151",
+              "duration": "4yrs"
+            }
+          }
+        },
+        "sligo-it": {
+          "id": 3,
+          "title": "Sligo Institute of Technology",
+          "text": "",
+          "phone": "+ 353 (0)71 93 18510",
+          "site": "http://itsligo.ie",
+          "province": "Connacht",
+          "address": "Sligo",
+          "location": "Sligo",
+          "courses": {
+            "business": {
+              "id": "1",
+              "title": "Business",
+              "code": "SG141",
+              "points": "280",
+              "duration": "4yrs"
+            },
+            "accounting": {
+              "id": "2",
+              "title": "Accounting",
+              "code": "SG161",
+              "points": "333",
+              "duration": "4yrs"
+            },
+            "performing-arts": {
+              "id": "3",
+              "title": "Performing Arts",
+              "code": "SG241",
+              "points": "290",
+              "duration": "4yrs"
+            },
+            "early-child": {
+              "id": "4",
+              "title": "Early Childhood Education",
+              "code": "SG242",
+              "points": "290",
+              "duration": ""
+            },
+            "social-care-practices": {
+              "id": "5",
+              "title": "Social Care Practice",
+              "code": "SG243",
+              "points": "300",
+              "duration": ""
+            },
+            "creative-design": {
+              "id": "6",
+              "title": "Creative Design",
+              "code": "SG245",
+              "points": "255",
+              "duration": ""
+            },
+            "civil-engineering": {
+              "id": "7",
+              "title": "Civil Engineering",
+              "code": "SG342",
+              "points": "n/a",
+              "duration": "4yrs"
+            },
+            "quantity-surveying": {
+              "id": "8",
+              "title": "Quantity Surveying",
+              "code": "SG343",
+              "points": "275",
+              "duration": "4yrs"
+            },
+            "architectural-design": {
+              "id": "9",
+              "title": "Architectural Design",
+              "code": "SG345",
+              "points": "285",
+              "duration": "4yrs"
+            },
+            "environmental-science": {
+              "id": "10",
+              "title": "Environmental Science",
+              "code": "SG441",
+              "points": "310",
+              "duration": "4yrs"
+            },
+            "occupational-safety-health": {
+              "id": "11",
+              "title": "Occupational Safety and Health",
+              "code": "SG442",
+              "points": "310",
+              "duration": "4yrs"
+            },
+            "human-nutrition": {
+              "id": "12",
+              "title": "Human Nutrition",
+              "code": "SG443",
+              "points": "400",
+              "duration": "4yrs"
+            },
+            "pharm-science-drug-dev": {
+              "id": "13",
+              "title": "Pharmaceutical Science with Drug Development",
+              "code": "SG445",
+              "points": "305",
+              "duration": "4yrs"
+            },
+            "applied-archaeology": {
+              "id": "14",
+              "title": "Applied Archaeology ",
+              "code": "SG446",
+              "points": "305",
+              "duration": "4yrs"
+            },
+            "forensic-investigation": {
+              "id": "15",
+              "title": "Forensic Investigation and Analysis",
+              "code": "SG448",
+              "points": "295",
+              "duration": "4yrs"
+            },
+            "medical-biotech": {
+              "id": "16",
+              "title": "Medical Biotechnology",
+              "code": "SG449",
+              "points": "295",
+              "duration": "4yrs"
+            },
+            "business-1": {
+              "id": "17",
+              "title": "Business",
+              "code": "SG101",
+              "points": "160",
+              "duration": "2yrs"
+            },
+            "business-office-admin": {
+              "id": "18",
+              "title": "Business in Office Administration",
+              "code": "SG105",
+              "points": "150",
+              "duration": "2yrs"
+            },
+            "business-accounting": {
+              "id": "19",
+              "title": "Business in Accounting",
+              "code": "SG108",
+              "points": "240",
+              "duration": "2yrs"
+            },
+            "computing-games-dev": {
+              "id": "20",
+              "title": "Computing - Games Development",
+              "code": "SG131",
+              "points": "210",
+              "duration": "3yrs"
+            },
+            "recreation-leisure": {
+              "id": "21",
+              "title": "Recreation and Leisure",
+              "code": "SG134",
+              "points": "270",
+              "duration": "3yrs"
+            },
+            "business-tourism-event-mgmt": {
+              "id": "22",
+              "title": "Business in Tourism with Event Management ",
+              "code": "SG135",
+              "points": "200",
+              "duration": "3yrs"
+            },
+            "computing-software-dev": {
+              "id": "23",
+              "title": "Computing - Software Development",
+              "code": "SG136",
+              "points": "245",
+              "duration": "3yrs"
+            },
+            "computing-systems-network": {
+              "id": "24",
+              "title": "Computing - Systems & Networking ",
+              "code": "SG137",
+              "points": "240",
+              "duration": "3yrs"
+            },
+            "fine-art": {
+              "id": "25",
+              "title": "Fine Art",
+              "code": "SG231",
+              "points": "#580",
+              "duration": "3yrs"
+            },
+            "creative-design-innovation": {
+              "id": "26",
+              "title": "Creative Design and Innovation",
+              "code": "SG232",
+              "points": "185",
+              "duration": "3yrs"
+            },
+            "civil-engineering": {
+              "id": "27",
+              "title": "Civil Engineering",
+              "code": "SG301",
+              "points": "190",
+              "duration": "2yrs"
+            },
+            "interior-arch-design": {
+              "id": "28",
+              "title": "Interior Architecture & Design",
+              "code": "SG331",
+              "points": "185",
+              "duration": "3yrs"
+            },
+            "advanced-wood": {
+              "id": "29",
+              "title": "Advanced Wood & Sustainable Building Technology",
+              "code": "SG332",
+              "points": "155",
+              "duration": "3yrs"
+            },
+            "mechanical-engineering": {
+              "id": "30",
+              "title": "Mechanical Engineering",
+              "code": "SG333",
+              "points": "200",
+              "duration": "3yrs"
+            },
+            "mechatronics": {
+              "id": "31",
+              "title": "Mechatronics",
+              "code": "SG334",
+              "points": "200",
+              "duration": "3yrs"
+            },
+            "environmental-engineering": {
+              "id": "32",
+              "title": "Environmental Engineering ",
+              "code": "SG335",
+              "points": "205",
+              "duration": "3yrs"
+            },
+            "electronic-engineering": {
+              "id": "33",
+              "title": "Electronic Engineering",
+              "code": "SG337",
+              "points": "170",
+              "duration": "3yrs"
+            },
+            "civil-engineering": {
+              "id": "34",
+              "title": "Civil Engineering",
+              "code": "SG338",
+              "points": "190",
+              "duration": "3yrs"
+            },
+            "construction-cost-management": {
+              "id": "35",
+              "title": "Construction Cost Management",
+              "code": "SG339",
+              "points": "170",
+              "duration": "3yrs"
+            },
+            "science": {
+              "id": "36",
+              "title": "Science",
+              "code": "SG401",
+              "points": "290",
+              "duration": "2yrs"
+            },
+            "applied-archs": {
+              "id": "47",
+              "title": "Applied Archaeology",
+              "code": "TSG403",
+              "points": "190",
+              "duration": "2yrs"
+            },
+            "drug-development": {
+              "id": "38",
+              "title": "Pharmaceutical Science with Drug Development",
+              "code": "SG431",
+              "points": "265",
+              "duration": "3yrs"
+            },
+            "environmental-protection": {
+              "id": "39",
+              "title": "Environmental Protection",
+              "code": "SG432",
+              "points": "235",
+              "duration": "3yrs"
+            },
+            "occupational-safety-health": {
+              "id": "40",
+              "title": "Occupational Safety and Health",
+              "code": "SG433",
+              "points": "260",
+              "duration": "3yrs"
+            },
+            "nutrition": {
+              "id": "41",
+              "title": "Human Nutrition",
+              "code": "SG434",
+              "points": "380",
+              "duration": "3yrs"
+            },
+            "health-science-physiology": {
+              "id": "432",
+              "title": "Health Science & Physiology",
+              "code": "SG435",
+              "points": "380",
+              "duration": "3yrs"
+            },
+            "bio-med-science": {
+              "id": "43",
+              "title": "Biomedical Science",
+              "code": "TSG436",
+              "points": "250",
+              "duration": "3yrs"
+            },
+            "forensic-investigation-analysis": {
+              "id": "44",
+              "title": "Forensic Investigation & Analysis",
+              "code": "SG437",
+              "points": "240",
+              "duration": "3yrs"
+            },
+            "applied-arch": {
+              "id": "45",
+              "title": "Applied Archaeology",
+              "code": "TSG438",
+              "points": "225",
+              "duration": "3yrs"
+            },
+            "energy-sustain": {
+              "id": "46",
+              "title": "Energy and Sustainability",
+              "code": "SG439",
+              "points": "",
+              "duration": "3yrs"
+            },
+            "marketing-language": {
+              "id": "47",
+              "title": "Marketing with Languages",
+              "code": "SG532",
+              "points": "200",
+              "duration": "3yrs"
+            },
+            "marketing": {
+              "id": "48",
+              "title": "Marketing",
+              "code": "SG533",
+              "points": "160",
+              "duration": "3yrs"
+            },
+            "business-2": {
+              "id": "49",
+              "title": "Business",
+              "code": "SG536",
+              "points": "195",
+              "duration": "3yrs"
+            },
+            "web-development-creative-media": {
+              "id": "50",
+              "title": "Web Development & Creative Media",
+              "code": "SG538",
+              "points": "200",
+              "duration": "3yrs"
+            },
+            "digital-media-marketing": {
+              "id": "51",
+              "title": "Digital Media Marketing",
+              "code": "SG539",
+              "points": "220",
+              "duration": "3yrs"
+            },
+            "business-international-marketing-sales-german": {
+              "id": "51",
+              "title": "Business in International Marketing & Sales with German",
+              "code": "SG144",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "business-international-marketing-sales-spanish": {
+              "id": "52",
+              "title": "Business in International Marketing & Sales with Spanish",
+              "code": "SG144",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "business-finance-investment": {
+              "id": "53",
+              "title": "Business in Finance & Investment",
+              "code": "SG149",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "computing-level-eight": {
+              "id": "54",
+              "title": "Computing",
+              "code": "SG246",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "marketing-sales": {
+              "id": "55",
+              "title": "Marketing & Sales",
+              "code": "SG537",
+              "points": "New",
+              "duration": "3yrs"
+            },
+            "cert-mechanical-engineering": {
+              "id": "56",
+              "title": "Mechanical Engineering",
+              "code": "SG303",
+              "points": "New",
+              "duration": "2yrs"
+            },
+            "cert-electronic-engineering": {
+              "id": "57",
+              "title": "Electronic Engineering",
+              "code": "SG305",
+              "points": "New",
+              "duration": "2yrs"
+            },
+            "cert-mechatronics": {
+              "id": "58",
+              "title": "Certificate in Mechatronics",
+              "code": "SG306",
+              "points": "New",
+              "duration": "2yrs"
+            },
+            "science": {
+              "id": "59",
+              "title": "Science Undenominated",
+              "code": "SG444",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "computing": {
+              "id": "61",
+              "title": "Computing",
+              "code": "SG539",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "business-international-marketing-sales-french": {
+              "id": "62",
+              "title": "Business in International Marketing & Sales with French",
+              "code": "SG144",
+              "points": "New",
+              "duration": "4yrs"
+            }
           }
         }
+      },
+      "ulster": {
+        "id": 4,
+        "title": "Ulster",
+        "letterkenny-it": {
+          "id": 3,
+          "title": "Letterkenny Institute of Technology",
+          "text": "",
+          "phone": "+353 (0)74 918 6005",
+          "site": "https://www.lyit.ie/",
+          "province": "Ulster",
+          "address": "Port Road,Letterkenny",
+          "location": "Donegal",
+          "courses": {
+            "business-accounting": {
+              "id": "1",
+              "title": "Business Accounting",
+              "code": "LY108",
+              "points": "305",
+              "duration": "3yrs"
+            },
+            "business": {
+              "id": "2",
+              "title": "Business",
+              "code": "LY118",
+              "points": "300",
+              "duration": "3yrs"
+            },
+            "law": {
+              "id": "3",
+              "title": "Law",
+              "code": "LY208",
+              "points": "270",
+              "duration": "4yrs"
+            },
+            "business-language": {
+              "id": "4",
+              "title": "Business - with French/Spanish/German/Irish",
+              "code": "LY218",
+              "points": "245",
+              "duration": "4yrs"
+            },
+            "sports-coach": {
+              "id": "5",
+              "title": "Sports Coaching and Performance",
+              "code": "LY228",
+              "points": "260",
+              "duration": "4yrs"
+            },
+            "culinary-arts-food-tech": {
+              "id": "6",
+              "title": "Culinary Arts & Food Technology",
+              "code": "LY318",
+              "points": "400",
+              "duration": "4yrs"
+            },
+            "graphic-design-visual-communication": {
+              "id": "7",
+              "title": "Visual Communication & Graphic Design",
+              "code": "LY408",
+              "points": "275",
+              "duration": "4yrs"
+            },
+            "fire-safety-engineering": {
+              "id": "8",
+              "title": "Fire Safety Engineering",
+              "code": "LY508",
+              "points": "275",
+              "duration": "4yrs"
+            },
+            "applied-computing": {
+              "id": "9",
+              "title": "Applied Computing",
+              "code": "LY708",
+              "points": "235",
+              "duration": "4yrs"
+            },
+            "computing-green-it": {
+              "id": "10",
+              "title": "Computing with Cloud & Green IT",
+              "code": "LY718",
+              "points": "315",
+              "duration": "4yrs"
+            },
+            "general-nursing": {
+              "id": "11",
+              "title": "General Nursing",
+              "code": "LY908",
+              "points": "400*",
+              "duration": "4yrs"
+            },
+            "psychiatric-nursing": {
+              "id": "12",
+              "title": "Psychiatric Nursing",
+              "code": "LY918",
+              "points": "365",
+              "duration": "4yrs"
+            },
+            "disability-nursing": {
+              "id": "13",
+              "title": "Intellectual Disability Nursing",
+              "code": "LY928",
+              "points": "355",
+              "duration": "4yrs"
+            },
+            "mature-general-nursing": {
+              "id": "14",
+              "title": "Mature General Nursing",
+              "code": "LY938",
+              "points": "n/a",
+              "duration": "4yrs"
+            },
+            "mature-psychiatric-nursing": {
+              "id": "15",
+              "title": "Mature Applicants Psychiatric Nursing",
+              "code": "LY948",
+              "points": "n/a",
+              "duration": "4yrs"
+            },
+            "mature-disability-nursing": {
+              "id": "16",
+              "title": "Mature Applicants Intellectual Disability Nursing",
+              "code": "LY958",
+              "points": "n/a",
+              "duration": "4yrs"
+            },
+            "early-child-health-education": {
+              "id": "17",
+              "title": "Early Childhood Care Health & Education",
+              "code": "LY968",
+              "points": "275",
+              "duration": "4yrs"
+            },
+            "business-admin-account": {
+              "id": "18",
+              "title": "Business Accounting & Administration",
+              "code": "LY106",
+              "points": "105",
+              "duration": "2yrs"
+            },
+            "business-mgmt": {
+              "id": "19",
+              "title": "Business Management",
+              "code": "LY107",
+              "points": "145",
+              "duration": "3yrs"
+            },
+            "admin-it": {
+              "id": "20",
+              "title": "Administration & IT",
+              "code": "LY117",
+              "points": "150",
+              "duration": "3yrs"
+            },
+            "business-marketing": {
+              "id": "21",
+              "title": "Business Marketing",
+              "code": "LY127",
+              "points": "150",
+              "duration": "3yrs"
+            },
+            "sports-studies": {
+              "id": "22",
+              "title": "Sports Studies",
+              "code": "LY206",
+              "points": "100",
+              "duration": "2yrs"
+            },
+            "nursing-psychiatric-mature": {
+              "id": "23",
+              "title": "Law with Criminal Justice (language)",
+              "code": "LY207",
+              "points": "145",
+              "duration": "3yrs"
+            },
+            "hotel-admin": {
+              "id": "24",
+              "title": "Hotel Administration",
+              "code": "LY306",
+              "points": "AQA",
+              "duration": "2yrs"
+            },
+            "culinary-arts": {
+              "id": "25",
+              "title": "Culinary Arts",
+              "code": "LY317",
+              "points": "145",
+              "duration": "3yrs"
+            },
+            "bar-rest-supervision": {
+              "id": "26",
+              "title": "Bar & Restaurant Supervision",
+              "code": "LY336",
+              "points": "AQA",
+              "duration": "2yrs"
+            },
+            "culinary-arts-cert": {
+              "id": "27",
+              "title": "Culinary Arts Higher Cert",
+              "code": "LY346",
+              "points": "AQA",
+              "duration": "2yrs"
+            },
+            "photography": {
+              "id": "28",
+              "title": "Photography",
+              "code": "LY406",
+              "points": "New",
+              "duration": "2yrs"
+            },
+            "product-design": {
+              "id": "29",
+              "title": "Product Design",
+              "code": "LY417",
+              "points": "155",
+              "duration": "3yrs"
+            },
+            "digital-media-design": {
+              "id": "30",
+              "title": "Digital Media Design",
+              "code": "LY427",
+              "points": "165",
+              "duration": "3yrs"
+            },
+            "animation": {
+              "id": "31",
+              "title": "Animation",
+              "code": "LY437",
+              "points": "150",
+              "duration": "3yrs"
+            },
+            "quantity-surveying": {
+              "id": "32",
+              "title": "Quantity Surveying",
+              "code": "LY507",
+              "points": "175",
+              "duration": "3yrs"
+            },
+            "civil-engineering": {
+              "id": "33",
+              "title": "Civil Engineering",
+              "code": "LY527",
+              "points": "165",
+              "duration": "3yrs"
+            },
+            "arch-technology": {
+              "id": "34",
+              "title": "Architectural Technology",
+              "code": "LY547",
+              "points": "235",
+              "duration": "3yrs"
+            },
+            "electronics": {
+              "id": "35",
+              "title": "Electronics",
+              "code": "LY607",
+              "points": "150",
+              "duration": "3yrs"
+            },
+            "computer-engineering": {
+              "id": "36",
+              "title": "Computer Engineering",
+              "code": "LY627",
+              "points": "190",
+              "duration": "3yrs"
+            },
+            "mechanical-engineering": {
+              "id": "37",
+              "title": "Mechanical Engineering",
+              "code": "LY617",
+              "points": "155",
+              "duration": "3yrs"
+            },
+            "computer-game-dev": {
+              "id": "38",
+              "title": "Computer Games Development",
+              "code": "LY707",
+              "points": "185",
+              "duration": "3yrs"
+            },
+            "computing": {
+              "id": "39",
+              "title": "Computing",
+              "code": "LY717",
+              "points": "145",
+              "duration": "3yrs"
+            },
+            "computer-forensics-security-digital": {
+              "id": "40",
+              "title": "Computer Security & Digital Forensics",
+              "code": "LY737",
+              "points": "160",
+              "duration": "3yrs"
+            },
+            "pharmacy-tech": {
+              "id": "41",
+              "title": "Pharmacy Technician",
+              "code": "LY806",
+              "points": "170",
+              "duration": "2yrs"
+            },
+            "dental-nursing": {
+              "id": "42",
+              "title": "Dental Nursing",
+              "code": "LY816",
+              "points": "205",
+              "duration": "2yrs"
+            },
+            "bio-science": {
+              "id": "43",
+              "title": "Bioscience",
+              "code": "LY817",
+              "points": "225",
+              "duration": "3yrs"
+            },
+            "applied-agri": {
+              "id": "44",
+              "title": "Applied Agriculture",
+              "code": "LY826",
+              "points": "170",
+              "duration": "2yrs"
+            },
+            "analytical-forensic-science": {
+              "id": "45",
+              "title": "Analytical & Forensic Science",
+              "code": "LY827",
+              "points": "155",
+              "duration": "3yrs"
+            },
+            "food-science-nutrition": {
+              "id": "46",
+              "title": "Food Science & Nutrition",
+              "code": "LY837",
+              "points": "150",
+              "duration": "3yrs"
+            },
+            "vet-nurse": {
+              "id": "47",
+              "title": "Veterinary Nursing",
+              "code": "LY847",
+              "points": "385*",
+              "duration": "3yrs"
+            },
+            "early-childhood-care-health": {
+              "id": "48",
+              "title": "Early Childhood Care Health & Education",
+              "code": "LY906",
+              "points": "185",
+              "duration": "2yrs"
+            },
+            "health-care": {
+              "id": "49",
+              "title": "Health & Social Care",
+              "code": "LY916",
+              "points": "160",
+              "duration": "2yrs"
+            },
+            "health-social-care": {
+              "id": "50",
+              "title": "Health & Social Care",
+              "code": "LY917",
+              "points": "225",
+              "duration": "3yrs"
+            },
+            "quantity-surveying-hons": {
+              "id": "51",
+              "title": "Quantity Surveying",
+              "code": "LY518",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "hotel-rest-resort-management": {
+              "id": "52",
+              "title": "Hotel Restaurant & Resort Management",
+              "code": "LY327",
+              "points": "New",
+              "duration": "3yrs"
+            },
+            "pharm-med-science": {
+              "id": "53",
+              "title": "Pharmaceutical and Medicinal Science",
+              "code": "GA471",
+              "points": "New",
+              "duration": "3yrs"
+            },
+            "science": {
+              "id": "54",
+              "title": "Science",
+              "code": "LY818",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "social-care-health": {
+              "id": "55",
+              "title": "Health and Social Care ",
+              "code": "LY978",
+              "points": "New",
+              "duration": "4yrs"
+            },
+            "agriculture": {
+              "id": "56",
+              "title": "Agriculture",
+              "code": "LY877",
+              "points": "New",
+              "duration": "3yrs"
+            },
+            "fashion-promotion": {
+              "id": "57",
+              "title": "Fashion with Promotion",
+              "code": "LY447",
+              "points": "New",
+              "duration": "3yrs"
+            }
+          }
+        }
+
       }
     }
   }
