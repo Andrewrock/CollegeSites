@@ -8464,140 +8464,140 @@
               "title":"Arts",
               "code":"GY101",
               "points":"300",
-              "duration":""
+              "duration":"3-4yrs"
             },
             "arts-public-social":{
               "id":"2",
               "title":"Arts Public & Social Policy",
               "code":"GY103",
               "points":"355",
-              "duration":""
+              "duration":"3yrs"
             },
             "arts-psychology":{
               "id":"3",
               "title":"Arts Psychology",
               "code":"GY104",
               "points":"525",
-              "duration":""
+              "duration":"3yrs"
             },
             "arts-history":{
               "id":"4",
               "title":"Arts History",
               "code":"GY105",
               "points":"300",
-              "duration":""
+              "duration":"3-4yrs"
             },
             "na-dana-cumarsaid":{
               "id":"5",
               "title":"Na Dana Cumarsaid",
               "code":"GY106",
               "points":"360",
-              "duration":""
+              "duration":"4yrs"
             },
             "na-dana":{
               "id":"6",
               "title":"Na Dana Gaeilge agus Leann an Aistriuchain",
               "code":"GY107",
               "points":"315",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-maths-education":{
               "id":"7",
               "title":"Arts Music & Education",
               "code":"GY109",
               "points":"405",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-child":{
               "id":"8",
               "title":"Arts with Children Studies",
               "code":"GY110",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-creative-writing":{
               "id":"9",
               "title":"Arts with Creative Writing",
               "code":"GY111",
               "points":"460",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-film-studies":{
               "id":"10",
               "title":"Arts with Film Studies",
               "code":"GY112",
               "points":"385",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-human-rights":{
               "id":"11",
               "title":"Arts with Human Rights",
               "code":"GY113",
               "points":"380",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-irish-studies":{
               "id":"12",
               "title":"Arts with Irish Studies",
               "code":"GY114",
               "points":"320",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-performing-arts-studies":{
               "id":"13",
               "title":"Arts with Performing Arts Studies",
               "code":"GY115",
               "points":"355",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-latin-america":{
               "id":"14",
               "title":"Arts with Latin American Studies",
               "code":"GY117",
               "points":"410",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-drama":{
               "id":"15",
               "title":"Arts Drama Theatre & Performance Studies",
               "code":"GY118",
               "points":"405",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-journalism":{
               "id":"16",
               "title":"Arts with Journalism",
               "code":"GY119",
               "points":"430",
-              "duration":""
+              "duration":"4yrs"
             },
             "arts-youth-family":{
               "id":"17",
               "title":"Arts Youth & Family Studies",
               "code":"GY120",
               "points":"305",
-              "duration":""
+              "duration":"3yrs"
             },
             "commerce":{
               "id":"18",
               "title":"Commerce",
               "code":"GY201",
               "points":"380",
-              "duration":""
+              "duration":"3yrs"
             },
             "commerce-french":{
               "id":"19",
               "title":"Commerce with French",
               "code":"GY201",
               "points":"480",
-              "duration":""
+              "duration":"4yrs"
             },
             "commerce-german":{
               "id":"20",
               "title":"Commerce with German",
               "code":"GY203",
               "points":"460",
-              "duration":""
+              "duration":"4yrs"
             },
             "commerce-spanish":{
               "id":"21",
@@ -8611,231 +8611,245 @@
               "title":"Business Information Systems",
               "code":"GY206",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "commerce-accounting":{
               "id":"23",
               "title":"Commerce with Accounting",
               "code":"GY207",
               "points":"450",
-              "duration":""
+              "duration":"3-4yrs"
             },
             "commerce-irish":{
               "id":"24",
               "title":"Commerce with Irish",
               "code":"GY208",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "corporate-law":{
               "id":"25",
               "title":"Corporate Law",
               "code":"GY250",
               "points":"370",
-              "duration":""
+              "duration":"3yrs"
             },
             "civil-law":{
               "id":"26",
               "title":"Civil Law",
               "code":"GY251",
               "points":"425",
-              "duration":""
+              "duration":"3yrs"
             },
             "science":{
               "id":"27",
               "title":"Science",
               "code":"GY301",
               "points":"400",
-              "duration":""
+              "duration":"4yrs"
             },
             "bio-med-science":{
               "id":"28",
               "title":"Biomedical Science",
               "code":"GY303",
               "points":"540",
-              "duration":""
+              "duration":"4yrs"
             },
             "bio-tech":{
               "id":"29",
               "title":"Biotechnology",
               "code":"GY304",
               "points":"465",
-              "duration":""
+              "duration":"4yrs"
             },
             "environmental-science":{
               "id":"30",
               "title":"Environmental Science",
               "code":"GY308",
               "points":"405",
-              "duration":""
+              "duration":"4yrs"
             },
             "financial-maths":{
               "id":"31",
               "title":"Financial Mathematics & Economics",
               "code":"GY309",
               "points":"450",
-              "duration":""
+              "duration":"4yrs"
             },
             "marine-science":{
               "id":"32",
               "title":"Marine Science",
               "code":"GY310",
               "points":"400",
-              "duration":""
+              "duration":"4yrs"
             },
             "health-safety-systems":{
               "id":"33",
               "title":"Health & Safety Systems",
-              "code":"GY314",
+              "code":"GY313",
               "points":"310",
-              "duration":""
+              "duration":"4yrs"
             },
             "earth-ocean-sciences":{
               "id":"34",
               "title":"Earth & Ocean Sciences",
               "code":"GY314",
               "points":"380",
-              "duration":""
+              "duration":"4yrs"
             },
             "bio-pharm-science":{
               "id":"35",
               "title":"Biopharmaceutical Science",
               "code":"GY318",
               "points":"510",
-              "duration":""
+              "duration":"4yrs"
             },
             "maths-science":{
               "id":"36",
               "title":"Mathematical Science",
               "code":"GY319",
               "points":"490",
-              "duration":""
+              "duration":"4yrs"
             },
             "physics":{
               "id":"37",
               "title":"Physics",
               "code":"GY320",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "comp-science-it":{
               "id":"38",
               "title":"Computer Science & Information Technology",
               "code":"GY350",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "engineering":{
               "id":"39",
               "title":"Engineering",
               "code":"GY401",
               "points":"400",
-              "duration":""
+              "duration":"1yr"
             },
             "civil-engineering":{
               "id":"40",
               "title":"Civil Engineering",
               "code":"GY402",
               "points":"415",
-              "duration":""
+              "duration":"4yrs"
             },
             "mech-engineering":{
               "id":"41",
               "title":"Mechanical Engineering",
               "code":"GY405",
               "points":"425",
-              "duration":""
+              "duration":"4yrs"
             },
             "electronic-computer-engineering":{
               "id":"42",
               "title":"Electronic & Computer Engineering",
               "code":"GY406",
               "points":"405",
-              "duration":""
+              "duration":"4yrs"
             },
             "bio-medical-engineering":{
               "id":"43",
               "title":"Biomedical Engineering",
               "code":"GY408",
               "points":"420",
-              "duration":""
+              "duration":"4yrs"
             },
             "project-construction-management":{
               "id":"44",
               "title":"Project & Construction Management",
               "code":"GY410",
               "points":"360",
-              "duration":""
+              "duration":"4yrs"
             },
             "energy-systems-engineering":{
               "id":"45",
               "title":"Energy Systems Engineering",
               "code":"GY413",
               "points":"430",
-              "duration":""
+              "duration":"4yrs"
             },
             "medicine":{
               "id":"46",
               "title":"Medicine",
               "code":"GY501",
               "points":"#721*",
-              "duration":""
+              "duration":"5-8"
             },
             "occupational-therapy":{
               "id":"47",
               "title":"Occupational Therapy",
               "code":"GY502",
               "points":"515",
-              "duration":""
+              "duration":"4yrs"
             },
             "podiatry":{
               "id":"48",
               "title":"Podiatry",
               "code":"GY504",
               "points":"465",
-              "duration":""
+              "duration":"4yrs"
             },
             "general-nursing":{
               "id":"49",
               "title":"General Nursing",
               "code":"GY515",
               "points":"450*",
-              "duration":""
+              "duration":"4yrs"
             },
             "mental-nurse":{
               "id":"50",
               "title":"Psychiatric Nursing",
               "code":"GY516",
               "points":"410",
-              "duration":""
+              "duration":"4yrs"
             },
             "midwifery":{
               "id":"51",
               "title":"Midwifery",
               "code":"GY517",
               "points":"455",
-              "duration":""
+              "duration":"4yrs"
             },
             "general-nursing-mature":{
               "id":"52",
               "title":"General Nursing Mature",
               "code":"GY525",
-              "points":"",
-              "duration":""
+              "points":"N/A",
+              "duration":"4yrs"
             },
             "mental-nursing-mature":{
               "id":"53",
               "title":"Mature Psychiatric Nursing",
               "code":"GY526",
-              "points":"",
-              "duration":""
+              "points":"N/A",
+              "duration":"4yrs"
             },
             "midwife-mature":{
               "id":"54",
               "title":"Mature Midwifery",
               "code":"GY527",
-              "points":"",
-              "duration":""
+              "points":"N/A",
+              "duration":"4yrs"
+            },
+            "speech-language-therapy":{
+              "id":"55",
+              "title":"Speech Language Therapy",
+              "code":"GY503",
+              "points":"510",
+              "duration":"4yrs"
+            },
+            "engineering-electrical":{
+              "id":"56",
+              "title":"Electrical & Electronic Engineering",
+              "code":"GY414",
+              "points":"420",
+              "duration":"4yrs"
             }
           }
         }
