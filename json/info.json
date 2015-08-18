@@ -6745,217 +6745,248 @@
                 "title":"Electronics & Computer Engineering",
                 "code":"BN001",
                 "points":"180",
-                "duration":"2yrs"
+                "duration":"2yrs",
+                "level":"6"
               },
               "computing-it":{
                 "id":"2",
                 "title":"Computing Information Technology",
                 "code":"BN002",
                 "points":"250",
-                "duration":"2yrs"
+                "duration":"2yrs",
+                "level":"6"
               },
               "business":{
                 "id":"3",
                 "title":"Business",
                 "code":"BN003",
                 "points":"180",
-                "duration":"2yrs"
+                "duration":"2yrs",
+                "level":"6"
               },
               "mechatronic-engineering":{
                 "id":"4",
                 "title":"Mechatronic Engineering",
                 "code":"BN009",
                 "points":"190",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "business-it":{
                 "id":"5",
                 "title":"Business Information Technology",
                 "code":"BN010",
                 "points":"183",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "applied-social-studies-social-care":{
                 "id":"6",
                 "title":"Applied Social Studies in Social Care",
                 "code":"BN011",
                 "points":"320",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "computer-engineering":{
                 "id":"7",
                 "title":"Computer Engineering",
                 "code":"BN012",
                 "points":"185",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "computing-information-technology":{
                 "id":"8",
                 "title":"Computing Information Technology",
                 "code":"BN013",
                 "points":"250",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "business-2":{
                 "id":"9",
                 "title":"Business",
                 "code":"BN014",
                 "points":"180",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "engineering":{
                 "id":"10",
                 "title":"Engineering",
                 "code":"BN015",
                 "points":"AQA",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "buisness-common":{
                 "id":"11",
                 "title":"Business Common entry",
                 "code":"BN016",
                 "points":"105",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "international-business":{
                 "id":"12",
                 "title":"International Business",
                 "code":"BN017",
                 "points":"180",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "sports-management-coaching":{
                 "id":"13",
                 "title":"Sports Management & Coaching",
                 "code":"BN020",
                 "points":"320",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "creative-digital-media":{
                 "id":"14",
                 "title":"Creative Digital Media",
                 "code":"BN021",
                 "points":"300",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "horticulture":{
                 "id":"15",
                 "title":"Horticulture",
                 "code":"BN022",
                 "points":"185",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "social-community-development":{
                 "id":"16",
                 "title":"Social & Community Development",
                 "code":"BN025",
                 "points":"280",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "early-childhood-care-education":{
                 "id":"17",
                 "title":"Early Childhood Care & Education",
                 "code":"BN030",
                 "points":"300",
-                "duration":"3yrs"
+                "duration":"3yrs",
+                "level":"7"
               },
               "business-hons":{
                 "id":"18",
                 "title":"Business",
                 "code":"BN101",
                 "points":"220",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "business-information-technology-hons":{
                 "id":"19",
                 "title":"Business Information Technology",
                 "code":"BN103",
                 "points":"230",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "computing-information-technology-hons":{
                 "id":"20",
                 "title":"Computing Information Technology",
                 "code":"BN104",
                 "points":"275",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "applied-social-studies-social-care-hons":{
                 "id":"21",
                 "title":"Applied Social Studies in Social Care ",
                 "code":"BN107",
                 "points":"320",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "international-business-hons":{
                 "id":"22",
                 "title":"International Business",
                 "code":"BN110",
                 "points":"245",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "sports-management-coaching-hons":{
                 "id":"23",
                 "title":"Sports Management and Coaching",
                 "code":"BN111",
                 "points":"320",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "creative-digital-media-hons":{
                 "id":"24",
                 "title":"Creative Digital Media",
                 "code":"BN112",
                 "points":"300",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "horticulture-hons":{
                 "id":"25",
                 "title":"Horticulture",
                 "code":"BN113",
                 "points":"220",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "accounting-finance-hons":{
                 "id":"26",
                 "title":"Accounting & Finance",
                 "code":"BN114",
                 "points":"240",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "social-community-development-hons":{
                 "id":"27",
                 "title":"Social & Community Development",
                 "code":"BN115",
                 "points":"280",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "computer-engineering-mobile-systems":{
                 "id":"28",
                 "title":"Computer Engineering in Mobile Systems",
                 "code":"BN117",
                 "points":"255",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "early-child-care-education-hons":{
                 "id":"29",
                 "title":"Early Childhood Care & Education",
                 "code":"BN118",
                 "points":"300",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "digital-forensics-cyber-security":{
                 "id":"30",
                 "title":"Digital Forensics & Cyber Security",
                 "code":"BN120",
                 "points":"275",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               },
               "mechatronic-engineering-hons":{
                 "id":"31",
                 "title":"Mechatronic Engineering",
                 "code":"BN121",
                 "points":"200",
-                "duration":"4yrs"
+                "duration":"4yrs",
+                "level":"8"
               }
             }
           },
