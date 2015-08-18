@@ -6056,114 +6056,130 @@
               "title":"English Media and Cultural Studies",
               "code":"DL821",
               "points":"305",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-studies-art-management":{
               "id":"2",
               "title":" Business Studies & Arts Management",
               "code":"DL822",
               "points":"230",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-studies-entrepreneurship-management":{
               "id":"3",
               "title":"Business Studies in Entrepreneurship & Management",
               "code":"DL823",
               "points":"285",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computing-multimedia-systems-web":{
               "id":"4",
               "title":"Computing in Multimedia Systems/Web Engineering",
               "code":"DL824",
               "points":"315",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "applied-psychology":{
               "id":"5",
               "title":"Applied Psychology",
               "code":"DL825",
               "points":"385",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "visual-communication-design":{
               "id":"6",
               "title":"Visual Communication Design",
               "code":"DL826",
               "points":"#667",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "fine-arts":{
               "id":"7",
               "title":"Visual Arts Practice (Fine Art)",
               "code":"DL827",
               "points":"#505",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "model-making":{
               "id":"8",
               "title":"Modelmaking Design and Digital Effects",
               "code":"DL828",
               "points":"#699",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "info-tech":{
               "id":"9",
               "title":"Design for Stage and Screen (Costume Design)",
               "code":"DL829",
               "points":"#633",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "makeup-design":{
               "id":"10",
               "title":"Design for Stage and Screen (Makeup Design)",
               "code":"DL830",
               "points":"#840*",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "production-design":{
               "id":"11",
               "title":"Design for Stage and Screen (Production Design)",
               "code":"DL831",
               "points":"#555",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "animation":{
               "id":"12",
               "title":"Animation",
               "code":"DL832",
               "points":"#955",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "photography":{
               "id":"13",
               "title":"Photography",
               "code":"DL833",
               "points":"#867",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "film-tv":{
               "id":"14",
               "title":"Film & TV Production",
               "code":"DL834",
               "points":"#945",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-studies-entrepreneurship":{
               "id":"15",
               "title":"Business Studies in Entrepreneurship",
               "code":"DL701",
               "points":"210",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "creative-music-production": {
               "id": "16",
               "title": "Creative Music Production",
               "code": "DL704",
               "points": "450",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             }
-            }
+          }
         },
         "griffith-college-dublin":{
           "title":"Griffith College Dublin",
