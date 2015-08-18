@@ -6438,259 +6438,296 @@
               "title": "Culinary Arts",
               "code": "TA006",
               "points": "255",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "advertising-marketing-communications": {
               "id": "2",
               "title": "Advertising & Marketing Communications",
               "code": "TA014",
               "points": "#555",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "international-hospitality-tourism-management": {
               "id": "3",
               "title": "International Hospitality & Tourism Management",
               "code": "TA015",
               "points": "180",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "accounting": {
               "id": "4",
               "title": "Accounting",
               "code": "TA101",
               "points": "180",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "business-admin": {
               "id": "5",
               "title": "Business Administration",
               "code": "TA102",
               "points": "180",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "marketing": {
               "id": "6",
               "title": "Marketing",
               "code": "TA103",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "accounting-finance": {
               "id": "7",
               "title": "Accounting & Finance",
               "code": "TA111",
               "points": "200",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "management": {
               "id": "8",
               "title": "Management",
               "code": "TA113",
               "points": "180",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "marketings": {
               "id": "9",
               "title": "Marketing",
               "code": "TA114",
               "points": "205",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "electronic-engineering": {
               "id": "10",
               "title": "Electronic Engineering",
               "code": "TA201",
               "points": "150",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "mechanical-engineering": {
               "id": "11",
               "title": "Mechanical Engineering",
               "code": "TA203",
               "points": "150",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "mechanical-engineerings": {
               "id": "12",
               "title": "Mechanical Engineering",
               "code": "TA213",
               "points": "200",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "energy-environmental-engineering": {
               "id": "13",
               "title": "Energy & Environmental Engineering ",
               "code": "TA215",
               "points": "205",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "electronic-engineering": {
               "id": "14",
               "title": "Electronic Engineering",
               "code": "TA216",
               "points": "220",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "information-technology": {
               "id": "15",
               "title": "Information Technology",
               "code": "TA302",
               "points": "275",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level":"6"
             },
             "bio-analysis": {
               "id": "16",
               "title": "Bioanalysis",
               "code": "TA311",
               "points": "215",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "computings": {
               "id": "17",
               "title": "Computing",
               "code": "TA312",
               "points": "275",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "information-technology-management": {
               "id": "18",
               "title": "Information Technology Management",
               "code": "TA313",
               "points": "275",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "pharm-science": {
               "id": "19",
               "title": "Pharmaceutical Science",
               "code": "TA314",
               "points": "320",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "dna-forensics": {
               "id": "20",
               "title": "DNA & Forensic Analysis",
               "code": "TA315",
               "points": "300",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "sports-science-health": {
               "id": "21",
               "title": "Sports Science & Health",
               "code": "TA316",
               "points": "390",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level":"7"
             },
             "european-studies": {
               "id": "22",
               "title": "European Studies",
               "code": "TA021",
               "points": "AQA",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "creative-digital-media": {
               "id": "23",
               "title": "Creative Digital Media",
               "code": "TA022",
               "points": "320",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "advertising-marketing-communications": {
               "id": "24",
               "title": "Advertising & Marketing Communications",
               "code": "TA023",
               "points": "220",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "social-care-practice": {
               "id": "25",
               "title": "Social Care Practice",
               "code": "TA025",
               "points": "325",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "international-hospitality-tourism-management": {
               "id": "26",
               "title": "International Hospitality & Tourism Management",
               "code": "TA026",
               "points": "235",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "accounting-finance": {
               "id": "27",
               "title": "Accounting & Finance",
               "code": "TA121",
               "points": "240",
-              "duration": "3-4yrs"
+              "duration": "3-4yrs",
+              "level":"8"
             },
             "management": {
               "id": "28",
               "title": "Management",
               "code": "TA122",
               "points": "215",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "marketing-management": {
               "id": "29",
               "title": "Marketing Management",
               "code": "TA123",
               "points": "235",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "electronic-engineering-hons": {
               "id": "30",
               "title": "Electronic Engineering",
               "code": "TA221",
               "points": "245",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "mechanical-engineering-hons": {
               "id": "31",
               "title": "Mechanical Engineering",
               "code": "TA222",
               "points": "250",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "energy-systems-engineering-hons": {
               "id": "32",
               "title": "Energy Systems Engineering",
               "code": "TA223",
               "points": "230",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "pharm-science-hons": {
               "id": "33",
               "title": "Pharmaceutical Science",
               "code": "TA321",
               "points": "350",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "computing-hons": {
               "id": "34",
               "title": "Computing",
               "code": "TA322",
               "points": "290",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "info-tech-mgmt-hons": {
               "id": "35",
               "title": "Information Technology Management",
               "code": "TA323",
               "points": "255",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "dna-analysis": {
               "id": "36",
               "title": "DNA & Forensics Analysis",
               "code": "TA326",
               "points": "355",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             },
             "business-psychology": {
               "id": "37",
               "title": "Business & Psychology",
               "code": "TA327",
               "points": "410",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level":"8"
             }
           }
         },
