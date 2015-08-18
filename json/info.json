@@ -4912,35 +4912,40 @@
               "title":"Humanities",
               "code":"PC402",
               "points":"210",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "applied-social-care-studies":{
               "id":"2",
               "title":"Applied Social Studies in Social Care",
               "code":"PC404",
               "points":"235",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "citizen-community":{
               "id":"3",
               "title":"Citizenship & Community Studies ",
               "code":"PC405",
               "points":"255",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "humanities-hons":{
               "id":"4",
               "title":"Citizenship & Community Studies ",
               "code":"PC410",
               "points":"285",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "english-history":{
               "id":"5",
               "title":"English & History",
               "code":"PC411",
               "points":"265",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
