@@ -3333,28 +3333,32 @@
               "title":"Education, Business, Accounting",
               "code":"TH002",
               "points":"330",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-business-religion":{
               "id":"2",
               "title":"Education, Business, Religion",
               "code":"TH003",
               "points":"325",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-irish-religion":{
               "id":"3",
               "title":"Education, Irish, Religion",
               "code":"TH004",
               "points":"345",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-irish-business":{
               "id":"4",
               "title":"Education, Irish, Business",
               "code":"TH005",
               "points":"335",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         }
