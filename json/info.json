@@ -1133,28 +1133,32 @@
               "title":"Law",
               "code":"GC203",
               "points":"null",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "computer-science":{
               "id":"2",
               "title":"Computing Science",
               "code":"GC230",
               "points":"295",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business":{
               "id":"3",
               "title":"Business",
               "code":"GC211",
               "points":"170",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "journalism":{
               "id":"4",
               "title":"Journalism",
               "code":"GC265",
               "points":"130",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             }
           }
         },
@@ -1173,63 +1177,72 @@
               "title":"Accounting Finance",
               "code":"GC301",
               "points":"275",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "business-studies":{
               "id":"2",
               "title":"Business Studies",
               "code":"GC300",
               "points":"280",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "computer-science":{
               "id":"3",
               "title":"Computing Science",
               "code":"GC330",
               "points":"245",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "international-hospitality-management":{
               "id":"4",
               "title":"International Hospitality Management",
               "code":"GC306",
               "points":"120",
-              "duration":"1.5yrs"
+              "duration":"1.5yrs",
+              "level":"7"
             },
             "marketing":{
               "id":"5",
               "title":"Marketing",
               "code":"GC310",
               "points":"AQA",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-studies":{
               "id":"6",
               "title":"Business Studies",
               "code":"GC311",
               "points":"125",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business":{
               "id":"7",
               "title":"Business",
               "code":"GC316",
               "points":"355",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"2"
             },
             "computing":{
               "id":"8",
               "title":"Computing",
               "code":"GC335",
               "points":"AQA",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computing-hons":{
               "id":"9",
               "title":"Computing",
               "code":"GC340",
               "points":"155",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             }
           }
         },
