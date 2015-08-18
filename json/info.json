@@ -1247,35 +1247,40 @@
               "title":"Bachelor of Arts",
               "code":"MI004",
               "points":"325",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-psychology":{
               "id":"2",
               "title":"Education & Psychology",
               "code":"MI008",
               "points":"550",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "early-child-care":{
               "id":"3",
               "title":"Early Childhood Care & Education",
               "code":"MI007",
               "points":"360",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education":{
               "id":"4",
               "title":"Education - Primary Teaching",
               "code":"M1005",
               "points":"465",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-gaeltacht":{
               "id":"4",
               "title":"Education - Primary Teaching - Gaeltacht Applicant",
               "code":"M1006",
               "points":"425",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
