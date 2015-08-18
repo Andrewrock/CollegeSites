@@ -4452,21 +4452,24 @@
               "title":"International business",
               "code":"AC120",
               "points":"220",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level": "8"
             },
             "accounting-finance":{
               "id":"2",
               "title":"Accounting & Finance",
               "code":"AC121",
               "points":"200",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level": "8"
             },
             "liberal-arts":{
               "id":"3",
               "title":"Liberal Arts",
               "code":"AC137",
               "points":"275",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level": "8"
             }
           }
         },
