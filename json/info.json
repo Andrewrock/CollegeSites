@@ -4623,21 +4623,24 @@
               "title":"Accounting & Finance",
               "code":"ID001",
               "points":"n/a",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "business-studies":{
               "id":"2",
               "title":"Business",
               "code":"ID002",
               "points":"n/a",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-chinese":{
               "id":"3",
               "title":"Business & Chinese",
               "code":"ID003",
               "points":"275",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
