@@ -10020,70 +10020,80 @@
               "title":"Business Accounting",
               "code":"LY108",
               "points":"305",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "business":{
               "id":"2",
               "title":"Business",
               "code":"LY118",
               "points":"300",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "law":{
               "id":"3",
               "title":"Law",
               "code":"LY208",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-language":{
               "id":"4",
               "title":"Business - with French/Spanish/German/Irish",
               "code":"LY218",
               "points":"245",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "sports-coach":{
               "id":"5",
               "title":"Sports Coaching & Performance",
               "code":"LY228",
               "points":"260",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "culinary-arts-food-tech":{
               "id":"6",
               "title":"Culinary Arts & Food Technology",
               "code":"LY318",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "graphic-design-visual-communication":{
               "id":"7",
               "title":"Visual Communication & Graphic Design",
               "code":"LY408",
               "points":"275",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "fire-safety-engineering":{
               "id":"8",
               "title":"Fire Safety Engineering",
               "code":"LY508",
               "points":"275",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "applied-computing":{
               "id":"9",
               "title":"Applied Computing",
               "code":"LY708",
               "points":"235",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computing-green-it":{
               "id":"10",
               "title":"Computing with Cloud & Green IT",
               "code":"LY718",
               "points":"315",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "general-nursing":{
               "id":"11",
@@ -10097,322 +10107,368 @@
               "title":"Psychiatric Nursing",
               "code":"LY918",
               "points":"365",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "disability-nursing":{
               "id":"13",
               "title":"Intellectual Disability Nursing",
               "code":"LY928",
               "points":"355",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mature-general-nursing":{
               "id":"14",
               "title":"Mature General Nursing",
               "code":"LY938",
               "points":"n/a",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mature-psychiatric-nursing":{
               "id":"15",
               "title":"Mature Applicants Psychiatric Nursing",
               "code":"LY948",
               "points":"n/a",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mature-disability-nursing":{
               "id":"16",
               "title":"Mature Applicants Intellectual Disability Nursing",
               "code":"LY958",
               "points":"n/a",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "early-child-health-education":{
               "id":"17",
               "title":"Early Childhood Care Health & Education",
               "code":"LY968",
               "points":"275",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-admin-account":{
               "id":"18",
               "title":"Business Accounting & Administration",
               "code":"LY106",
               "points":"105",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-mgmt":{
               "id":"19",
               "title":"Business Management",
               "code":"LY107",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "admin-it":{
               "id":"20",
               "title":"Administration & IT",
               "code":"LY117",
               "points":"150",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-marketing":{
               "id":"21",
               "title":"Business Marketing",
               "code":"LY127",
               "points":"150",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "sports-studies":{
               "id":"22",
               "title":"Sports Studies",
               "code":"LY206",
               "points":"100",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "nursing-psychiatric-mature":{
               "id":"23",
               "title":"Law with Criminal Justice (language)",
               "code":"LY207",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "hotel-admin":{
               "id":"24",
               "title":"Hotel Administration",
               "code":"LY306",
               "points":"AQA",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "culinary-arts":{
               "id":"25",
               "title":"Culinary Arts",
               "code":"LY317",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "bar-rest-supervision":{
               "id":"26",
               "title":"Bar & Restaurant Supervision",
               "code":"LY336",
               "points":"AQA",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "culinary-arts-cert":{
               "id":"27",
               "title":"Culinary Arts Higher Cert",
               "code":"LY346",
               "points":"AQA",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "photography":{
               "id":"28",
               "title":"Photography",
               "code":"LY406",
               "points":"New",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "product-design":{
               "id":"29",
               "title":"Product Design",
               "code":"LY417",
               "points":"155",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "digital-media-design":{
               "id":"30",
               "title":"Digital Media Design",
               "code":"LY427",
               "points":"165",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "animation":{
               "id":"31",
               "title":"Animation",
               "code":"LY437",
               "points":"150",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "quantity-surveying":{
               "id":"32",
               "title":"Quantity Surveying",
               "code":"LY507",
               "points":"175",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "civil-engineering":{
               "id":"33",
               "title":"Civil Engineering",
               "code":"LY527",
               "points":"165",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "arch-technology":{
               "id":"34",
               "title":"Architectural Technology",
               "code":"LY547",
               "points":"235",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "electronics":{
               "id":"35",
               "title":"Electronics",
               "code":"LY607",
               "points":"150",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computer-engineering":{
               "id":"36",
               "title":"Computer Engineering",
               "code":"LY627",
               "points":"190",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "mechanical-engineering":{
               "id":"37",
               "title":"Mechanical Engineering",
               "code":"LY617",
               "points":"155",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computer-game-dev":{
               "id":"38",
               "title":"Computer Games Development",
               "code":"LY707",
               "points":"185",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computing":{
               "id":"39",
               "title":"Computing",
               "code":"LY717",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computer-forensics-security-digital":{
               "id":"40",
               "title":"Computer Security & Digital Forensics",
               "code":"LY737",
               "points":"160",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "pharmacy-tech":{
               "id":"41",
               "title":"Pharmacy Technician",
               "code":"LY806",
               "points":"170",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "dental-nursing":{
               "id":"42",
               "title":"Dental Nursing",
               "code":"LY816",
               "points":"205",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "bio-science":{
               "id":"43",
               "title":"Bioscience",
               "code":"LY817",
               "points":"225",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "applied-agri":{
               "id":"44",
               "title":"Applied Agriculture",
               "code":"LY826",
               "points":"170",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "analytical-forensic-science":{
               "id":"45",
               "title":"Analytical & Forensic Science",
               "code":"LY827",
               "points":"155",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "food-science-nutrition":{
               "id":"46",
               "title":"Food Science & Nutrition",
               "code":"LY837",
               "points":"150",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "vet-nurse":{
               "id":"47",
               "title":"Veterinary Nursing",
               "code":"LY847",
               "points":"385*",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "early-childhood-care-health":{
               "id":"48",
               "title":"Early Childhood Care Health & Education",
               "code":"LY906",
               "points":"185",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "health-care":{
               "id":"49",
               "title":"Health & Social Care",
               "code":"LY916",
               "points":"160",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "health-social-care":{
               "id":"50",
               "title":"Health & Social Care",
               "code":"LY917",
               "points":"225",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "quantity-surveying-hons":{
               "id":"51",
               "title":"Quantity Surveying",
               "code":"LY518",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "hotel-rest-resort-management":{
               "id":"52",
               "title":"Hotel Restaurant & Resort Management",
               "code":"LY327",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "pharm-med-science":{
               "id":"53",
               "title":"Pharmaceutical & Medicinal Science",
               "code":"GA471",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "science":{
               "id":"54",
               "title":"Science",
               "code":"LY818",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "social-care-health":{
               "id":"55",
               "title":"Health & Social Care ",
               "code":"LY978",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "agriculture":{
               "id":"56",
               "title":"Agriculture",
               "code":"LY877",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "fashion-promotion":{
               "id":"57",
               "title":"Fashion with Promotion",
               "code":"LY447",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             }
           }
         }

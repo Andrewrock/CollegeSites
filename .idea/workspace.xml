@@ -58,8 +58,8 @@
       <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.1202046" vertical-offset="55218" max-vertical-offset="65520">
-              <caret line="8338" column="20" selection-start-line="8338" selection-start-column="20" selection-end-line="8338" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.7314578" vertical-offset="61964" max-vertical-offset="62445">
+              <caret line="10470" column="25" selection-start-line="10470" selection-start-column="25" selection-end-line="10470" selection-end-column="25" />
               <folding>
                 <element signature="n#!!block;n#courses#0;n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -91,28 +91,7 @@
                 <element signature="n#!!block;n#courses#0;n#!!block;n#galway-mayo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#st-angelas-college#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#sligo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-public-social#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-history#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#na-dana-cumarsaid#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#na-dana#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-maths-education#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-child#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-creative-writing#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-film-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-human-rights#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-irish-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-performing-arts-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-latin-america#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-drama#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-journalism#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#arts-youth-family#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#commerce#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#commerce-french#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#commerce-german#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#commerce-spanish#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-                <element signature="n#!!block;n#bis#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -386,28 +365,7 @@
             <element signature="n#!!block;n#courses#0;n#!!block;n#galway-mayo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-angelas-college#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#sligo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-public-social#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-history#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana-cumarsaid#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-maths-education#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-child#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-creative-writing#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-film-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-human-rights#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-irish-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-performing-arts-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-latin-america#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-drama#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-journalism#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-youth-family#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-french#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-german#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-spanish#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#bis#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -480,28 +438,7 @@
             <element signature="n#!!block;n#courses#0;n#!!block;n#galway-mayo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-angelas-college#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#sligo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-public-social#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-history#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana-cumarsaid#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-maths-education#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-child#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-creative-writing#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-film-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-human-rights#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-irish-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-performing-arts-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-latin-america#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-drama#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-journalism#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-youth-family#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-french#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-german#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-spanish#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#bis#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -948,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1202046" vertical-offset="55218" max-vertical-offset="65520">
-          <caret line="8338" column="20" selection-start-line="8338" selection-start-column="20" selection-end-line="8338" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.7314578" vertical-offset="61964" max-vertical-offset="62445">
+          <caret line="10470" column="25" selection-start-line="10470" selection-start-column="25" selection-end-line="10470" selection-end-column="25" />
           <folding>
             <element signature="n#!!block;n#courses#0;n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -981,28 +918,7 @@
             <element signature="n#!!block;n#courses#0;n#!!block;n#galway-mayo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-angelas-college#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#sligo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-public-social#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-history#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana-cumarsaid#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#na-dana#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-maths-education#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-child#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-creative-writing#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-film-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-human-rights#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-irish-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-performing-arts-studies#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-latin-america#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-drama#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-journalism#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#arts-youth-family#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-french#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-german#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#commerce-spanish#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#bis#0;n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
