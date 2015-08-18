@@ -4549,28 +4549,32 @@
               "title":"Journalism & Digital Media",
               "code":"IC001",
               "points":"n/a",
-              "duration":"20weeks"
+              "duration":"20weeks",
+              "level":"8"
             },
             "business-studies":{
               "id":"2",
               "title":"Business Studies",
               "code":"IC004",
               "points":"380",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "accounting-finance":{
               "id":"3",
               "title":"Accounting & Finance",
               "code":"IC005",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "marketing":{
               "id":"4",
               "title":"Marketing",
               "code":"IC007",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             }
           }
         },
