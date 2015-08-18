@@ -58,9 +58,10 @@
       <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.769821" vertical-offset="17144" max-vertical-offset="44235">
-              <caret line="1163" column="27" selection-start-line="1163" selection-start-column="27" selection-end-line="1163" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.57800514" vertical-offset="13139" max-vertical-offset="44805">
+              <caret line="891" column="25" selection-start-line="891" selection-start-column="25" selection-end-line="891" selection-end-column="25" />
               <folding>
+                <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#university-of-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -342,6 +343,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="9690" max-vertical-offset="10515">
           <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#university-of-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -422,6 +424,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11520">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#university-of-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -906,9 +909,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.769821" vertical-offset="17144" max-vertical-offset="44235">
-          <caret line="1163" column="27" selection-start-line="1163" selection-start-column="27" selection-end-line="1163" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.57800514" vertical-offset="13139" max-vertical-offset="44805">
+          <caret line="891" column="25" selection-start-line="891" selection-start-column="25" selection-end-line="891" selection-end-column="25" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#griffith-college-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#university-of-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
