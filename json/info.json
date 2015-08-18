@@ -6195,203 +6195,232 @@
               "title":"International Hospitality Management",
               "code":"GC406",
               "points":"110",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"7"
             },
             "marketing":{
               "id":"2",
               "title":"Marketing",
               "code":"GC410",
               "points":"110",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business":{
               "id":"3",
               "title":"Business",
               "code":"GC411",
               "points":"100",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-two":{
               "id":"4",
               "title":"Business",
               "code":"GC416",
               "points":"140",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "legal-studies":{
               "id":"5",
               "title":"Legal Studies",
               "code":"GC425",
               "points":"100",
-              "duration":"1yr"
+              "duration":"1yr",
+              "level":"6"
             },
             "computing":{
               "id":"6",
               "title":"Computing",
               "code":"GC435",
               "points":"AQA",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computing-two":{
               "id":"7",
-              "title":"Business",
+              "title":"Computing",
               "code":"GC440",
               "points":"135",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "computer-games-technology":{
               "id":"8",
               "title":"Computer Games Technology",
               "code":"GC445",
               "points":"125",
-              "duration":"1yr"
+              "duration":"1yr",
+              "level":"6"
             },
             "music-production-games":{
               "id":"9",
               "title":"Music Production for Games",
               "code":"GC460",
               "points":"#415",
-              "duration":"1yr"
+              "duration":"1yr",
+              "level":"6"
             },
             "journalism":{
               "id":"10",
               "title":"Journalism",
               "code":"GC465",
               "points":"AQA",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "film-screen-media-production":{
               "id":"11",
               "title":"Film and Screen Media Production",
               "code":"GC466",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "photographic-media":{
               "id":"13",
               "title":"Photographic Media",
               "code":"GC470",
               "points":"AQA",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "photography":{
               "id":"14",
               "title":"Photography",
               "code":"GC475",
               "points":"AQA",
-              "duration":"1yr"
+              "duration":"1yr",
+              "level":"6"
             },
             "interior-design":{
               "id":"15",
               "title":"Interior Design",
               "code":"GC490",
               "points":"110",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-studies":{
               "id":"16",
               "title":"Business Studies",
               "code":"GC400",
               "points":"230",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "accounting-finance":{
               "id":"17",
               "title":"Accounting & Finance",
               "code":"GC401",
               "points":"255",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "law":{
               "id":"18",
               "title":"Law",
               "code":"GC403",
               "points":"305",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "business-law":{
               "id":"19",
               "title":"Business & Law",
               "code":"GC404",
               "points":"270",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "hospitality-management":{
               "id":"20",
               "title":"International Hospitality Management",
               "code":"GC405",
               "points":"250",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "computer-science":{
               "id":"21",
               "title":"Computer Science",
               "code":"GC430",
               "points":"240",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-cloud":{
               "id":"22",
               "title":"Computer Science Cloud Computing",
               "code":"GC431",
               "points":"320",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-software":{
               "id":"23",
               "title":"Computer Science Software Development",
               "code":"GC432",
               "points":"280",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-network":{
               "id":"24",
               "title":"Computer Science Network Management",
               "code":"GC433",
               "points":"290",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-games":{
               "id":"25",
               "title":"Computer Science Games Developemnt",
               "code":"GC434",
               "points":"245",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "journalism-visual-media":{
               "id":"26",
               "title":"Journalism & Visual Media",
               "code":"GC450",
               "points":"230",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "music-production":{
               "id":"27",
               "title":"Music Production",
               "code":"GC455",
               "points":"#240",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "design-communication":{
               "id":"28",
               "title":"Design Communication",
               "code":"GC462",
               "points":"N/A",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "interior-architecture":{
               "id":"29",
               "title":"Interior Architecture",
               "code":"GC489",
               "points":"215",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "fashion-design":{
               "id":"30",
               "title":"Fashion Design",
               "code":"GC494",
               "points":"#317",
-              "duration":"3-4yrs"
+              "duration":"3-4yrs",
+              "level":"8"
             }
           }
         },
