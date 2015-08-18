@@ -6589,462 +6589,528 @@
               "title": "Business, Digital Marketing",
               "code": "CW018",
               "points": "283",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "early-childhood-education-care": {
               "id": "2",
               "title": "Early Childhood Education & Care",
               "code": "CW028",
               "points": "265",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "art": {
               "id": "3",
               "title": "Art Portfolio",
               "code": "CW038",
               "points": "#700",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "applied-social-science": {
               "id": "4",
               "title": "Applied Social Science",
               "code": "CW068",
               "points": "283",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "visual-communication-design": {
               "id": "5",
               "title": "Visual Communications & Design",
               "code": "CW088",
               "points": "285",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "culture-heritage-studies": {
               "id": "6",
               "title": "Culture and Heritage Studies",
               "code": "CW098",
               "points": "260",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "bio-science-forensics-pharm": {
               "id": "7",
               "title": "Biosciences with Bioforensics or Biopharmaceutical",
               "code": "CW108",
               "points": "315",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "environmental-science": {
               "id": "8",
               "title": "Environmental Science",
               "code": "CW168",
               "points": "325",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "sport-science": {
               "id": "9",
               "title": "Sport Science",
               "code": "CW178",
               "points": "420",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "sports-rehab-therapy": {
               "id": "10",
               "title": "Sports Rehabilitation & Athletic Therapy",
               "code": "CW188",
               "points": "445",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "strength-conditioning": {
               "id": "11",
               "title": "Strength & Conditioning",
               "code": "CW198",
               "points": "400",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "computer-games-development": {
               "id": "12",
               "title": "Computer Games Development",
               "code": "CW208",
               "points": "325",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "software-development": {
               "id": "13",
               "title": "Software Development",
               "code": "CW238",
               "points": "335",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "computer-systems-management": {
               "id": "14",
               "title": "Computer Systems Management",
               "code": "CW248",
               "points": "325",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "quantity-surveying": {
               "id": "15",
               "title": "Quantity Surveying",
               "code": "CW438",
               "points": "255",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "facilities-energy-management": {
               "id": "16",
               "title": "Facilities & Energy Management",
               "code": "CW448",
               "points": "245",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "arch-tech": {
               "id": "17",
               "title": "Architectural Technology",
               "code": "CW468",
               "points": "275",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "civil-engineering": {
               "id": "18",
               "title": "Civil Engineering",
               "code": "CW478",
               "points": "280",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "mech-engineering": {
               "id": "19",
               "title": "Mechanical Engineering",
               "code": "CW548",
               "points": "310",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "electronic-systems": {
               "id": "20",
               "title": "Electronic Systems",
               "code": "CW558",
               "points": "340",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "aero-engineering": {
               "id": "21",
               "title": "Aero Engineering",
               "code": "CW568",
               "points": "380",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "tv-media": {
               "id": "22",
               "title": "TV & Media Production",
               "code": "CW578",
               "points": "360",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "law-llb": {
               "id": "23",
-              "title": "LAw LLB",
+              "title": "Law LLB",
               "code": "CW708",
               "points": "290",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "product-design-innovation": {
               "id": "24",
               "title": "Product Design Innovation",
               "code": "CW728",
               "points": "310",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "early-education-childhood-care": {
               "id": "25",
               "title": "Early Childhood Education & Care",
               "code": "CW748",
               "points": "290",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "applied-social-studies-professional": {
               "id": "26",
               "title": "Applied Social Studies",
               "code": "CW758",
               "points": "325",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "youth-community-work": {
               "id": "27",
               "title": "Youth & Community Work",
               "code": "CW788",
               "points": "240",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "media-pr": {
               "id": "28",
               "title": "Media & Public Relations",
               "code": "CW808",
               "points": "283",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "business-marketing": {
               "id": "29",
               "title": "Business Marketing",
               "code": "CW838",
               "points": "280",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "sport-mgmt-coach": {
               "id": "30",
               "title": "Sports Management & Coaching",
               "code": "CW858",
               "points": "#700",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "business-management": {
               "id": "31",
               "title": "Business Management",
               "code": "CW908",
               "points": "280",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "business-hrm": {
               "id": "32",
               "title": "Business Human Resource Management",
               "code": "CW928",
               "points": "290",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "business-law": {
               "id": "33",
               "title": "Business & Law",
               "code": "CW938",
               "points": "285",
-              "duration": "4yrs"
+              "duration": "4yrs",
+              "level": "8"
             },
             "accounting": {
               "id": "34",
               "title": "Accounting",
               "code": "CW948",
               "points": "345",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "8"
             },
             "business-studies-wexford": {
               "id": "35",
               "title": "Business Studies",
               "code": "CW006",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "applied-social-studies": {
               "id": "36",
               "title": "Applied Social Studies",
               "code": "CW017",
               "points": "240",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "business-options-digital-market": {
               "id": "37",
               "title": "Business -Options",
               "code": "CW037",
               "points": "190",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "art-wexford": {
               "id": "38",
               "title": "Art",
               "code": "CW057",
               "points": "#700",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "culture-studies": {
               "id": "39",
               "title": "Culture & Heritage Studies",
               "code": "CW067",
               "points": "180",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "physiology-health-science": {
               "id": "40",
               "title": "Physiology & Health Science",
               "code": "CW106",
               "points": "450",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "analytical-forensic-science": {
               "id": "41",
               "title": "Analytical & Forensic Science",
               "code": "CW107",
               "points": "275",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "pharm-tech-studies": {
               "id": "42",
               "title": "Pharmacy Technician Studies",
               "code": "CW116",
               "points": "340",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "bio-science": {
               "id": "43",
               "title": "Biosciences",
               "code": "CW117",
               "points": "265",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "science-applied-bio-chem": {
               "id": "44",
               "title": "Science - Applied Biology or Applied Chemistry",
               "code": "CW126",
               "points": "295",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "computing-options-commercial-programs": {
               "id": "45",
               "title": "Computing Options",
               "code": "CW206",
               "points": "270",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "sw-development": {
               "id": "46",
               "title": "Software Development",
               "code": "CW207",
               "points": "320",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "computer-systems-mgmt": {
               "id": "47",
               "title": "Computer Systems Management",
               "code": "CW217",
               "points": "270",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "architectural-technology": {
               "id": "48",
               "title": "Architectural Technology",
               "code": "CW407",
               "points": "195",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "construction-technology": {
               "id": "49",
               "title": "Construction Technology",
               "code": "CW416",
               "points": "AQA",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "facilities-energy-management": {
               "id": "50",
               "title": "Construction Buildings & Services Management",
               "code": "CW417",
               "points": "190",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "civil-engineering-cert": {
               "id": "51",
               "title": "Civil Engineering",
-              "code": "CW478",
+              "code": "CW427",
               "points": "230",
-              "duration": "4yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "aircraft-systems": {
               "id": "52",
               "title": "Aircraft Systems",
               "code": "CW507",
               "points": "310",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "mechan-engineering": {
               "id": "53",
               "title": "Mechanical Engineering",
               "code": "CW517",
               "points": "280",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "electronic-systems-cert": {
               "id": "54",
               "title": "Electronic Systems",
               "code": "CW527",
               "points": "300",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "tv-production": {
               "id": "55",
               "title": "TV & Media Production",
               "code": "CW547",
               "points": "345",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "tv-media-cert": {
               "id": "56",
               "title": "Legal Studies",
               "code": "CW706",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "design-industrial-design": {
               "id": "57",
               "title": "Design in Industrial Design",
               "code": "CW707",
               "points": "242",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "professional-social-care": {
               "id": "58",
               "title": "Applied Social Studies Professional Social Care",
               "code": "CW717",
               "points": "275",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "sports-gaa": {
               "id": "59",
               "title": "Sport & Exercise GAA",
               "code": "CW807",
               "points": "#700",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "sports-rugby": {
               "id": "60",
               "title": "Sport & Exercise Rugby",
               "code": "CW817",
               "points": "#700",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "sports-soccer": {
               "id": "61",
               "title": "Sport & Exercise Soccer",
               "code": "CW827",
               "points": "#700",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "bus-studies": {
               "id": "62",
               "title": "Business Studies",
               "code": "CW906",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "business-office-management": {
               "id": "63",
               "title": "Business Office Management",
               "code": "CW916",
               "points": "190",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "businesses": {
               "id": "64",
               "title": "Business",
               "code": "CW917",
               "points": "200",
-              "duration": "3yrs"
+              "duration": "3yrs",
+              "level": "7"
             },
             "business-with-law": {
               "id": "65",
               "title": "Business with Law",
               "code": "CW926",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             },
             "account": {
               "id": "66",
               "title": "Accounting",
               "code": "CW936",
               "points": "200",
-              "duration": "2yrs"
+              "duration": "2yrs",
+              "level": "6"
             }
           }
         },
