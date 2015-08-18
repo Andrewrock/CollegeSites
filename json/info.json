@@ -4374,28 +4374,32 @@
               "title":"1st Year Art & Design Common",
               "code":"AD101",
               "points":"#",
-              "duration":"3-4yrs"
+              "duration":"3-4yrs",
+              "level":"8"
             },
             "design-or-fine-art":{
               "id":"2",
               "title":"Design or Fine Art & Education",
               "code":"AD202",
               "points":"#",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "product-design":{
               "id":"3",
               "title":"Product Design",
               "code":"AD212",
               "points":"#",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "visual-culture":{
               "id":"4",
               "title":"Visual Culture",
               "code":"AD215",
               "points":"350",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             }
           }
         },
@@ -4413,28 +4417,32 @@
               "title":"Education, Religion, English",
               "code":"MD201",
               "points":"380",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-religion-history":{
               "id":"2",
               "title":"Education, Religion, History",
               "code":"MD301",
               "points":"375",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "education-religion-music":{
               "id":"3",
               "title":"Education, Religion, Music",
               "code":"MD401",
               "points":"#370",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "arts-irish-religion":{
               "id":"4",
               "title":"Arts, Irish, Religion",
               "code":"MD500",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
