@@ -2679,322 +2679,368 @@
               "title":"Creative Multimedia",
               "code":"LC504",
               "points":"210",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "creative-multimedia-hons":{
               "id":"2",
               "title":"Creative Multimedia (Honours)",
               "code":"LC517",
               "points":"260",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "digital-animation":{
               "id":"3",
               "title":"Digital Animation Production",
               "code":"LC518",
               "points":"#550",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "fashion-knit-textiles":{
               "id":"4",
               "title":"Fashion Knitwear & Textiles ",
               "code":"LC111",
               "points":"#583",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "economics-maths":{
               "id":"5",
               "title":"Economics & Mathematical Sciences",
               "code":"LC114",
               "points":"#760",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "art-design-first-year":{
               "id":"6",
               "title":"First Year Art & Design",
               "code":"LC110",
               "points":"#602",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "game-art-design":{
               "id":"7",
               "title":"Game Art & Design",
               "code":"LC502",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "applied-biology":{
               "id":"8",
               "title":"Applied Biology ",
               "code":"LC260",
               "points":"300",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "applied-chemistry":{
               "id":"9",
               "title":"Applied Chemistry",
               "code":"LC261",
               "points":"255",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "drug-medical-product":{
               "id":"10",
               "title":"Drug & Medicinal Product Analysis",
               "code":"LC266",
               "points":"267",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "environmental-analytical-science":{
               "id":"11",
               "title":"Environmental & Analytical Science",
               "code":"LC264",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "natural-resource-management":{
               "id":"12",
               "title":"Environmental & Natural Resource Management",
               "code":"LC408",
               "points":"275",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "natural-resource-management-cert":{
               "id":"13",
               "title":"Environmental & Natural Resource Management Cert",
               "code":"LC425",
               "points":"240",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "environmental-management-agriculture":{
               "id":"14",
               "title":"Environmental Management in Agriculture",
               "code":"LC428",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "civil-engineering":{
               "id":"15",
               "title":"Civil Engineering BEng",
               "code":"LC251",
               "points":"205",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "civil-engineering-hons":{
               "id":"16",
               "title":"Civil Engineering Management",
               "code":"LC252",
               "points":"215",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "construction-high-cert-science":{
               "id":"17",
               "title":"Construction Higher Certificate in Science",
               "code":"LC253",
               "points":"205",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "construction-management":{
               "id":"18",
               "title":"Construction Management Honours",
               "code":"LC241",
               "points":"225",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "construction-practice":{
               "id":"19",
               "title":"Construction Practice Higher Certificate in Science ",
               "code":"LC256",
               "points":"170",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "gis-engineering-asset":{
               "id":"20",
               "title":"GIS & Engineering Asset Management Higher Cert",
               "code":"LC258",
-              "points":"",
-              "duration":"2yrs"
+              "points":"N/A",
+              "duration":"2yrs",
+              "level":"6"
             },
             "interior-design-technology":{
               "id":"21",
               "title":"Interior Design & Technology",
               "code":"LC257",
               "points":"210",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "property-valuation-management":{
               "id":"22",
               "title":"Property Valuation & Management",
               "code":"LC242",
               "points":"225",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "quantity-surveying":{
               "id":"23",
               "title":"Quantity Surveying",
               "code":"LC243",
               "points":"235",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "sustainable-building-renewable-management":{
               "id":"24",
               "title":"Sustainable Building & Renewable Energy",
               "code":"LC244",
               "points":"205",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "electronic-engineering":{
               "id":"25",
               "title":"Electronic Engineering",
               "code":"LC279",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "industrial-automation-robotic":{
               "id":"26",
               "title":"Industrial Automation & Robotic Systems",
               "code":"LC277",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "industrial-electrical-engineering":{
               "id":"27",
               "title":"Industrial Electrical Engineering",
               "code":"LC271",
               "points":"225",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "music-technology-production":{
               "id":"28",
               "title":"Music Technology & Production",
               "code":"LC270",
               "points":"325",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "renewable-energy-electrical-systems":{
               "id":"29",
               "title":"Renewable & Electrical Energy Systems",
               "code":"LC278",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "video-sound-technology":{
               "id":"30",
               "title":"Video & Sound Technology",
               "code":"LC276",
               "points":"235",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-computing":{
               "id":"31",
               "title":"Business Computing Higher Certificate",
               "code":"LC232",
               "points":"215",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-technology-info-systems":{
               "id":"32",
               "title":"Business Technology Information Systems",
               "code":"LC231",
               "points":"250",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-tech-management":{
               "id":"33",
               "title":"Business Technology Management",
               "code":"LC238",
               "points":"310",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-networks-systems-management":{
               "id":"34",
               "title":"Computer Networks & Systems Management",
               "code":"LC239",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-services":{
               "id":"35",
               "title":"Computer Services",
               "code":"LC406",
               "points":"New",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "computer-services-management":{
               "id":"36",
               "title":"Computer Services Management",
               "code":"LC416",
               "points":"185",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"6"
             },
             "computing":{
               "id":"37",
               "title":"Computing",
               "code":"LC403",
               "points":"170",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "e-business":{
               "id":"38",
               "title":"e-Business Management Systems",
               "code":"LC237",
               "points":"210",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "game-design":{
               "id":"39",
               "title":"Games Design & Development",
               "code":"LC418",
               "points":"260",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "internet-systems-development":{
               "id":"40",
               "title":"Internet Systems Development",
               "code":"LC235",
               "points":"245",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "internet-systems-development-hons":{
               "id":"41",
               "title":"Internet Systems Development Honours",
               "code":"LC236",
               "points":"330",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "multimedia-programming":{
               "id":"42",
               "title":"Multimedia Programming & Design",
               "code":"LC234",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "software-design-development":{
               "id":"43",
               "title":"Software Design & Development",
               "code":"LC415",
               "points":"215",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "software-development":{
               "id":"44",
               "title":"Software Development",
               "code":"LC223",
               "points":"265",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "applied-social-sciences-social-care":{
               "id":"45",
               "title":"Applied Social Studies in Social Care",
               "code":"LC292",
               "points":"340",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "applied-social-sciences-social-care-ba":{
               "id":"46",
               "title":"Applied Social Studies in Social Care",
               "code":"LC402",
-              "points":"new",
-              "duration":"4yrs"
+              "points":"New",
+              "duration":"4yrs",
+              "level":"8"
             },
             "social-community-studies":{
               "id":"47",
@@ -3008,140 +3054,160 @@
               "title":"Business (Clonmel)",
               "code":"LC501",
               "points":"170",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-clonmel-hons":{
               "id":"49",
               "title":"Business (Clonmel) Honours",
               "code":"LC513",
               "points":"315",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-thurles":{
               "id":"50",
               "title":"Business (Thurles)",
               "code":"LC401",
               "points":"190",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-thurles-hons":{
               "id":"51",
               "title":"Business (Thurles) Honours",
               "code":"LC413",
               "points":"245",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "entrepreneurship":{
               "id":"52",
               "title":"Entrepreneurship",
               "code":"LC226",
               "points":"250",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-tax":{
               "id":"53",
               "title":"Law & Taxation",
               "code":"LC223",
               "points":"280",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "marketing-management-hons":{
               "id":"54",
               "title":"Marketing & Management Honours",
               "code":"LC225",
               "points":"280",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "marketing-management":{
               "id":"55",
               "title":"Marketing & Management Higher Cert",
               "code":"LC222",
               "points":"250",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-studies-event":{
               "id":"56",
               "title":"Business Studies & Event Management",
               "code":"LC294",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-studies-tourism":{
               "id":"57",
               "title":"Business Studies & Tourism Management",
               "code":"LC293",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "culinary-arts":{
               "id":"58",
               "title":"Culinary Arts",
               "code":"LC298",
               "points":"330",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "hospitality-studies":{
               "id":"59",
               "title":"Hospitality Studies",
               "code":"LC299",
               "points":"250",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "hotel-front-office":{
               "id":"60",
               "title":"Hotel Front Office Management",
               "code":"LC296",
               "points":"215",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "accounting-finance":{
               "id":"61",
               "title":"Accounting & Finance",
               "code":"LC224",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "accounting-finance-cert-cert":{
               "id":"62",
               "title":"Accounting & Finance Higher Certificate",
               "code":"LC221",
               "points":"250",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-studies-sports":{
               "id":"63",
               "title":"Business Studies & Sports Management",
               "code":"LC295",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "sports-coaching-development":{
               "id":"64",
               "title":"Sports Coaching & Development",
               "code":"LC228",
               "points":"250",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "sports-strength-conditioning":{
               "id":"65",
               "title":"Sports Strength & Conditioning",
               "code":"LC423",
               "points":"265",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "sports-strength-conditioning-hons":{
               "id":"66",
               "title":"Sports Strength & Conditioning Honours",
               "code":"LC422",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "med-tech":{
               "id":"67",
               "title":"Medical Technology",
               "code":"LC268",
               "points":"New",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             }
           }
         },
