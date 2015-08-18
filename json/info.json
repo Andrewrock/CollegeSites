@@ -8347,7 +8347,7 @@
               "title":"Architecture",
               "code":"DN100",
               "points":"490",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "landscape":{
@@ -8355,7 +8355,7 @@
               "title":"Landscape Architecture",
               "code":"DN120",
               "points":"345",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "structural-engineering":{
@@ -8363,7 +8363,7 @@
               "title":"Structural Engineering with Architecture",
               "code":"DN140",
               "points":"455",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "engineering":{
@@ -8371,7 +8371,7 @@
               "title":"Engineering",
               "code":"DN150",
               "points":"495",
-              "duration":"",
+              "duration":"3-5yrs",
               "level":"8"
             },
             "science":{
@@ -8379,7 +8379,7 @@
               "title":"Science",
               "code":"DN200",
               "points":"515",
-              "duration":"",
+              "duration":"3-4yrs",
               "level":"8"
             },
             "computer-science":{
@@ -8387,7 +8387,7 @@
               "title":"Computer Science",
               "code":"DN201",
               "points":"470",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "actuary":{
@@ -8395,7 +8395,7 @@
               "title":"Actuarial & Financial Studies",
               "code":"DN230",
               "points":"560",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "agricultural-science":{
@@ -8403,7 +8403,7 @@
               "title":"Agricultural Science",
               "code":"DN250",
               "points":"465",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "animal-science-equine":{
@@ -8411,7 +8411,7 @@
               "title":"Animal Science Equine",
               "code":"DN251",
               "points":"425",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "dairy-business":{
@@ -8419,7 +8419,7 @@
               "title":"Dairy Business",
               "code":"DN252",
               "points":"445",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "food-science":{
@@ -8427,7 +8427,7 @@
               "title":"Food Science",
               "code":"DN261",
               "points":"490",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "nutrition":{
@@ -8443,7 +8443,7 @@
               "title":"Forestry",
               "code":"DN271",
               "points":"375",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "horticulture-agri-environment":{
@@ -8451,7 +8451,7 @@
               "title":"Horticulture & Agri-Environmental Sciences",
               "code":"DN272",
               "points":"395",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "vet":{
@@ -8459,7 +8459,7 @@
               "title":"Veterinary Medicine",
               "code":"DN300",
               "points":"580",
-              "duration":"",
+              "duration":"5yrs",
               "level":"8"
             },
             "vet-grad":{
@@ -8467,7 +8467,7 @@
               "title":"Veterinary Medicine Graduate",
               "code":"DN301",
               "points":"N/A",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "vet-nurse":{
@@ -8475,7 +8475,7 @@
               "title":"Veterinary Nursing",
               "code":"DN310",
               "points":"465",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "medicine":{
@@ -8483,7 +8483,7 @@
               "title":"Medicine",
               "code":"DN400",
               "points":"#733",
-              "duration":"",
+              "duration":"5-6yrs",
               "level":"8"
             },
             "medicine-grad":{
@@ -8491,7 +8491,7 @@
               "title":"Medicine Graduate",
               "code":"DN401",
               "points":"N/A",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "radiography":{
@@ -8499,7 +8499,7 @@
               "title":"Radiography",
               "code":"DN410",
               "points":"550",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "physiotherapy":{
@@ -8507,15 +8507,15 @@
               "title":"Physiotherapy",
               "code":"DN420",
               "points":"555",
-              "duration":"",
+              "duration":"3-4yrs",
               "level":"8"
             },
             "health-performance-science":{
               "id":"22",
-              "title":"BHealth & Performance Science",
+              "title":"Health & Performance Science",
               "code":"DN425",
               "points":"510",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "sport-exercise-management":{
@@ -8523,7 +8523,7 @@
               "title":"Sport & Exercise Management",
               "code":"DN430",
               "points":"450",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "bio-med-health-life-science":{
@@ -8531,7 +8531,7 @@
               "title":"Biomedical Health & Life Sciences",
               "code":"DN440",
               "points":"560",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "nursing":{
@@ -8539,7 +8539,7 @@
               "title":"General Nursing",
               "code":"DN450",
               "points":"425",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "child-general-nursing":{
@@ -8547,7 +8547,7 @@
               "title":"Child & General Nursing",
               "code":"DN251",
               "points":"495",
-              "duration":"",
+              "duration":"4.5yrs",
               "level":"8"
             },
             "midwife":{
@@ -8555,7 +8555,7 @@
               "title":"Midwifery",
               "code":"DN452",
               "points":"475",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "mental-nurse":{
@@ -8563,7 +8563,7 @@
               "title":"Psychiatric Nursing",
               "code":"DN453",
               "points":"415",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "general-nursing-mature":{
@@ -8571,7 +8571,7 @@
               "title":"General Nursing Mature",
               "code":"DN460",
               "points":"#168*",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "mature-child-general":{
@@ -8579,7 +8579,7 @@
               "title":"Mature Child & General Nursing",
               "code":"DN461",
               "points":"N/A",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "mature-midwife":{
@@ -8587,7 +8587,7 @@
               "title":"Mature Midwifery",
               "code":"DN462",
               "points":"N/A",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "mature-mental-nurse":{
@@ -8595,7 +8595,7 @@
               "title":"Mature Psychiatric Nursing",
               "code":"DN463",
               "points":"N/A",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "joint-degree-full":{
@@ -8603,7 +8603,7 @@
               "title":"BA Degree joint honours full time",
               "code":"DN500",
               "points":"340",
-              "duration":"",
+              "duration":"3-4",
               "level":"8"
             },
             "joint-degree-part":{
@@ -8611,7 +8611,7 @@
               "title":"BA Degree joint honours part time",
               "code":"DN501",
               "points":"340",
-              "duration":"",
+              "duration":"3-4",
               "level":"8"
             },
             "economics":{
@@ -8619,7 +8619,7 @@
               "title":"Economics",
               "code":"DN510",
               "points":"470",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "english":{
@@ -8627,7 +8627,7 @@
               "title":"English",
               "code":"DN511",
               "points":"470",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "english-drama":{
@@ -8635,7 +8635,7 @@
               "title":"English with Drama",
               "code":"DN512",
               "points":"470",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "english-film":{
@@ -8643,7 +8643,7 @@
               "title":"English with Film",
               "code":"DN512",
               "points":"355",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "planning-geog-environment":{
@@ -8651,7 +8651,7 @@
               "title":"Planning Geography and Environment",
               "code":"DN514",
               "points":"345",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "history":{
@@ -8659,7 +8659,7 @@
               "title":"History",
               "code":"DN515",
               "points":"420",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "music":{
@@ -8667,7 +8667,7 @@
               "title":"Music",
               "code":"DN517",
               "points":"#AQA",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "philosophy":{
@@ -8675,7 +8675,7 @@
               "title":"Philosophy",
               "code":"DN518",
               "points":"320",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "psychology":{
@@ -8683,7 +8683,7 @@
               "title":"Psychology",
               "code":"DN519",
               "points":"515",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "international-languages":{
@@ -8691,7 +8691,7 @@
               "title":"International languages",
               "code":"DN541",
               "points":"475",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "social-science":{
@@ -8699,7 +8699,7 @@
               "title":"Social Science",
               "code":"DN550",
               "points":"405",
-              "duration":"",
+              "duration":"3yrs",
               "level":"8"
             },
             "law":{
@@ -8707,7 +8707,7 @@
               "title":"Law",
               "code":"DN600",
               "points":"510",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "business-law":{
@@ -8715,7 +8715,7 @@
               "title":"Business Law",
               "code":"DN610",
               "points":"520",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "maitrise":{
@@ -8723,15 +8723,15 @@
               "title":"BCL Maitrise",
               "code":"DN615",
               "points":"560",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "law-french-law":{
               "id":"49",
-              "title":"LAw with French Law",
+              "title":"Law with French Law",
               "code":"DN616",
               "points":"570",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "commerce":{
@@ -8739,7 +8739,7 @@
               "title":"Commerce",
               "code":"DN650",
               "points":"490",
-              "duration":"",
+              "duration":"3-4yrs",
               "level":"8"
             },
             "commerce-international":{
@@ -8747,7 +8747,7 @@
               "title":"Commerce International",
               "code":"DN660",
               "points":"510",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "economics-finance":{
@@ -8755,7 +8755,7 @@
               "title":"Economics & Finance",
               "code":"DN671",
               "points":"580",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             }
           }
