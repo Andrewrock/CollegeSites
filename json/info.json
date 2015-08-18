@@ -3376,819 +3376,936 @@
               "title":"Human nutrition & dietetics",
               "code":"DT223",
               "points":"545",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "ancient-history-archaeology":{
               "id":"2",
               "title":"Ancient history & archaeology (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "classical-civilisation":{
               "id":"3",
               "title":"Classical Civilisation (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "drama-studies":{
               "id":"4",
               "title":"Drama studies (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "early-irish":{
               "id":"5",
               "title":"Early Irish (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "economics":{
               "id":"6",
               "title":"Economics (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "english-lit":{
               "id":"7",
               "title":"English literature (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "economics-transformation":{
               "id":"8",
               "title":"Economics Through Transformational Learning (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":""
+              "duration":"",
+              "level":"8"
             },
             "english":{
               "id":"9",
               "title":"English (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":""
+              "duration":"",
+              "level":"8"
             },
             "film-studies":{
               "id":"10",
               "title":"Film studies(TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "french":{
               "id":"11",
               "title":"Frenchn(TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "geography":{
               "id":"12",
               "title":"Geography (TSM)",
               "code":"TR001",
               "points":"505",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "german":{
               "id":"13",
               "title":"German (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "greek":{
               "id":"14",
               "title":"Greek (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "history":{
               "id":"15",
               "title":"History (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "history-art-arch":{
               "id":"16",
               "title":"History of art & architecture (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "italian":{
               "id":"17",
               "title":"Italian (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "jewish-islam":{
               "id":"18",
               "title":"Jewish & Islamic civilisations (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "latin":{
               "id":"19",
               "title":"latin (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mathematics ":{
               "id":"20",
               "title":"Mathematics  (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "modern-irish":{
               "id":"21",
               "title":"Modern Irish(TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music":{
               "id":"22",
               "title":"Music (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "philosophy":{
               "id":"23",
               "title":"Philosophy (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "psychology":{
               "id":"24",
               "title":"Psychology (TSM)",
               "code":"TR001",
               "points":"580",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "russian":{
               "id":"25",
               "title":"Russian (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "sociology":{
               "id":"26",
               "title":"Sociology (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "spanish":{
               "id":"27",
               "title":"Spanish (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "world-religions":{
               "id":"28",
               "title":"World religions & theology (TSM)",
               "code":"TR001",
               "points":"",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music-full":{
               "id":"29",
               "title":"Law",
               "code":"TR002",
               "points":"390",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "history-full":{
               "id":"30",
               "title":"History",
               "code":"TR003",
               "points":"485",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-full":{
               "id":"31",
               "title":"Law",
               "code":"TR004",
               "points":"530",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "philosophy-full":{
               "id":"32",
               "title":"Philosophy",
               "code":"TR005",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "psychology-full":{
               "id":"33",
               "title":"Psychology",
               "code":"TR006",
               "points":"560",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "clinical-speech-language":{
               "id":"34",
               "title":"Clinical speech & language studies",
               "code":"TR007",
               "points":"525",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "world-religions-full":{
               "id":"35",
               "title":"World religions & theology",
               "code":"TR008",
               "points":"370",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music-education":{
               "id":"36",
               "title":"Music education",
               "code":"TR009",
               "points":"465",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "history-political-science":{
               "id":"37",
               "title":"History & political science",
               "code":"TR012",
               "points":"500",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "philosophy-pol-science-economics-soc":{
               "id":"38",
               "title":"Philosophy, political science, economics & sociology",
               "code":"TR015",
               "points":"540",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "deaf-studies":{
               "id":"39",
               "title":"Deaf Studies",
               "code":"TR016",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-business":{
               "id":"40",
               "title":"Law & Business",
               "code":"TR017",
               "points":"570",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-french":{
               "id":"41",
               "title":"Law & French",
               "code":"TR018",
               "points":"560",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-german":{
               "id":"42",
               "title":"Law & German",
               "code":"TR019",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-political-science":{
               "id":"43",
               "title":"Law & political science",
               "code":"TR020",
               "points":"575",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "classics":{
               "id":"44",
               "title":"Classics",
               "code":"TR021",
               "points":"435",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "early-modern-irish":{
               "id":"45",
               "title":"Early & Modern Irish",
               "code":"TR022",
               "points":"360",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "english-studies":{
               "id":"46",
               "title":"English studies",
               "code":"TR023",
               "points":"505",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "european-studies":{
               "id":"47",
               "title":"European studies",
               "code":"TR024",
               "points":"520",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "drama-theatre":{
               "id":"48",
               "title":"Drama & theatre studies",
               "code":"TR025",
               "points":"440",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "irish-studies":{
               "id":"49",
               "title":"Irish studies: An interdisciplinary course in Irish civilisation",
               "code":"TR027",
               "points":"435",
-              "duration":""
+              "duration":"4yrs",
+              "level":"8"
             },
             "ancient-medieval":{
               "id":"50",
               "title":"Ancient & medieval history & culture",
               "code":"TR028",
               "points":"450",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "geography-pol-science":{
               "id":"51",
               "title":"Political science & geography",
               "code":"TR029",
               "points":"490",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "catholic":{
               "id":"52",
               "title":"Catholic theological studies",
               "code":"TR030",
               "points":"310",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "bio-med-engineering":{
               "id":"53",
               "title":"Biomedical engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "civil-structural-engineering":{
               "id":"54",
               "title":"Civil, structural, & environmental engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5"
+              "duration":"5",
+              "level":"8"
             },
             "computer-engineering":{
               "id":"55",
               "title":"Computer engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "electronic-computer-engineering":{
               "id":"56",
               "title":"Electronic & computer engineering (joint programme)",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "electronic-engineering":{
               "id":"57",
               "title":"Electronic engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "engineering":{
               "id":"58",
               "title":"Engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "mechanical-man-engineering":{
               "id":"59",
               "title":"Mechanical & manufacturing engineering",
               "code":"TR032",
               "points":"470",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "computer-science":{
               "id":"60",
               "title":"Civil & Environmental Engineering",
               "code":"TR033",
               "points":"465",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "management-science-iss":{
               "id":"61",
               "title":"Management science & information systems studies (MSISS)",
               "code":"TR034",
               "points":"515",
-              "duration":"4"
+              "duration":"4",
+              "level":"8"
             },
             "theoretical-physics":{
               "id":"62",
               "title":"Theoretical physics",
               "code":"TR035",
               "points":"550",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "engineering-management":{
               "id":"63",
               "title":"Engineering with Management",
               "code":"TR038",
               "points":"460",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "computer-science-language":{
               "id":"64",
               "title":"Computer science & language",
               "code":"TR039",
               "points":"450",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "medicine":{
               "id":"64",
               "title":"Medicine",
               "code":"TR051",
               "points":"#733",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "dental-science":{
               "id":"65",
               "title":"Dental Science",
               "code":"TR052",
               "points":"585",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "physiotherapy":{
               "id":"66",
               "title":"Physiotherapy",
               "code":"TR053",
               "points":"545",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "occupational-therapy":{
               "id":"66",
               "title":"Occupational therapy",
               "code":"TR054",
               "points":"500",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "radiation-therapy":{
               "id":"67",
               "title":"Radiation therapy",
               "code":"TR055",
               "points":"535",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "human-health-disease":{
               "id":"68",
               "title":"Human health & disease",
               "code":"TR056",
               "points":"535",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "biochemistry":{
               "id":"69",
               "title":"Biochemistry",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "chemistry":{
               "id":"70",
               "title":"Chemistry",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "environmental-science":{
               "id":"71",
               "title":"Environmental-science",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "functional-biology":{
               "id":"72",
               "title":"Functional Biology - the comparative physiology of organisms",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "genetics":{
               "id":"73",
               "title":"Genetics",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "geography":{
               "id":"74",
               "title":"Geography",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "geology":{
               "id":"76",
               "title":"Geology",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "immunology":{
               "id":"77",
               "title":"Immunology",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "micro-biology":{
               "id":"78",
               "title":"Microbiology",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "molecular":{
               "id":"79",
               "title":"Molecular medicine",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "neuroscience":{
               "id":"80",
               "title":"Neuroscience",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "physics":{
               "id":"81",
               "title":"Physics",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "physics-astrophysics":{
               "id":"82",
               "title":"Physics & astrophysics",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "physiology":{
               "id":"83",
               "title":"Physiology",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "plant-sciences":{
               "id":"84",
               "title":"Plant sciences",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "science-common":{
               "id":"85",
               "title":"Science common entry",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "zoology":{
               "id":"86",
               "title":"Zoology",
               "code":"TR071",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "pharmacy":{
               "id":"87",
               "title":"Pharmacy",
               "code":"TR072",
               "points":"565",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "human-genetics":{
               "id":"88",
               "title":"Human Genetics",
               "code":"TR073",
               "points":"560",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "chem-molecular-model":{
               "id":"89",
               "title":"Chemistry with molecular modelling",
               "code":"TR074",
               "points":"505",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "medicinal-chem":{
               "id":"90",
               "title":"Medicinal chemistry",
               "code":"TR075",
               "points":"535",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nano-science-physics-chem":{
               "id":"91",
               "title":"Nanoscience, physics & chemistry of advanced materials",
               "code":"TR076",
               "points":"595",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "earth-sciences":{
               "id":"92",
               "title":"Earth sciences",
               "code":"TR077",
               "points":"475",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "bess":{
               "id":"93",
               "title":"Business, economic & social studies (BESS)",
               "code":"TR081",
               "points":"495",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-business":{
               "id":"94",
               "title":"Computer science & business",
               "code":"TR082",
               "points":"465",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "sociology-social-policy":{
               "id":"95",
               "title":"Sociology & social policy",
               "code":"TR083",
               "points":"460",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "social-studies":{
               "id":"96",
               "title":"Social studies (social work)",
               "code":"TR084",
               "points":"460",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-french":{
               "id":"97",
               "title":"Business studies & French",
               "code":"TR085",
               "points":"515",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-german":{
               "id":"98",
               "title":"Business studies & German",
               "code":"TR086",
               "points":"490",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-russian":{
               "id":"99",
               "title":"Business studies & Russian",
               "code":"TR087",
               "points":"445",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-polish":{
               "id":"100",
               "title":"Business studies & Polish",
               "code":"TR089",
               "points":"405",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-spanish":{
               "id":"101",
               "title":"Business studies & Spanish",
               "code":"TR090",
               "points":"525",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "general-nursing":{
               "id":"102",
               "title":"Nursing general",
               "code":"TR091",
               "points":"420",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "general-nursing-mature":{
               "id":"103",
               "title":"General nursing mature",
               "code":"TR092",
               "points":"null",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-general-adelaide":{
               "id":"104",
               "title":"Nursing - General Nursing Adelaide",
               "code":"TR093",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-general-adelaide-mature":{
               "id":"105",
               "title":"Nursing - General Nursing Adelaide MATURE",
               "code":"TR094",
               "points":"506",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-mental":{
               "id":"106",
               "title":"Nursing - Mental Health ",
               "code":"TR095",
               "points":"4055",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-mental-mature":{
               "id":"107",
               "title":"Psychiatric Nursing, Mature",
               "code":"TR096",
               "points":"212",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-intellectual":{
               "id":"108",
               "title":"Nursing Intellectual Disability",
               "code":"TR097",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "nursing-intellectual-mature":{
               "id":"109",
               "title":"Nursing Intellectual Disability Mature",
               "code":"TR098",
               "points":"502",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "dental-nursing":{
               "id":"110",
               "title":"Dental nursing",
               "code":"TR801",
               "points":"360",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"7"
             },
             "dental-hygiene":{
               "id":"111",
               "title":"Dental hygiene (diploma)",
               "code":"TR802",
               "points":"415",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"7"
             },
             "dental-technology":{
               "id":"112",
               "title":"Dental technology (ordinary degree)",
               "code":"TR803",
               "points":"420",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "child-general-nursing":{
               "id":"113",
               "title":"Integrated Children's & General Nursing",
               "code":"TR911",
               "points":"490",
-              "duration":"4.5yrs"
+              "duration":"4.5yrs",
+              "level":"8"
             },
             "child-general-nursing-mature":{
               "id":"114",
               "title":"Integrated Children's & General Nursing",
               "code":"TR911",
               "points":"230",
-              "duration":"4.5yrs"
+              "duration":"4.5yrs",
+              "level":"8"
             },
             "midwifery":{
               "id":"115",
               "title":"Midwifery",
               "code":"TR913",
               "points":"460",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "midwifery-mature":{
               "id":"116",
               "title":"Midwifery mature",
               "code":"TR914",
               "points":"574",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
