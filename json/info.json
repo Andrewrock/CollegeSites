@@ -3225,287 +3225,328 @@
               "title":"Higher Certificate in Arts in Culinary Arts",
               "code":"TL620",
               "points":"135",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "high-cert-business-office-info-systems":{
               "id":"2",
               "title":"Higher Certificate in Business in Office Information Systems",
               "code":"TL605",
               "points":"185",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "high-cert-hospitality-studies":{
               "id":"3",
               "title":"Higher Certificate in Arts in Hospitality Studies",
               "code":"TL621",
               "points":"AQA",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "high-cert-science-biological-environmental-studies":{
               "id":"4",
               "title":"Higher Certificate in Arts in Hospitality Studies",
               "code":"TL651",
               "points":"260",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business":{
               "id":"5",
               "title":"International Business",
               "code":"TL731",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "civil-environmental-engineering":{
               "id":"6",
               "title":"Civil & Environmental Engineering ",
               "code":"TL745",
               "points":"230",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "agricultural-engineering":{
               "id":"7",
               "title":"Agricultural Engineering",
               "code":"TL744",
               "points":"220",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "manufacturing-mechatronics-engineering":{
               "id":"8",
               "title":"Manufacturing & Mechatronics Engineering",
               "code":"TL747",
               "points":"225",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "energy-tech-built-environment":{
               "id":"9",
               "title":"Energy Technology & the Built Environment",
               "code":"TL746",
               "points":"225",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "culinary-arts":{
               "id":"10",
               "title":"Culinary Arts",
               "code":"TL719",
               "points":"250",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "early-childhood-care":{
               "id":"11",
               "title":"Early Childhood Care & Education ",
               "code":"TL780",
               "points":"200",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "social-care":{
               "id":"12",
               "title":"Social Care",
               "code":"TL781",
               "points":"250",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "youth-community-work":{
               "id":"13",
               "title":"Youth & Community Work Practice",
               "code":"TL782",
               "points":"260",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "mobile-app":{
               "id":"14",
               "title":"Computing with Mobile App Development",
               "code":"TL714",
               "points":"233",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "games-dev":{
               "id":"15",
               "title":"Computing with Games Development",
               "code":"TL711",
               "points":"220",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computing-multimedia":{
               "id":"16",
               "title":"Computing with Multimedia",
               "code":"TL712",
               "points":"215",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "computing-software-dev":{
               "id":"17",
               "title":"Computing with Software Development",
               "code":"TL710",
               "points":"205",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "adventure-tourism-management":{
               "id":"18",
               "title":"Adventure Tourism Management",
               "code":"TL721",
               "points":"245",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "hotel-management":{
               "id":"19",
               "title":"Hotel Management",
               "code":"TL722",
               "points":"451",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "travel-tourism-management":{
               "id":"20",
               "title":"Travel & Tourism Management",
               "code":"TL720",
               "points":"205",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "agricultural-science":{
               "id":"21",
               "title":"Agricultural Science",
               "code":"TL748",
               "points":"305",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "food-science-innovation":{
               "id":"22",
               "title":"Food Science with Innovation",
               "code":"TL749",
               "points":"300",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "health-leisure-massage":{
               "id":"23",
               "title":"Health & Leisure with Massage",
               "code":"TL772",
               "points":"330",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "health-leisure":{
               "id":"24",
               "title":"Health & Leisure",
               "code":"TL771",
               "points":"290",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "psychiatric-nursing-mature":{
               "id":"25",
               "title":"Psychiatric Nursing - Mature Applicants",
               "code":"TL755",
               "points":"null",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "advanced-wood-tech":{
               "id":"26",
               "title":"Advanced Wood Technology",
               "code":"TL743",
               "points":"205",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-studies":{
               "id":"27",
               "title":"Business Studies",
               "code":"TL831",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "ag-engineering":{
               "id":"28",
               "title":"Agricultural Engineering",
               "code":"TL844",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "manufacturing-engineering":{
               "id":"29",
               "title":"Manufacturing Engineering",
               "code":"TL847",
               "points":"265",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "early-childhood-care":{
               "id":"30",
               "title":"Early Childhood Care & Education",
               "code":"TL880",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "interactive-media-design":{
               "id":"31",
               "title":"Design for Interactive  Media ",
               "code":"TL801",
               "points":"283",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mobile-app-computing-development":{
               "id":"32",
               "title":"Computing with Mobile App Development",
               "code":"TL814",
               "points":"375",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computing-games-dev":{
               "id":"33",
               "title":"Computing with Games Development",
               "code":"TL811",
               "points":"333",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computing-multimedia":{
               "id":"34",
               "title":"Computing with Multimedia",
               "code":"TL812",
               "points":"310",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computing-software-dev":{
               "id":"35",
               "title":"Computing with Software Development",
               "code":"TL810",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "creative-writing-digital-media":{
               "id":"36",
               "title":"Creative Writing for Digital Media",
               "code":"TL804",
               "points":"295",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "information-systems-management":{
               "id":"37",
               "title":"Information Systems Management",
               "code":"TL805",
               "points":"370",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music-technology":{
               "id":"38",
               "title":"Music Technology",
               "code":"TL803",
               "points":"270",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "tv-news":{
               "id":"39",
               "title":"TV Radio & New Media Broadcasting",
               "code":"TL802",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "general-nursing":{
               "id":"40",
               "title":"General Nursing",
               "code":"TL890",
               "points":"415",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mature-general-nursing":{
               "id":"41",
               "title":"Mature Applicants General Nursing",
               "code":"TL892",
               "points":"null",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "mental-health-nurse":{
               "id":"432",
@@ -3519,98 +3560,104 @@
               "title":"Mature Applicants Mental Health Nursing",
               "code":"TL893",
               "points":"null",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "adventure-tourism":{
               "id":"44",
               "title":"Adventure Tourism Management ",
               "code":"TL821",
               "points":"310",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "hotel-management":{
               "id":"45",
               "title":"Hotel Management",
               "code":"TL822",
               "points":"544",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "travel-tourism-management":{
               "id":"46",
               "title":"Travel & Tourism Management",
               "code":"TL820",
               "points":"350",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"8"
             },
             "ag-science":{
               "id":"47",
               "title":"Agricultural Science",
               "code":"TL848",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "field-biology-wildlife-tourism":{
               "id":"48",
               "title":"Field Biology & Wildlife Tourism ",
               "code":"TL850",
               "points":"315",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "health-leisure-massage":{
               "id":"49",
               "title":"Health & Leisure with Massage",
               "code":"TL872",
               "points":"390",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "health-leisure":{
               "id":"50",
               "title":"Health & Leisure",
               "code":"TL871",
               "points":"350",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "pharmaceutical-science":{
               "id":"51",
               "title":"Pharmaceutical Science",
               "code":"TL855",
               "points":"New",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "wildlife-biology":{
               "id":"52",
               "title":"Wildlife Biology ",
               "code":"TL851",
               "points":"300",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "ag-engineering":{
               "id":"53",
               "title":"Agricultural Engineering",
               "code":"TL344",
               "points":"New",
-              "duration":""
+              "duration":"3yrs",
+              "level":"7"
             },
             "manufacturing-engineering":{
               "id":"54",
               "title":"Manufacturing Engineering",
               "code":"TL347",
               "points":"New",
-              "duration":""
+              "duration":"3yrs",
+              "level":"7"
             },
             "wildlife-biology":{
               "id":"55",
               "title":"Pharmaceutical Science",
               "code":"TL355",
               "points":"300",
-              "duration":"4yrs"
-            },
-            "ag-science":{
-              "id":"56",
-              "title":"Agricultural Science",
-              "code":"TL347",
-              "points":"New",
-              "duration":""
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
