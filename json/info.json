@@ -4279,70 +4279,80 @@
               "title":"Computing",
               "code":"NC003",
               "points":"340",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "bis":{
               "id":"2",
               "title":"Business Information Systems",
               "code":"NC004",
               "points":"345",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "human-resource-mgmt":{
               "id":"3",
               "title":"Human Resource Management",
               "code":"NC005",
               "points":"295",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "accounting":{
               "id":"4",
               "title":"Accounting",
               "code":"NC006",
               "points":"340",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "business":{
               "id":"5",
               "title":"Business",
               "code":"NC009",
               "points":"295",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "psychology":{
               "id":"6",
               "title":"Psychology",
               "code":"NC010",
               "points":"310",
-              "duration":""
+              "duration":"3yrs",
+              "level":"8"
             },
             "marketing-practice":{
               "id":"7",
               "title":"Marketing Practice",
               "code":"NC020",
               "points":"215",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "management-tech-business":{
               "id":"8",
               "title":"Management of Technology in Business",
               "code":"NC008",
               "points":"230",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"7"
             },
             "computing-app-support":{
               "id":"9",
               "title":"Computing in Applications & Support ",
               "code":"NC102",
               "points":"220",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-cert":{
               "id":"10",
               "title":"Business",
               "code":"NC103",
               "points":"215",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "business-science":{
               "id":"11",
