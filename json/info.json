@@ -4804,14 +4804,16 @@
               "title":"Theology & Arts",
               "code":"MU001",
               "points":"300",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "theology":{
               "id":"2",
               "title":"Theology",
               "code":"MU002",
               "points":"325",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             }
           }
         },
@@ -4829,7 +4831,8 @@
               "title":"Montessori Education",
               "code":"PI201",
               "points":"125",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             }
           }
         },
@@ -4847,21 +4850,24 @@
               "title":"Business",
               "code":"GF001",
               "points":"165",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":""
             },
             "business-management":{
               "id":"2",
               "title":"Business in Management",
               "code":"GF010",
               "points":"190",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             },
             "business-accounting":{
               "id":"3",
               "title":"Business in Accounting",
               "code":"GF011",
               "points":"145",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"7"
             }
           }
         },
@@ -4879,14 +4885,16 @@
               "title":"Computing in Information Technology",
               "code":"CT110",
               "points":"160",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"6"
             },
             "info-tech":{
               "id":"2",
               "title":"Information Technology",
               "code":"CT116",
               "points":"155",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"7"
             }
           }
         },
