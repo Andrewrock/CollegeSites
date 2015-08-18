@@ -4801,140 +4801,160 @@
               "title":"Primary Teaching",
               "code":"MH001",
               "points":"510",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "primary-teaching-gaeltacht":{
               "id":"2",
               "title":"Primary Teaching Gaeltacht",
               "code":"MH002",
               "points":"490",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "early-child-education-learning":{
               "id":"3",
               "title":"Early Childhood Teaching & Learning",
               "code":"MH003",
               "points":"370",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "arts":{
               "id":"4",
               "title":"Arts",
               "code":"MH101",
               "points":"350",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music-tech":{
               "id":"5",
               "title":"Music Technology",
               "code":"MH102",
               "points":"365",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "music":{
               "id":"6",
               "title":"Music",
               "code":"MH103",
               "points":"#",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "maths":{
               "id":"7",
               "title":"Mathematics ",
               "code":"MH104",
               "points":"445",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "psychology":{
               "id":"8",
               "title":"Psychology",
               "code":"MH106",
               "points":"505",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "social-science":{
               "id":"9",
               "title":"Social Science",
               "code":"MH107",
               "points":"380",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "european-studies":{
               "id":"10",
               "title":"European Studies",
               "code":"MH108",
               "points":"380",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "media-studies":{
               "id":"11",
               "title":"Media Studies",
               "code":"MH109",
               "points":"460",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "digital-media":{
               "id":"12",
               "title":" Digital Media",
               "code":"MH110",
               "points":"360",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "anthropology ":{
               "id":"13",
               "title":"Anthropology ",
               "code":"MH111",
               "points":"370",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "politics":{
               "id":"14",
               "title":"Politics",
               "code":"MH112",
               "points":"New",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "history":{
               "id":"15",
               "title":"History",
               "code":"MH113",
               "points":"405",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "english":{
               "id":"16",
               "title":"English",
               "code":"MH114",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-arts":{
               "id":"17",
               "title":"Law & Arts",
               "code":"MH115",
               "points":"445",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"8"
             },
             "community-youth-work-full-time":{
               "id":"18",
               "title":"Community & Youth Work - Full-Time",
               "code":"MH116",
               "points":"#",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "community-youth-work-part-time":{
               "id":"19",
               "title":"Community & Youth Work - Part-time In-service",
               "code":"MH117",
               "points":"N/A",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"8"
             },
             "law":{
               "id":"20",
               "title":"Law",
               "code":"MH119",
               "points":"450",
-              "duration":"2yrs"
+              "duration":"2yrs",
+              "level":"8"
             },
             "philosophy-politics-economics":{
               "id":"21",
@@ -4948,84 +4968,96 @@
               "title":"International Development",
               "code":"MH121",
               "points":"355",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "computer-science-software-engineering-arts":{
               "id":"23",
               "title":"Computer Science & Software Engineering Arts",
               "code":"MH140",
               "points":"350",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "science":{
               "id":"24",
               "title":"Science",
               "code":"MH201",
               "points":"400",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "biotechnology":{
               "id":"25",
               "title":"Biotechnology",
               "code":"MH202",
               "points":"435",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "computer-science-software-engineering":{
               "id":"26",
               "title":"Computer Science & Software Engineering",
               "code":"MH203",
               "points":"360",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "physics-astrophysics":{
               "id":"27",
               "title":"Physics with Astrophysics",
               "code":"MH204",
               "points":"455",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "theoretical-physics-maths":{
               "id":"28",
               "title":"Theoretical Physics & Mathematics",
               "code":"MH206",
               "points":"515",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "biological-bio-medical-science":{
               "id":"29",
               "title":"Biological & Biomedical Sciences",
               "code":"MH208",
               "points":"460",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "psychology-science":{
               "id":"30",
               "title":"Psychology (through Science)",
               "code":"MH209",
               "points":"470",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "pharm-bio-chem":{
               "id":"31",
               "title":"Pharmaceutical & Biomedical Chemistry",
               "code":"MH210",
               "points":"470",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "multi-media-mobile-web-dev":{
               "id":"32",
               "title":"Multimedia Mobile & Web Development",
               "code":"MH211",
               "points":"350",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "science-education":{
               "id":"33",
               "title":"Science (with Education)",
               "code":"MH212",
               "points":"480",
-              "duration":"4-5yrs"
+              "duration":"4-5yrs",
+              "level":"8"
             },
             "maths-education":{
               "id":"34",
@@ -5039,112 +5071,128 @@
               "title":"Computational Thinking",
               "code":"MH214",
               "points":"520",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "electronic-engineering-computers":{
               "id":"36",
               "title":"Electronic Engineering with Computers",
               "code":"MH301",
               "points":"360",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "electronic-engineering":{
               "id":"37",
               "title":"Electronic Engineering",
               "code":"MH302",
               "points":"370",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "electronic-engineering-communications":{
               "id":"38",
               "title":"Electronic Engineering with Communications",
               "code":"MH303",
               "points":"315",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "computer-electronic-communications":{
               "id":"39",
               "title":"Computer Electronic & Communications",
               "code":"MH304",
               "points":"435",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "product-design":{
               "id":"40",
               "title":"Product Design",
               "code":"MH305",
               "points":"365*",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "finance":{
               "id":"41",
               "title":"Finance",
               "code":"MH401",
               "points":"370",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "accounting-finance":{
               "id":"42",
               "title":"Accounting & Finance",
               "code":"MH403",
               "points":"405",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-management":{
               "id":"43",
               "title":"Business Management",
               "code":"MH404",
               "points":"435",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "equine-business":{
               "id":"44",
               "title":"Equine Business",
               "code":"MH405",
               "points":"355",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "law-business":{
               "id":"45",
               "title":"Law & Business",
               "code":"MH406",
               "points":"445",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-accounting":{
               "id":"46",
               "title":"Business & Accounting",
               "code":"MH407",
               "points":"405",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "international-finance-economics":{
               "id":"47",
               "title":"International Finance & Economics",
               "code":"MH408",
               "points":"420",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "marketing":{
               "id":"48",
               "title":"Marketing",
               "code":"MH410",
               "points":"400",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "entrepreneurship":{
               "id":"49",
               "title":"Entrepreneurship",
               "code":"MH411",
               "points":"355",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "arts-kilkenny":{
               "id":"50",
               "title":"Arts Kilkenny",
               "code":"MH901",
               "points":"AQA",
-              "duration":"3-4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
