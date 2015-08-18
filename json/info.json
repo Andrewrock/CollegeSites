@@ -7366,7 +7366,435 @@
               "duration":"4yrs"
             }
           }
+        },
+        "university-college-dublin":{
+          "id":27,
+          "title":"University College Dublin",
+          "phone":"+",
+          "site":"",
+          "province":"Leinster",
+          "address":"",
+          "location":"Dublin",
+          "courses":{
+            "architecture":{
+              "id":"1",
+              "title":"Architecture",
+              "code":"DN100",
+              "points":"490",
+              "duration":"",
+              "level":""
+            },
+            "landscape":{
+              "id":"2",
+              "title":"Landscape Architecture",
+              "code":"DN120",
+              "points":"345",
+              "duration":"",
+              "level":""
+            },
+            "structural-engineering":{
+              "id":"3",
+              "title":"Structural Engineering with Architecture",
+              "code":"DN140",
+              "points":"455",
+              "duration":"",
+              "level":""
+            },
+            "engineering":{
+              "id":"4",
+              "title":"Engineering",
+              "code":"DN150",
+              "points":"495",
+              "duration":"",
+              "level":""
+            },
+            "science":{
+              "id":"5",
+              "title":"Science",
+              "code":"DN200",
+              "points":"515",
+              "duration":"",
+              "level":""
+            },
+            "computer-science":{
+              "id":"6",
+              "title":"Computer Science",
+              "code":"DN201",
+              "points":"470",
+              "duration":"",
+              "level":""
+            },
+            "actuary":{
+              "id":"7",
+              "title":"Actuarial & Financial Studies",
+              "code":"DN230",
+              "points":"560",
+              "duration":"",
+              "level":""
+            },
+            "agricultural-science":{
+              "id":"8",
+              "title":"Agricultural Science",
+              "code":"DN250",
+              "points":"465",
+              "duration":"",
+              "level":""
+            },
+            "animal-science-equine":{
+              "id":"9",
+              "title":"Animal Science Equine",
+              "code":"DN251",
+              "points":"425",
+              "duration":"",
+              "level":""
+            },
+            "dairy-business":{
+              "id":"10",
+              "title":"Dairy Business",
+              "code":"DN252",
+              "points":"445",
+              "duration":"",
+              "level":""
+            },
+            "food-science":{
+              "id":"11",
+              "title":"Food Science",
+              "code":"DN261",
+              "points":"490",
+              "duration":"",
+              "level":""
+            },
+            "nutrition":{
+              "id":"12",
+              "title":"Human Nutrition",
+              "code":"DN261",
+              "points":"530",
+              "duration":"4yrs",
+              "level":""
+            },
+            "forestry":{
+              "id":"13",
+              "title":"Forestry",
+              "code":"DN271",
+              "points":"375",
+              "duration":"",
+              "level":""
+            },
+            "horticulture-agri-environment":{
+              "id":"14",
+              "title":"Horticulture & Agri-Environmental Sciences",
+              "code":"DN272",
+              "points":"395",
+              "duration":"",
+              "level":""
+            },
+            "vet":{
+              "id":"15",
+              "title":"Veterinary Medicine",
+              "code":"DN300",
+              "points":"580",
+              "duration":"",
+              "level":""
+            },
+            "vet-grad":{
+              "id":"16",
+              "title":"Veterinary Medicine Graduate",
+              "code":"DN301",
+              "points":"N/A",
+              "duration":"",
+              "level":""
+            },
+            "vet-nurse":{
+              "id":"17",
+              "title":"Veterinary Nursing",
+              "code":"DN310",
+              "points":"465",
+              "duration":"",
+              "level":""
+            },
+            "medicine":{
+              "id":"18",
+              "title":"Medicine",
+              "code":"DN400",
+              "points":"#733",
+              "duration":"",
+              "level":""
+            },
+            "medicine-grad":{
+              "id":"19",
+              "title":"Medicine Graduate",
+              "code":"DN401",
+              "points":"N/A",
+              "duration":"",
+              "level":""
+            },
+            "radiography":{
+              "id":"20",
+              "title":"Radiography",
+              "code":"DN410",
+              "points":"550",
+              "duration":"",
+              "level":""
+            },
+            "physiotherapy":{
+              "id":"21",
+              "title":"Physiotherapy",
+              "code":"DN420",
+              "points":"555",
+              "duration":"",
+              "level":""
+            },
+            "health-performance-science":{
+              "id":"22",
+              "title":"BHealth & Performance Science",
+              "code":"DN425",
+              "points":"510",
+              "duration":"",
+              "level":""
+            },
+            "sport-exercise-management":{
+              "id":"23",
+              "title":"Sport & Exercise Management",
+              "code":"DN430",
+              "points":"450",
+              "duration":"",
+              "level":""
+            },
+            "bio-med-health-life-science":{
+              "id":"24",
+              "title":"Biomedical Health & Life Sciences",
+              "code":"DN440",
+              "points":"560",
+              "duration":"",
+              "level":""
+            },
+            "nursing":{
+              "id":"25",
+              "title":"General Nursing",
+              "code":"DN450",
+              "points":"425",
+              "duration":"",
+              "level":""
+            },
+            "child-general-nursing":{
+              "id":"26",
+              "title":"Child & General Nursing",
+              "code":"DN251",
+              "points":"495",
+              "duration":"",
+              "level":""
+            },
+            "midwife":{
+              "id":"27",
+              "title":"Midwifery",
+              "code":"DN452",
+              "points":"475",
+              "duration":"",
+              "level":""
+            },
+            "mental-nurse":{
+              "id":"28",
+              "title":"Psychiatric Nursing",
+              "code":"DN453",
+              "points":"415",
+              "duration":"",
+              "level":""
+            },
+            "general-nursing-mature":{
+              "id":"29",
+              "title":"General Nursing Mature",
+              "code":"DN460",
+              "points":"#168*",
+              "duration":"",
+              "level":""
+            },
+            "mature-child-general":{
+              "id":"30",
+              "title":"Mature Child & General Nursing",
+              "code":"DN461",
+              "points":"N/A",
+              "duration":"",
+              "level":""
+            },
+            "mature-midwife":{
+              "id":"31",
+              "title":"Mature Midwifery",
+              "code":"DN462",
+              "points":"N/A",
+              "duration":"",
+              "level":""
+            },
+            "mature-mental-nurse":{
+              "id":"32",
+              "title":"Mature Psychiatric Nursing",
+              "code":"DN463",
+              "points":"N/A",
+              "duration":"",
+              "level":""
+            },
+            "joint-degree-full":{
+              "id":"33",
+              "title":"BA Degree joint honours full time",
+              "code":"DN500",
+              "points":"340",
+              "duration":"",
+              "level":""
+            },
+            "joint-degree-part":{
+              "id":"34",
+              "title":"BA Degree joint honours part time",
+              "code":"DN501",
+              "points":"340",
+              "duration":"",
+              "level":""
+            },
+            "economics":{
+              "id":"35",
+              "title":"Economics",
+              "code":"DN510",
+              "points":"470",
+              "duration":"",
+              "level":""
+            },
+            "english":{
+              "id":"36",
+              "title":"English",
+              "code":"DN511",
+              "points":"470",
+              "duration":"",
+              "level":""
+            },
+            "english-drama":{
+              "id":"37",
+              "title":"English with Drama",
+              "code":"DN512",
+              "points":"470",
+              "duration":"",
+              "level":""
+            },
+            "english-film":{
+              "id":"38",
+              "title":"English with Film",
+              "code":"DN512",
+              "points":"355",
+              "duration":"",
+              "level":""
+            },
+            "planning-geog-environment":{
+              "id":"39",
+              "title":"Planning Geography and Environment",
+              "code":"DN514",
+              "points":"345",
+              "duration":"",
+              "level":""
+            },
+            "history":{
+              "id":"40",
+              "title":"History",
+              "code":"DN515",
+              "points":"420",
+              "duration":"",
+              "level":""
+            },
+            "music":{
+              "id":"41",
+              "title":"Music",
+              "code":"DN517",
+              "points":"#AQA",
+              "duration":"",
+              "level":""
+            },
+            "philosophy":{
+              "id":"42",
+              "title":"Philosophy",
+              "code":"DN518",
+              "points":"320",
+              "duration":"",
+              "level":""
+            },
+            "psychology":{
+              "id":"43",
+              "title":"Psychology",
+              "code":"DN519",
+              "points":"515",
+              "duration":"",
+              "level":""
+            },
+            "international-languages":{
+              "id":"44",
+              "title":"International languages",
+              "code":"DN541",
+              "points":"475",
+              "duration":"",
+              "level":""
+            },
+            "social-science":{
+              "id":"45",
+              "title":"Social Science",
+              "code":"DN550",
+              "points":"405",
+              "duration":"",
+              "level":""
+            },
+            "law":{
+              "id":"46",
+              "title":"Law",
+              "code":"DN600",
+              "points":"510",
+              "duration":"",
+              "level":""
+            },
+            "business-law":{
+              "id":"47",
+              "title":"Business Law",
+              "code":"DN610",
+              "points":"520",
+              "duration":"",
+              "level":""
+            },
+            "maitrise":{
+              "id":"48",
+              "title":"BCL Maitrise",
+              "code":"DN615",
+              "points":"560",
+              "duration":"",
+              "level":""
+            },
+            "law-french-law":{
+              "id":"49",
+              "title":"LAw with French Law",
+              "code":"DN616",
+              "points":"570",
+              "duration":"",
+              "level":""
+            },
+            "commerce":{
+              "id":"50",
+              "title":"Commerce",
+              "code":"DN650",
+              "points":"490",
+              "duration":"",
+              "level":""
+            },
+            "commerce-international":{
+              "id":"51",
+              "title":"Commerce International",
+              "code":"DN660",
+              "points":"510",
+              "duration":"",
+              "level":""
+            },
+            "economics-finance":{
+              "id":"52",
+              "title":"Economics & Finance",
+              "code":"DN671",
+              "points":"580",
+              "duration":"",
+              "level":""
+            }
+          }
         }
+
 
 
 
