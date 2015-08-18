@@ -57,8 +57,8 @@
       <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8165548" vertical-offset="2050" max-vertical-offset="11820">
-              <caret line="4331" column="24" selection-start-line="4331" selection-start-column="24" selection-end-line="4331" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.47427294" vertical-offset="1363" max-vertical-offset="10500">
+              <caret line="4275" column="20" selection-start-line="4275" selection-start-column="20" selection-end-line="4275" selection-end-column="20" />
               <folding>
                 <element signature="n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -75,6 +75,7 @@
                 <element signature="n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#st-patricks-drumcondra#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-of-art-design#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#mater-dei#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#american-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -443,10 +444,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="640" y="23" width="640" height="773" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26725402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26725402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -508,6 +509,7 @@
             <element signature="n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-patricks-drumcondra#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-of-art-design#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mater-dei#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#american-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -740,6 +742,7 @@
             <element signature="n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-patricks-drumcondra#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-of-art-design#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mater-dei#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#american-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -1361,8 +1364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8165548" vertical-offset="2050" max-vertical-offset="11820">
-          <caret line="4331" column="24" selection-start-line="4331" selection-start-column="24" selection-end-line="4331" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.47427294" vertical-offset="1363" max-vertical-offset="10500">
+          <caret line="4275" column="20" selection-start-line="4275" selection-start-column="20" selection-end-line="4275" selection-end-column="20" />
           <folding>
             <element signature="n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -1379,6 +1382,7 @@
             <element signature="n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-patricks-drumcondra#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#national-college-of-art-design#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#mater-dei#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#american-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />

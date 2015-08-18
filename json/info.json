@@ -4206,28 +4206,32 @@
               "title":"Medicine",
               "code":"RC001",
               "points":"#727",
-              "duration":"5-6yrs"
+              "duration":"5-6yrs",
+              "level":"8"
             },
             "physiotherapy":{
               "id":"2",
               "title":"Physiotherapy",
               "code":"RC004",
               "points":"540",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             },
             "pharmacy":{
               "id":"3",
               "title":"Pharmacy",
               "code":"RC005",
               "points":"555*",
-              "duration":"5yrs"
+              "duration":"5yrs",
+              "level":"8"
             },
             "medicine-grad":{
               "id":"4",
               "title":"Medicine Graduate Entry",
               "code":"RC101",
               "points":"#56*",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             }
           }
         },
@@ -4246,21 +4250,24 @@
               "title":"Primary Teaching",
               "code":"PD101",
               "points":"465",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "primary-teacher-irish":{
               "id":"2",
               "title":"Primary Teaching - Gaeltacht",
               "code":"PD102",
               "points":"425",
-              "duration":"4yrs"
+              "duration":"4yrs",
+              "level":"8"
             },
             "arts-humanities":{
               "id":"3",
               "title":"Arts/Humanities",
               "code":"PD103",
               "points":"395",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level":"8"
             }
           }
         },
