@@ -2889,6 +2889,7 @@
               "title":"Creative Multimedia",
               "code":"LC504",
               "points14":"210",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2897,6 +2898,7 @@
               "title":"Creative Multimedia (Honours)",
               "code":"LC517",
               "points14":"260",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2905,6 +2907,7 @@
               "title":"Digital Animation Production",
               "code":"LC518",
               "points14":"#550",
+              "points15":"#700",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2913,6 +2916,7 @@
               "title":"Fashion Knitwear & Textiles ",
               "code":"LC111",
               "points14":"#583",
+              "points15":"#610",
               "duration":"2yrs",
               "level":"6"
             },
@@ -2921,6 +2925,7 @@
               "title":"Economics & Mathematical Sciences",
               "code":"LC114",
               "points14":"#760",
+              "points15":"#707",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2929,6 +2934,7 @@
               "title":"First Year Art & Design",
               "code":"LC110",
               "points14":"#602",
+              "points15":"#614",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2936,7 +2942,8 @@
               "id":"7",
               "title":"Game Art & Design",
               "code":"LC502",
-              "points14":"New",
+              "points14":"0",
+              "points15":"#510",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2945,6 +2952,7 @@
               "title":"Applied Biology ",
               "code":"LC260",
               "points14":"300",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2953,6 +2961,7 @@
               "title":"Applied Chemistry",
               "code":"LC261",
               "points14":"255",
+              "points15":"255",
               "duration":"2yrs",
               "level":"6"
             },
@@ -2961,6 +2970,7 @@
               "title":"Drug & Medicinal Product Analysis",
               "code":"LC266",
               "points14":"267",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2969,6 +2979,7 @@
               "title":"Environmental & Analytical Science",
               "code":"LC264",
               "points14":"200",
+              "points15":"225",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2977,6 +2988,7 @@
               "title":"Environmental & Natural Resource Management",
               "code":"LC408",
               "points14":"275",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2985,6 +2997,7 @@
               "title":"Environmental & Natural Resource Management Cert",
               "code":"LC425",
               "points14":"240",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2992,7 +3005,8 @@
               "id":"14",
               "title":"Environmental Management in Agriculture",
               "code":"LC428",
-              "points14":"New",
+              "points14":"0",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3009,6 +3023,7 @@
               "title":"Civil Engineering Management",
               "code":"LC252",
               "points14":"215",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3017,6 +3032,7 @@
               "title":"Construction Higher Certificate in Science",
               "code":"LC253",
               "points14":"205",
+              "points15":"210",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3025,6 +3041,7 @@
               "title":"Construction Management Honours",
               "code":"LC241",
               "points14":"225",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3033,6 +3050,7 @@
               "title":"Construction Practice Higher Certificate in Science ",
               "code":"LC256",
               "points14":"170",
+              "points15":"180",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3049,6 +3067,7 @@
               "title":"Interior Design & Technology",
               "code":"LC257",
               "points14":"210",
+              "points15":"190",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3057,6 +3076,7 @@
               "title":"Property Valuation & Management",
               "code":"LC242",
               "points14":"225",
+              "points15":"265",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3065,6 +3085,7 @@
               "title":"Quantity Surveying",
               "code":"LC243",
               "points14":"235",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3073,6 +3094,7 @@
               "title":"Sustainable Building & Renewable Energy",
               "code":"LC244",
               "points14":"205",
+              "points15":"235",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3081,6 +3103,7 @@
               "title":"Electronic Engineering",
               "code":"LC279",
               "points14":"200",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3089,6 +3112,7 @@
               "title":"Industrial Automation & Robotic Systems",
               "code":"LC277",
               "points14":"200",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3097,6 +3121,7 @@
               "title":"Industrial Electrical Engineering",
               "code":"LC271",
               "points14":"225",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3105,6 +3130,7 @@
               "title":"Music Technology & Production",
               "code":"LC270",
               "points14":"325",
+              "points15":"315",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3113,6 +3139,7 @@
               "title":"Renewable & Electrical Energy Systems",
               "code":"LC278",
               "points14":"200",
+              "points15":"190",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3120,6 +3147,7 @@
               "id":"30",
               "title":"Video & Sound Technology",
               "code":"LC276",
+              "points15":"205",
               "points14":"235",
               "duration":"2yrs",
               "level":"6"
@@ -3129,6 +3157,7 @@
               "title":"Business Computing Higher Certificate",
               "code":"LC232",
               "points14":"215",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3137,6 +3166,7 @@
               "title":"Business Technology Information Systems",
               "code":"LC231",
               "points14":"250",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3153,6 +3183,7 @@
               "title":"Computer Networks & Systems Management",
               "code":"LC239",
               "points14":"300",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3169,6 +3200,7 @@
               "title":"Computer Services Management",
               "code":"LC416",
               "points14":"185",
+              "points15":"220",
               "duration":"3yrs",
               "level":"6"
             },
@@ -3177,6 +3209,7 @@
               "title":"Computing",
               "code":"LC403",
               "points14":"170",
+              "points15":"180",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3185,6 +3218,7 @@
               "title":"e-Business Management Systems",
               "code":"LC237",
               "points14":"210",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3193,6 +3227,7 @@
               "title":"Games Design & Development",
               "code":"LC418",
               "points14":"260",
+              "points15":"265",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3201,6 +3236,7 @@
               "title":"Internet Systems Development",
               "code":"LC235",
               "points14":"245",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3209,6 +3245,7 @@
               "title":"Internet Systems Development Honours",
               "code":"LC236",
               "points14":"330",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3217,6 +3254,7 @@
               "title":"Multimedia Programming & Design",
               "code":"LC234",
               "points14":"270",
+              "points15":"245",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3228,11 +3266,12 @@
               "duration":"4yrs",
               "level":"8"
             },
-            "software-development":{
+            "law-tax":{
               "id":"44",
-              "title":"Software Development",
+              "title":"Law & Taxation",
               "code":"LC223",
               "points14":"265",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3241,6 +3280,7 @@
               "title":"Applied Social Studies in Social Care",
               "code":"LC292",
               "points14":"340",
+              "points15":"340",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3248,7 +3288,8 @@
               "id":"46",
               "title":"Applied Social Studies in Social Care",
               "code":"LC402",
-              "points14":"New",
+              "points14":"0",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3257,13 +3298,16 @@
               "title":"Social & Community Services",
               "code":"LC407",
               "points14":"210",
-              "duration":"4yrs"
+              "points15":"205",
+              "duration":"4yrs",
+              "level":"8"
             },
             "business-clonmel":{
               "id":"48",
               "title":"Business (Clonmel)",
               "code":"LC501",
               "points14":"170",
+              "points15":"175",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3272,6 +3316,7 @@
               "title":"Business (Clonmel) Honours",
               "code":"LC513",
               "points14":"315",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3280,6 +3325,7 @@
               "title":"Business (Thurles)",
               "code":"LC401",
               "points14":"190",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3288,6 +3334,7 @@
               "title":"Business (Thurles) Honours",
               "code":"LC413",
               "points14":"245",
+              "points15":"265",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3296,126 +3343,133 @@
               "title":"Entrepreneurship",
               "code":"LC226",
               "points14":"250",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "law-tax":{
-              "id":"53",
-              "title":"Law & Taxation",
-              "code":"LC223",
-              "points14":"280",
+              "points15":"200",
               "duration":"4yrs",
               "level":"8"
             },
             "marketing-management-hons":{
-              "id":"54",
+              "id":"53",
               "title":"Marketing & Management Honours",
               "code":"LC225",
               "points14":"280",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "marketing-management":{
-              "id":"55",
+              "id":"54",
               "title":"Marketing & Management Higher Cert",
               "code":"LC222",
               "points14":"250",
+              "points15":"250",
               "duration":"2yrs",
               "level":"6"
             },
             "business-studies-event":{
-              "id":"56",
+              "id":"55",
               "title":"Business Studies & Event Management",
               "code":"LC294",
               "points14":"270",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "business-studies-tourism":{
-              "id":"57",
+              "id":"56",
               "title":"Business Studies & Tourism Management",
               "code":"LC293",
               "points14":"270",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
             "culinary-arts":{
-              "id":"58",
+              "id":"57",
               "title":"Culinary Arts",
               "code":"LC298",
               "points14":"330",
+              "points15":"220",
               "duration":"2yrs",
               "level":"6"
             },
             "hospitality-studies":{
-              "id":"59",
+              "id":"58",
               "title":"Hospitality Studies",
               "code":"LC299",
               "points14":"250",
+              "points15":"195",
               "duration":"2yrs",
               "level":"6"
             },
             "hotel-front-office":{
-              "id":"60",
+              "id":"59",
               "title":"Hotel Front Office Management",
               "code":"LC296",
               "points14":"215",
+              "points15":"210",
               "duration":"2yrs",
               "level":"6"
             },
             "accounting-finance":{
-              "id":"61",
+              "id":"60",
               "title":"Accounting & Finance",
               "code":"LC224",
               "points14":"300",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
             "accounting-finance-cert-cert":{
-              "id":"62",
+              "id":"61",
               "title":"Accounting & Finance Higher Certificate",
               "code":"LC221",
               "points14":"250",
+              "points15":"250",
               "duration":"2yrs",
               "level":"6"
             },
             "business-studies-sports":{
-              "id":"63",
+              "id":"62",
               "title":"Business Studies & Sports Management",
               "code":"LC295",
               "points14":"300",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
             "sports-coaching-development":{
-              "id":"64",
+              "id":"63",
               "title":"Sports Coaching & Development",
               "code":"LC228",
               "points14":"250",
+              "points15":"215",
               "duration":"2yrs",
               "level":"6"
             },
             "sports-strength-conditioning":{
-              "id":"65",
+              "id":"64",
               "title":"Sports Strength & Conditioning",
               "code":"LC423",
               "points14":"265",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
             "sports-strength-conditioning-hons":{
-              "id":"66",
+              "id":"65",
               "title":"Sports Strength & Conditioning Honours",
               "code":"LC422",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "med-tech":{
-              "id":"67",
+              "id":"66",
               "title":"Medical Technology",
               "code":"LC268",
-              "points14":"New",
+              "points14":"0",
+              "points15":"345",
               "duration":"3yrs",
               "level":"7"
             }
@@ -3435,6 +3489,7 @@
               "title":"Higher Certificate in Arts in Culinary Arts",
               "code":"TL620",
               "points14":"135",
+              "points15":"130",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3443,6 +3498,7 @@
               "title":"Higher Certificate in Business in Office Information Systems",
               "code":"TL605",
               "points14":"185",
+              "points15":"110",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3451,6 +3507,7 @@
               "title":"Higher Certificate in Arts in Hospitality Studies",
               "code":"TL621",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3459,6 +3516,7 @@
               "title":"Higher Certificate in Arts in Hospitality Studies",
               "code":"TL651",
               "points14":"260",
+              "points15":"260",
               "duration":"2yrs",
               "level":"6"
             },
@@ -3467,6 +3525,7 @@
               "title":"International Business",
               "code":"TL731",
               "points14":"200",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3475,6 +3534,7 @@
               "title":"Civil & Environmental Engineering ",
               "code":"TL745",
               "points14":"230",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3483,6 +3543,7 @@
               "title":"Agricultural Engineering",
               "code":"TL744",
               "points14":"220",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3491,6 +3552,7 @@
               "title":"Manufacturing & Mechatronics Engineering",
               "code":"TL747",
               "points14":"225",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3499,6 +3561,7 @@
               "title":"Energy Technology & the Built Environment",
               "code":"TL746",
               "points14":"225",
+              "points15":"225",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3507,6 +3570,7 @@
               "title":"Culinary Arts",
               "code":"TL719",
               "points14":"250",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3515,6 +3579,7 @@
               "title":"Early Childhood Care & Education ",
               "code":"TL780",
               "points14":"200",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3523,6 +3588,7 @@
               "title":"Social Care",
               "code":"TL781",
               "points14":"250",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3531,6 +3597,7 @@
               "title":"Youth & Community Work Practice",
               "code":"TL782",
               "points14":"260",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3539,6 +3606,7 @@
               "title":"Computing with Mobile App Development",
               "code":"TL714",
               "points14":"233",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3547,6 +3615,7 @@
               "title":"Computing with Games Development",
               "code":"TL711",
               "points14":"220",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3555,6 +3624,7 @@
               "title":"Computing with Multimedia",
               "code":"TL712",
               "points14":"215",
+              "points15":"225",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3563,6 +3633,7 @@
               "title":"Computing with Software Development",
               "code":"TL710",
               "points14":"205",
+              "points15":"217",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3571,6 +3642,7 @@
               "title":"Adventure Tourism Management",
               "code":"TL721",
               "points14":"245",
+              "points15":"225",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3579,6 +3651,7 @@
               "title":"Hotel Management",
               "code":"TL722",
               "points14":"451",
+              "points15":"#",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3587,6 +3660,7 @@
               "title":"Travel & Tourism Management",
               "code":"TL720",
               "points14":"205",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3595,6 +3669,7 @@
               "title":"Agricultural Science",
               "code":"TL748",
               "points14":"305",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3603,6 +3678,7 @@
               "title":"Food Science with Innovation",
               "code":"TL749",
               "points14":"300",
+              "points15":"null",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3611,6 +3687,7 @@
               "title":"Health & Leisure with Massage",
               "code":"TL772",
               "points14":"330",
+              "points15":"310",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3619,14 +3696,16 @@
               "title":"Health & Leisure",
               "code":"TL771",
               "points14":"290",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
-            "psychiatric-nursing-mature":{
+            "pharm-sciences":{
               "id":"25",
-              "title":"Psychiatric Nursing - Mature Applicants",
+              "title":"Pharmaceutical Science",
               "code":"TL755",
               "points14":"null",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3635,6 +3714,7 @@
               "title":"Advanced Wood Technology",
               "code":"TL743",
               "points14":"205",
+              "points15":"null",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3643,6 +3723,7 @@
               "title":"Business Studies",
               "code":"TL831",
               "points14":"300",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3650,7 +3731,8 @@
               "id":"28",
               "title":"Agricultural Engineering",
               "code":"TL844",
-              "points14":"New",
+              "points14":"0",
+              "points15":"325",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3659,6 +3741,7 @@
               "title":"Manufacturing Engineering",
               "code":"TL847",
               "points14":"265",
+              "points15":"345",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3667,14 +3750,16 @@
               "title":"Early Childhood Care & Education",
               "code":"TL880",
               "points14":"300",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
             "interactive-media-design":{
               "id":"31",
-              "title":"Design for Interactive  Media ",
+              "title":"Design for Interactive Media ",
               "code":"TL801",
               "points14":"283",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3683,6 +3768,7 @@
               "title":"Computing with Mobile App Development",
               "code":"TL814",
               "points14":"375",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3691,6 +3777,7 @@
               "title":"Computing with Games Development",
               "code":"TL811",
               "points14":"333",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3699,6 +3786,7 @@
               "title":"Computing with Multimedia",
               "code":"TL812",
               "points14":"310",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3707,6 +3795,7 @@
               "title":"Computing with Software Development",
               "code":"TL810",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3715,6 +3804,7 @@
               "title":"Creative Writing for Digital Media",
               "code":"TL804",
               "points14":"295",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3723,6 +3813,7 @@
               "title":"Information Systems Management",
               "code":"TL805",
               "points14":"370",
+              "points15":"340",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3731,6 +3822,7 @@
               "title":"Music Technology",
               "code":"TL803",
               "points14":"270",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3739,6 +3831,7 @@
               "title":"TV Radio & New Media Broadcasting",
               "code":"TL802",
               "points14":"300",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3747,6 +3840,7 @@
               "title":"General Nursing",
               "code":"TL890",
               "points14":"415",
+              "points15":"415",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3755,6 +3849,7 @@
               "title":"Mature Applicants General Nursing",
               "code":"TL892",
               "points14":"null",
+              "points15":"167#*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3763,6 +3858,7 @@
               "title":"Mental Health Nursing",
               "code":"TL891",
               "points14":"385",
+              "points15":"395",
               "duration":"4yrs"
             },
             "mature-mental-health-nurse":{
@@ -3770,6 +3866,7 @@
               "title":"Mature Applicants Mental Health Nursing",
               "code":"TL893",
               "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3778,6 +3875,7 @@
               "title":"Adventure Tourism Management ",
               "code":"TL821",
               "points14":"310",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3786,6 +3884,7 @@
               "title":"Hotel Management",
               "code":"TL822",
               "points14":"544",
+              "points15":"#",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3794,6 +3893,7 @@
               "title":"Travel & Tourism Management",
               "code":"TL820",
               "points14":"350",
+              "points15":"265",
               "duration":"2yrs",
               "level":"8"
             },
@@ -3801,7 +3901,8 @@
               "id":"47",
               "title":"Agricultural Science",
               "code":"TL848",
-              "points14":"New",
+              "points14":"0",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3810,6 +3911,7 @@
               "title":"Field Biology & Wildlife Tourism ",
               "code":"TL850",
               "points14":"315",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3818,6 +3920,7 @@
               "title":"Health & Leisure with Massage",
               "code":"TL872",
               "points14":"390",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3826,6 +3929,7 @@
               "title":"Health & Leisure",
               "code":"TL871",
               "points14":"350",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3833,7 +3937,8 @@
               "id":"51",
               "title":"Pharmaceutical Science",
               "code":"TL855",
-              "points14":"New",
+              "points14":"0",
+              "points15":"395",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3842,6 +3947,7 @@
               "title":"Wildlife Biology ",
               "code":"TL851",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3868,7 +3974,17 @@
               "points14":"300",
               "duration":"4yrs",
               "level":"8"
+            },
+            "adv-bus":{
+              "id":"55",
+              "title":"Advanced Business",
+              "code":"TL630",
+              "points14":"300",
+              "points15":"420",
+              "duration":"3yrs",
+              "level":"7"
             }
+
           }
         },
         "irish-college-of-humanities-applied-science":{
@@ -3885,6 +4001,7 @@
               "title":"Counselling Skills & Psychotherapy Studies",
               "code":"CI001",
               "points14":"AQA",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3893,6 +4010,7 @@
               "title":"Counselling Skills & Addiction Studies",
               "code":"CI002",
               "points14":"140",
+              "points15":"125",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3901,6 +4019,7 @@
               "title":"Counselling Skills & Youth Studies",
               "code":"CI005",
               "points14":"105",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -3925,6 +4044,7 @@
               "title":"Counselling & Psychotherapy",
               "code":"CI101",
               "points14":"233",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10210,6 +10330,7 @@
               "title":"Arts",
               "code":"GY101",
               "points14":"300",
+              "points15":"300",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -10218,6 +10339,7 @@
               "title":"Arts Public & Social Policy",
               "code":"GY103",
               "points14":"355",
+              "points15":"345",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10226,6 +10348,7 @@
               "title":"Arts Psychology",
               "code":"GY104",
               "points14":"525",
+              "points15":"515",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10234,6 +10357,7 @@
               "title":"Arts History",
               "code":"GY105",
               "points14":"300",
+              "points15":"305",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -10242,6 +10366,7 @@
               "title":"Na Dana Cumarsaid",
               "code":"GY106",
               "points14":"360",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10250,6 +10375,7 @@
               "title":"Na Dana Gaeilge agus Leann an Aistriuchain",
               "code":"GY107",
               "points14":"315",
+              "points15":"485",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10258,6 +10384,7 @@
               "title":"Arts Music & Education",
               "code":"GY109",
               "points14":"405",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10266,6 +10393,7 @@
               "title":"Arts with Children Studies",
               "code":"GY110",
               "points14":"420",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10274,6 +10402,7 @@
               "title":"Arts with Creative Writing",
               "code":"GY111",
               "points14":"460",
+              "points15":"425",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10282,6 +10411,7 @@
               "title":"Arts with Film Studies",
               "code":"GY112",
               "points14":"385",
+              "points15":"400",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10290,6 +10420,7 @@
               "title":"Arts with Human Rights",
               "code":"GY113",
               "points14":"380",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10298,6 +10429,7 @@
               "title":"Arts with Irish Studies",
               "code":"GY114",
               "points14":"320",
+              "points15":"365",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10306,6 +10438,7 @@
               "title":"Arts with Performing Arts Studies",
               "code":"GY115",
               "points14":"355",
+              "points15":"345",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10314,6 +10447,7 @@
               "title":"Arts with Latin American Studies",
               "code":"GY117",
               "points14":"410",
+              "points15":"365",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10322,6 +10456,7 @@
               "title":"Arts Drama Theatre & Performance Studies",
               "code":"GY118",
               "points14":"405",
+              "points15":"435",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10330,6 +10465,7 @@
               "title":"Arts with Journalism",
               "code":"GY119",
               "points14":"430",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10338,6 +10474,7 @@
               "title":"Arts Youth & Family Studies",
               "code":"GY120",
               "points14":"305",
+              "points15":"305",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10346,14 +10483,16 @@
               "title":"Commerce",
               "code":"GY201",
               "points14":"380",
+              "points15":"390",
               "duration":"3yrs",
               "level":"8"
             },
             "commerce-french":{
               "id":"19",
               "title":"Commerce with French",
-              "code":"GY201",
+              "code":"GY202",
               "points14":"480",
+              "points15":"500",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10362,6 +10501,7 @@
               "title":"Commerce with German",
               "code":"GY203",
               "points14":"460",
+              "points15":"465",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10370,6 +10510,7 @@
               "title":"Commerce with Spanish",
               "code":"GY204",
               "points14":"470",
+              "points15":"475",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10378,6 +10519,7 @@
               "title":"Business Information Systems",
               "code":"GY206",
               "points14":"420",
+              "points15":"430",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10386,6 +10528,7 @@
               "title":"Commerce with Accounting",
               "code":"GY207",
               "points14":"450",
+              "points15":"460",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -10394,6 +10537,7 @@
               "title":"Commerce with Irish",
               "code":"GY208",
               "points14":"420",
+              "points15":"430",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10402,6 +10546,7 @@
               "title":"Corporate Law",
               "code":"GY250",
               "points14":"370",
+              "points15":"390",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10410,6 +10555,7 @@
               "title":"Civil Law",
               "code":"GY251",
               "points14":"425",
+              "points15":"440",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10418,6 +10564,7 @@
               "title":"Science",
               "code":"GY301",
               "points14":"400",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10426,6 +10573,7 @@
               "title":"Biomedical Science",
               "code":"GY303",
               "points14":"540",
+              "points15":"530",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10434,6 +10582,7 @@
               "title":"Biotechnology",
               "code":"GY304",
               "points14":"465",
+              "points15":"475",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10442,6 +10591,7 @@
               "title":"Environmental Science",
               "code":"GY308",
               "points14":"405",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10450,6 +10600,7 @@
               "title":"Financial Mathematics & Economics",
               "code":"GY309",
               "points14":"450",
+              "points15":"505",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10458,6 +10609,7 @@
               "title":"Marine Science",
               "code":"GY310",
               "points14":"400",
+              "points15":"400",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10466,6 +10618,7 @@
               "title":"Health & Safety Systems",
               "code":"GY313",
               "points14":"310",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10474,6 +10627,7 @@
               "title":"Earth & Ocean Sciences",
               "code":"GY314",
               "points14":"380",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10482,6 +10636,7 @@
               "title":"Biopharmaceutical Science",
               "code":"GY318",
               "points14":"510",
+              "points15":"500",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10490,6 +10645,7 @@
               "title":"Mathematical Science",
               "code":"GY319",
               "points14":"490",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10498,6 +10654,7 @@
               "title":"Physics",
               "code":"GY320",
               "points14":"420",
+              "points15":"425",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10506,6 +10663,7 @@
               "title":"Computer Science & Information Technology",
               "code":"GY350",
               "points14":"420",
+              "points15":"440",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10514,6 +10672,7 @@
               "title":"Engineering",
               "code":"GY401",
               "points14":"400",
+              "points15":"450",
               "duration":"1yr",
               "level":"8"
             },
@@ -10522,6 +10681,7 @@
               "title":"Civil Engineering",
               "code":"GY402",
               "points14":"415",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10530,6 +10690,7 @@
               "title":"Mechanical Engineering",
               "code":"GY405",
               "points14":"425",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10538,6 +10699,7 @@
               "title":"Electronic & Computer Engineering",
               "code":"GY406",
               "points14":"405",
+              "points15":"455",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10546,6 +10708,7 @@
               "title":"Biomedical Engineering",
               "code":"GY408",
               "points14":"420",
+              "points15":"485",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10554,6 +10717,7 @@
               "title":"Project & Construction Management",
               "code":"GY410",
               "points14":"360",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10562,6 +10726,7 @@
               "title":"Energy Systems Engineering",
               "code":"GY413",
               "points14":"430",
+              "points15":"505",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10570,6 +10735,7 @@
               "title":"Medicine",
               "code":"GY501",
               "points14":"#721*",
+              "points15":"#723*",
               "duration":"5-8",
               "level":"8"
             },
@@ -10578,6 +10744,7 @@
               "title":"Occupational Therapy",
               "code":"GY502",
               "points14":"515",
+              "points15":"535",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10586,6 +10753,7 @@
               "title":"Podiatry",
               "code":"GY504",
               "points14":"465",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10594,6 +10762,7 @@
               "title":"General Nursing",
               "code":"GY515",
               "points14":"450*",
+              "points15":"460",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10602,6 +10771,7 @@
               "title":"Psychiatric Nursing",
               "code":"GY516",
               "points14":"410",
+              "points15":"440",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10610,6 +10780,7 @@
               "title":"Midwifery",
               "code":"GY517",
               "points14":"455",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10617,7 +10788,8 @@
               "id":"52",
               "title":"General Nursing Mature",
               "code":"GY525",
-              "points14":"N/A",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10625,7 +10797,8 @@
               "id":"53",
               "title":"Mature Psychiatric Nursing",
               "code":"GY526",
-              "points14":"N/A",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10633,7 +10806,8 @@
               "id":"54",
               "title":"Mature Midwifery",
               "code":"GY527",
-              "points14":"N/A",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10642,6 +10816,7 @@
               "title":"Speech Language Therapy",
               "code":"GY503",
               "points14":"510",
+              "points15":"530",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10650,6 +10825,7 @@
               "title":"Electrical & Electronic Engineering",
               "code":"GY414",
               "points14":"420",
+              "points15":"490",
               "duration":"4yrs",
               "level":"8"
             }
@@ -10673,6 +10849,7 @@
               "title":"Business Accounting",
               "code":"LY108",
               "points14":"305",
+              "points15":"335",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10681,6 +10858,7 @@
               "title":"Business",
               "code":"LY118",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -10689,6 +10867,7 @@
               "title":"Law",
               "code":"LY208",
               "points14":"270",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10697,6 +10876,7 @@
               "title":"Business - with French/Spanish/German/Irish",
               "code":"LY218",
               "points14":"245",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10705,6 +10885,7 @@
               "title":"Sports Coaching & Performance",
               "code":"LY228",
               "points14":"260",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10713,6 +10894,7 @@
               "title":"Culinary Arts & Food Technology",
               "code":"LY318",
               "points14":"400",
+              "points15":"283",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10721,6 +10903,7 @@
               "title":"Visual Communication & Graphic Design",
               "code":"LY408",
               "points14":"275",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10729,6 +10912,7 @@
               "title":"Fire Safety Engineering",
               "code":"LY508",
               "points14":"275",
+              "points15":"220",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10737,6 +10921,7 @@
               "title":"Applied Computing",
               "code":"LY708",
               "points14":"235",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10753,6 +10938,7 @@
               "title":"General Nursing",
               "code":"LY908",
               "points14":"400*",
+              "points15":"390*",
               "duration":"4yrs"
             },
             "psychiatric-nursing":{
@@ -10760,6 +10946,7 @@
               "title":"Psychiatric Nursing",
               "code":"LY918",
               "points14":"365",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10768,6 +10955,7 @@
               "title":"Intellectual Disability Nursing",
               "code":"LY928",
               "points14":"355",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10775,7 +10963,8 @@
               "id":"14",
               "title":"Mature General Nursing",
               "code":"LY938",
-              "points14":"n/a",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10783,7 +10972,8 @@
               "id":"15",
               "title":"Mature Applicants Psychiatric Nursing",
               "code":"LY948",
-              "points14":"n/a",
+              "points14":"null",
+              "points15":"nul",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10791,7 +10981,8 @@
               "id":"16",
               "title":"Mature Applicants Intellectual Disability Nursing",
               "code":"LY958",
-              "points14":"n/a",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10800,6 +10991,7 @@
               "title":"Early Childhood Care Health & Education",
               "code":"LY968",
               "points14":"275",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10808,6 +11000,7 @@
               "title":"Business Accounting & Administration",
               "code":"LY106",
               "points14":"105",
+              "points15":"105",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10816,6 +11009,7 @@
               "title":"Business Management",
               "code":"LY107",
               "points14":"145",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10824,6 +11018,7 @@
               "title":"Administration & IT",
               "code":"LY117",
               "points14":"150",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10832,6 +11027,7 @@
               "title":"Business Marketing",
               "code":"LY127",
               "points14":"150",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10840,6 +11036,7 @@
               "title":"Sports Studies",
               "code":"LY206",
               "points14":"100",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10848,6 +11045,7 @@
               "title":"Law with Criminal Justice (language)",
               "code":"LY207",
               "points14":"145",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10856,6 +11054,7 @@
               "title":"Hotel Administration",
               "code":"LY306",
               "points14":"AQA",
+              "points15":"110",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10864,6 +11063,7 @@
               "title":"Culinary Arts",
               "code":"LY317",
               "points14":"145",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10872,6 +11072,7 @@
               "title":"Bar & Restaurant Supervision",
               "code":"LY336",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10880,6 +11081,7 @@
               "title":"Culinary Arts Higher Cert",
               "code":"LY346",
               "points14":"AQA",
+              "points15":"100",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10887,7 +11089,8 @@
               "id":"28",
               "title":"Photography",
               "code":"LY406",
-              "points14":"New",
+              "points14":"0",
+              "points15":"100",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10904,6 +11107,7 @@
               "title":"Digital Media Design",
               "code":"LY427",
               "points14":"165",
+              "points15":"150",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10912,6 +11116,7 @@
               "title":"Animation",
               "code":"LY437",
               "points14":"150",
+              "points15":"150",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10920,6 +11125,7 @@
               "title":"Quantity Surveying",
               "code":"LY507",
               "points14":"175",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10928,6 +11134,7 @@
               "title":"Civil Engineering",
               "code":"LY527",
               "points14":"165",
+              "points15":"175",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10936,6 +11143,7 @@
               "title":"Architectural Technology",
               "code":"LY547",
               "points14":"235",
+              "points15":"145",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10944,6 +11152,7 @@
               "title":"Electronics",
               "code":"LY607",
               "points14":"150",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10960,6 +11169,7 @@
               "title":"Mechanical Engineering",
               "code":"LY617",
               "points14":"155",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10968,6 +11178,7 @@
               "title":"Computer Games Development",
               "code":"LY707",
               "points14":"185",
+              "points15":"190",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10976,6 +11187,7 @@
               "title":"Computing",
               "code":"LY717",
               "points14":"145",
+              "points15":"150",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10984,6 +11196,7 @@
               "title":"Computer Security & Digital Forensics",
               "code":"LY737",
               "points14":"160",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10992,6 +11205,7 @@
               "title":"Pharmacy Technician",
               "code":"LY806",
               "points14":"170",
+              "points15":"175",
               "duration":"2yrs",
               "level":"6"
             },
@@ -11000,6 +11214,7 @@
               "title":"Dental Nursing",
               "code":"LY816",
               "points14":"205",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -11008,6 +11223,7 @@
               "title":"Bioscience",
               "code":"LY817",
               "points14":"225",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11032,6 +11248,7 @@
               "title":"Food Science & Nutrition",
               "code":"LY837",
               "points14":"150",
+              "points15":"145",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11040,6 +11257,7 @@
               "title":"Veterinary Nursing",
               "code":"LY847",
               "points14":"385*",
+              "points15":"375",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11048,6 +11266,7 @@
               "title":"Early Childhood Care Health & Education",
               "code":"LY906",
               "points14":"185",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -11056,6 +11275,7 @@
               "title":"Health & Social Care",
               "code":"LY916",
               "points14":"160",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -11071,7 +11291,8 @@
               "id":"51",
               "title":"Quantity Surveying",
               "code":"LY518",
-              "points14":"New",
+              "points14":"0",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -11079,15 +11300,17 @@
               "id":"52",
               "title":"Hotel Restaurant & Resort Management",
               "code":"LY327",
-              "points14":"New",
+              "points14":"0",
+              "points15":"150",
               "duration":"3yrs",
               "level":"7"
             },
             "pharm-med-science":{
               "id":"53",
               "title":"Pharmaceutical & Medicinal Science",
-              "code":"GA471",
-              "points14":"New",
+              "code":"LY867",
+              "points14":"0",
+              "points15":"170",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11095,7 +11318,8 @@
               "id":"54",
               "title":"Science",
               "code":"LY818",
-              "points14":"New",
+              "points14":"0",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -11103,7 +11327,8 @@
               "id":"55",
               "title":"Health & Social Care ",
               "code":"LY978",
-              "points14":"New",
+              "points14":"0",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -11111,7 +11336,8 @@
               "id":"56",
               "title":"Agriculture",
               "code":"LY877",
-              "points14":"New",
+              "points14":"0",
+              "points15":"170",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11119,10 +11345,21 @@
               "id":"57",
               "title":"Fashion with Promotion",
               "code":"LY447",
-              "points14":"New",
+              "points14":"0",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
+            },
+            "building-services-renewable-energy":{
+              "id":"58",
+              "title":"Building Services & Renewable Energy",
+              "code":"LY517",
+              "points14":"",
+              "points15":"155",
+              "duration":"",
+              "level":"7"
             }
+
           }
         }
       }
