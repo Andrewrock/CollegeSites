@@ -1351,6 +1351,7 @@
               "title":"Law",
               "code":"GC203",
               "points14":"null",
+              "points15":"null",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1359,6 +1360,7 @@
               "title":"Computing Science",
               "code":"GC230",
               "points14":"295",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1367,6 +1369,7 @@
               "title":"Business",
               "code":"GC211",
               "points14":"170",
+              "points15":"null",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1375,6 +1378,7 @@
               "title":"Journalism",
               "code":"GC265",
               "points14":"130",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             }
@@ -1395,6 +1399,7 @@
               "title":"Accounting Finance",
               "code":"GC301",
               "points14":"275",
+              "points15":"null",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1403,6 +1408,7 @@
               "title":"Business Studies",
               "code":"GC300",
               "points14":"280",
+              "points15":"270",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1411,6 +1417,7 @@
               "title":"Computing Science",
               "code":"GC330",
               "points14":"245",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1419,6 +1426,7 @@
               "title":"International Hospitality Management",
               "code":"GC306",
               "points14":"120",
+              "points15":"105",
               "duration":"1.5yrs",
               "level":"7"
             },
@@ -1427,6 +1435,7 @@
               "title":"Marketing",
               "code":"GC310",
               "points14":"AQA",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1435,6 +1444,7 @@
               "title":"Business Studies",
               "code":"GC311",
               "points14":"125",
+              "points15":"125",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1443,6 +1453,7 @@
               "title":"Business",
               "code":"GC316",
               "points14":"355",
+              "points15":"180",
               "duration":"2yrs",
               "level":"2"
             },
@@ -1451,6 +1462,7 @@
               "title":"Computing",
               "code":"GC335",
               "points14":"AQA",
+              "points15":"120",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1459,6 +1471,7 @@
               "title":"Computing",
               "code":"GC340",
               "points14":"155",
+              "points15":"100",
               "duration":"2yrs",
               "level":"6"
             }
@@ -2792,7 +2805,7 @@
               "points15":"345",
               "duration":"4yrs",
               "level":"8"
-            },
+            }
           }
         },
         "limerick-institute-technology":{
