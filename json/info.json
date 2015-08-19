@@ -1399,6 +1399,7 @@
               "title":"Bachelor of Arts",
               "code":"MI004",
               "points14":"325",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1407,6 +1408,7 @@
               "title":"Education & Psychology",
               "code":"MI008",
               "points14":"550",
+              "points15":"560",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1415,6 +1417,7 @@
               "title":"Early Childhood Care & Education",
               "code":"MI007",
               "points14":"360",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1423,17 +1426,29 @@
               "title":"Education - Primary Teaching",
               "code":"M1005",
               "points14":"465",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
             "education-gaeltacht":{
-              "id":"4",
+              "id":"5",
               "title":"Education - Primary Teaching - Gaeltacht Applicant",
               "code":"M1006",
               "points14":"425",
+              "points15":"430",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "applied-theatre-studies":{
+              "id":"6",
+              "title":"Contemporary and Applied Theatre Studies",
+              "code":"M1001",
+              "points14":"0",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             }
+
           }
         },
         "waterford-institute-of-technology":{

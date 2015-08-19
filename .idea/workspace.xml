@@ -58,9 +58,10 @@
       <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.045238096" vertical-offset="1151" max-vertical-offset="112890">
-              <caret line="550" column="44" selection-start-line="550" selection-start-column="44" selection-end-line="550" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.64285713" vertical-offset="2670" max-vertical-offset="111840">
+              <caret line="1442" column="21" selection-start-line="1442" selection-start-column="21" selection-end-line="1442" selection-end-column="21" />
               <folding>
+                <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#applied-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#arts-international#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -130,6 +131,8 @@
                 <element signature="n#!!block;n#civil-environmental-engineering#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#process-chemical-engineering#1;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#education-psychology#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#education#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#waterford-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#limerick-institute-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#church-of-ireland-college-of-education#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -387,6 +390,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="9690" max-vertical-offset="10515">
           <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#applied-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts-international#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -456,6 +460,8 @@
             <element signature="n#!!block;n#civil-environmental-engineering#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#process-chemical-engineering#1;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education-psychology#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#waterford-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#limerick-institute-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#church-of-ireland-college-of-education#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -512,6 +518,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11520">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#applied-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts-international#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -581,6 +588,8 @@
             <element signature="n#!!block;n#civil-environmental-engineering#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#process-chemical-engineering#1;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education-psychology#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#waterford-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#limerick-institute-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#church-of-ireland-college-of-education#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -1041,9 +1050,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.045238096" vertical-offset="1151" max-vertical-offset="112890">
-          <caret line="550" column="44" selection-start-line="550" selection-start-column="44" selection-end-line="550" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.64285713" vertical-offset="2670" max-vertical-offset="111840">
+          <caret line="1442" column="21" selection-start-line="1442" selection-start-column="21" selection-end-line="1442" selection-end-column="21" />
           <folding>
+            <element signature="n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#applied-psychology#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#arts-international#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -1113,6 +1123,8 @@
             <element signature="n#!!block;n#civil-environmental-engineering#0;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#process-chemical-engineering#1;n#!!block;n#courses#0;n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education-psychology#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#education#0;n#!!block;n#courses#0;n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#waterford-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#limerick-institute-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#church-of-ireland-college-of-education#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
