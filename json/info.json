@@ -637,6 +637,7 @@
               "title":"Applied Physics & Instrumentation",
               "code":"CR001",
               "points14":"280",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
@@ -645,6 +646,7 @@
               "title":"Applied Biosciences",
               "code":"CR006",
               "points14":"280",
+              "points15":"340",
               "duration":"3yrs",
               "level":"7"
             },
@@ -653,6 +655,7 @@
               "title":"Analytical & Pharmaceutical Chemistry",
               "code":"CR007",
               "points14":"270",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
@@ -661,6 +664,7 @@
               "title":"Agriculture",
               "code":"CR010",
               "points14":"350",
+              "points15":"360",
               "duration":"3yrs",
               "level":"7"
             },
@@ -669,6 +673,7 @@
               "title":"Horticulture",
               "code":"CR011",
               "points14":"180",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -677,6 +682,7 @@
               "title":"Computing",
               "code":"CR016",
               "points14":"300",
+              "points15":"310",
               "duration":"3yrs",
               "level":"7"
             },
@@ -685,6 +691,7 @@
               "title":"Business Studies",
               "code":"CR021",
               "points14":"275",
+              "points15":"290",
               "duration":"3yrs",
               "level":"7"
             },
@@ -693,6 +700,7 @@
               "title":"Business Administration",
               "code":"CR022",
               "points14":"240",
+              "points15":"255",
               "duration":"3yrs",
               "level":"7"
             },
@@ -701,6 +709,7 @@
               "title":"Accounting",
               "code":"CR023",
               "points14":"310",
+              "points15":"305",
               "duration":"3yrs",
               "level":"7"
             },
@@ -709,6 +718,7 @@
               "title":"Social Care",
               "code":"CR031",
               "points14":"365",
+              "points15":"350",
               "duration":"3yrs",
               "level":"7"
             },
@@ -717,6 +727,7 @@
               "title":"Recreation & Leisure Management",
               "code":"CR032",
               "points14":"320",
+              "points15":"335",
               "duration":"3yrs",
               "level":"7"
             },
@@ -725,6 +736,7 @@
               "title":"Tourism",
               "code":"CR041",
               "points14":"250",
+              "points15":"255",
               "duration":"3yrs",
               "level":"7"
             },
@@ -733,6 +745,7 @@
               "title":"Hospitality Management",
               "code":"CR042",
               "points14":"250",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -741,6 +754,7 @@
               "title":"Transport Management & Technology",
               "code":"CR046",
               "points14":"210",
+              "points15":"210",
               "duration":"3yrs",
               "level":"7"
             },
@@ -749,6 +763,7 @@
               "title":"Civil Engineering",
               "code":"CR051",
               "points14":"220",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -757,6 +772,7 @@
               "title":"Construction",
               "code":"CR052",
               "points14":"210",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -765,6 +781,7 @@
               "title":"Interior Architecture",
               "code":"CR053",
               "points14":"215",
+              "points15":"245",
               "duration":"3yrs",
               "level":"7"
             },
@@ -773,6 +790,7 @@
               "title":"Environmental Engineering",
               "code":"CR055",
               "points14":"235",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -781,6 +799,7 @@
               "title":"Electronic Engineering",
               "code":"CR061",
               "points14":"215",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -789,6 +808,7 @@
               "title":"Electrical Engineering",
               "code":"CR062",
               "points14":"210",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -797,465 +817,524 @@
               "title":"Mechanical Engineering",
               "code":"CR071",
               "points14":"260",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "building-services-engineering":{
-              "id":"22",
-              "title":"Building Services Engineering",
-              "code":"CR072",
-              "points14":"215",
+              "points15":"305",
               "duration":"3yrs",
               "level":"7"
             },
             "bio-med":{
-              "id":"23",
+              "id":"22",
               "title":"Biomedical Engineering",
               "code":"CR075",
               "points14":"300",
+              "points15":"305",
               "duration":"3yrs",
               "level":"7"
             },
             "craft-services":{
-              "id":"24",
+              "id":"23",
               "title":"Craft Technology (Wood) with Business",
               "code":"CR077",
               "points14":"215",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
             "craft-mechanical":{
-              "id":"25",
+              "id":"24",
               "title":"Craft Technology - Mechanical Services",
               "code":"CR078",
               "points14":"215",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
             "architectural-tech":{
-              "id":"26",
+              "id":"25",
               "title":"Architectural Technology",
               "code":"CR090",
               "points14":"245",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
             "nautical-science":{
-              "id":"27",
+              "id":"26",
               "title":"Nautical Science",
               "code":"CR094",
               "points14":"310",
+              "points15":"310",
               "duration":"3.5yrs",
               "level":"7"
             },
             "marine-engineering":{
-              "id":"28",
+              "id":"27",
               "title":"Marine Engineering",
               "code":"CR095",
               "points14":"270",
+              "points15":"270",
               "duration":"4yrs",
               "level":"7"
             },
             "physical-sciences":{
-              "id":"29",
+              "id":"28",
               "title":"Physical Sciences ",
               "code":"CR300",
               "points14":"315",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
             "early-years-education":{
-              "id":"30",
+              "id":"29",
               "title":"Early Years Education",
               "code":"CR620",
               "points14":"370",
+              "points15":"340",
               "duration":"3yrs",
               "level":"7"
             },
             "culinary-arts":{
-              "id":"31",
+              "id":"30",
               "title":"Culinary Arts",
               "code":"CR640",
               "points14":"310",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
             "bar-management":{
-              "id":"32",
+              "id":"31",
               "title":"Bar Management",
               "code":"CR650",
               "points14":"250",
+              "points15":"245",
               "duration":"3yrs",
               "level":"7"
             },
             "marine-elec":{
-              "id":"33",
+              "id":"32",
               "title":"Marine Electrotechnolgy",
               "code":"CR805",
               "points14":"220",
+              "points15":"210",
               "duration":"4yrs",
               "level":"7"
             },
             "it-support":{
-              "id":"34",
+              "id":"33",
               "title":"Information Technology",
               "code":"CR888",
               "points14":"260",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
             "culinary-studies":{
-              "id":"35",
+              "id":"34",
               "title":"Culinary Studies",
               "code":"CR655",
               "points14":"230",
+              "points15":"235",
               "duration":"2yrs",
               "level":"6"
             },
             "hospitality-studies":{
-              "id":"36",
+              "id":"35",
               "title":"Hospitality Studies",
               "code":"CR657",
               "points14":"200",
+              "points15":"215",
               "duration":"2yrs",
               "level":"6"
             },
             "chemical-biopharmaceutical-engineering":{
-              "id":"37",
+              "id":"36",
               "title":"Chemical & Biopharmaceutical Engineering",
               "code":"CR105",
               "points14":"410",
+              "points15":"425",
               "duration":"4yrs",
               "level":"8"
             },
             "software-dev":{
-              "id":"38",
+              "id":"37",
               "title":"Software Developemnt",
-              "code":"CR657",
+              "code":"CR106",
               "points14":"320",
+              "points15":"365",
               "duration":"4yrs",
               "level":"8"
             },
             "community-dev":{
-              "id":"39",
+              "id":"38",
               "title":"Software Developemnt",
               "code":"CR035",
               "points14":"New",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
             "common-biological-sciences":{
-              "id":"40",
+              "id":"39",
               "title":"Common Entry Biological Sciences",
               "code":"CR335",
-              "points14":"New",
+              "points14":"0",
+              "points15":"395",
               "duration":"4yrs",
               "level":"8"
             },
             "software-development":{
-              "id":"41",
+              "id":"40",
               "title":"Software Development",
               "code":"CR106",
               "points14":"320",
+              "points15":"365",
               "duration":"4yrs",
               "level":"8"
             },
             "mechanical-engineerings":{
-              "id":"42",
+              "id":"41",
               "title":"Mechanical Engineering",
               "code":"CR108",
               "points14":"395",
+              "points15":"415",
               "duration":"4yrs",
               "level":"8"
             },
             "structural-engineering":{
-              "id":"43",
+              "id":"42",
               "title":"Structural Engineering",
               "code":"CR109",
               "points14":"495",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
             "multimedia ":{
-              "id":"44",
+              "id":"43",
               "title":"Multimedia ",
               "code":"CR112",
               "points14":"355",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
             "soft-dev-computer-networks":{
-              "id":"45",
+              "id":"44",
               "title":"Software Development & Computer Networking",
               "code":"CR116",
               "points14":"315",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
             "music":{
-              "id":"46",
+              "id":"45",
               "title":"Music",
               "code":"CR121",
               "points14":"#855",
+              "points15":"#685",
               "duration":"4yrs",
               "level":"8"
             },
             "bass-guitar":{
-              "id":"47",
+              "id":"46",
               "title":"Popular Music: Electric Bass Guitar",
               "code":"CR125",
               "points14":"#675",
+              "points15":"#675",
               "duration":"4yrs",
               "level":"8"
             },
             "drums":{
-              "id":"48",
+              "id":"47",
               "title":"Popular Music: Drums",
               "code":"CR126",
               "points14":"#770",
+              "points15":"#695",
               "duration":"4yrs",
               "level":"8"
             },
             "electric-guitar":{
-              "id":"49",
+              "id":"48",
               "title":"Popular Music : Electric Guitar",
               "code":"CR127",
               "points14":"#955",
+              "points15":"#705",
               "duration":"4yrs",
               "level":"8"
             },
             "keyboards":{
-              "id":"50",
+              "id":"49",
               "title":"Popular Music : Keyboards",
               "code":"CR128",
               "points14":"#850",
+              "points15":"#1095",
               "duration":"4yrs",
               "level":"8"
             },
             "voice":{
-              "id":"51",
+              "id":"50",
               "title":"Popular Music : Voice",
               "code":"CR129",
               "points14":"#880",
+              "points15":"#925",
               "duration":"4yrs",
               "level":"8"
             },
             "bis":{
-              "id":"52",
+              "id":"51",
               "title":"Business Information Systems",
               "code":"CR150",
               "points14":"375",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
             "contemporary-art":{
-              "id":"53",
+              "id":"52",
               "title":"Contemporary Applied Art",
               "code":"CR210",
               "points14":"#625",
+              "points15":"#665",
               "duration":"4yrs",
               "level":"8"
             },
             "fine-art":{
-              "id":"54",
+              "id":"53",
               "title":"Fine Art",
               "code":"CR220",
               "points14":"#400",
+              "points15":"#515",
               "duration":"4yrs",
               "level":"8"
             },
             "common-physical-sciences":{
-              "id":"55",
+              "id":"54",
               "title":"Physical Sciences (Common Entry)",
               "code":"CR305",
+              "points15":"325",
               "points14":"310",
               "duration":"1yr",
               "level":"8"
             },
             "it-management ":{
-              "id":"56",
-              "title":"IT  Management",
+              "id":"55",
+              "title":"IT Management",
               "code":"CR310",
               "points14":"310",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
             "web-dev":{
-              "id":"57",
+              "id":"56",
               "title":"Web Development",
               "code":"CR312",
               "points14":"300",
+              "points15":"330",
               "duration":"4yrs",
               "level":"8"
             },
             "bio-med-sciences":{
-              "id":"58",
+              "id":"57",
               "title":"Biomedical Science",
               "code":"CR320",
               "points14":"520*",
+              "points15":"525*",
               "duration":"4yrs",
               "level":"8"
             },
             "pharmaceutical-biotechnology ":{
-              "id":"59",
+              "id":"58",
               "title":"Pharmaceutical Biotechnology ",
               "code":"CR325",
               "points14":"340",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
             "herbal-science":{
-              "id":"60",
+              "id":"59",
               "title":"Herbal Science",
               "code":"CR330",
               "points14":"325",
+              "points15":"330",
               "duration":"4yrs",
               "level":"8"
             },
             "nutrition-health-sciences":{
-              "id":"61",
+              "id":"60",
               "title":"Nutrition & Health Science",
               "code":"CR333",
               "points14":"365",
+              "points15":"375",
               "duration":"4yrs",
               "level":"8"
             },
             "analytical-chem-quality-assurance":{
-              "id":"62",
+              "id":"61",
               "title":"Analytical Chemistry with Quality Assurance",
               "code":"CR340",
               "points14":"340",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "instrument-engineering":{
-              "id":"63",
+              "id":"62",
               "title":"Instrument Engineering",
               "code":"CR360",
               "points14":"340",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "environmental-science-sustainable-tech":{
-              "id":"64",
+              "id":"63",
               "title":"Environmental Science & Sustainable Technology",
               "code":"CR365",
               "points14":"275",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "accounting":{
-              "id":"65",
+              "id":"64",
               "title":"Accounting",
               "code":"CR400",
               "points14":"310",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
             "marketing":{
-              "id":"66",
+              "id":"65",
               "title":"Marketing",
               "code":"CR420",
               "points14":"285",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
             "engineering-common":{
-              "id":"67",
+              "id":"66",
               "title":"Engineering (Common Entry)",
               "code":"CR500",
               "points14":"350",
+              "points15":"390",
               "duration":"1yr",
               "level":"8"
             },
             "sustainable-energy":{
-              "id":"68",
+              "id":"67",
               "title":"Sustainable Energy",
               "code":"CR510",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "bio-medical-engineering":{
-              "id":"69",
+              "id":"68",
               "title":"Biomedical Engineering",
               "code":"CR520",
               "points14":"410",
+              "points15":"435",
               "duration":"4yrs",
               "level":"8"
             },
             "architectural-technology ":{
-              "id":"70",
+              "id":"69",
               "title":"Architectural Technology",
               "code":"CR560",
               "points14":"285",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
             "interior-architecture":{
-              "id":"71",
+              "id":"70",
               "title":"Interior Architecture",
               "code":"CR565",
               "points14":"280",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "quantity-surveying":{
-              "id":"72",
+              "id":"71",
               "title":"Quantity Surveying",
               "code":"CR570",
               "points14":"280",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
             "construction-management":{
-              "id":"73",
+              "id":"72",
               "title":"Construction Management",
               "code":"CR572",
               "points14":"240",
+              "points15":"240",
               "duration":"3yrs",
               "level":"8"
             },
             "electrical-engineering":{
-              "id":"74",
+              "id":"73",
               "title":"Electrical Engineering",
               "code":"CR580",
               "points14":"300",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
             "electronic-engineering":{
-              "id":"75",
+              "id":"74",
               "title":"Electronic Engineering",
               "code":"CR590",
               "points14":"305",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
             "visual-communications":{
-              "id":"76",
+              "id":"75",
               "title":"Visual Communications",
               "code":"CR600",
               "points14":"#450",
+              "points15":"#485",
               "duration":"4yrs",
               "level":"8"
             },
             "tourism":{
-              "id":"77",
+              "id":"76",
               "title":"Tourism",
               "code":"CR660",
               "points14":"280",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
             "theatre-drama-studies":{
-              "id":"78",
+              "id":"77",
               "title":"Theatre & Drama Studies",
               "code":"CR700",
               "points14":"#735",
+              "points15":"#745",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "business-language":{
+              "id":"78",
+              "title":"Business & Language",
+              "code":"CR425",
+              "points14":"290",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             }
+
           }
         },
         "griffith-college-cork":{
@@ -3793,6 +3872,7 @@
               "title":"Business Studies in International Hotel Management",
               "code":"SN001",
               "points14":"#512",
+              "points15":"#473",
               "duration":"4yrs",
               "level":"8"
             },
@@ -3801,6 +3881,7 @@
               "title":"Commerce",
               "code":"SN002",
               "points14":"#651",
+              "points15":"#624",
               "duration":"4yrs",
               "level":"8"
             }
