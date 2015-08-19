@@ -1556,6 +1556,7 @@
               "title":"Business",
               "code":"WD048",
               "points14":"290",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1564,6 +1565,7 @@
               "title":"Accounting",
               "code":"WD084",
               "points14":"320",
+              "points15":"306",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1572,6 +1574,7 @@
               "title":"Finance & Investment",
               "code":"WD160",
               "points14":"315",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1580,6 +1583,7 @@
               "title":"Marketing & Digital Media",
               "code":"WD193",
               "points14":"New",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1588,6 +1592,7 @@
               "title":"International Business",
               "code":"WD134",
               "points14":"315",
+              "points15":"305",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1596,14 +1601,16 @@
               "title":"Business",
               "code":"WD159",
               "points14":"205",
+              "points15":"205",
               "duration":"3yrs",
-              "level":"8"
+              "level":"7"
             },
             "retail-management":{
               "id":"7",
               "title":"Retail Management",
               "code":"WD184",
               "points14":"205",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1612,6 +1619,7 @@
               "title":"Higher Certificate in Business",
               "code":"WD003",
               "points14":"200",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1620,6 +1628,7 @@
               "title":"Higher Certificate in Engineering in Electronic Engineering",
               "code":"WD010",
               "points14":"205",
+              "points15":"225",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1628,6 +1637,7 @@
               "title":"Electronic Engineering",
               "code":"WD086",
               "points14":"345",
+              "points15":"355",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1636,6 +1646,7 @@
               "title":"Higher Certificate in Engineering in Mechanical Engineering",
               "code":"WD011",
               "points14":"200",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1644,6 +1655,7 @@
               "title":"Mechanical & Manufacturing Engineering",
               "code":"WD085",
               "points14":"285",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1652,6 +1664,7 @@
               "title":"Higher Certificate in Engineering in Building Services Engineering",
               "code":"WD040",
               "points14":"200",
+              "points15":"220",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1660,6 +1673,7 @@
               "title":"Sustainable Energy Engineering",
               "code":"WD171",
               "points14":"285",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1668,6 +1682,7 @@
               "title":"BEng in Electrical Engineering",
               "code":"WD182",
               "points14":"200",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1676,6 +1691,7 @@
               "title":"BEng in Civil Engineering",
               "code":"WD139",
               "points14":"200",
+              "points15":"210",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1684,6 +1700,7 @@
               "title":"Quantity Surveying",
               "code":"WD162",
               "points14":"315",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1692,6 +1709,7 @@
               "title":"Construction Management & Engineering",
               "code":"WD025",
               "points14":"295",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1700,6 +1718,7 @@
               "title":"Architectural Technology",
               "code":"WD094",
               "points14":"205",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1707,7 +1726,8 @@
               "id":"20",
               "title":"Architectural & Building Information Modelling Technology",
               "code":"WD195",
-              "points14":"New",
+              "points14":"0",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1716,6 +1736,7 @@
               "title":"Bachelor of Architecture (Hons)",
               "code":"WD144",
               "points14":"300",
+              "points15":"310",
               "duration":"5yrs",
               "level":"8"
             },
@@ -1724,6 +1745,7 @@
               "title":"General Nursing",
               "code":"WD116",
               "points14":"415",
+              "points15":"410*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1732,6 +1754,7 @@
               "title":"Psychiatric Nursing",
               "code":"WD117",
               "points14":"370",
+              "points15":"380*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1740,6 +1763,7 @@
               "title":"General Nursing - Mature Applicants",
               "code":"WD816",
               "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1748,6 +1772,7 @@
               "title":"Psychiatric Nursing - Mature Applicants",
               "code":"WD817",
               "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1756,6 +1781,7 @@
               "title":"Intellectual Disability Nursing - Mature Applicants",
               "code":"WD820",
               "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1764,6 +1790,7 @@
               "title":"Applied Health Care",
               "code":"WD188",
               "points14":"225",
+              "points15":"270",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1772,6 +1799,7 @@
               "title":"Sports Coaching & Performance",
               "code":"WD186",
               "points14":"370",
+              "points15":"355",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1780,6 +1808,7 @@
               "title":"Business in Recreation & Sport Management",
               "code":"WD019",
               "points14":"265",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1788,6 +1817,7 @@
               "title":"Intellectual Disability Nursing",
               "code":"WD120",
               "points14":"355",
+              "points15":"375",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1796,6 +1826,7 @@
               "title":"Health Promotion",
               "code":"WD124",
               "points14":"300",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1804,6 +1835,7 @@
               "title":"Exercise & Health Studies",
               "code":"WD125",
               "points14":"285",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1812,6 +1844,7 @@
               "title":"Arts",
               "code":"WD200",
               "points14":"280",
+              "points15":"280",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1820,6 +1853,7 @@
               "title":"Psychology",
               "code":"WD163",
               "points14":"390",
+              "points15":"380",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1828,6 +1862,7 @@
               "title":"Criminal Justice Studies",
               "code":"WD150",
               "points14":"290",
+              "points15":"280",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1836,6 +1871,7 @@
               "title":"Bachelor of Laws",
               "code":"WD140",
               "points14":"290",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1844,6 +1880,7 @@
               "title":"Social Science",
               "code":"WD187",
               "points14":"300",
+              "points15":"290",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1852,6 +1889,7 @@
               "title":"Applied Social Studies in Social Care",
               "code":"WD018",
               "points14":"280",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1859,7 +1897,8 @@
               "id":"39",
               "title":"Social Care Practice",
               "code":"WD192",
-              "points14":"New",
+              "points14":"0",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1868,6 +1907,7 @@
               "title":"Early Childhood Studies",
               "code":"WD149",
               "points14":"320",
+              "points15":"305",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1876,6 +1916,7 @@
               "title":"Higher Certificate in Arts in Legal Studies",
               "code":"WD013",
               "points14":"200",
+              "points15":"205",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1884,6 +1925,7 @@
               "title":"Tourism Marketing",
               "code":"WD148",
               "points14":"317",
+              "points15":"285",
               "duration":"3yrs",
               "level":"8"
             },
@@ -1892,6 +1934,7 @@
               "title":"Arts in Hospitality Studies",
               "code":"WD173",
               "points14":"200",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1900,6 +1943,7 @@
               "title":"Arts in Culinary Arts",
               "code":"WD172",
               "points14":"220",
+              "points15":"215",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1908,6 +1952,7 @@
               "title":"Business in Tourism",
               "code":"WD174",
               "points14":"200",
+              "points15":"205",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1916,6 +1961,7 @@
               "title":"Visual Arts",
               "code":"WD152",
               "points14":"300",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1924,6 +1970,7 @@
               "title":"Design (Visual Communications)",
               "code":"WD137",
               "points14":"295",
+              "points15":"285",
               "duration":"2yrs",
               "level":"8"
             },
@@ -1931,7 +1978,8 @@
               "id":"48",
               "title":"Arts (Hons) in Culinary Arts",
               "code":"WD194",
-              "points14":"New",
+              "points14":"0",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1940,6 +1988,7 @@
               "title":"Hospitality Management",
               "code":"WD091",
               "points14":"275",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1948,6 +1997,7 @@
               "title":"Music",
               "code":"WD027",
               "points14":"#295",
+              "points15":"#300",
               "duration":"2yrs",
               "level":"8"
             },
@@ -1956,6 +2006,7 @@
               "title":"Science (Common Entry)",
               "code":"WD177",
               "points14":"360",
+              "points15":"320",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1964,6 +2015,7 @@
               "title":"Pharmaceutical Science",
               "code":"WD175",
               "points14":"305",
+              "points15":"290",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1972,6 +2024,7 @@
               "title":"Applied Biology",
               "code":"WD176",
               "points14":"325",
+              "points15":"300",
               "duration":"2yrs",
               "level":"6"
             },
@@ -1980,6 +2033,7 @@
               "title":"Food Science with Business",
               "code":"WD164",
               "points14":"265",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -1988,6 +2042,7 @@
               "title":"Physics for Modern Technology",
               "code":"WD180",
               "points14":"325",
+              "points15":"333",
               "duration":"4yrs",
               "level":"8"
             },
@@ -1996,6 +2051,7 @@
               "title":"Agricultural Science",
               "code":"WD191",
               "points14":"430",
+              "points15":"415*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2004,6 +2060,7 @@
               "title":"Pharmaceutical Science",
               "code":"WD147",
               "points14":"365",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2012,6 +2069,7 @@
               "title":"Agriculture",
               "code":"WD126",
               "points14":"385",
+              "points15":"405",
               "duration":"4yrs",
               "level":"7"
             },
@@ -2019,7 +2077,7 @@
               "id":"59",
               "title":"Forestry",
               "code":"WD076",
-              "points14":"275",
+              "points14":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2028,6 +2086,7 @@
               "title":"BSc in Horticulture (Kildalton College)",
               "code":"WD096",
               "points14":"205",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2036,6 +2095,7 @@
               "title":"BSc in Horticulture (National Botanic Gardens)",
               "code":"WD097",
               "points14":"205",
+              "points15":"228",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2043,7 +2103,8 @@
               "id":"62",
               "title":"BSc in the Internet of Things",
               "code":"WD197",
-              "points14":"New",
+              "points14":"0",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2052,6 +2113,7 @@
               "title":"Applied Computing",
               "code":"WD028",
               "points14":"317",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2060,6 +2122,7 @@
               "title":"Computer Forensics & Security",
               "code":"WD161",
               "points14":"305",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2068,6 +2131,7 @@
               "title":"Entertainment Systems",
               "code":"WD168",
               "points14":"295",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -2076,6 +2140,7 @@
               "title":"Software Systems Development",
               "code":"WD151",
               "points14":"200",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -2084,6 +2149,7 @@
               "title":"Information Technology",
               "code":"WD155",
               "points14":"200",
+              "points15":"210",
               "duration":"3yrs",
               "level":"8"
             },
@@ -2092,6 +2158,7 @@
               "title":"Multimedia Applications Development",
               "code":"WD153",
               "points14":"200",
+              "points15":"205",
               "duration":"3yrs",
               "level":"8"
             }
