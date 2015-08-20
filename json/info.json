@@ -6006,7 +6006,7 @@
               "title":"Software Design",
               "code":"AL801",
               "points14":"280",
-              "points15":"",
+              "points15":"280",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6015,6 +6015,7 @@
               "title":"Mechanical & Polymer Engineering",
               "code":"AL820",
               "points14":"315",
+              "points15":"315",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6023,6 +6024,7 @@
               "title":"General Nursing",
               "code":"AL830",
               "points14":"410*",
+              "points15":"425",
               "duration":"4yrs"
             },
             "general-nursing-mature":{
@@ -6030,6 +6032,7 @@
               "title":"General Nursing Mature",
               "code":"AL831",
               "points14":"#170",
+              "points15":"null",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6038,6 +6041,7 @@
               "title":"Psychiatric Nursing",
               "code":"AL832",
               "points14":"390",
+              "points15":"390",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6045,7 +6049,8 @@
               "id":"6",
               "title":"Psychiatric Nursing Mature",
               "code":"AL833",
-              "points14":"N/A",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6054,6 +6059,7 @@
               "title":"Health Science with Nutrition",
               "code":"AL836",
               "points14":"390",
+              "points15":"365",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6062,6 +6068,7 @@
               "title":"Sports Science with Exercise Physiology",
               "code":"AL837",
               "points14":"380",
+              "points15":"370",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6070,6 +6077,7 @@
               "title":"Biotechnology",
               "code":"AL838",
               "points14":"295",
+              "points15":"285",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6078,6 +6086,7 @@
               "title":"Pharmaceutical Science",
               "code":"AL840",
               "points14":"275",
+              "points15":"260",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6086,6 +6095,7 @@
               "title":"Sports Therapy with Rehabilitation",
               "code":"AL841",
               "points14":"395",
+              "points15":"400",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6094,6 +6104,7 @@
               "title":"Bioveterinary Science",
               "code":"AL842",
               "points14":"340",
+              "points15":"335",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6102,6 +6113,7 @@
               "title":"Business",
               "code":"AL850",
               "points14":"295",
+              "points15":"300",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6110,6 +6122,7 @@
               "title":"Business & Law",
               "code":"AL851",
               "points14":"270",
+              "points15":"300",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6118,6 +6131,7 @@
               "title":"Accounting",
               "code":"AL852",
               "points14":"310",
+              "points15":"305",
               "duration":"3-4yrs",
               "level": "8"
             },
@@ -6126,6 +6140,7 @@
               "title":"Business Psychology",
               "code":"AL854",
               "points14":"295",
+              "points15":"300",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6134,6 +6149,7 @@
               "title":"Social Care Practice",
               "code":"AL860",
               "points14":"330",
+              "points15":"310",
               "duration":"4yrs",
               "level": "8"
             },
@@ -6142,14 +6158,16 @@
               "title":"Electronics & Computer Engineering",
               "code":"AL601",
               "points14":"185",
+              "points15":"210",
               "duration":"2yrs",
               "level": "6"
             },
-            "hotel-management":{
+            "mechanical-engineering-athlone":{
               "id":"19",
               "title":"Mechanical Engineering",
               "code":"AL602",
               "points14":"180",
+              "points15":"175",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6158,6 +6176,7 @@
               "title":"Civil Engineering",
               "code":"AL604",
               "points14":"AQA",
+              "points15":"175",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6166,6 +6185,7 @@
               "title":"Pharmacy Technician",
               "code":"AL630",
               "points14":"320",
+              "points15":"300",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6174,6 +6194,7 @@
               "title":"Dental Nursing",
               "code":"AL631",
               "points14":"280",
+              "points15":"265",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6182,6 +6203,7 @@
               "title":"Science (Bioscience/Chemistry)",
               "code":"AL632",
               "points14":"AQA",
+              "points15":"210",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6190,6 +6212,7 @@
               "title":"Business",
               "code":"AL650",
               "points14":"185",
+              "points15":"210",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6198,6 +6221,7 @@
               "title":"Music & Instrument Technology",
               "code":"AL651",
               "points14":"210",
+              "points15":"195",
               "duration":"2yrs"
             },
             "business-equine-studies":{
@@ -6205,6 +6229,7 @@
               "title":"Business in Equine Studies",
               "code":"AL652",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6213,6 +6238,7 @@
               "title":"Office Management",
               "code":"AL653",
               "points14":"245",
+              "points15":"AQA",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6221,6 +6247,7 @@
               "title":"Accounting Technician",
               "code":"AL654",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6229,6 +6256,7 @@
               "title":"Social Media Marketing",
               "code":"AL655",
               "points14":"215",
+              "points15":"AQA",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6237,6 +6265,7 @@
               "title":"Computing for Business",
               "code":"AL657",
               "points14":"230",
+              "points15":"300",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6245,6 +6274,7 @@
               "title":"Culinary Arts",
               "code":"AL660",
               "points14":"255",
+              "points15":"233",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6253,6 +6283,7 @@
               "title":"Bar Supervision",
               "code":"AL661",
               "points14":"195",
+              "points15":"AQA",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6261,14 +6292,16 @@
               "title":"Business Sport & Recreation",
               "code":"AL663",
               "points14":"230",
+              "points15":"200",
               "duration":"2yrs",
               "level": "6"
             },
-            "computing-multimedia":{
+            "applied-social":{
               "id":"34",
               "title":"Applied Social Studies",
               "code":"AL664",
               "points14":"310",
+              "points15":"300",
               "duration":"2yrs",
               "level": "6"
             },
@@ -6277,6 +6310,7 @@
               "title":"Engineering Informatics",
               "code":"AL701",
               "points14":"195",
+              "points15":"210",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6285,6 +6319,7 @@
               "title":"Mechanical Engineering",
               "code":"AL710",
               "points14":"185",
+              "points15":"225",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6293,6 +6328,7 @@
               "title":"Mechanical Engineering & Renewable Energy",
               "code":"AL711",
               "points14":"180",
+              "points15":"260",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6301,6 +6337,7 @@
               "title":"Mechatronics",
               "code":"AL712",
               "points14":"180",
+              "points15":"185",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6309,6 +6346,7 @@
               "title":"Civil Engineering",
               "code":"AL721",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6317,6 +6355,7 @@
               "title":"Biotechnology",
               "code":"AL730",
               "points14":"240",
+              "points15":"245",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6325,6 +6364,7 @@
               "title":"Veterinary Nursing",
               "code":"AL731",
               "points14":"465",
+              "points15":"425",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6333,6 +6373,7 @@
               "title":"Forensic Toxicology",
               "code":"AL733",
               "points14":"200",
+              "points15":"205",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6341,6 +6382,7 @@
               "title":"Pharmaceutical Science",
               "code":"AL734",
               "points14":"175",
+              "points15":"205",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6349,6 +6391,7 @@
               "title":"Smart Technology for Business",
               "code":"AL750",
               "points14":"230",
+              "points15":"205",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6357,6 +6400,7 @@
               "title":"Spa & Wellness Management",
               "code":"AL760",
               "points14":"210",
+              "points15":"210",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6365,6 +6409,7 @@
               "title":"Hotel & Leisure Management",
               "code":"AL761",
               "points14":"180",
+              "points15":"185",
               "duration":"3yrs",
               "level": "7"
             },
@@ -6373,14 +6418,16 @@
               "title":"Graphic Design",
               "code":"AL763",
               "points14":"#733",
+              "points15":"680#",
               "duration":"3yrs",
               "level": "7"
             },
-            "earl-years-care-education":{
+            "early-years-care-education":{
               "id":"48",
               "title":"Early Years Care & Education",
               "code":"AL764",
               "points14":"315",
+              "points15":"275",
               "duration":"3yrs",
               "level": "7"
             }
