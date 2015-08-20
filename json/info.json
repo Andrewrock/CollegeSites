@@ -6738,6 +6738,7 @@
               "title":"English Media and Cultural Studies",
               "code":"DL821",
               "points14":"305",
+              "points15":"245",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6746,6 +6747,7 @@
               "title":" Business Studies & Arts Management",
               "code":"DL822",
               "points14":"230",
+              "points15":"225",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6754,6 +6756,7 @@
               "title":"Business Studies in Entrepreneurship & Management",
               "code":"DL823",
               "points14":"285",
+              "points15":"235",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6762,6 +6765,7 @@
               "title":"Computing in Multimedia Systems/Web Engineering",
               "code":"DL824",
               "points14":"315",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6770,6 +6774,7 @@
               "title":"Applied Psychology",
               "code":"DL825",
               "points14":"385",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6778,14 +6783,16 @@
               "title":"Visual Communication Design",
               "code":"DL826",
               "points14":"#667",
+              "points15":"#815",
               "duration":"4yrs",
               "level":"8"
             },
             "fine-arts":{
               "id":"7",
-              "title":"Visual Arts Practice (Fine Art)",
+              "title":"Art",
               "code":"DL827",
               "points14":"#505",
+              "points15":"#705",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6794,14 +6801,16 @@
               "title":"Modelmaking Design and Digital Effects",
               "code":"DL828",
               "points14":"#699",
+              "points15":"#699",
               "duration":"4yrs",
               "level":"8"
             },
-            "info-tech":{
+            "costume":{
               "id":"9",
               "title":"Design for Stage and Screen (Costume Design)",
               "code":"DL829",
               "points14":"#633",
+              "points15":"#600",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6810,6 +6819,7 @@
               "title":"Design for Stage and Screen (Makeup Design)",
               "code":"DL830",
               "points14":"#840*",
+              "points15":"#620",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6818,6 +6828,7 @@
               "title":"Design for Stage and Screen (Production Design)",
               "code":"DL831",
               "points14":"#555",
+              "points15":"#617",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6826,6 +6837,7 @@
               "title":"Animation",
               "code":"DL832",
               "points14":"#955",
+              "points15":"#1000",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6834,6 +6846,7 @@
               "title":"Photography",
               "code":"DL833",
               "points14":"#867",
+              "points15":"#700",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6842,6 +6855,7 @@
               "title":"Film & TV Production",
               "code":"DL834",
               "points14":"#945",
+              "points15":"#825",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6850,6 +6864,7 @@
               "title":"Business Studies in Entrepreneurship",
               "code":"DL701",
               "points14":"210",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6858,6 +6873,7 @@
               "title": "Creative Music Production",
               "code": "DL704",
               "points14": "450",
+              "points15":"#795",
               "duration": "3yrs",
               "level":"7"
             }
@@ -10837,6 +10853,7 @@
               "title":"Computing with Cloud & Green IT",
               "code":"LY718",
               "points14":"315",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -11006,6 +11023,7 @@
               "title":"Product Design",
               "code":"LY417",
               "points14":"155",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11147,6 +11165,7 @@
               "title":"Analytical & Forensic Science",
               "code":"LY827",
               "points14":"155",
+              "points15":"155",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11191,6 +11210,7 @@
               "title":"Health & Social Care",
               "code":"LY917",
               "points14":"225",
+              "points15":"225",
               "duration":"3yrs",
               "level":"7"
             },
@@ -11261,7 +11281,7 @@
               "id":"58",
               "title":"Building Services & Renewable Energy",
               "code":"LY517",
-              "points14":"",
+              "points14":"0",
               "points15":"155",
               "duration":"",
               "level":"7"
