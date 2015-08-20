@@ -1334,7 +1334,6 @@
               "duration":"4yrs",
               "level":"8"
             }
-
           }
         },
         "griffith-college-cork":{
@@ -2883,595 +2882,651 @@
           "province":"Munster",
           "address":"Moylish Park",
           "location":"limerick",
-          "courses":{
-            "creative-multimedia":{
-              "id":"1",
-              "title":"Creative Multimedia",
-              "code":"LC504",
-              "points14":"210",
-              "points15":"200",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "creative-multimedia-hons":{
-              "id":"2",
-              "title":"Creative Multimedia (Honours)",
-              "code":"LC517",
-              "points14":"260",
-              "points15":"280",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "digital-animation":{
-              "id":"3",
-              "title":"Digital Animation Production",
-              "code":"LC518",
-              "points14":"#550",
-              "points15":"#700",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "fashion-knit-textiles":{
-              "id":"4",
-              "title":"Fashion Knitwear & Textiles ",
-              "code":"LC111",
-              "points14":"#583",
-              "points15":"#610",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "economics-maths":{
-              "id":"5",
-              "title":"Economics & Mathematical Sciences",
-              "code":"LC114",
-              "points14":"#760",
-              "points15":"#707",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "art-design-first-year":{
-              "id":"6",
-              "title":"First Year Art & Design",
-              "code":"LC110",
-              "points14":"#602",
-              "points15":"#614",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "game-art-design":{
-              "id":"7",
-              "title":"Game Art & Design",
-              "code":"LC502",
-              "points14":"0",
-              "points15":"#510",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "applied-biology":{
-              "id":"8",
-              "title":"Applied Biology ",
-              "code":"LC260",
-              "points14":"300",
-              "points15":"205",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "applied-chemistry":{
-              "id":"9",
-              "title":"Applied Chemistry",
-              "code":"LC261",
-              "points14":"255",
-              "points15":"255",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "drug-medical-product":{
-              "id":"10",
-              "title":"Drug & Medicinal Product Analysis",
-              "code":"LC266",
-              "points14":"267",
-              "points15":"290",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "environmental-analytical-science":{
-              "id":"11",
-              "title":"Environmental & Analytical Science",
-              "code":"LC264",
-              "points14":"200",
-              "points15":"225",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "natural-resource-management":{
-              "id":"12",
-              "title":"Environmental & Natural Resource Management",
-              "code":"LC408",
-              "points14":"275",
-              "points15":"270",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "natural-resource-management-cert":{
-              "id":"13",
-              "title":"Environmental & Natural Resource Management Cert",
-              "code":"LC425",
-              "points14":"240",
-              "points15":"240",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "environmental-management-agriculture":{
-              "id":"14",
-              "title":"Environmental Management in Agriculture",
-              "code":"LC428",
-              "points14":"0",
-              "points15":"205",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "civil-engineering":{
-              "id":"15",
-              "title":"Civil Engineering BEng",
-              "code":"LC251",
-              "points14":"205",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "civil-engineering-hons":{
-              "id":"16",
-              "title":"Civil Engineering Management",
-              "code":"LC252",
-              "points14":"215",
-              "points15":"240",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "construction-high-cert-science":{
-              "id":"17",
-              "title":"Construction Higher Certificate in Science",
-              "code":"LC253",
-              "points14":"205",
-              "points15":"210",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "construction-management":{
-              "id":"18",
-              "title":"Construction Management Honours",
-              "code":"LC241",
-              "points14":"225",
-              "points15":"250",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "construction-practice":{
-              "id":"19",
-              "title":"Construction Practice Higher Certificate in Science ",
-              "code":"LC256",
-              "points14":"170",
-              "points15":"180",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "gis-engineering-asset":{
-              "id":"20",
-              "title":"GIS & Engineering Asset Management Higher Cert",
-              "code":"LC258",
-              "points14":"N/A",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "interior-design-technology":{
-              "id":"21",
-              "title":"Interior Design & Technology",
-              "code":"LC257",
-              "points14":"210",
-              "points15":"190",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "property-valuation-management":{
-              "id":"22",
-              "title":"Property Valuation & Management",
-              "code":"LC242",
-              "points14":"225",
-              "points15":"265",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "quantity-surveying":{
-              "id":"23",
-              "title":"Quantity Surveying",
-              "code":"LC243",
-              "points14":"235",
-              "points15":"250",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "sustainable-building-renewable-management":{
-              "id":"24",
-              "title":"Sustainable Building & Renewable Energy",
-              "code":"LC244",
-              "points14":"205",
-              "points15":"235",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "electronic-engineering":{
-              "id":"25",
-              "title":"Electronic Engineering",
-              "code":"LC279",
-              "points14":"200",
-              "points15":"195",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "industrial-automation-robotic":{
-              "id":"26",
-              "title":"Industrial Automation & Robotic Systems",
-              "code":"LC277",
-              "points14":"200",
-              "points15":"200",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "industrial-electrical-engineering":{
-              "id":"27",
-              "title":"Industrial Electrical Engineering",
-              "code":"LC271",
-              "points14":"225",
-              "points15":"220",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "music-technology-production":{
-              "id":"28",
-              "title":"Music Technology & Production",
-              "code":"LC270",
-              "points14":"325",
-              "points15":"315",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "renewable-energy-electrical-systems":{
-              "id":"29",
-              "title":"Renewable & Electrical Energy Systems",
-              "code":"LC278",
-              "points14":"200",
-              "points15":"190",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "video-sound-technology":{
-              "id":"30",
-              "title":"Video & Sound Technology",
-              "code":"LC276",
-              "points15":"205",
-              "points14":"235",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "business-computing":{
-              "id":"31",
-              "title":"Business Computing Higher Certificate",
-              "code":"LC232",
-              "points14":"215",
-              "points15":"200",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "business-technology-info-systems":{
-              "id":"32",
-              "title":"Business Technology Information Systems",
-              "code":"LC231",
-              "points14":"250",
-              "points15":"260",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "business-tech-management":{
-              "id":"33",
-              "title":"Business Technology Management",
-              "code":"LC238",
-              "points14":"310",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "computer-networks-systems-management":{
-              "id":"34",
-              "title":"Computer Networks & Systems Management",
-              "code":"LC239",
-              "points14":"300",
-              "points15":"310",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "computer-services":{
-              "id":"35",
-              "title":"Computer Services",
-              "code":"LC406",
-              "points14":"New",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "computer-services-management":{
-              "id":"36",
-              "title":"Computer Services Management",
-              "code":"LC416",
-              "points14":"185",
-              "points15":"220",
-              "duration":"3yrs",
-              "level":"6"
-            },
-            "computing":{
-              "id":"37",
-              "title":"Computing",
-              "code":"LC403",
-              "points14":"170",
-              "points15":"180",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "e-business":{
-              "id":"38",
-              "title":"e-Business Management Systems",
-              "code":"LC237",
-              "points14":"210",
-              "points15":"205",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "game-design":{
-              "id":"39",
-              "title":"Games Design & Development",
-              "code":"LC418",
-              "points14":"260",
-              "points15":"265",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "internet-systems-development":{
-              "id":"40",
-              "title":"Internet Systems Development",
-              "code":"LC235",
-              "points14":"245",
-              "points15":"200",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "internet-systems-development-hons":{
-              "id":"41",
-              "title":"Internet Systems Development Honours",
-              "code":"LC236",
-              "points14":"330",
-              "points15":"320",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "multimedia-programming":{
-              "id":"42",
-              "title":"Multimedia Programming & Design",
-              "code":"LC234",
-              "points14":"270",
-              "points15":"245",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "software-design-development":{
-              "id":"43",
-              "title":"Software Design & Development",
-              "code":"LC415",
-              "points14":"215",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "law-tax":{
-              "id":"44",
-              "title":"Law & Taxation",
-              "code":"LC223",
-              "points14":"265",
-              "points15":"280",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "applied-social-sciences-social-care":{
-              "id":"45",
-              "title":"Applied Social Studies in Social Care",
-              "code":"LC292",
-              "points14":"340",
-              "points15":"340",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "applied-social-sciences-social-care-ba":{
-              "id":"46",
-              "title":"Applied Social Studies in Social Care",
-              "code":"LC402",
-              "points14":"0",
-              "points15":"300",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "social-community-studies":{
-              "id":"47",
-              "title":"Social & Community Services",
-              "code":"LC407",
-              "points14":"210",
-              "points15":"205",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "business-clonmel":{
-              "id":"48",
-              "title":"Business (Clonmel)",
-              "code":"LC501",
-              "points14":"170",
-              "points15":"175",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "business-clonmel-hons":{
-              "id":"49",
-              "title":"Business (Clonmel) Honours",
-              "code":"LC513",
-              "points14":"315",
-              "points15":"280",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "business-thurles":{
-              "id":"50",
-              "title":"Business (Thurles)",
-              "code":"LC401",
-              "points14":"190",
-              "points15":"215",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "business-thurles-hons":{
-              "id":"51",
-              "title":"Business (Thurles) Honours",
-              "code":"LC413",
-              "points14":"245",
-              "points15":"265",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "entrepreneurship":{
-              "id":"52",
-              "title":"Entrepreneurship",
-              "code":"LC226",
-              "points14":"250",
-              "points15":"200",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "marketing-management-hons":{
-              "id":"53",
-              "title":"Marketing & Management Honours",
-              "code":"LC225",
-              "points14":"280",
-              "points15":"300",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "marketing-management":{
-              "id":"54",
-              "title":"Marketing & Management Higher Cert",
-              "code":"LC222",
-              "points14":"250",
-              "points15":"250",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "business-studies-event":{
-              "id":"55",
-              "title":"Business Studies & Event Management",
-              "code":"LC294",
-              "points14":"270",
-              "points15":"300",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "business-studies-tourism":{
-              "id":"56",
-              "title":"Business Studies & Tourism Management",
-              "code":"LC293",
-              "points14":"270",
-              "points15":"270",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "culinary-arts":{
-              "id":"57",
-              "title":"Culinary Arts",
-              "code":"LC298",
-              "points14":"330",
-              "points15":"220",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "hospitality-studies":{
-              "id":"58",
-              "title":"Hospitality Studies",
-              "code":"LC299",
-              "points14":"250",
-              "points15":"195",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "hotel-front-office":{
-              "id":"59",
-              "title":"Hotel Front Office Management",
-              "code":"LC296",
-              "points14":"215",
-              "points15":"210",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "accounting-finance":{
-              "id":"60",
-              "title":"Accounting & Finance",
-              "code":"LC224",
-              "points14":"300",
-              "points15":"305",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "accounting-finance-cert-cert":{
-              "id":"61",
-              "title":"Accounting & Finance Higher Certificate",
-              "code":"LC221",
-              "points14":"250",
-              "points15":"250",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "business-studies-sports":{
-              "id":"62",
-              "title":"Business Studies & Sports Management",
-              "code":"LC295",
-              "points14":"300",
-              "points15":"280",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "sports-coaching-development":{
-              "id":"63",
-              "title":"Sports Coaching & Development",
-              "code":"LC228",
-              "points14":"250",
-              "points15":"215",
-              "duration":"2yrs",
-              "level":"6"
-            },
-            "sports-strength-conditioning":{
-              "id":"64",
-              "title":"Sports Strength & Conditioning",
-              "code":"LC423",
-              "points14":"265",
-              "points15":"260",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "sports-strength-conditioning-hons":{
-              "id":"65",
-              "title":"Sports Strength & Conditioning Honours",
-              "code":"LC422",
-              "points14":"300",
-              "points15":"300",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "med-tech":{
-              "id":"66",
-              "title":"Medical Technology",
-              "code":"LC268",
-              "points14":"0",
-              "points15":"345",
-              "duration":"3yrs",
-              "level":"7"
+          "courses": {
+            "creative-multimedia": {
+              "id": "1",
+              "title": "Creative Multimedia",
+              "code": "LC504",
+              "points14": "210",
+              "points15": "200",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "creative-multimedia-hons": {
+              "id": "2",
+              "title": "Creative Multimedia (Honours)",
+              "code": "LC517",
+              "points14": "260",
+              "points15": "280",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "digital-animation": {
+              "id": "3",
+              "title": "Digital Animation Production",
+              "code": "LC518",
+              "points14": "#550",
+              "points15": "#700",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "fashion-knit-textiles": {
+              "id": "4",
+              "title": "Fashion Knitwear & Textiles ",
+              "code": "LC111",
+              "points14": "#583",
+              "points15": "#610",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "economics-maths": {
+              "id": "5",
+              "title": "Economics & Mathematical Sciences",
+              "code": "LC114",
+              "points14": "#760",
+              "points15": "#707",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "art-design-first-year": {
+              "id": "6",
+              "title": "First Year Art & Design",
+              "code": "LC110",
+              "points14": "#602",
+              "points15": "#614",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "game-art-design": {
+              "id": "7",
+              "title": "Game Art & Design",
+              "code": "LC502",
+              "points14": "0",
+              "points15": "#510",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "applied-biology": {
+              "id": "8",
+              "title": "Applied Biology ",
+              "code": "LC260",
+              "points14": "300",
+              "points15": "205",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "applied-chemistry": {
+              "id": "9",
+              "title": "Applied Chemistry",
+              "code": "LC261",
+              "points14": "255",
+              "points15": "255",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "drug-medical-product": {
+              "id": "10",
+              "title": "Drug & Medicinal Product Analysis",
+              "code": "LC266",
+              "points14": "267",
+              "points15": "290",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "environmental-analytical-science": {
+              "id": "11",
+              "title": "Environmental & Analytical Science",
+              "code": "LC264",
+              "points14": "200",
+              "points15": "225",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "natural-resource-management": {
+              "id": "12",
+              "title": "Environmental & Natural Resource Management",
+              "code": "LC408",
+              "points14": "275",
+              "points15": "270",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "natural-resource-management-cert": {
+              "id": "13",
+              "title": "Environmental & Natural Resource Management Cert",
+              "code": "LC425",
+              "points14": "240",
+              "points15": "240",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "environmental-management-agriculture": {
+              "id": "14",
+              "title": "Environmental Management in Agriculture",
+              "code": "LC428",
+              "points14": "0",
+              "points15": "205",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "civil-engineering": {
+              "id": "15",
+              "title": "Civil Engineering BEng",
+              "code": "LC251",
+              "points14": "205",
+              "points15": "210",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "civil-engineering-hons": {
+              "id": "16",
+              "title": "Civil Engineering Management",
+              "code": "LC252",
+              "points14": "215",
+              "points15": "240",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "construction-high-cert-science": {
+              "id": "17",
+              "title": "Construction Higher Certificate in Science",
+              "code": "LC253",
+              "points14": "205",
+              "points15": "210",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "construction-management": {
+              "id": "18",
+              "title": "Construction Management Honours",
+              "code": "LC241",
+              "points14": "225",
+              "points15": "250",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "construction-practice": {
+              "id": "19",
+              "title": "Construction Practice Higher Certificate in Science ",
+              "code": "LC256",
+              "points14": "170",
+              "points15": "180",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "gis-engineering-asset": {
+              "id": "20",
+              "title": "GIS & Engineering Asset Management Higher Cert",
+              "code": "LC258",
+              "points14": "N/A",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "interior-design-technology": {
+              "id": "21",
+              "title": "Interior Design & Technology",
+              "code": "LC257",
+              "points14": "210",
+              "points15": "190",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "property-valuation-management": {
+              "id": "22",
+              "title": "Property Valuation & Management",
+              "code": "LC242",
+              "points14": "225",
+              "points15": "265",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "quantity-surveying": {
+              "id": "23",
+              "title": "Quantity Surveying",
+              "code": "LC243",
+              "points14": "235",
+              "points15": "250",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "sustainable-building-renewable-management": {
+              "id": "24",
+              "title": "Sustainable Building & Renewable Energy",
+              "code": "LC244",
+              "points14": "205",
+              "points15": "235",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "electronic-engineering": {
+              "id": "25",
+              "title": "Electronic Engineering",
+              "code": "LC279",
+              "points14": "200",
+              "points15": "195",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "industrial-automation-robotic": {
+              "id": "26",
+              "title": "Industrial Automation & Robotic Systems",
+              "code": "LC277",
+              "points14": "200",
+              "points15": "200",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "industrial-electrical-engineering": {
+              "id": "27",
+              "title": "Industrial Electrical Engineering",
+              "code": "LC271",
+              "points14": "225",
+              "points15": "220",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "music-technology-production": {
+              "id": "28",
+              "title": "Music Technology & Production",
+              "code": "LC270",
+              "points14": "325",
+              "points15": "315",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "renewable-energy-electrical-systems": {
+              "id": "29",
+              "title": "Renewable & Electrical Energy Systems",
+              "code": "LC278",
+              "points14": "200",
+              "points15": "190",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "video-sound-technology": {
+              "id": "30",
+              "title": "Video & Sound Technology",
+              "code": "LC276",
+              "points15": "205",
+              "points14": "235",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "business-computing": {
+              "id": "31",
+              "title": "Business Computing Higher Certificate",
+              "code": "LC232",
+              "points14": "215",
+              "points15": "200",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "business-technology-info-systems": {
+              "id": "32",
+              "title": "Business Technology Information Systems",
+              "code": "LC231",
+              "points14": "250",
+              "points15": "260",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "business-tech-management": {
+              "id": "33",
+              "title": "Business Technology Management",
+              "code": "LC238",
+              "points14": "310",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "computer-networks-systems-management": {
+              "id": "34",
+              "title": "Computer Networks & Systems Management",
+              "code": "LC239",
+              "points14": "300",
+              "points15": "310",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "computer-services": {
+              "id": "35",
+              "title": "Computer Services",
+              "code": "LC406",
+              "points14": "0",
+              "points15": "220",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "computer-services-management": {
+              "id": "36",
+              "title": "Computer Services Management",
+              "code": "LC416",
+              "points14": "185",
+              "points15": "220",
+              "duration": "3yrs",
+              "level": "6"
+            },
+            "computing": {
+              "id": "37",
+              "title": "Computing",
+              "code": "LC403",
+              "points14": "170",
+              "points15": "180",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "e-business": {
+              "id": "38",
+              "title": "e-Business Management Systems",
+              "code": "LC237",
+              "points14": "210",
+              "points15": "205",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "game-design": {
+              "id": "39",
+              "title": "Games Design & Development",
+              "code": "LC418",
+              "points14": "260",
+              "points15": "265",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "internet-systems-development": {
+              "id": "40",
+              "title": "Internet Systems Development",
+              "code": "LC235",
+              "points14": "245",
+              "points15": "200",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "internet-systems-development-hons": {
+              "id": "41",
+              "title": "Internet Systems Development Honours",
+              "code": "LC236",
+              "points14": "330",
+              "points15": "320",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "multimedia-programming": {
+              "id": "42",
+              "title": "Multimedia Programming & Design",
+              "code": "LC234",
+              "points14": "270",
+              "points15": "245",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "software-design-development": {
+              "id": "43",
+              "title": "Software Design & Development",
+              "code": "LC415",
+              "points14": "215",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "law-tax": {
+              "id": "44",
+              "title": "Law & Taxation",
+              "code": "LC223",
+              "points14": "265",
+              "points15": "280",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "applied-social-sciences-social-care": {
+              "id": "45",
+              "title": "Applied Social Studies in Social Care",
+              "code": "LC292",
+              "points14": "340",
+              "points15": "340",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "applied-social-sciences-social-care-ba": {
+              "id": "46",
+              "title": "Applied Social Studies in Social Care",
+              "code": "LC402",
+              "points14": "0",
+              "points15": "300",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "social-community-studies": {
+              "id": "47",
+              "title": "Social & Community Services",
+              "code": "LC407",
+              "points14": "210",
+              "points15": "205",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "business-clonmel": {
+              "id": "48",
+              "title": "Business (Clonmel)",
+              "code": "LC501",
+              "points14": "170",
+              "points15": "175",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "business-clonmel-hons": {
+              "id": "49",
+              "title": "Business (Clonmel) Honours",
+              "code": "LC513",
+              "points14": "315",
+              "points15": "280",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "business-thurles": {
+              "id": "50",
+              "title": "Business (Thurles)",
+              "code": "LC401",
+              "points14": "190",
+              "points15": "215",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "business-thurles-hons": {
+              "id": "51",
+              "title": "Business (Thurles) Honours",
+              "code": "LC413",
+              "points14": "245",
+              "points15": "265",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "entrepreneurship": {
+              "id": "52",
+              "title": "Entrepreneurship",
+              "code": "LC226",
+              "points14": "250",
+              "points15": "200",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "marketing-management-hons": {
+              "id": "53",
+              "title": "Marketing & Management Honours",
+              "code": "LC225",
+              "points14": "280",
+              "points15": "300",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "marketing-management": {
+              "id": "54",
+              "title": "Marketing & Management Higher Cert",
+              "code": "LC222",
+              "points14": "250",
+              "points15": "250",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "business-studies-event": {
+              "id": "55",
+              "title": "Business Studies & Event Management",
+              "code": "LC294",
+              "points14": "270",
+              "points15": "300",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "business-studies-tourism": {
+              "id": "56",
+              "title": "Business Studies & Tourism Management",
+              "code": "LC293",
+              "points14": "270",
+              "points15": "270",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "culinary-arts": {
+              "id": "57",
+              "title": "Culinary Arts",
+              "code": "LC298",
+              "points14": "330",
+              "points15": "220",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "hospitality-studies": {
+              "id": "58",
+              "title": "Hospitality Studies",
+              "code": "LC299",
+              "points14": "250",
+              "points15": "195",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "hotel-front-office": {
+              "id": "59",
+              "title": "Hotel Front Office Management",
+              "code": "LC296",
+              "points14": "215",
+              "points15": "210",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "accounting-finance": {
+              "id": "60",
+              "title": "Accounting & Finance",
+              "code": "LC224",
+              "points14": "300",
+              "points15": "305",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "accounting-finance-cert-cert": {
+              "id": "61",
+              "title": "Accounting & Finance Higher Certificate",
+              "code": "LC221",
+              "points14": "250",
+              "points15": "250",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "business-studies-sports": {
+              "id": "62",
+              "title": "Business Studies & Sports Management",
+              "code": "LC295",
+              "points14": "300",
+              "points15": "280",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "sports-coaching-development": {
+              "id": "63",
+              "title": "Sports Coaching & Development",
+              "code": "LC228",
+              "points14": "250",
+              "points15": "215",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "sports-strength-conditioning": {
+              "id": "64",
+              "title": "Sports Strength & Conditioning",
+              "code": "LC423",
+              "points14": "265",
+              "points15": "260",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "sports-strength-conditioning-hons": {
+              "id": "65",
+              "title": "Sports Strength & Conditioning Honours",
+              "code": "LC422",
+              "points14": "300",
+              "points15": "300",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "med-tech": {
+              "id": "66",
+              "title": "Medical Technology",
+              "code": "LC268",
+              "points14": "0",
+              "points15": "345",
+              "duration": "3yrs",
+              "level": "7"
+            },
+            "software-developer": {
+              "id": "67",
+              "title": "Software Development",
+              "code": "LC233",
+              "points14": "265",
+              "points15": "265",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "pharm-forensics": {
+              "id": "68",
+              "title": "Pharmaceutical & Forensic Analysis",
+              "code": "LC265",
+              "points14": "730",
+              "points15": "370",
+              "duration": "4yrs",
+              "level": "8"
+            },
+            "pharm-forensics-analysis": {
+              "id": "69",
+              "title": "Pharmaceutical & Forensic Analysis",
+              "code": "LC267",
+              "points14": "70",
+              "points15": "280",
+              "duration": "3yrs",
+              "level": "7"
+           },
+            "car-technology": {
+              "id": "70",
+              "title": "Automobile Technology",
+              "code": "LC281",
+              "points14": "270",
+              "points15": "280",
+              "duration": "3yrs",
+              "level": "7"
+              },
+            "ag-mech": {
+              "id": "71",
+              "title": "Agricultural Mechanisation",
+              "code": "LC284",
+              "points14": "510",
+              "points15": "295",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "road-transport": {
+              "id": "72",
+              "title": "Road Transport & Management",
+              "code": "LC285",
+              "points14": "225",
+              "points15": "230",
+              "duration": "3yrs",
+              "level": "7"
             }
           }
         },
@@ -3951,32 +4006,8 @@
               "duration":"4yrs",
               "level":"8"
             },
-            "ag-engineering":{
-              "id":"53",
-              "title":"Agricultural Engineering",
-              "code":"TL344",
-              "points14":"New",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "manufacturing-engineering":{
-              "id":"54",
-              "title":"Manufacturing Engineering",
-              "code":"TL347",
-              "points14":"New",
-              "duration":"3yrs",
-              "level":"7"
-            },
-            "wildlife-biology":{
-              "id":"55",
-              "title":"Pharmaceutical Science",
-              "code":"TL355",
-              "points14":"300",
-              "duration":"4yrs",
-              "level":"8"
-            },
             "adv-bus":{
-              "id":"55",
+              "id":"53",
               "title":"Advanced Business",
               "code":"TL630",
               "points14":"300",
@@ -4028,6 +4059,7 @@
               "title":"Childhood Care & Practice",
               "code":"CI008",
               "points14":"135",
+              "points15":"135",
               "duration":"1yr",
               "level":"2"
             },
@@ -4036,6 +4068,7 @@
               "title":"Childhood & Adolescent Care & Practices",
               "code":"CI009",
               "points14":"155",
+              "points15":"155",
               "duration":"2yrs",
               "level":"6"
             },
@@ -4053,6 +4086,7 @@
               "title":"Childhood & Adolescent Care & Practices Honours",
               "code":"CI104",
               "points14":"255",
+              "points15":"255",
               "duration":"4yrs",
               "level":"8"
             }
@@ -4101,6 +4135,7 @@
               "title":"Education, Business, Accounting",
               "code":"TH002",
               "points14":"330",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4109,6 +4144,7 @@
               "title":"Education, Business, Religion",
               "code":"TH003",
               "points14":"325",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4117,6 +4153,7 @@
               "title":"Education, Irish, Religion",
               "code":"TH004",
               "points14":"345",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4143,939 +4180,668 @@
           "address":"College Green Dublin 2",
           "location":"Dublin",
           "courses":{
-            "human-nutrition-dietetics":{
+            "arts":{
               "id":"1",
-              "title":"Human nutrition & dietetics",
-              "code":"DT223",
-              "points14":"545",
-              "duration":"4yrs",
+              "title":"Arts",
+              "code":"TR001",
+              "points14":"",
+              "points15":"",
+              "duration":"3-4yrs",
               "level":"8"
             },
-            "ancient-history-archaeology":{
+            "law":{
               "id":"2",
-              "title":"Ancient history & archaeology (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "classical-civilisation":{
-              "id":"3",
-              "title":"Classical Civilisation (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "drama-studies":{
-              "id":"4",
-              "title":"Drama studies (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "early-irish":{
-              "id":"5",
-              "title":"Early Irish (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "economics":{
-              "id":"6",
-              "title":"Economics (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "english-lit":{
-              "id":"7",
-              "title":"English literature (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "economics-transformation":{
-              "id":"8",
-              "title":"Economics Through Transformational Learning (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"",
-              "level":"8"
-            },
-            "english":{
-              "id":"9",
-              "title":"English (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"",
-              "level":"8"
-            },
-            "film-studies":{
-              "id":"10",
-              "title":"Film studies(TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "french":{
-              "id":"11",
-              "title":"Frenchn(TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "geography":{
-              "id":"12",
-              "title":"Geography (TSM)",
-              "code":"TR001",
-              "points14":"505",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "german":{
-              "id":"13",
-              "title":"German (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "greek":{
-              "id":"14",
-              "title":"Greek (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "history":{
-              "id":"15",
-              "title":"History (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "history-art-arch":{
-              "id":"16",
-              "title":"History of art & architecture (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "italian":{
-              "id":"17",
-              "title":"Italian (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "jewish-islam":{
-              "id":"18",
-              "title":"Jewish & Islamic civilisations (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "latin":{
-              "id":"19",
-              "title":"latin (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "mathematics ":{
-              "id":"20",
-              "title":"Mathematics  (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "modern-irish":{
-              "id":"21",
-              "title":"Modern Irish(TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "music":{
-              "id":"22",
-              "title":"Music (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "philosophy":{
-              "id":"23",
-              "title":"Philosophy (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "psychology":{
-              "id":"24",
-              "title":"Psychology (TSM)",
-              "code":"TR001",
-              "points14":"580",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "russian":{
-              "id":"25",
-              "title":"Russian (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "sociology":{
-              "id":"26",
-              "title":"Sociology (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "spanish":{
-              "id":"27",
-              "title":"Spanish (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "world-religions":{
-              "id":"28",
-              "title":"World religions & theology (TSM)",
-              "code":"TR001",
-              "points14":"",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "music-full":{
-              "id":"29",
               "title":"Law",
               "code":"TR002",
               "points14":"390",
+              "points15":"445#",
               "duration":"4yrs",
               "level":"8"
             },
             "history-full":{
-              "id":"30",
+              "id":"3",
               "title":"History",
               "code":"TR003",
               "points14":"485",
+              "points15":"485*",
               "duration":"4yrs",
               "level":"8"
             },
             "law-full":{
-              "id":"31",
+              "id":"4",
               "title":"Law",
               "code":"TR004",
               "points14":"530",
+              "points15":"540",
               "duration":"4yrs",
               "level":"8"
             },
             "philosophy-full":{
-              "id":"32",
+              "id":"5",
               "title":"Philosophy",
               "code":"TR005",
               "points14":"400",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
             "psychology-full":{
-              "id":"33",
+              "id":"6",
               "title":"Psychology",
               "code":"TR006",
               "points14":"560",
+              "points15":"555*",
               "duration":"4yrs",
               "level":"8"
             },
             "clinical-speech-language":{
-              "id":"34",
+              "id":"7",
               "title":"Clinical speech & language studies",
               "code":"TR007",
               "points14":"525",
+              "points15":"520*",
               "duration":"4yrs",
               "level":"8"
             },
             "world-religions-full":{
-              "id":"35",
+              "id":"8",
               "title":"World religions & theology",
               "code":"TR008",
               "points14":"370",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
             "music-education":{
-              "id":"36",
+              "id":"9",
               "title":"Music education",
               "code":"TR009",
               "points14":"465",
+              "points15":"450#",
               "duration":"4yrs",
               "level":"8"
             },
             "history-political-science":{
-              "id":"37",
+              "id":"10",
               "title":"History & political science",
               "code":"TR012",
               "points14":"500",
+              "points15":"510*",
               "duration":"4yrs",
               "level":"8"
             },
             "philosophy-pol-science-economics-soc":{
-              "id":"38",
+              "id":"11",
               "title":"Philosophy, political science, economics & sociology",
               "code":"TR015",
               "points14":"540",
+              "points15":"550",
               "duration":"4yrs",
               "level":"8"
             },
             "deaf-studies":{
-              "id":"39",
+              "id":"12",
               "title":"Deaf Studies",
               "code":"TR016",
               "points14":"400",
+              "points15":"400",
               "duration":"4yrs",
               "level":"8"
             },
             "law-business":{
-              "id":"40",
+              "id":"13",
               "title":"Law & Business",
               "code":"TR017",
               "points14":"570",
+              "points15":"580",
               "duration":"4yrs",
               "level":"8"
             },
             "law-french":{
-              "id":"41",
+              "id":"14",
               "title":"Law & French",
               "code":"TR018",
               "points14":"560",
+              "points15":"585",
               "duration":"4yrs",
               "level":"8"
             },
             "law-german":{
-              "id":"42",
+              "id":"15",
               "title":"Law & German",
               "code":"TR019",
               "points14":"515",
+              "points15":"545*",
               "duration":"4yrs",
               "level":"8"
             },
             "law-political-science":{
-              "id":"43",
+              "id":"16",
               "title":"Law & political science",
               "code":"TR020",
               "points14":"575",
+              "points15":"575",
               "duration":"4yrs",
               "level":"8"
             },
             "classics":{
-              "id":"44",
+              "id":"17",
               "title":"Classics",
               "code":"TR021",
               "points14":"435",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
             "early-modern-irish":{
-              "id":"45",
+              "id":"18",
               "title":"Early & Modern Irish",
               "code":"TR022",
               "points14":"360",
+              "points15":"425",
               "duration":"4yrs",
               "level":"8"
             },
             "english-studies":{
-              "id":"46",
+              "id":"19",
               "title":"English studies",
               "code":"TR023",
               "points14":"505",
+              "points15":"505",
               "duration":"4yrs",
               "level":"8"
             },
             "european-studies":{
-              "id":"47",
+              "id":"20",
               "title":"European studies",
               "code":"TR024",
               "points14":"520",
+              "points15":"545",
               "duration":"4yrs",
               "level":"8"
             },
             "drama-theatre":{
-              "id":"48",
+              "id":"21",
               "title":"Drama & theatre studies",
               "code":"TR025",
               "points14":"440",
+              "points15":"455#",
               "duration":"4yrs",
               "level":"8"
             },
             "irish-studies":{
-              "id":"49",
+              "id":"22",
               "title":"Irish studies: An interdisciplinary course in Irish civilisation",
               "code":"TR027",
               "points14":"435",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
             "ancient-medieval":{
-              "id":"50",
+              "id":"23",
               "title":"Ancient & medieval history & culture",
               "code":"TR028",
               "points14":"450",
+              "points15":"445",
               "duration":"4yrs",
               "level":"8"
             },
             "geography-pol-science":{
-              "id":"51",
+              "id":"24",
               "title":"Political science & geography",
               "code":"TR029",
               "points14":"490",
+              "points15":"485",
               "duration":"4yrs",
               "level":"8"
             },
             "catholic":{
-              "id":"52",
+              "id":"25",
               "title":"Catholic theological studies",
               "code":"TR030",
               "points14":"310",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
             "bio-med-engineering":{
-              "id":"53",
+              "id":"26",
               "title":"Biomedical engineering",
               "code":"TR032",
               "points14":"470",
+              "points15":"570",
               "duration":"5yrs",
               "level":"8"
             },
             "civil-structural-engineering":{
-              "id":"54",
+              "id":"27",
               "title":"Civil, structural, & environmental engineering",
               "code":"TR032",
               "points14":"470",
+              "points15":"495*",
               "duration":"5",
               "level":"8"
             },
             "computer-engineering":{
-              "id":"55",
+              "id":"28",
               "title":"Computer engineering",
               "code":"TR032",
               "points14":"470",
+              "points15":"490*",
               "duration":"5yrs",
               "level":"8"
             },
             "electronic-computer-engineering":{
-              "id":"56",
+              "id":"29",
               "title":"Electronic & computer engineering (joint programme)",
               "code":"TR032",
               "points14":"470",
+              "points15":"445",
               "duration":"5yrs",
               "level":"8"
             },
             "electronic-engineering":{
-              "id":"57",
+              "id":"30",
               "title":"Electronic engineering",
               "code":"TR032",
               "points14":"470",
               "duration":"5yrs",
               "level":"8"
             },
+            "maths":{
+              "id":"31",
+              "title":"Mathematics",
+              "code":"TR031",
+              "points14":"540",
+              "points15":"570",
+              "duration":"4yrs",
+              "level":"8"
+            },
             "engineering":{
-              "id":"58",
+              "id":"32",
               "title":"Engineering",
               "code":"TR032",
               "points14":"470",
-              "duration":"5yrs",
-              "level":"8"
-            },
-            "mechanical-man-engineering":{
-              "id":"59",
-              "title":"Mechanical & manufacturing engineering",
-              "code":"TR032",
-              "points14":"470",
+              "points15":"495*",
               "duration":"5yrs",
               "level":"8"
             },
             "computer-science":{
-              "id":"60",
-              "title":"Civil & Environmental Engineering",
+              "id":"33",
+              "title":"Computer Science",
               "code":"TR033",
               "points14":"465",
+              "points15":"490*",
               "duration":"4yrs",
               "level":"8"
             },
             "management-science-iss":{
-              "id":"61",
+              "id":"34",
               "title":"Management science & information systems studies (MSISS)",
               "code":"TR034",
               "points14":"515",
+              "points15":"555",
               "duration":"4",
               "level":"8"
             },
             "theoretical-physics":{
-              "id":"62",
+              "id":"35",
               "title":"Theoretical physics",
               "code":"TR035",
               "points14":"550",
+              "points15":"565",
               "duration":"4yrs",
               "level":"8"
             },
             "engineering-management":{
-              "id":"63",
+              "id":"36",
               "title":"Engineering with Management",
               "code":"TR038",
               "points14":"460",
+              "points15":"505*",
               "duration":"5yrs",
               "level":"8"
             },
             "computer-science-language":{
-              "id":"64",
+              "id":"37",
               "title":"Computer science & language",
               "code":"TR039",
               "points14":"450",
+              "points15":"465",
               "duration":"4yrs",
               "level":"8"
             },
             "medicine":{
-              "id":"64",
+              "id":"38",
               "title":"Medicine",
               "code":"TR051",
               "points14":"#733",
+              "points15":"#733",
               "duration":"4yrs",
               "level":"8"
             },
             "dental-science":{
-              "id":"65",
+              "id":"39",
               "title":"Dental Science",
               "code":"TR052",
               "points14":"585",
+              "points15":"590",
               "duration":"5yrs",
               "level":"8"
             },
             "physiotherapy":{
-              "id":"66",
+              "id":"40",
               "title":"Physiotherapy",
               "code":"TR053",
               "points14":"545",
+              "points15":"540",
               "duration":"4yrs",
               "level":"8"
             },
             "occupational-therapy":{
-              "id":"66",
+              "id":"41",
               "title":"Occupational therapy",
               "code":"TR054",
               "points14":"500",
+              "points15":"515*",
               "duration":"4yrs",
               "level":"8"
             },
             "radiation-therapy":{
-              "id":"67",
+              "id":"42",
               "title":"Radiation therapy",
               "code":"TR055",
               "points14":"535",
+              "points15":"525*",
               "duration":"4yrs",
               "level":"8"
             },
             "human-health-disease":{
-              "id":"68",
+              "id":"43",
               "title":"Human health & disease",
               "code":"TR056",
               "points14":"535",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "biochemistry":{
-              "id":"69",
-              "title":"Biochemistry",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "chemistry":{
-              "id":"70",
-              "title":"Chemistry",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "environmental-science":{
-              "id":"71",
-              "title":"Environmental-science",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "functional-biology":{
-              "id":"72",
-              "title":"Functional Biology - the comparative physiology of organisms",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "genetics":{
-              "id":"73",
-              "title":"Genetics",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "geography":{
-              "id":"74",
-              "title":"Geography",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "geology":{
-              "id":"76",
-              "title":"Geology",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "immunology":{
-              "id":"77",
-              "title":"Immunology",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "micro-biology":{
-              "id":"78",
-              "title":"Microbiology",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "molecular":{
-              "id":"79",
-              "title":"Molecular medicine",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "neuroscience":{
-              "id":"80",
-              "title":"Neuroscience",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "physics":{
-              "id":"81",
-              "title":"Physics",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "physics-astrophysics":{
-              "id":"82",
-              "title":"Physics & astrophysics",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "physiology":{
-              "id":"83",
-              "title":"Physiology",
-              "code":"TR071",
-              "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "plant-sciences":{
-              "id":"84",
-              "title":"Plant sciences",
-              "code":"TR071",
-              "points14":"515",
+              "points15":"540*",
               "duration":"4yrs",
               "level":"8"
             },
             "science-common":{
-              "id":"85",
+              "id":"44",
               "title":"Science common entry",
               "code":"TR071",
               "points14":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "zoology":{
-              "id":"86",
-              "title":"Zoology",
-              "code":"TR071",
-              "points14":"515",
+              "points15":"510*",
               "duration":"4yrs",
               "level":"8"
             },
             "pharmacy":{
-              "id":"87",
+              "id":"45",
               "title":"Pharmacy",
               "code":"TR072",
               "points14":"565",
+              "points15":"550*",
               "duration":"4yrs",
               "level":"8"
             },
             "human-genetics":{
-              "id":"88",
+              "id":"46",
               "title":"Human Genetics",
               "code":"TR073",
               "points14":"560",
+              "points15":"575*",
               "duration":"4yrs",
               "level":"8"
             },
             "chem-molecular-model":{
-              "id":"89",
+              "id":"47",
               "title":"Chemistry with molecular modelling",
               "code":"TR074",
               "points14":"505",
+              "points15":"505",
               "duration":"4yrs",
               "level":"8"
             },
             "medicinal-chem":{
-              "id":"90",
+              "id":"48",
               "title":"Medicinal chemistry",
               "code":"TR075",
               "points14":"535",
+              "points15":"510*",
               "duration":"4yrs",
               "level":"8"
             },
             "nano-science-physics-chem":{
-              "id":"91",
-              "title":"Nanoscience, physics & chemistry of advanced materials",
+              "id":"49",
+              "title":"Nanoscience",
               "code":"TR076",
               "points14":"595",
+              "points15":"595",
               "duration":"4yrs",
               "level":"8"
             },
             "earth-sciences":{
-              "id":"92",
+              "id":"50",
               "title":"Earth sciences",
               "code":"TR077",
               "points14":"475",
+              "points15":"490",
               "duration":"4yrs",
               "level":"8"
             },
             "bess":{
-              "id":"93",
+              "id":"51",
               "title":"Business, economic & social studies (BESS)",
               "code":"TR081",
               "points14":"495",
+              "points15":"510",
               "duration":"4yrs",
               "level":"8"
             },
             "computer-science-business":{
-              "id":"94",
+              "id":"52",
               "title":"Computer science & business",
               "code":"TR082",
               "points14":"465",
+              "points15":"500",
               "duration":"4yrs",
               "level":"8"
             },
             "sociology-social-policy":{
-              "id":"95",
+              "id":"53",
               "title":"Sociology & social policy",
               "code":"TR083",
               "points14":"460",
+              "points15":"455",
               "duration":"4yrs",
               "level":"8"
             },
             "social-studies":{
-              "id":"96",
+              "id":"54",
               "title":"Social studies (social work)",
               "code":"TR084",
               "points14":"460",
+              "points15":"460*",
               "duration":"4yrs",
               "level":"8"
             },
             "business-french":{
-              "id":"97",
+              "id":"55",
               "title":"Business studies & French",
               "code":"TR085",
               "points14":"515",
+              "points15":"545",
               "duration":"4yrs",
               "level":"8"
             },
             "business-german":{
-              "id":"98",
+              "id":"56",
               "title":"Business studies & German",
               "code":"TR086",
               "points14":"490",
+              "points15":"500*",
               "duration":"4yrs",
               "level":"8"
             },
             "business-russian":{
-              "id":"99",
+              "id":"57",
               "title":"Business studies & Russian",
               "code":"TR087",
               "points14":"445",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
             "business-polish":{
-              "id":"100",
+              "id":"58",
               "title":"Business studies & Polish",
               "code":"TR089",
               "points14":"405",
+              "points15":"405",
               "duration":"4yrs",
               "level":"8"
             },
             "business-spanish":{
-              "id":"101",
+              "id":"59",
               "title":"Business studies & Spanish",
               "code":"TR090",
               "points14":"525",
+              "points15":"540",
               "duration":"4yrs",
               "level":"8"
             },
             "general-nursing":{
-              "id":"102",
+              "id":"60",
               "title":"Nursing general",
               "code":"TR091",
               "points14":"420",
+              "points15":"420",
               "duration":"4yrs",
               "level":"8"
             },
             "general-nursing-mature":{
-              "id":"103",
+              "id":"61",
               "title":"General nursing mature",
               "code":"TR092",
               "points14":"null",
+              "points15":"171#",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-general-adelaide":{
-              "id":"104",
+              "id":"62",
               "title":"Nursing - General Nursing Adelaide",
               "code":"TR093",
               "points14":"400",
+              "points15":"400#*",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-general-adelaide-mature":{
-              "id":"105",
+              "id":"63",
               "title":"Nursing - General Nursing Adelaide MATURE",
               "code":"TR094",
               "points14":"506",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-mental":{
-              "id":"106",
+              "id":"64",
               "title":"Nursing - Mental Health ",
               "code":"TR095",
-              "points14":"4055",
+              "points14":"405",
+              "points15":"415",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-mental-mature":{
-              "id":"107",
+              "id":"65",
               "title":"Psychiatric Nursing, Mature",
               "code":"TR096",
               "points14":"212",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-intellectual":{
-              "id":"108",
+              "id":"66",
               "title":"Nursing Intellectual Disability",
               "code":"TR097",
               "points14":"400",
+              "points15":"85*",
               "duration":"4yrs",
               "level":"8"
             },
             "nursing-intellectual-mature":{
-              "id":"109",
+              "id":"67",
               "title":"Nursing Intellectual Disability Mature",
               "code":"TR098",
               "points14":"502",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
             "dental-nursing":{
-              "id":"110",
+              "id":"68",
               "title":"Dental nursing",
               "code":"TR801",
               "points14":"360",
+              "points15":"355*",
               "duration":"2yrs",
               "level":"7"
             },
             "dental-hygiene":{
-              "id":"111",
+              "id":"69",
               "title":"Dental hygiene (diploma)",
               "code":"TR802",
               "points14":"415",
+              "points15":"360#",
               "duration":"2yrs",
               "level":"7"
             },
             "dental-technology":{
-              "id":"112",
+              "id":"70",
               "title":"Dental technology (ordinary degree)",
               "code":"TR803",
               "points14":"420",
+              "points15":"450#",
               "duration":"3yrs",
               "level":"7"
             },
             "child-general-nursing":{
-              "id":"113",
+              "id":"71",
               "title":"Integrated Children's & General Nursing",
               "code":"TR911",
               "points14":"490",
+              "points15":"505",
               "duration":"4.5yrs",
               "level":"8"
             },
             "child-general-nursing-mature":{
-              "id":"114",
+              "id":"72",
               "title":"Integrated Children's & General Nursing",
               "code":"TR911",
               "points14":"230",
+              "points15":"0",
               "duration":"4.5yrs",
               "level":"8"
             },
             "midwifery":{
-              "id":"115",
+              "id":"73",
               "title":"Midwifery",
               "code":"TR913",
               "points14":"460",
+              "points15":"455",
               "duration":"4yrs",
               "level":"8"
             },
             "midwifery-mature":{
-              "id":"116",
+              "id":"74",
               "title":"Midwifery mature",
               "code":"TR914",
               "points14":"574",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5095,6 +4861,7 @@
               "title":"Medicine",
               "code":"RC001",
               "points14":"#727",
+              "points15":"#729",
               "duration":"5-6yrs",
               "level":"8"
             },
@@ -5103,6 +4870,7 @@
               "title":"Physiotherapy",
               "code":"RC004",
               "points14":"540",
+              "points15":"535*",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5111,6 +4879,7 @@
               "title":"Pharmacy",
               "code":"RC005",
               "points14":"555*",
+              "points15":"545*",
               "duration":"5yrs",
               "level":"8"
             },
@@ -5118,7 +4887,7 @@
               "id":"4",
               "title":"Medicine Graduate Entry",
               "code":"RC101",
-              "points14":"#56*",
+              "points14":"#58",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5282,6 +5051,7 @@
               "title":"1st Year Art & Design Common",
               "code":"AD101",
               "points14":"#",
+              "points15":"#",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -5290,6 +5060,7 @@
               "title":"Design or Fine Art & Education",
               "code":"AD202",
               "points14":"#",
+              "points15":"#",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5298,6 +5069,7 @@
               "title":"Product Design",
               "code":"AD212",
               "points14":"#",
+              "points15":"#",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5306,6 +5078,7 @@
               "title":"Visual Culture",
               "code":"AD215",
               "points14":"350",
+              "points15":"340",
               "duration":"3yrs",
               "level":"8"
             }
@@ -5403,13 +5176,14 @@
               "title":"Education",
               "code":"CE001",
               "points14":"#400",
+              "points15":"385#",
               "duration":"4yrs",
               "level": "8"
             }
           }
         },
         "marino-institute-technology":{
-          "title":"Marion Institute of Technology",
+          "title":"Marino Institute of Technology",
           "id":9,
           "phone":"+353 1 805 7700",
           "site":"http://www.mie.ie",
@@ -5422,6 +5196,7 @@
               "title":"Primary Teaching",
               "code":"CM001",
               "points14":"460",
+              "points15":"465",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5430,6 +5205,7 @@
               "title":"Primary Teaching - Gaeltacht",
               "code":"CM002",
               "points14":"420",
+              "points15":"425",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5438,6 +5214,7 @@
               "title":"Education Studies",
               "code":"CM010",
               "points14":"310",
+              "points15":"320",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5445,7 +5222,8 @@
               "id":"4",
               "title":"Early Childhood Education",
               "code":"CM020",
-              "points14":"New",
+              "points14":"0",
+              "points15":"320",
               "duration":"4yrs",
               "level": "8"
             }
@@ -5542,7 +5320,8 @@
               "id":"1",
               "title":"Accounting & Finance",
               "code":"ID001",
-              "points14":"n/a",
+              "points14":"0",
+              "points15":"200",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5551,6 +5330,7 @@
               "title":"Business",
               "code":"ID002",
               "points14":"n/a",
+              "points15":"n/a",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5559,6 +5339,7 @@
               "title":"Business & Chinese",
               "code":"ID003",
               "points14":"275",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5578,6 +5359,7 @@
               "title":"Theology & Arts",
               "code":"MU001",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5586,6 +5368,7 @@
               "title":"Theology",
               "code":"MU002",
               "points14":"325",
+              "points15":"425",
               "duration":"3yrs",
               "level":"8"
             }
@@ -5605,6 +5388,7 @@
               "title":"Montessori Education",
               "code":"PI201",
               "points14":"125",
+              "points15":"175",
               "duration":"2yrs",
               "level":"6"
             }
@@ -5659,6 +5443,7 @@
               "title":"Computing in Information Technology",
               "code":"CT110",
               "points14":"160",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -5667,6 +5452,7 @@
               "title":"Information Technology",
               "code":"CT116",
               "points14":"155",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"7"
             }
@@ -5737,6 +5523,7 @@
               "title":"Primary Teaching",
               "code":"MH001",
               "points14":"510",
+              "points15":"500",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5745,6 +5532,7 @@
               "title":"Primary Teaching Gaeltacht",
               "code":"MH002",
               "points14":"490",
+              "points15":"480",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5753,6 +5541,7 @@
               "title":"Early Childhood Teaching & Learning",
               "code":"MH003",
               "points14":"370",
+              "points15":"500",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5761,6 +5550,7 @@
               "title":"Arts",
               "code":"MH101",
               "points14":"350",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5769,6 +5559,7 @@
               "title":"Music Technology",
               "code":"MH102",
               "points14":"365",
+              "points15":"330",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5777,6 +5568,7 @@
               "title":"Music",
               "code":"MH103",
               "points14":"#",
+              "points15":"#",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5793,6 +5585,7 @@
               "title":"Psychology",
               "code":"MH106",
               "points14":"505",
+              "points15":"500",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5801,6 +5594,7 @@
               "title":"Social Science",
               "code":"MH107",
               "points14":"380",
+              "points15":"390",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5809,6 +5603,7 @@
               "title":"European Studies",
               "code":"MH108",
               "points14":"380",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5817,6 +5612,7 @@
               "title":"Media Studies",
               "code":"MH109",
               "points14":"460",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5825,6 +5621,7 @@
               "title":" Digital Media",
               "code":"MH110",
               "points14":"360",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5833,6 +5630,7 @@
               "title":"Anthropology ",
               "code":"MH111",
               "points14":"370",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5840,7 +5638,8 @@
               "id":"14",
               "title":"Politics",
               "code":"MH112",
-              "points14":"New",
+              "points14":"0",
+              "points15":"390",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5849,6 +5648,7 @@
               "title":"History",
               "code":"MH113",
               "points14":"405",
+              "points15":"395",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5857,6 +5657,7 @@
               "title":"English",
               "code":"MH114",
               "points14":"400",
+              "points15":"400",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5865,6 +5666,7 @@
               "title":"Law & Arts",
               "code":"MH115",
               "points14":"445",
+              "points15":"450",
               "duration":"2yrs",
               "level":"8"
             },
@@ -5873,6 +5675,7 @@
               "title":"Community & Youth Work - Full-Time",
               "code":"MH116",
               "points14":"#",
+              "points15":"#",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5889,6 +5692,7 @@
               "title":"Law",
               "code":"MH119",
               "points14":"450",
+              "points15":"455",
               "duration":"2yrs",
               "level":"8"
             },
@@ -5897,13 +5701,15 @@
               "title":"Philosophy Politics & Economics",
               "code":"MH120",
               "points14":"380",
-              "duration":"3yrs"
+              "duration":"3yrs",
+              "level": "8"
             },
             "international-development":{
               "id":"22",
               "title":"International Development",
               "code":"MH121",
               "points14":"355",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5912,6 +5718,7 @@
               "title":"Computer Science & Software Engineering Arts",
               "code":"MH140",
               "points14":"350",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5920,6 +5727,7 @@
               "title":"Science",
               "code":"MH201",
               "points14":"400",
+              "points15":"405",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5928,6 +5736,7 @@
               "title":"Biotechnology",
               "code":"MH202",
               "points14":"435",
+              "points15":"425",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5936,6 +5745,7 @@
               "title":"Computer Science & Software Engineering",
               "code":"MH203",
               "points14":"360",
+              "points15":"365",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5944,6 +5754,7 @@
               "title":"Physics with Astrophysics",
               "code":"MH204",
               "points14":"455",
+              "points15":"435",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5952,6 +5763,7 @@
               "title":"Theoretical Physics & Mathematics",
               "code":"MH206",
               "points14":"515",
+              "points15":"525",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5960,6 +5772,7 @@
               "title":"Biological & Biomedical Sciences",
               "code":"MH208",
               "points14":"460",
+              "points15":"465",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5968,6 +5781,7 @@
               "title":"Psychology (through Science)",
               "code":"MH209",
               "points14":"470",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5976,6 +5790,7 @@
               "title":"Pharmaceutical & Biomedical Chemistry",
               "code":"MH210",
               "points14":"470",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5992,6 +5807,7 @@
               "title":"Science (with Education)",
               "code":"MH212",
               "points14":"480",
+              "points15":"470",
               "duration":"4-5yrs",
               "level":"8"
             },
@@ -6007,6 +5823,7 @@
               "title":"Computational Thinking",
               "code":"MH214",
               "points14":"520",
+              "points15":"495",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6047,6 +5864,7 @@
               "title":"Product Design",
               "code":"MH305",
               "points14":"365*",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6055,6 +5873,7 @@
               "title":"Finance",
               "code":"MH401",
               "points14":"370",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6063,6 +5882,7 @@
               "title":"Accounting & Finance",
               "code":"MH403",
               "points14":"405",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6071,6 +5891,7 @@
               "title":"Business Management",
               "code":"MH404",
               "points14":"435",
+              "points15":"435",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6079,6 +5900,7 @@
               "title":"Equine Business",
               "code":"MH405",
               "points14":"355",
+              "points15":"350",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6087,6 +5909,7 @@
               "title":"Law & Business",
               "code":"MH406",
               "points14":"445",
+              "points15":"450",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6095,6 +5918,7 @@
               "title":"Business & Accounting",
               "code":"MH407",
               "points14":"405",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6103,6 +5927,7 @@
               "title":"International Finance & Economics",
               "code":"MH408",
               "points14":"420",
+              "points15":"425",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6111,6 +5936,7 @@
               "title":"Marketing",
               "code":"MH410",
               "points14":"400",
+              "points15":"400",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6119,6 +5945,7 @@
               "title":"Entrepreneurship",
               "code":"MH411",
               "points14":"355",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6127,6 +5954,7 @@
               "title":"Arts Kilkenny",
               "code":"MH901",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"4yrs",
               "level":"8"
             }
