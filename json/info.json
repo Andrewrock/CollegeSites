@@ -4944,6 +4944,7 @@
               "title":"Computing",
               "code":"NC003",
               "points14":"340",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4952,6 +4953,7 @@
               "title":"Business Information Systems",
               "code":"NC004",
               "points14":"345",
+              "points15":"325",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4960,6 +4962,7 @@
               "title":"Human Resource Management",
               "code":"NC005",
               "points14":"295",
+              "points15":"290",
               "duration":"3yrs",
               "level":"8"
             },
@@ -4968,6 +4971,7 @@
               "title":"Accounting",
               "code":"NC006",
               "points14":"340",
+              "points15":"340",
               "duration":"3yrs",
               "level":"8"
             },
@@ -4976,6 +4980,7 @@
               "title":"Business",
               "code":"NC009",
               "points14":"295",
+              "points15":"290",
               "duration":"3yrs",
               "level":"8"
             },
@@ -4984,6 +4989,7 @@
               "title":"Psychology",
               "code":"NC010",
               "points14":"310",
+              "points15":"320",
               "duration":"3yrs",
               "level":"8"
             },
@@ -4992,6 +4998,7 @@
               "title":"Marketing Practice",
               "code":"NC020",
               "points14":"215",
+              "points15":"230",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5000,6 +5007,7 @@
               "title":"Management of Technology in Business",
               "code":"NC008",
               "points14":"230",
+              "points15":"230",
               "duration":"4yrs",
               "level":"7"
             },
@@ -5008,6 +5016,7 @@
               "title":"Computing in Applications & Support ",
               "code":"NC102",
               "points14":"220",
+              "points15":"230",
               "duration":"2yrs",
               "level":"6"
             },
@@ -5016,6 +5025,7 @@
               "title":"Business",
               "code":"NC103",
               "points14":"215",
+              "points15":"260",
               "duration":"2yrs",
               "level":"6"
             },
@@ -5023,7 +5033,8 @@
               "id":"11",
               "title":"Science in Business",
               "code":"NC104",
-              "points14":"New",
+              "points14":"0",
+              "points15":"0",
               "duration":"2yrs",
               "level":"6"
             },
@@ -5031,7 +5042,17 @@
               "id":"12",
               "title":"Accounting & Finance",
               "code":"NC104",
-              "points14":"New",
+              "points14":"0",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "tech-mgmt":{
+              "id":"13",
+              "title":"Technology Management",
+              "code":"NC004",
+              "points14":"230",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5472,6 +5493,7 @@
               "title":"Humanities",
               "code":"PC402",
               "points14":"210",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
@@ -5480,6 +5502,7 @@
               "title":"Applied Social Studies in Social Care",
               "code":"PC404",
               "points14":"235",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -5488,6 +5511,7 @@
               "title":"Citizenship & Community Studies ",
               "code":"PC405",
               "points14":"255",
+              "points15":"#",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5496,6 +5520,7 @@
               "title":"Citizenship & Community Studies ",
               "code":"PC410",
               "points14":"285",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5504,6 +5529,7 @@
               "title":"English & History",
               "code":"PC411",
               "points14":"265",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5627,7 +5653,7 @@
             },
             "anthropology ":{
               "id":"13",
-              "title":"Anthropology ",
+              "title":"Anthropology",
               "code":"MH111",
               "points14":"370",
               "points15":"370",
@@ -5681,7 +5707,7 @@
             },
             "community-youth-work-part-time":{
               "id":"19",
-              "title":"Community & Youth Work - Part-time In-service",
+              "title":"Community & Youth Work - Part-time",
               "code":"MH117",
               "points14":"N/A",
               "duration":"2yrs",
@@ -5816,7 +5842,9 @@
               "title":"Mathematics (with Education)",
               "code":"MH213",
               "points14":"455",
-              "duration":"3-4yrs"
+              "points15":"470",
+              "duration":"3-4yrs",
+              "level":"8"
             },
             "computer-thinking":{
               "id":"35",
@@ -5832,6 +5860,7 @@
               "title":"Electronic Engineering with Computers",
               "code":"MH301",
               "points14":"360",
+              "points15":"360",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5840,6 +5869,7 @@
               "title":"Electronic Engineering",
               "code":"MH302",
               "points14":"370",
+              "points15":"370",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5848,6 +5878,7 @@
               "title":"Electronic Engineering with Communications",
               "code":"MH303",
               "points14":"315",
+              "points15":"315",
               "duration":"3yrs",
               "level":"8"
             },
@@ -5856,6 +5887,7 @@
               "title":"Computer Electronic & Communications",
               "code":"MH304",
               "points14":"435",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
