@@ -6464,6 +6464,7 @@
               "title":"Business",
               "code":"DB513",
               "points14":"AQA",
+              "points15":"110",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6472,6 +6473,7 @@
               "title":"Business in Accounting",
               "code":"DB522",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6480,14 +6482,16 @@
               "title":"Business in Marketing",
               "code":"DB533",
               "points14":"100",
+              "points15":"120",
               "duration":"2yrs",
               "level":"6"
             },
-            "cultural-studies":{
+            "arts":{
               "id":"4",
-              "title":"Cultural Studies",
+              "title":"Arts",
               "code":"DB563",
               "points14":"140",
+              "points15":"AQA",
               "duration":"1yr",
               "level":"6"
             },
@@ -6496,6 +6500,7 @@
               "title":"Business Studies",
               "code":"DB571",
               "points14":"120",
+              "points15":"110",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6504,6 +6509,7 @@
               "title":"Business in Accounting",
               "code":"DB572",
               "points14":"105",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6512,6 +6518,7 @@
               "title":"Business in Marketing",
               "code":"DB573",
               "points14":"140",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6520,6 +6527,7 @@
               "title":"Business in Information Technology",
               "code":"DB574",
               "points14":"105",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6528,6 +6536,7 @@
               "title":"Social Studies",
               "code":"DB575",
               "points14":"110",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6536,6 +6545,7 @@
               "title":"Film & Media",
               "code":"DB576",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6544,6 +6554,7 @@
               "title":"Journalism & Media",
               "code":"DB578",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6552,6 +6563,7 @@
               "title":"Legal Studies",
               "code":"DB580",
               "points14":"190",
+              "points15":"125",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6560,6 +6572,7 @@
               "title":"Legal & Business Studies",
               "code":"DB581",
               "points14":"110",
+              "points15":"195",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6568,6 +6581,7 @@
               "title":"Legal Studies",
               "code":"DB582",
               "points14":"AQA",
+              "points15":"130",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6576,6 +6590,7 @@
               "title":"Legal & Business Studies",
               "code":"DB583",
               "points14":"250",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6584,6 +6599,7 @@
               "title":"Business Studies",
               "code":"DB512",
               "points14":"265",
+              "points15":"255",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6592,6 +6608,7 @@
               "title":"Business Studies Law",
               "code":"DB514",
               "points14":"283",
+              "points15":"295",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6600,6 +6617,7 @@
               "title":"Business Studies Human Resource Management",
               "code":"DB515",
               "points14":"275",
+              "points15":"255",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6608,6 +6626,7 @@
               "title":"Financial Services",
               "code":"DB516",
               "points14":"325",
+              "points15":"260",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6616,6 +6635,7 @@
               "title":"Marketing Event Management",
               "code":"DB517",
               "points14":"250",
+              "points15":"265",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6624,6 +6644,7 @@
               "title":"Marketing Digital Media",
               "code":"DB518",
               "points14":"265",
+              "points15":"270",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6632,6 +6653,7 @@
               "title":"Business Studies, Work Placement",
               "code":"DB520",
               "points14":"270",
+              "points15":"267",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6640,6 +6662,7 @@
               "title":"Accounting & Finance",
               "code":"DB521",
               "points14":"265",
+              "points15":"280",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6648,6 +6671,7 @@
               "title":"Business Information Systems",
               "code":"DB524",
               "points14":"400",
+              "points15":"385",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6656,6 +6680,7 @@
               "title":"Marketing Digital Media Cloud Computing",
               "code":"DB525",
               "points14":"335",
+              "points15":"315",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6664,6 +6689,7 @@
               "title":"Business Information Systems, Cloud Computing",
               "code":"DB526",
               "points14":"240",
+              "points15":"345",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6672,14 +6698,16 @@
               "title":"Marketing",
               "code":"DB531",
               "points14":"290",
+              "points15":"280",
               "duration":"3yrs",
               "level":"8"
             },
-            "ag-engineering":{
+            "film-drama-lit":{
               "id":"28",
               "title":"Film Literature & Drama",
               "code":"DB553",
               "points14":"265",
+              "points15":"260",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6688,6 +6716,7 @@
               "title":"Arts General",
               "code":"DB561",
               "points14":"240",
+              "points15":"255",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6696,6 +6725,7 @@
               "title":"Psychology",
               "code":"DB562",
               "points14":"260",
+              "points15":"260",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6704,6 +6734,7 @@
               "title":"Journalism",
               "code":"DB565",
               "points14":"250",
+              "points15":"250",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6712,6 +6743,7 @@
               "title":"Social Science",
               "code":"DB566",
               "points14":"265",
+              "points15":"255",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6720,6 +6752,7 @@
               "title":"Film Studies",
               "code":"DB567",
               "points14":"250",
+              "points15":"255",
               "duration":"4yrs",
               "level":"8"
             },
@@ -6728,6 +6761,7 @@
               "title":"Law",
               "code":"DB568",
               "points14":"255",
+              "points15":"240",
               "duration":"3yrs",
               "level":"8"
             },
@@ -6736,6 +6770,7 @@
               "title":"Business & Psychology",
               "code":"DB569",
               "points14":"260",
+              "points15":"290",
               "duration":"3yrs",
               "level":"8"
             }
@@ -6910,6 +6945,7 @@
               "title":"International Hospitality Management",
               "code":"GC406",
               "points14":"110",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"7"
             },
@@ -6918,6 +6954,7 @@
               "title":"Marketing",
               "code":"GC410",
               "points14":"110",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6926,6 +6963,7 @@
               "title":"Business",
               "code":"GC411",
               "points14":"100",
+              "points15":"145",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6934,6 +6972,7 @@
               "title":"Business",
               "code":"GC416",
               "points14":"140",
+              "points15":"140",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6942,6 +6981,7 @@
               "title":"Legal Studies",
               "code":"GC425",
               "points14":"100",
+              "points15":"120",
               "duration":"1yr",
               "level":"6"
             },
@@ -6950,6 +6990,7 @@
               "title":"Computing",
               "code":"GC435",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6958,6 +6999,7 @@
               "title":"Computing",
               "code":"GC440",
               "points14":"135",
+              "points15":"115",
               "duration":"2yrs",
               "level":"6"
             },
@@ -6966,6 +7008,7 @@
               "title":"Computer Games Technology",
               "code":"GC445",
               "points14":"125",
+              "points15":"AQA",
               "duration":"1yr",
               "level":"6"
             },
@@ -6974,6 +7017,7 @@
               "title":"Music Production for Games",
               "code":"GC460",
               "points14":"#415",
+              "points15":"#400",
               "duration":"1yr",
               "level":"6"
             },
@@ -6982,6 +7026,7 @@
               "title":"Journalism",
               "code":"GC465",
               "points14":"AQA",
+              "points15":"120",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6990,6 +7035,7 @@
               "title":"Film and Screen Media Production",
               "code":"GC466",
               "points14":"145",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -6998,6 +7044,7 @@
               "title":"Photographic Media",
               "code":"GC470",
               "points14":"AQA",
+              "points15":"100",
               "duration":"3yrs",
               "level":"7"
             },
@@ -7006,6 +7053,7 @@
               "title":"Photography",
               "code":"GC475",
               "points14":"AQA",
+              "points15":"AQA",
               "duration":"1yr",
               "level":"6"
             },
@@ -7014,6 +7062,7 @@
               "title":"Interior Design",
               "code":"GC490",
               "points14":"110",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -7022,6 +7071,7 @@
               "title":"Business Studies",
               "code":"GC400",
               "points14":"230",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7030,6 +7080,7 @@
               "title":"Accounting & Finance",
               "code":"GC401",
               "points14":"255",
+              "points15":"270",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7038,6 +7089,7 @@
               "title":"Law",
               "code":"GC403",
               "points14":"305",
+              "points15":"280",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7046,6 +7098,7 @@
               "title":"Business & Law",
               "code":"GC404",
               "points14":"270",
+              "points15":"270",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7054,6 +7107,7 @@
               "title":"International Hospitality Management",
               "code":"GC405",
               "points14":"250",
+              "points15":"265",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7062,6 +7116,7 @@
               "title":"Computer Science",
               "code":"GC430",
               "points14":"240",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7070,6 +7125,7 @@
               "title":"Computer Science Cloud Computing",
               "code":"GC431",
               "points14":"320",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7078,6 +7134,7 @@
               "title":"Computer Science Software Development",
               "code":"GC432",
               "points14":"280",
+              "points15":"265",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7086,6 +7143,7 @@
               "title":"Computer Science Network Management",
               "code":"GC433",
               "points14":"290",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7094,6 +7152,7 @@
               "title":"Computer Science Games Developemnt",
               "code":"GC434",
               "points14":"245",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7102,6 +7161,7 @@
               "title":"Journalism & Visual Media",
               "code":"GC450",
               "points14":"230",
+              "points15":"24",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7110,6 +7170,7 @@
               "title":"Music Production",
               "code":"GC455",
               "points14":"#240",
+              "points15":"#290",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7117,7 +7178,8 @@
               "id":"28",
               "title":"Design Communication",
               "code":"GC462",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"320#",
               "duration":"3yrs",
               "level":"8"
             },
@@ -7126,6 +7188,7 @@
               "title":"Interior Architecture",
               "code":"GC489",
               "points14":"215",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -7134,6 +7197,7 @@
               "title":"Fashion Design",
               "code":"GC494",
               "points14":"#317",
+              "points15":"#333",
               "duration":"3-4yrs",
               "level":"8"
             }
@@ -9424,6 +9488,7 @@
               "title":"Bar & Restaurant Management",
               "code":"GA373",
               "points14":"140",
+              "points15":"0",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9675,6 +9740,7 @@
               "title":"Construction Management in Refurbishment & Maintenance",
               "code":"GA875",
               "points14":"140",
+              "points15":"0",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9846,11 +9912,105 @@
               "id":"11",
               "title":"Applied Science in Food & Business Management",
               "code":"AS201",
-              "points14":"",
-              "points15":"null",
+              "points14":"285",
+              "points15":"355",
+              "duration":"2yrs",
+              "level":"7"
+            },
+            "arts-home-ec-biology":{
+              "id":"12",
+              "title":"Arts, Home Ec & Biology",
+              "code":"AS001",
+              "points14":"510",
+              "points15":"510",
               "duration":"4yrs",
-              "level":""
+              "level":"8"
+            },
+            "arts-home-ec-religion":{
+              "id":"13",
+              "title":"Arts, Home Ec & Religion",
+              "code":"AS002",
+              "points14":"440",
+              "points15":"450*",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "arts-home-ec-irish":{
+              "id":"14",
+              "title":"Arts, Home Ec & Irish",
+              "code":"AS003",
+              "points14":"410",
+              "points15":"430*",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "arts-home-ec-economics":{
+              "id":"15",
+              "title":"Arts, Home Ec & Economics",
+              "code":"AS004",
+              "points14":"415",
+              "points15":"440",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "food-management-business":{
+              "id":"16",
+              "title":"Food & Business Management",
+              "code":"AS051",
+              "points14":"270",
+              "points15":"270",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "health-disability-studies":{
+              "id":"17",
+              "title":"Health & Disability Studies",
+              "code":"AS052",
+              "points14":"230",
+              "points15":"240",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "general-nursing":{
+              "id":"18",
+              "title":"General Nursing",
+              "code":"AS110",
+              "points14":"405",
+              "points15":"405*",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "general-nursing-mature":{
+              "id":"19",
+              "title":"General Nursing Mature",
+              "code":"AS111",
+              "points14":"#177",
+              "points15":"#184",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mental-nursing":{
+              "id":"20",
+              "title":"Intellectual Disability Nursing",
+              "code":"AS130",
+              "points14":"370",
+              "points15":"365",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mental-nursing-mature":{
+              "id":"21",
+              "title":"Intellectual Disability Nursing",
+              "code":"AS131",
+              "points14":"#154",
+              "points15":"#158",
+              "duration":"4yrs",
+              "level":"8"
             }
+
+
+
+
           }
         },
         "sligo-it":{
@@ -9876,6 +10036,7 @@
               "title":"Accounting",
               "code":"SG161",
               "points14":"333",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9938,6 +10099,7 @@
               "title":"Architectural Design",
               "code":"SG345",
               "points14":"285",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10269,6 +10431,7 @@
               "title":"Marketing with Languages",
               "code":"SG532",
               "points14":"200",
+              "points15":"0",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10277,6 +10440,7 @@
               "title":"Marketing",
               "code":"SG533",
               "points14":"160",
+              "points15":"0",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10312,7 +10476,7 @@
               "title":"Business in International Marketing & Sales with German",
               "code":"SG144",
               "points14":"0",
-              "points15":"",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10320,8 +10484,8 @@
               "id":"52",
               "title":"Business in International Marketing & Sales with Spanish",
               "code":"SG144",
-              "points14":"",
-              "points15":"",
+              "points14":"0",
+              "points15":"285",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10392,7 +10556,8 @@
               "id":"60",
               "title":"Computing",
               "code":"SG539",
-              "points14":"New",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10400,7 +10565,8 @@
               "id":"61",
               "title":"Business in International Marketing & Sales with French",
               "code":"SG144",
-              "points14":"New",
+              "points14":"0",
+              "points15":"330",
               "duration":"4yrs",
               "level":"8"
             }
