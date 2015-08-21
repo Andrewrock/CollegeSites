@@ -9806,7 +9806,89 @@
               "points15":"320",
               "duration":"4yrs",
               "level":"8"
+            },
+            "rural-enterprise-agri-business":{
+              "id":"78",
+              "title":"Rural Enterprise & Anti Business",
+              "code":"GA172",
+              "points14":"280",
+              "points15":"280",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "business-marketing-sales":{
+              "id":"79",
+              "title":"Business Marketing & Sales",
+              "code":"GA174",
+              "points14":"0",
+              "points15":"270",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "business-finance":{
+              "id":"80",
+              "title":"Business Finance",
+              "code":"GA175",
+              "points14":"0",
+              "points15":"305",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "business-entrepreneurship":{
+              "id":"81",
+              "title":"Business Entrepreneurship",
+              "code":"GA176",
+              "points14":"0",
+              "points15":"275",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "chem-pharm-science":{
+              "id":"82",
+              "title":"Chemical & Pharmaceutical Science",
+              "code":"GA772",
+              "points14":"310",
+              "points15":"317",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "physics-instrumentation":{
+              "id":"83",
+              "title":"Physics & Instrumentation",
+              "code":"GA773",
+              "points14":"300",
+              "points15":"315",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "computing-sw-dev":{
+              "id":"84",
+              "title":"Computing in Software Development",
+              "code":"GA775",
+              "points14":"290",
+              "points15":"300",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "business-computing-digital-media":{
+              "id":"85",
+              "title":"Business Computing & Digital Media",
+              "code":"GA776",
+              "points14":"170",
+              "points15":"330",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "ag-environment":{
+              "id":"86",
+              "title":"Agriculture & Environmental Management",
+              "code":"GA777",
+              "points14":"300",
+              "points15":"330",
+              "duration":"3yrs",
+              "level":"7"
             }
+
           }
         },
         "st-angelas-college":{
