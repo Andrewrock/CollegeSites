@@ -4162,6 +4162,7 @@
               "title":"Education, Irish, Business",
               "code":"TH005",
               "points14":"335",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             }
@@ -4908,6 +4909,7 @@
               "title":"Primary Teaching",
               "code":"PD101",
               "points14":"465",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4916,6 +4918,7 @@
               "title":"Primary Teaching - Gaeltacht",
               "code":"PD102",
               "points14":"425",
+              "points15":"430",
               "duration":"4yrs",
               "level":"8"
             },
@@ -4924,6 +4927,7 @@
               "title":"Arts/Humanities",
               "code":"PD103",
               "points14":"395",
+              "points15":"390",
               "duration":"3yrs",
               "level":"8"
             }
@@ -5119,6 +5123,7 @@
               "title":"Education, Religion, English",
               "code":"MD201",
               "points14":"380",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5127,6 +5132,7 @@
               "title":"Education, Religion, History",
               "code":"MD301",
               "points14":"375",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5135,6 +5141,7 @@
               "title":"Education, Religion, Music",
               "code":"MD401",
               "points14":"#370",
+              "points15":"#370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -5143,6 +5150,7 @@
               "title":"Arts, Irish, Religion",
               "code":"MD500",
               "points14":"270",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             }
@@ -5159,9 +5167,10 @@
           "courses":{
             "international-business":{
               "id":"1",
-              "title":"International business",
+              "title":"International Business",
               "code":"AC120",
               "points14":"220",
+              "points15":"270",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5170,6 +5179,7 @@
               "title":"Accounting & Finance",
               "code":"AC121",
               "points14":"200",
+              "points15":"200",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5178,6 +5188,7 @@
               "title":"Liberal Arts",
               "code":"AC137",
               "points14":"275",
+              "points15":"280",
               "duration":"3yrs",
               "level": "8"
             }
@@ -5307,6 +5318,7 @@
               "title":"Business",
               "code":"BY301",
               "points14":"270",
+              "points15":"0",
               "duration":"4yrs",
               "level": "8"
             },
@@ -5315,6 +5327,7 @@
               "title":"Business",
               "code":"BY201",
               "points14":"160",
+              "points15":"160",
               "duration":"2yrs",
               "level": "8"
             },
@@ -5323,6 +5336,7 @@
               "title":"Business",
               "code":"BY251",
               "points14":"100",
+              "points15":"165",
               "duration":"3yrs",
               "level": "8"
             }
@@ -5429,14 +5443,16 @@
               "title":"Business",
               "code":"GF001",
               "points14":"165",
+              "points15":"0",
               "duration":"2yrs",
-              "level":"8"
+              "level":"6"
             },
             "business-management":{
               "id":"2",
               "title":"Business in Management",
               "code":"GF010",
               "points14":"190",
+              "points15":"AQA",
               "duration":"3yrs",
               "level":"7"
             },
@@ -5445,6 +5461,7 @@
               "title":"Business in Accounting",
               "code":"GF011",
               "points14":"145",
+              "points15":"400",
               "duration":"3yrs",
               "level":"7"
             }
@@ -9038,6 +9055,7 @@
               "title":"Accounting",
               "code":"GA181",
               "points14":"265",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9046,6 +9064,7 @@
               "title":"Business",
               "code":"GA182",
               "points14":"265",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9054,6 +9073,7 @@
               "title":"Information Systems Management",
               "code":"GA183",
               "points14":"250",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9062,6 +9082,7 @@
               "title":"Film & Documentary",
               "code":"GA281",
               "points14":"320",
+              "points15":"350",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9070,6 +9091,7 @@
               "title":"Heritage Studies",
               "code":"GA282",
               "points14":"295",
+              "points15":"245",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9078,6 +9100,7 @@
               "title":"Hotel & Catering Management",
               "code":"GA380",
               "points14":"230",
+              "points15":"230",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9086,6 +9109,7 @@
               "title":"Construction Management",
               "code":"GA480",
               "points14":"225",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9094,6 +9118,7 @@
               "title":"Construction Economics & Quantity Surveying",
               "code":"GA482",
               "points14":"215",
+              "points15":"210",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9102,6 +9127,7 @@
               "title":"Architectural Technology",
               "code":"GA483",
               "points14":"220",
+              "points15":"250",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9110,6 +9136,7 @@
               "title":"Civil Engineering",
               "code":"GA484",
               "points14":"205",
+              "points15":"245",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9118,6 +9145,7 @@
               "title":"Mechanical Engineering",
               "code":"GA680",
               "points14":"330",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9126,6 +9154,7 @@
               "title":"Energy Engineering",
               "code":"GA681",
               "points14":"230",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9134,6 +9163,7 @@
               "title":"Applied Freshwater & Marine Biology",
               "code":"GA780",
               "points14":"320",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9142,6 +9172,7 @@
               "title":"Applied Biology & Biopharmaceutical Science",
               "code":"GA781",
               "points14":"320",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9150,6 +9181,7 @@
               "title":"Chemical & Pharmaceutical Science",
               "code":"GA782",
               "points14":"325",
+              "points15":"335",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9158,6 +9190,7 @@
               "title":"Physics & Instrumentation",
               "code":"GA783",
               "points14":"310",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9166,6 +9199,7 @@
               "title":"Science",
               "code":"GA784",
               "points14":"325",
+              "points15":"325",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9174,6 +9208,7 @@
               "title":"Medical Science",
               "code":"GA785",
               "points14":"435",
+              "points15":"435",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9182,6 +9217,7 @@
               "title":"Forensic Science & Analysis",
               "code":"GA786",
               "points14":"325",
+              "points15":"325",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9190,6 +9226,7 @@
               "title":"Nursing (General)",
               "code":"GA880",
               "points14":"420",
+              "points15":"410*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9198,6 +9235,7 @@
               "title":"Nursing (General) Mature Entry",
               "code":"GA881",
               "points14":"#181",
+              "points15":"#178",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9206,6 +9244,7 @@
               "title":"Nursing Psychiatric",
               "code":"GA882",
               "points14":"375",
+              "points15":"375",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9214,6 +9253,7 @@
               "title":"Nursing Psychiatric Mature Entry",
               "code":"GA883",
               "points14":"#172",
+              "points15":"#167",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9222,6 +9262,7 @@
               "title":"Digital Media & Society",
               "code":"GA884",
               "points14":"235",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9230,6 +9271,7 @@
               "title":"Outdoor Education",
               "code":"GA885",
               "points14":"235",
+              "points15":"235",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9237,7 +9279,8 @@
               "id":"26",
               "title":"Heritage Studies Mayo",
               "code":"GA886",
-              "points14":"New",
+              "points14":"0",
+              "points15":"240",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9246,6 +9289,7 @@
               "title":"Design & Technology Education",
               "code":"GA980",
               "points14":"390",
+              "points15":"385",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9254,6 +9298,7 @@
               "title":"Furniture Design & Manufacture",
               "code":"GA981",
               "points14":"330",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9262,6 +9307,7 @@
               "title":"Furniture & Wood Technology",
               "code":"GA982",
               "points14":"310",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9269,7 +9315,8 @@
               "id":"30",
               "title":"Accounting Technician",
               "code":"GA160",
-              "points14":"null",
+              "points14":"0",
+              "points15":"0",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9278,14 +9325,16 @@
               "title":"Business",
               "code":"GA170",
               "points14":"200",
+              "points15":"270",
               "duration":"3yrs",
               "level":"7"
             },
-            "admin-info-systems":{
+            "bus-info-systems":{
               "id":"32",
-              "title":"Administration & Information Systems",
+              "title":"Business Information Systems",
               "code":"GA171",
               "points14":"195",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9294,6 +9343,7 @@
               "title":"Rural Enterprise & Agri-Business",
               "code":"GA172",
               "points14":"280",
+              "points15":"280",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9302,6 +9352,7 @@
               "title":"Art & Design",
               "code":"GA270",
               "points14":"#531",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9310,6 +9361,7 @@
               "title":"Heritage Studies",
               "code":"GA272",
               "points14":"145",
+              "points15":"145",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9318,6 +9370,7 @@
               "title":"Tourism",
               "code":"GA360",
               "points14":"165",
+              "points15":"140",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9326,14 +9379,16 @@
               "title":"Culinary Arts",
               "code":"GA361",
               "points14":"200",
+              "points15":"200",
               "duration":"2yrs",
               "level":"6"
             },
-            "hospitality-studies ":{
+            "hospitality-operations ":{
               "id":"38",
-              "title":"Hospitality Studies",
+              "title":"Hotel & Hospitality Operations",
               "code":"GA362",
               "points14":"140",
+              "points15":"140",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9342,6 +9397,7 @@
               "title":"Bar Supervision",
               "code":"GA363",
               "points14":"140",
+              "points15":"145",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9350,6 +9406,7 @@
               "title":"Hotel & Catering Management",
               "code":"GA370",
               "points14":"140",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9358,6 +9415,7 @@
               "title":"Culinary Arts Management",
               "code":"GA372",
               "points14":"165",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9374,6 +9432,7 @@
               "title":"Tourism Management",
               "code":"GA374",
               "points14":"140",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9382,6 +9441,7 @@
               "title":"Retail & Customer Service Management",
               "code":"GA375",
               "points14":"150",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9390,6 +9450,7 @@
               "title":"Event Management with Public Relations",
               "code":"GA376",
               "points14":"240",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9398,6 +9459,7 @@
               "title":"Construction Management",
               "code":"GA460",
               "points14":"140",
+              "points15":"206",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9406,6 +9468,7 @@
               "title":"Construction Economics & Quantity Surveying",
               "code":"GA461",
               "points14":"195",
+              "points15":"215",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9414,6 +9477,7 @@
               "title":"Architectural Technology",
               "code":"GA462",
               "points14":"185",
+              "points15":"250",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9422,6 +9486,7 @@
               "title":"Civil Engineering",
               "code":"GA463",
               "points14":"190",
+              "points15":"250",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9430,6 +9495,7 @@
               "title":"Construction Management ",
               "code":"GA470",
               "points14":"160",
+              "points15":"210",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9438,6 +9504,7 @@
               "title":"Construction Economics & Quantity Surveying",
               "code":"GA471",
               "points14":"170",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9446,6 +9513,7 @@
               "title":"Architectural Technology",
               "code":"GA472",
               "points14":"140",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9454,6 +9522,7 @@
               "title":"Civil Engineering",
               "code":"GA473",
               "points14":"200",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9462,6 +9531,7 @@
               "title":"Computer & Electronic Engineering",
               "code":"GA570",
               "points14":"140",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9470,6 +9540,7 @@
               "title":"Electrical Services & Automation Engineering",
               "code":"GA573",
               "points14":"140",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9478,6 +9549,7 @@
               "title":"Mechanical Engineering",
               "code":"GA670",
               "points14":"300",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9486,6 +9558,7 @@
               "title":"Energy Engineering",
               "code":"GA673",
               "points14":"170",
+              "points15":"200",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9494,6 +9567,7 @@
               "title":"Applied Freshwater & Marine Biology",
               "code":"GA770",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9502,6 +9576,7 @@
               "title":"Applied Biology & Biopharmaceutical Science",
               "code":"GA771",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9510,6 +9585,7 @@
               "title":"Chemical & Pharmaceutical Science",
               "code":"GA772",
               "points14":"310",
+              "points15":"317",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9518,6 +9594,7 @@
               "title":"Physics & Instrumentation ",
               "code":"GA773",
               "points14":"300",
+              "points15":"315",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9526,6 +9603,7 @@
               "title":"Science (Undenominated)",
               "code":"GA774",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9534,6 +9612,7 @@
               "title":"Computing in Software Development",
               "code":"GA775",
               "points14":"290",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9542,6 +9621,7 @@
               "title":"Business Computing & Digital Media",
               "code":"GA776",
               "points14":"170",
+              "points15":"170",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9550,6 +9630,7 @@
               "title":"Agriculture & Environmental Management",
               "code":"GA777",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9558,6 +9639,7 @@
               "title":"Business in Computer Applications",
               "code":"GA869",
               "points14":"140",
+              "points15":"190",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9566,6 +9648,7 @@
               "title":"Outdoor Education & Leisure",
               "code":"GA870",
               "points14":"155",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9574,6 +9657,7 @@
               "title":"Heritage Studies Mayo",
               "code":"GA872",
               "points14":"185",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9582,6 +9666,7 @@
               "title":"Outdoor Education & Leisure with Geography",
               "code":"GA874",
               "points14":"160",
+              "points15":"300",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9598,6 +9683,7 @@
               "title":"Business Mayo",
               "code":"GA877",
               "points14":"145",
+              "points15":"165",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9606,6 +9692,7 @@
               "title":"Accounting & Financial Management Mayo",
               "code":"GA878",
               "points14":"160",
+              "points15":"165",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9614,6 +9701,7 @@
               "title":"Applied Social Studies",
               "code":"GA879",
               "points14":"270",
+              "points15":"240",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9622,6 +9710,7 @@
               "title":"Furniture Design & Manufacture",
               "code":"GA970",
               "points14":"305",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9630,6 +9719,7 @@
               "title":"Furniture & Wood Technology",
               "code":"GA971",
               "points14":"305",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9637,7 +9727,8 @@
               "id":"76",
               "title":"Contemporary Art",
               "code":"GA283",
-              "points14":"New",
+              "points14":"0",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9645,7 +9736,8 @@
               "id":"77",
               "title":"Computing in Software Development",
               "code":"GA787",
-              "points14":"New",
+              "points14":"0",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             }
@@ -9665,6 +9757,7 @@
               "title":"Arts (Education, Home Economics & Biology)",
               "code":"AS001",
               "points14":"515*",
+              "points15":"510",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9673,6 +9766,7 @@
               "title":"Arts (Education, Home Economics & Religious Education)",
               "code":"AS002",
               "points14":"450",
+              "points15":"450*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9681,6 +9775,7 @@
               "title":"Arts (Education, Home Economics & Irish)",
               "code":"AS003",
               "points14":"450",
+              "points15":"430*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9689,6 +9784,7 @@
               "title":"Home Economics with Economics",
               "code":"AS004",
               "points14":"455",
+              "points15":"440",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9697,6 +9793,7 @@
               "title":"Food & Business Management",
               "code":"AS051",
               "points14":"265",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9705,6 +9802,7 @@
               "title":"Health & Disability Studies",
               "code":"AS052",
               "points14":"230",
+              "points15":"240",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9713,6 +9811,7 @@
               "title":"General Nursing",
               "code":"AS110",
               "points14":"410",
+              "points15":"405*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9721,6 +9820,7 @@
               "title":"General Nursing Mature",
               "code":"AS111",
               "points14":"#177",
+              "points15":"#177",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9729,6 +9829,7 @@
               "title":"Intellectual Disability Nursing",
               "code":"AS130",
               "points14":"370*",
+              "points15":"365*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9737,8 +9838,18 @@
               "title":"Intellectual Disability Nursing",
               "code":"AS131",
               "points14":"#151",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
+            },
+            "applied-science-food-business-management":{
+              "id":"11",
+              "title":"Applied Science in Food & Business Management",
+              "code":"AS201",
+              "points14":"",
+              "points15":"null",
+              "duration":"4yrs",
+              "level":""
             }
           }
         },
@@ -9756,6 +9867,7 @@
               "title":"Business",
               "code":"SG141",
               "points14":"280",
+              "points15":"280",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9772,6 +9884,7 @@
               "title":"Performing Arts",
               "code":"SG241",
               "points14":"290",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9780,6 +9893,7 @@
               "title":"Early Childhood Education",
               "code":"SG242",
               "points14":"290",
+              "points15":"290",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9788,6 +9902,7 @@
               "title":"Social Care Practice",
               "code":"SG243",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9796,6 +9911,7 @@
               "title":"Creative Design",
               "code":"SG245",
               "points14":"255",
+              "points15":"270",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9803,7 +9919,8 @@
               "id":"7",
               "title":"Civil Engineering",
               "code":"SG342",
-              "points14":"n/a",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9812,6 +9929,7 @@
               "title":"Quantity Surveying",
               "code":"SG343",
               "points14":"275",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9828,6 +9946,7 @@
               "title":"Environmental Science",
               "code":"SG441",
               "points14":"310",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9836,6 +9955,7 @@
               "title":"Occupational Safety & Health",
               "code":"SG442",
               "points14":"310",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9844,6 +9964,7 @@
               "title":"Human Nutrition",
               "code":"SG443",
               "points14":"400",
+              "points15":"395",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9852,6 +9973,7 @@
               "title":"Pharmaceutical Science with Drug Development",
               "code":"SG445",
               "points14":"305",
+              "points15":"325",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9860,6 +9982,7 @@
               "title":"Applied Archaeology ",
               "code":"SG446",
               "points14":"305",
+              "points15":"295",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9868,6 +9991,7 @@
               "title":"Forensic Investigation & Analysis",
               "code":"SG448",
               "points14":"295",
+              "points15":"340",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9876,6 +10000,7 @@
               "title":"Medical Biotechnology",
               "code":"SG449",
               "points14":"295",
+              "points15":"315",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9884,6 +10009,7 @@
               "title":"Business",
               "code":"SG101",
               "points14":"160",
+              "points15":"110",
               "duration":"2yrs"
             },
             "business-office-admin":{
@@ -9891,6 +10017,7 @@
               "title":"Business in Office Administration",
               "code":"SG105",
               "points14":"150",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9899,6 +10026,7 @@
               "title":"Business in Accounting",
               "code":"SG108",
               "points14":"240",
+              "points15":"150",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9907,6 +10035,7 @@
               "title":"Computing - Games Development",
               "code":"SG131",
               "points14":"210",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9915,6 +10044,7 @@
               "title":"Recreation & Leisure",
               "code":"SG134",
               "points14":"270",
+              "points15":"210",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9923,6 +10053,7 @@
               "title":"Business in Tourism with Event Management ",
               "code":"SG135",
               "points14":"200",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9931,6 +10062,7 @@
               "title":"Computing - Software Development",
               "code":"SG136",
               "points14":"245",
+              "points15":"250",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9939,6 +10071,7 @@
               "title":"Computing - Systems & Networking ",
               "code":"SG137",
               "points14":"240",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9947,6 +10080,7 @@
               "title":"Fine Art",
               "code":"SG231",
               "points14":"#580",
+              "points15":"#545",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9955,6 +10089,7 @@
               "title":"Creative Design & Innovation",
               "code":"SG232",
               "points14":"185",
+              "points15":"170",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9963,6 +10098,7 @@
               "title":"Civil Engineering",
               "code":"SG301",
               "points14":"190",
+              "points15":"140",
               "duration":"2yrs",
               "level":"6"
             },
@@ -9971,6 +10107,7 @@
               "title":"Interior Architecture & Design",
               "code":"SG331",
               "points14":"185",
+              "points15":"185",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9979,6 +10116,7 @@
               "title":"Advanced Wood & Sustainable Building Technology",
               "code":"SG332",
               "points14":"155",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9987,6 +10125,7 @@
               "title":"Mechanical Engineering",
               "code":"SG333",
               "points14":"200",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -9995,6 +10134,7 @@
               "title":"Mechatronics",
               "code":"SG334",
               "points14":"200",
+              "points15":"160",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10003,6 +10143,7 @@
               "title":"Environmental Engineering ",
               "code":"SG335",
               "points14":"205",
+              "points15":"165",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10011,6 +10152,7 @@
               "title":"Electronic Engineering",
               "code":"SG337",
               "points14":"170",
+              "points15":"180",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10019,6 +10161,7 @@
               "title":"Civil Engineering",
               "code":"SG338",
               "points14":"190",
+              "points15":"185",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10027,6 +10170,7 @@
               "title":"Construction Cost Management",
               "code":"SG339",
               "points14":"170",
+              "points15":"165",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10035,6 +10179,7 @@
               "title":"Science",
               "code":"SG401",
               "points14":"290",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10043,6 +10188,7 @@
               "title":"Applied Archaeology",
               "code":"TSG403",
               "points14":"190",
+              "points15":"180",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10051,6 +10197,7 @@
               "title":"Pharmaceutical Science with Drug Development",
               "code":"SG431",
               "points14":"265",
+              "points15":"255",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10059,6 +10206,7 @@
               "title":"Environmental Protection",
               "code":"SG432",
               "points14":"235",
+              "points15":"245",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10067,6 +10215,7 @@
               "title":"Occupational Safety & Health",
               "code":"SG433",
               "points14":"260",
+              "points15":"220",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10075,6 +10224,7 @@
               "title":"Human Nutrition",
               "code":"SG434",
               "points14":"380",
+              "points15":"375",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10083,6 +10233,7 @@
               "title":"Health Science & Physiology",
               "code":"SG435",
               "points14":"380",
+              "points15":"355",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10091,6 +10242,7 @@
               "title":"Biomedical Science",
               "code":"TSG436",
               "points14":"250",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10099,6 +10251,7 @@
               "title":"Forensic Investigation & Analysis",
               "code":"SG437",
               "points14":"240",
+              "points15":"230",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10107,6 +10260,7 @@
               "title":"Applied Archaeology",
               "code":"TSG438",
               "points14":"225",
+              "points15":"185",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10131,6 +10285,7 @@
               "title":"Business",
               "code":"SG536",
               "points14":"195",
+              "points15":"185",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10139,6 +10294,7 @@
               "title":"Web Development & Creative Media",
               "code":"SG538",
               "points14":"200",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10147,6 +10303,7 @@
               "title":"Digital Media Marketing",
               "code":"SG539",
               "points14":"220",
+              "points15":"190",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10154,7 +10311,8 @@
               "id":"51",
               "title":"Business in International Marketing & Sales with German",
               "code":"SG144",
-              "points14":"New",
+              "points14":"0",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10162,7 +10320,8 @@
               "id":"52",
               "title":"Business in International Marketing & Sales with Spanish",
               "code":"SG144",
-              "points14":"New",
+              "points14":"",
+              "points15":"",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10170,7 +10329,8 @@
               "id":"53",
               "title":"Business in Finance & Investment",
               "code":"SG149",
-              "points14":"New",
+              "points14":"0",
+              "points15":"275",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10178,7 +10338,8 @@
               "id":"54",
               "title":"Computing",
               "code":"SG246",
-              "points14":"New",
+              "points14":"0",
+              "points15":"260",
               "duration":"4yrs",
               "level":"8"
             },
@@ -10186,7 +10347,8 @@
               "id":"55",
               "title":"Marketing & Sales",
               "code":"SG537",
-              "points14":"New",
+              "points14":"0",
+              "points15":"100",
               "duration":"3yrs",
               "level":"7"
             },
@@ -10194,14 +10356,17 @@
               "id":"56",
               "title":"Mechanical Engineering",
               "code":"SG303",
-              "points14":"New",
-              "duration":"2yrs"
+              "points14":"0",
+              "points15":"205",
+              "duration":"2yrs",
+              "level":"6"
             },
             "cert-electronic-engineering":{
               "id":"57",
               "title":"Electronic Engineering",
               "code":"SG305",
-              "points14":"New",
+              "points14":"0",
+              "points15":"180",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10209,7 +10374,8 @@
               "id":"58",
               "title":"Certificate in Mechatronics",
               "code":"SG306",
-              "points14":"New",
+              "points14":"0",
+              "points15":"0",
               "duration":"2yrs",
               "level":"6"
             },
@@ -10217,7 +10383,8 @@
               "id":"59",
               "title":"Science Undenominated",
               "code":"SG444",
-              "points14":"New",
+              "points14":"0",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
