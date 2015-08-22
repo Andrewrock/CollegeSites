@@ -5493,7 +5493,17 @@
               "points15":"AQA",
               "duration":"2yrs",
               "level":"7"
+            },
+            "information-tech":{
+              "id":"3",
+              "title":"Information Technology",
+              "code":"CT125",
+              "points14":"0",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
             }
+
           }
         },
         "carlow-college":{
@@ -7217,6 +7227,7 @@
               "title": "Culinary Arts",
               "code": "TA006",
               "points14": "255",
+              "points15":"225",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7225,6 +7236,7 @@
               "title": "Advertising & Marketing Communications",
               "code": "TA014",
               "points14": "#555",
+              "points15":"#438",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7233,6 +7245,7 @@
               "title": "International Hospitality & Tourism Management",
               "code": "TA015",
               "points14": "180",
+              "points15":"160",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7241,6 +7254,7 @@
               "title": "Accounting",
               "code": "TA101",
               "points14": "180",
+              "points15":"175",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7249,6 +7263,7 @@
               "title": "Business Administration",
               "code": "TA102",
               "points14": "180",
+              "points15":"185",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7257,6 +7272,7 @@
               "title": "Marketing",
               "code": "TA103",
               "points14": "200",
+              "points15":"175",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7265,6 +7281,7 @@
               "title": "Accounting & Finance",
               "code": "TA111",
               "points14": "200",
+              "points15":"185",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7273,6 +7290,7 @@
               "title": "Management",
               "code": "TA113",
               "points14": "180",
+              "points15":"175",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7281,6 +7299,7 @@
               "title": "Marketing",
               "code": "TA114",
               "points14": "205",
+              "points15":"170",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7289,6 +7308,7 @@
               "title": "Electronic Engineering",
               "code": "TA201",
               "points14": "150",
+              "points15":"150",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7297,6 +7317,7 @@
               "title": "Mechanical Engineering",
               "code": "TA203",
               "points14": "150",
+              "points15":"180",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7305,6 +7326,7 @@
               "title": "Mechanical Engineering",
               "code": "TA213",
               "points14": "200",
+              "points15":"225",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7313,6 +7335,7 @@
               "title": "Energy & Environmental Engineering ",
               "code": "TA215",
               "points14": "205",
+              "points15":"205",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7321,6 +7344,7 @@
               "title": "Electronic Engineering",
               "code": "TA216",
               "points14": "220",
+              "points15":"190",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7329,6 +7353,7 @@
               "title": "Information Technology",
               "code": "TA302",
               "points14": "275",
+              "points15":"230",
               "duration": "2yrs",
               "level":"6"
             },
@@ -7337,6 +7362,7 @@
               "title": "Bioanalysis",
               "code": "TA311",
               "points14": "215",
+              "points15":"230",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7345,6 +7371,7 @@
               "title": "Computing",
               "code": "TA312",
               "points14": "275",
+              "points15":"230",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7353,6 +7380,7 @@
               "title": "Information Technology Management",
               "code": "TA313",
               "points14": "275",
+              "points15":"210",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7361,6 +7389,7 @@
               "title": "Pharmaceutical Science",
               "code": "TA314",
               "points14": "320",
+              "points15":"315",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7369,6 +7398,7 @@
               "title": "DNA & Forensic Analysis",
               "code": "TA315",
               "points14": "300",
+              "points15":"320",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7377,6 +7407,7 @@
               "title": "Sports Science & Health",
               "code": "TA316",
               "points14": "390",
+              "points15":"390",
               "duration": "3yrs",
               "level":"7"
             },
@@ -7385,6 +7416,7 @@
               "title": "European Studies",
               "code": "TA021",
               "points14": "AQA",
+              "points15":"240",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7393,6 +7425,7 @@
               "title": "Creative Digital Media",
               "code": "TA022",
               "points14": "320",
+              "points15":"260",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7401,6 +7434,7 @@
               "title": "Advertising & Marketing Communications",
               "code": "TA023",
               "points14": "220",
+              "points15":"200",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7409,6 +7443,7 @@
               "title": "Social Care Practice",
               "code": "TA025",
               "points14": "325",
+              "points15":"300",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7417,6 +7452,7 @@
               "title": "International Hospitality & Tourism Management",
               "code": "TA026",
               "points14": "235",
+              "points15":"235",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7425,6 +7461,7 @@
               "title": "Accounting & Finance",
               "code": "TA121",
               "points14": "240",
+              "points15":"255",
               "duration": "3-4yrs",
               "level":"8"
             },
@@ -7433,6 +7470,7 @@
               "title": "Management",
               "code": "TA122",
               "points14": "215",
+              "points15":"225",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7441,6 +7479,7 @@
               "title": "Marketing Management",
               "code": "TA123",
               "points14": "235",
+              "points15":"245",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7449,6 +7488,7 @@
               "title": "Electronic Engineering",
               "code": "TA221",
               "points14": "245",
+              "points15":"285",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7457,6 +7497,7 @@
               "title": "Mechanical Engineering",
               "code": "TA222",
               "points14": "250",
+              "points15":"225",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7465,6 +7506,7 @@
               "title": "Energy Systems Engineering",
               "code": "TA223",
               "points14": "230",
+              "points15":"260",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7473,6 +7515,7 @@
               "title": "Pharmaceutical Science",
               "code": "TA321",
               "points14": "350",
+              "points15":"330",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7481,6 +7524,7 @@
               "title": "Computing",
               "code": "TA322",
               "points14": "290",
+              "points15":"265",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7489,6 +7533,7 @@
               "title": "Information Technology Management",
               "code": "TA323",
               "points14": "255",
+              "points15":"215",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7497,6 +7542,7 @@
               "title": "DNA & Forensics Analysis",
               "code": "TA326",
               "points14": "355",
+              "points15":"330",
               "duration": "4yrs",
               "level":"8"
             },
@@ -7505,8 +7551,18 @@
               "title": "Business & Psychology",
               "code": "TA327",
               "points14": "410",
+              "points15":"400",
               "duration": "4yrs",
               "level":"8"
+            },
+            "applied-biology": {
+              "id": "38",
+              "title": "Applied Biology",
+              "code": "TA301",
+              "points14": "0",
+              "points15":"230",
+              "duration": "2yrs",
+              "level":"6"
             }
           }
         },
@@ -7524,6 +7580,7 @@
                 "title":"Electronics & Computer Engineering",
                 "code":"BN001",
                 "points14":"180",
+                "points15":"185",
                 "duration":"2yrs",
                 "level":"6"
               },
@@ -7532,6 +7589,7 @@
                 "title":"Computing Information Technology",
                 "code":"BN002",
                 "points14":"250",
+                "points15":"200",
                 "duration":"2yrs",
                 "level":"6"
               },
@@ -7540,6 +7598,7 @@
                 "title":"Business",
                 "code":"BN003",
                 "points14":"180",
+                "points15":"180",
                 "duration":"2yrs",
                 "level":"6"
               },
@@ -7548,6 +7607,7 @@
                 "title":"Mechatronic Engineering",
                 "code":"BN009",
                 "points14":"190",
+                "points15":"195",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7556,6 +7616,7 @@
                 "title":"Business Information Technology",
                 "code":"BN010",
                 "points14":"183",
+                "points15":"185",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7564,6 +7625,7 @@
                 "title":"Applied Social Studies in Social Care",
                 "code":"BN011",
                 "points14":"320",
+                "points15":"310",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7572,6 +7634,7 @@
                 "title":"Computer Engineering",
                 "code":"BN012",
                 "points14":"185",
+                "points15":"185",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7580,6 +7643,7 @@
                 "title":"Computing Information Technology",
                 "code":"BN013",
                 "points14":"250",
+                "points15":"200",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7588,6 +7652,7 @@
                 "title":"Business",
                 "code":"BN014",
                 "points14":"180",
+                "points15":"185",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7596,6 +7661,7 @@
                 "title":"Engineering",
                 "code":"BN015",
                 "points14":"AQA",
+                "points15":"AQA",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7604,6 +7670,7 @@
                 "title":"Business Common entry",
                 "code":"BN016",
                 "points14":"105",
+                "points15":"AQA",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7612,6 +7679,7 @@
                 "title":"International Business",
                 "code":"BN017",
                 "points14":"180",
+                "points15":"183",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7620,6 +7688,7 @@
                 "title":"Sports Management & Coaching",
                 "code":"BN020",
                 "points14":"320",
+                "points15":"310",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7628,6 +7697,7 @@
                 "title":"Creative Digital Media",
                 "code":"BN021",
                 "points14":"300",
+                "points15":"300",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7636,6 +7706,7 @@
                 "title":"Horticulture",
                 "code":"BN022",
                 "points14":"185",
+                "points15":"AQA",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7644,6 +7715,7 @@
                 "title":"Social & Community Development",
                 "code":"BN025",
                 "points14":"280",
+                "points15":"230",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7652,6 +7724,7 @@
                 "title":"Early Childhood Care & Education",
                 "code":"BN030",
                 "points14":"300",
+                "points15":"280",
                 "duration":"3yrs",
                 "level":"7"
               },
@@ -7660,6 +7733,7 @@
                 "title":"Business",
                 "code":"BN101",
                 "points14":"220",
+                "points15":"210",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7668,6 +7742,7 @@
                 "title":"Business Information Technology",
                 "code":"BN103",
                 "points14":"230",
+                "points15":"210",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7676,6 +7751,7 @@
                 "title":"Computing Information Technology",
                 "code":"BN104",
                 "points14":"275",
+                "points15":"250",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7684,6 +7760,7 @@
                 "title":"Applied Social Studies in Social Care ",
                 "code":"BN107",
                 "points14":"320",
+                "points15":"310",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7692,6 +7769,7 @@
                 "title":"International Business",
                 "code":"BN110",
                 "points14":"245",
+                "points15":"215",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7700,6 +7778,7 @@
                 "title":"Sports Management and Coaching",
                 "code":"BN111",
                 "points14":"320",
+                "points15":"310",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7708,6 +7787,7 @@
                 "title":"Creative Digital Media",
                 "code":"BN112",
                 "points14":"300",
+                "points15":"300",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7716,6 +7796,7 @@
                 "title":"Horticulture",
                 "code":"BN113",
                 "points14":"220",
+                "points15":"200",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7724,6 +7805,7 @@
                 "title":"Accounting & Finance",
                 "code":"BN114",
                 "points14":"240",
+                "points15":"235",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7732,6 +7814,7 @@
                 "title":"Social & Community Development",
                 "code":"BN115",
                 "points14":"280",
+                "points15":"255",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7740,6 +7823,7 @@
                 "title":"Computer Engineering in Mobile Systems",
                 "code":"BN117",
                 "points14":"255",
+                "points15":"200",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7748,6 +7832,7 @@
                 "title":"Early Childhood Care & Education",
                 "code":"BN118",
                 "points14":"300",
+                "points15":"285",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7756,6 +7841,7 @@
                 "title":"Digital Forensics & Cyber Security",
                 "code":"BN120",
                 "points14":"275",
+                "points15":"255",
                 "duration":"4yrs",
                 "level":"8"
               },
@@ -7764,6 +7850,7 @@
                 "title":"Mechatronic Engineering",
                 "code":"BN121",
                 "points14":"200",
+                "points15":"200",
                 "duration":"4yrs",
                 "level":"8"
               }
@@ -7783,6 +7870,7 @@
               "title": "Business, Digital Marketing",
               "code": "CW018",
               "points14": "283",
+              "points15":"250",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7791,6 +7879,7 @@
               "title": "Early Childhood Education & Care",
               "code": "CW028",
               "points14": "265",
+              "points15":"260",
               "duration": "3yrs",
               "level": "8"
             },
@@ -7799,6 +7888,7 @@
               "title": "Art Portfolio",
               "code": "CW038",
               "points14": "#700",
+              "points15":"#700",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7807,6 +7897,7 @@
               "title": "Applied Social Science",
               "code": "CW068",
               "points14": "283",
+              "points15":"280",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7815,6 +7906,7 @@
               "title": "Visual Communications & Design",
               "code": "CW088",
               "points14": "285",
+              "points15":"250",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7823,6 +7915,7 @@
               "title": "Culture and Heritage Studies",
               "code": "CW098",
               "points14": "260",
+              "points15":"230",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7831,6 +7924,7 @@
               "title": "Biosciences with Bioforensics or Biopharmaceutical",
               "code": "CW108",
               "points14": "315",
+              "points15":"300",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7839,6 +7933,7 @@
               "title": "Environmental Science",
               "code": "CW168",
               "points14": "325",
+              "points15":"320",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7847,6 +7942,7 @@
               "title": "Sport Science",
               "code": "CW178",
               "points14": "420",
+              "points15":"420",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7855,6 +7951,7 @@
               "title": "Sports Rehabilitation & Athletic Therapy",
               "code": "CW188",
               "points14": "445",
+              "points15":"445",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7863,6 +7960,7 @@
               "title": "Strength & Conditioning",
               "code": "CW198",
               "points14": "400",
+              "points15":"390",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7871,6 +7969,7 @@
               "title": "Computer Games Development",
               "code": "CW208",
               "points14": "325",
+              "points15":"315",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7879,6 +7978,7 @@
               "title": "Software Development",
               "code": "CW238",
               "points14": "335",
+              "points15":"320",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7887,6 +7987,7 @@
               "title": "Computer Systems Management",
               "code": "CW248",
               "points14": "325",
+              "points15":"305",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7895,6 +7996,7 @@
               "title": "Quantity Surveying",
               "code": "CW438",
               "points14": "255",
+              "points15":"260",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7903,6 +8005,7 @@
               "title": "Facilities & Energy Management",
               "code": "CW448",
               "points14": "245",
+              "points15":"255",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7911,6 +8014,7 @@
               "title": "Architectural Technology",
               "code": "CW468",
               "points14": "275",
+              "points15":"260",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7919,6 +8023,7 @@
               "title": "Civil Engineering",
               "code": "CW478",
               "points14": "280",
+              "points15":"0",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7927,6 +8032,7 @@
               "title": "Mechanical Engineering",
               "code": "CW548",
               "points14": "310",
+              "points15":"280",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7935,6 +8041,7 @@
               "title": "Electronic Systems",
               "code": "CW558",
               "points14": "340",
+              "points15":"290",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7943,6 +8050,7 @@
               "title": "Aero Engineering",
               "code": "CW568",
               "points14": "380",
+              "points15":"380",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7951,6 +8059,7 @@
               "title": "TV & Media Production",
               "code": "CW578",
               "points14": "360",
+              "points15":"390",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7959,6 +8068,7 @@
               "title": "Law LLB",
               "code": "CW708",
               "points14": "290",
+              "points15":"290",
               "duration": "3yrs",
               "level": "8"
             },
@@ -7967,6 +8077,7 @@
               "title": "Product Design Innovation",
               "code": "CW728",
               "points14": "310",
+              "points15":"300",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7975,6 +8086,7 @@
               "title": "Early Childhood Education & Care",
               "code": "CW748",
               "points14": "290",
+              "points15":"285",
               "duration": "3yrs",
               "level": "8"
             },
@@ -7983,6 +8095,7 @@
               "title": "Applied Social Studies",
               "code": "CW758",
               "points14": "325",
+              "points15":"300",
               "duration": "4yrs",
               "level": "8"
             },
@@ -7991,6 +8104,7 @@
               "title": "Youth & Community Work",
               "code": "CW788",
               "points14": "240",
+              "points15":"#700",
               "duration": "3yrs",
               "level": "8"
             },
@@ -7999,6 +8113,7 @@
               "title": "Media & Public Relations",
               "code": "CW808",
               "points14": "283",
+              "points15":"270",
               "duration": "3yrs",
               "level": "8"
             },
@@ -8007,6 +8122,7 @@
               "title": "Business Marketing",
               "code": "CW838",
               "points14": "280",
+              "points15":"280",
               "duration": "4yrs",
               "level": "8"
             },
@@ -8015,6 +8131,7 @@
               "title": "Sports Management & Coaching",
               "code": "CW858",
               "points14": "#700",
+              "points15":"#700",
               "duration": "4yrs",
               "level": "8"
             },
@@ -8023,6 +8140,7 @@
               "title": "Business Management",
               "code": "CW908",
               "points14": "280",
+              "points15":"283",
               "duration": "4yrs",
               "level": "8"
             },
@@ -8031,6 +8149,7 @@
               "title": "Business Human Resource Management",
               "code": "CW928",
               "points14": "290",
+              "points15":"280",
               "duration": "4yrs",
               "level": "8"
             },
@@ -8039,6 +8158,7 @@
               "title": "Business & Law",
               "code": "CW938",
               "points14": "285",
+              "points15":"285",
               "duration": "4yrs",
               "level": "8"
             },
@@ -8047,6 +8167,7 @@
               "title": "Accounting",
               "code": "CW948",
               "points14": "345",
+              "points15":"295",
               "duration": "3yrs",
               "level": "8"
             },
@@ -8055,6 +8176,7 @@
               "title": "Business Studies",
               "code": "CW006",
               "points14": "200",
+              "points15":"AQA",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8063,6 +8185,7 @@
               "title": "Applied Social Studies",
               "code": "CW017",
               "points14": "240",
+              "points15":"170",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8071,6 +8194,7 @@
               "title": "Business -Options",
               "code": "CW037",
               "points14": "190",
+              "points15":"195",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8079,6 +8203,7 @@
               "title": "Art",
               "code": "CW057",
               "points14": "#700",
+              "points15":"#700",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8087,6 +8212,8 @@
               "title": "Culture & Heritage Studies",
               "code": "CW067",
               "points14": "180",
+              "points15":"175",
+              "points15":"175",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8095,6 +8222,7 @@
               "title": "Physiology & Health Science",
               "code": "CW106",
               "points14": "450",
+              "points15":"450",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8103,6 +8231,7 @@
               "title": "Analytical & Forensic Science",
               "code": "CW107",
               "points14": "275",
+              "points15":"245",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8111,6 +8240,7 @@
               "title": "Pharmacy Technician Studies",
               "code": "CW116",
               "points14": "340",
+              "points15":"285",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8119,6 +8249,7 @@
               "title": "Biosciences",
               "code": "CW117",
               "points14": "265",
+              "points15":"235",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8127,6 +8258,7 @@
               "title": "Science - Applied Biology or Applied Chemistry",
               "code": "CW126",
               "points14": "295",
+              "points15":"220",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8135,6 +8267,7 @@
               "title": "Computing Options",
               "code": "CW206",
               "points14": "270",
+              "points15":"285",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8143,6 +8276,7 @@
               "title": "Software Development",
               "code": "CW207",
               "points14": "320",
+              "points15":"330",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8151,6 +8285,7 @@
               "title": "Computer Systems Management",
               "code": "CW217",
               "points14": "270",
+              "points15":"270",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8159,6 +8294,7 @@
               "title": "Architectural Technology",
               "code": "CW407",
               "points14": "195",
+              "points15":"175",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8167,6 +8303,7 @@
               "title": "Construction Technology",
               "code": "CW416",
               "points14": "AQA",
+              "points15":"165",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8175,6 +8312,7 @@
               "title": "Construction Buildings & Services Management",
               "code": "CW417",
               "points14": "190",
+              "points15":"200",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8183,6 +8321,7 @@
               "title": "Civil Engineering",
               "code": "CW427",
               "points14": "230",
+              "points15":"195",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8191,6 +8330,7 @@
               "title": "Aircraft Systems",
               "code": "CW507",
               "points14": "310",
+              "points15":"310",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8199,6 +8339,7 @@
               "title": "Mechanical Engineering",
               "code": "CW517",
               "points14": "280",
+              "points15":"240",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8207,6 +8348,7 @@
               "title": "Electronic Systems",
               "code": "CW527",
               "points14": "300",
+              "points15":"225",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8215,6 +8357,7 @@
               "title": "TV & Media Production",
               "code": "CW547",
               "points14": "345",
+              "points15":"375",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8223,6 +8366,7 @@
               "title": "Legal Studies",
               "code": "CW706",
               "points14": "200",
+              "points15":"200",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8231,6 +8375,7 @@
               "title": "Design in Industrial Design",
               "code": "CW707",
               "points14": "242",
+              "points15":"265",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8239,6 +8384,7 @@
               "title": "Applied Social Studies Professional Social Care",
               "code": "CW717",
               "points14": "275",
+              "points15":"260",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8247,6 +8393,7 @@
               "title": "Sport & Exercise GAA",
               "code": "CW807",
               "points14": "#700",
+              "points15":"#700",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8255,6 +8402,7 @@
               "title": "Sport & Exercise Rugby",
               "code": "CW817",
               "points14": "#700",
+              "points15":"#700",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8263,6 +8411,7 @@
               "title": "Sport & Exercise Soccer",
               "code": "CW827",
               "points14": "#700",
+              "points15":"#700",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8271,6 +8420,7 @@
               "title": "Business Studies",
               "code": "CW906",
               "points14": "200",
+              "points15":"180",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8279,6 +8429,7 @@
               "title": "Business Office Management",
               "code": "CW916",
               "points14": "190",
+              "points":"190",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8287,6 +8438,7 @@
               "title": "Business",
               "code": "CW917",
               "points14": "200",
+              "points15":"200",
               "duration": "3yrs",
               "level": "7"
             },
@@ -8295,6 +8447,7 @@
               "title": "Business with Law",
               "code": "CW926",
               "points14": "200",
+              "points15":"180",
               "duration": "2yrs",
               "level": "6"
             },
@@ -8303,8 +8456,36 @@
               "title": "Accounting",
               "code": "CW936",
               "points14": "200",
+              "points15":"205",
               "duration": "2yrs",
               "level": "6"
+            },
+            "computing-wexford": {
+              "id": "67",
+              "title": "Computing",
+              "code": "CW936",
+              "points14": "0",
+              "points15":"180",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "accountings": {
+              "id": "67",
+              "title": "Accounting",
+              "code": "CW936",
+              "points14": "200",
+              "points15":"205",
+              "duration": "2yrs",
+              "level": "6"
+            },
+            "applied-human": {
+              "id": "67",
+              "title": "Applied Humanities",
+              "code": "CW008",
+              "points14": "0",
+              "points15":"275",
+              "duration": "3yrs",
+              "level": "8"
             }
           }
         },
@@ -8321,7 +8502,8 @@
               "id":"1",
               "title":"Applied Engineering",
               "code":"DK640",
-              "points14":"N/A",
+              "points14":"AQA",
+              "points15":"AQA",
               "duration":"2yrs",
               "level":"6"
             },
@@ -8330,6 +8512,7 @@
               "title":"Culinary Arts",
               "code":"DK650",
               "points14":"240",
+              "points15":"195",
               "duration":"2yrs",
               "level":"6"
             },
@@ -8338,6 +8521,7 @@
               "title":"Hospitality Studies",
               "code":"DK651",
               "points14":"182",
+              "points15":"165",
               "duration":"2yrs",
               "level":"6"
             },
@@ -8346,6 +8530,7 @@
               "title":"Agriculture",
               "code":"DK685",
               "points14":"330",
+              "points15":"375",
               "duration":"2yrs",
               "level":"6"
             },
@@ -8354,6 +8539,7 @@
               "title":"Business & Management",
               "code":"DK710",
               "points14":"160",
+              "points15":"140",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8362,6 +8548,7 @@
               "title":"Business & Technology",
               "code":"DK711",
               "points14":"205",
+              "points15":"165",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8370,6 +8557,7 @@
               "title":"Computing",
               "code":"DK721",
               "points14":"230",
+              "points15":"167",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8378,6 +8566,7 @@
               "title":"Engineering Electrical & Electronic Systems",
               "code":"DK740",
               "points14":"195",
+              "points15":"170",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8386,6 +8575,7 @@
               "title":"Engineering Mechanical",
               "code":"DK742",
               "points14":"AQA",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8394,6 +8584,7 @@
               "title":"Engineering Civil",
               "code":"DK744",
               "points14":"125",
+              "points15":"210",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8402,6 +8593,7 @@
               "title":"Construction Technology",
               "code":"DK745",
               "points14":"AQA",
+              "points15":"120",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8410,6 +8602,7 @@
               "title":"Hospitality Management",
               "code":"DK750",
               "points14":"265",
+              "points15":"290",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8418,6 +8611,7 @@
               "title":"Event Management",
               "code":"DK752",
               "points14":"220",
+              "points15":"190",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8426,6 +8620,7 @@
               "title":"Culinary Arts",
               "code":"DK753",
               "points14":"275",
+              "points15":"205",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8434,6 +8629,7 @@
               "title":"Sports Exercise Enterprise",
               "code":"DK763",
               "points14":"335",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8442,6 +8638,7 @@
               "title":"Community Youth Work",
               "code":"DK767",
               "points14":"#200",
+              "points15":"#280",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8450,6 +8647,7 @@
               "title":"Media Arts & Technology",
               "code":"DK769",
               "points14":"235",
+              "points15":"195",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8458,6 +8656,7 @@
               "title":"Science Applied Bioscience",
               "code":"DK781",
               "points14":"215",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8466,6 +8665,7 @@
               "title":"Science Pharmaceutical Science",
               "code":"DK783",
               "points14":"333",
+              "points15":"260",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8474,6 +8674,7 @@
               "title":"Veterinary Nursing",
               "code":"DK784",
               "points14":"425",
+              "points15":"400*",
               "duration":"3yrs",
               "level":"7"
             },
@@ -8482,6 +8683,7 @@
               "title":"Accounting & Finance",
               "code":"DK810",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8490,6 +8692,7 @@
               "title":"Marketing",
               "code":"DK812",
               "points14":"305",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8498,6 +8701,7 @@
               "title":"Business Studies",
               "code":"DK816",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8506,6 +8710,7 @@
               "title":"Computing in Games Development",
               "code":"DK820",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8514,6 +8719,7 @@
               "title":"Computing",
               "code":"DK821",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8522,6 +8728,7 @@
               "title":"Building Surveying",
               "code":"DK830",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8530,6 +8737,7 @@
               "title":"Applied Music",
               "code":"DK860",
               "points14":"#460",
+              "points15":"#480",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8538,6 +8746,7 @@
               "title":"Digital Humanities",
               "code":"DK861",
               "points14":"300",
+              "points15":"300",
               "duration":"3yrs"
             },
             "social-care-hons":{
@@ -8545,6 +8754,7 @@
               "title":"Social Care",
               "code":"DK862",
               "points14":"315",
+              "points15":"320",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8553,6 +8763,7 @@
               "title":"Communications in Creative Media",
               "code":"DK863",
               "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8561,6 +8772,7 @@
               "title":"Film & TV Production",
               "code":"DK864",
               "points14":"300",
+              "points15":"310",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8569,6 +8781,7 @@
               "title":"Production of Music & Arts",
               "code":"DK865",
               "points14":"320",
+              "points15":"300",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8577,6 +8790,7 @@
               "title":"General Nursing",
               "code":"DK870",
               "points14":"405",
+              "points15":"400*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8585,6 +8799,7 @@
               "title":"General Nursing Mature",
               "code":"DK871",
               "points14":"#170",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8593,6 +8808,7 @@
               "title":"Intellectual Disability Nursing",
               "code":"DK872",
               "points14":"365",
+              "points15":"380",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8601,6 +8817,7 @@
               "title":"Intellectual Disability Nursing Mature",
               "code":"DK873",
               "points14":"#151*",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8609,6 +8826,7 @@
               "title":"Psychiatric Nursing",
               "code":"DK874",
               "points14":"385",
+              "points15":"395",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8616,7 +8834,8 @@
               "id":"38",
               "title":"Psychiatric Nursing Mature",
               "code":"DK875",
-              "points14":"N/A",
+              "points14":"null",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8625,6 +8844,7 @@
               "title":"Early Childhood Studies",
               "code":"DK876",
               "points14":"345",
+              "points15":"330",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8633,6 +8853,7 @@
               "title":"Midwifery",
               "code":"DK877",
               "points14":"415",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8641,6 +8862,7 @@
               "title":"Midwifery Mature",
               "code":"DK878",
               "points14":"#176",
+              "points15":"null",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8649,6 +8871,7 @@
               "title":"Health & Physical Activity",
               "code":"DK880",
               "points14":"375",
+              "points15":"305",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8657,6 +8880,7 @@
               "title":"Environmental Bioscience",
               "code":"DK881",
               "points14":"310",
+              "points15":"317",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8665,6 +8889,43 @@
               "title":"Interactive Applications Design and Development",
               "code":"DK890",
               "points14":"300",
+              "points15":"300",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "theatre-film-practice":{
+              "id":"45",
+              "title":"Theatre & Film Practice",
+              "code":"DK770",
+              "points14":"0",
+              "points15":"260",
+              "duration":"3yrs",
+              "level":"7"
+            },
+            "business-monaghan":{
+              "id":"46",
+              "title":"Business",
+              "code":"DK770",
+              "points14":"0",
+              "points15":"310",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "agriculture":{
+              "id":"47",
+              "title":"Agriculture",
+              "code":"DK882",
+              "points14":"0",
+              "points15":"380",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "multimedia-web-dev":{
+              "id":"48",
+              "title":"Multimedia Web Development",
+              "code":"DK890",
+              "points14":"300",
+              "points15":"300",
               "duration":"4yrs",
               "level":"8"
             }
@@ -8684,6 +8945,7 @@
               "title":"Architecture",
               "code":"DN100",
               "points14":"490",
+              "points15":"490",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8692,6 +8954,7 @@
               "title":"Landscape Architecture",
               "code":"DN120",
               "points14":"345",
+              "points15":"370",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8700,6 +8963,7 @@
               "title":"Structural Engineering with Architecture",
               "code":"DN140",
               "points14":"455",
+              "points15":"430",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8708,6 +8972,7 @@
               "title":"Engineering",
               "code":"DN150",
               "points14":"495",
+              "points15":"510",
               "duration":"3-5yrs",
               "level":"8"
             },
@@ -8716,6 +8981,7 @@
               "title":"Science",
               "code":"DN200",
               "points14":"515",
+              "points15":"510",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -8724,6 +8990,7 @@
               "title":"Computer Science",
               "code":"DN201",
               "points14":"470",
+              "points15":"475",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8732,6 +8999,7 @@
               "title":"Actuarial & Financial Studies",
               "code":"DN230",
               "points14":"560",
+              "points15":"575",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8740,6 +9008,7 @@
               "title":"Agricultural Science",
               "code":"DN250",
               "points14":"465",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8748,6 +9017,7 @@
               "title":"Animal Science Equine",
               "code":"DN251",
               "points14":"425",
+              "points15":"445",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8756,6 +9026,7 @@
               "title":"Dairy Business",
               "code":"DN252",
               "points14":"445",
+              "points15":"445",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8764,6 +9035,7 @@
               "title":"Food Science",
               "code":"DN261",
               "points14":"490",
+              "points15":"485",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8772,6 +9044,7 @@
               "title":"Human Nutrition",
               "code":"DN261",
               "points14":"530",
+              "points15":"525",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8780,6 +9053,7 @@
               "title":"Forestry",
               "code":"DN271",
               "points14":"375",
+              "points15":"360",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8788,6 +9062,7 @@
               "title":"Horticulture & Agri-Environmental Sciences",
               "code":"DN272",
               "points14":"395",
+              "points15":"410",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8796,6 +9071,7 @@
               "title":"Veterinary Medicine",
               "code":"DN300",
               "points14":"580",
+              "points15":"575*",
               "duration":"5yrs",
               "level":"8"
             },
@@ -8803,7 +9079,8 @@
               "id":"16",
               "title":"Veterinary Medicine Graduate",
               "code":"DN301",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8812,6 +9089,7 @@
               "title":"Veterinary Nursing",
               "code":"DN310",
               "points14":"465",
+              "points15":"475",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8820,6 +9098,7 @@
               "title":"Medicine",
               "code":"DN400",
               "points14":"#733",
+              "points15":"#736",
               "duration":"5-6yrs",
               "level":"8"
             },
@@ -8827,7 +9106,8 @@
               "id":"19",
               "title":"Medicine Graduate",
               "code":"DN401",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8836,6 +9116,7 @@
               "title":"Radiography",
               "code":"DN410",
               "points14":"550",
+              "points15":"540*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8844,6 +9125,7 @@
               "title":"Physiotherapy",
               "code":"DN420",
               "points14":"555",
+              "points15":"545*",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -8852,6 +9134,7 @@
               "title":"Health & Performance Science",
               "code":"DN425",
               "points14":"510",
+              "points15":"510",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8860,6 +9143,7 @@
               "title":"Sport & Exercise Management",
               "code":"DN430",
               "points14":"450",
+              "points15":"440",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8868,6 +9152,7 @@
               "title":"Biomedical Health & Life Sciences",
               "code":"DN440",
               "points14":"560",
+              "points15":"565",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8876,14 +9161,16 @@
               "title":"General Nursing",
               "code":"DN450",
               "points14":"425",
+              "points15":"415",
               "duration":"4yrs",
               "level":"8"
             },
             "child-general-nursing":{
               "id":"26",
               "title":"Child & General Nursing",
-              "code":"DN251",
+              "code":"DN451",
               "points14":"495",
+              "points15":"495",
               "duration":"4.5yrs",
               "level":"8"
             },
@@ -8892,6 +9179,7 @@
               "title":"Midwifery",
               "code":"DN452",
               "points14":"475",
+              "points15":"465*",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8900,6 +9188,7 @@
               "title":"Psychiatric Nursing",
               "code":"DN453",
               "points14":"415",
+              "points15":"430",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8907,7 +9196,8 @@
               "id":"29",
               "title":"General Nursing Mature",
               "code":"DN460",
-              "points14":"#168*",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8915,7 +9205,8 @@
               "id":"30",
               "title":"Mature Child & General Nursing",
               "code":"DN461",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8923,7 +9214,8 @@
               "id":"31",
               "title":"Mature Midwifery",
               "code":"DN462",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8931,7 +9223,8 @@
               "id":"32",
               "title":"Mature Psychiatric Nursing",
               "code":"DN463",
-              "points14":"N/A",
+              "points14":"0",
+              "points15":"0",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8940,6 +9233,7 @@
               "title":"BA Degree joint honours full time",
               "code":"DN500",
               "points14":"340",
+              "points15":"335",
               "duration":"3-4",
               "level":"8"
             },
@@ -8948,6 +9242,7 @@
               "title":"BA Degree joint honours part time",
               "code":"DN501",
               "points14":"340",
+              "points15":"335",
               "duration":"3-4",
               "level":"8"
             },
@@ -8956,6 +9251,7 @@
               "title":"Economics",
               "code":"DN510",
               "points14":"470",
+              "points15":"485",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8964,6 +9260,7 @@
               "title":"English",
               "code":"DN511",
               "points14":"470",
+              "points15":"460",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8972,6 +9269,7 @@
               "title":"English with Drama",
               "code":"DN512",
               "points14":"470",
+              "points15":"320",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8980,6 +9278,7 @@
               "title":"English with Film",
               "code":"DN512",
               "points14":"355",
+              "points15":"425",
               "duration":"3yrs",
               "level":"8"
             },
@@ -8988,6 +9287,7 @@
               "title":"Planning Geography and Environment",
               "code":"DN514",
               "points14":"345",
+              "points15":"375",
               "duration":"4yrs",
               "level":"8"
             },
@@ -8996,6 +9296,7 @@
               "title":"History",
               "code":"DN515",
               "points14":"420",
+              "points15":"435",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9004,6 +9305,7 @@
               "title":"Music",
               "code":"DN517",
               "points14":"#AQA",
+              "points15":"#AQA",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9013,6 +9315,7 @@
               "code":"DN518",
               "points14":"320",
               "duration":"3yrs",
+              "points15":"320",
               "level":"8"
             },
             "psychology":{
@@ -9020,6 +9323,7 @@
               "title":"Psychology",
               "code":"DN519",
               "points14":"515",
+              "points15":"515",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9028,6 +9332,7 @@
               "title":"International languages",
               "code":"DN541",
               "points14":"475",
+              "points15":"460",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9036,6 +9341,7 @@
               "title":"Social Science",
               "code":"DN550",
               "points14":"405",
+              "points15":"420",
               "duration":"3yrs",
               "level":"8"
             },
@@ -9044,6 +9350,7 @@
               "title":"Law",
               "code":"DN600",
               "points14":"510",
+              "points15":"520",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9052,6 +9359,7 @@
               "title":"Business Law",
               "code":"DN610",
               "points14":"520",
+              "points15":"530",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9060,6 +9368,7 @@
               "title":"BCL Maitrise",
               "code":"DN615",
               "points14":"560",
+              "points15":"550",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9068,6 +9377,7 @@
               "title":"Law with French Law",
               "code":"DN616",
               "points14":"570",
+              "points15":"570",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9076,6 +9386,7 @@
               "title":"Commerce",
               "code":"DN650",
               "points14":"490",
+              "points15":"500",
               "duration":"3-4yrs",
               "level":"8"
             },
@@ -9084,6 +9395,7 @@
               "title":"Commerce International",
               "code":"DN660",
               "points14":"510",
+              "points15":"515",
               "duration":"4yrs",
               "level":"8"
             },
@@ -9092,6 +9404,16 @@
               "title":"Economics & Finance",
               "code":"DN671",
               "points14":"580",
+              "points15":"580",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "quantitative-business":{
+              "id":"53",
+              "title":"Quantitative Business",
+              "code":"DN670",
+              "points14":"0",
+              "points15":"580",
               "duration":"4yrs",
               "level":"8"
             }
