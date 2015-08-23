@@ -9418,7 +9418,707 @@
               "level":"8"
             }
           }
+        },
+
+
+
+
+        "dublin-institute-of-technology":{
+          "id":28,
+          "title":"Dublin Institute of Technology",
+          "phone":"+",
+          "site":"",
+          "province":"Leinster",
+          "address":"",
+          "location":"Dublin",
+          "courses":{
+            "product-design":{
+              "id":"1",
+              "title":"Product Design",
+              "code":"DT001",
+              "points14":"405",
+              "points15":"415",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "electrical-electronic-engineering":{
+              "id":"2",
+              "title":"Electrical Electronic Engineering",
+              "code":"DT021",
+              "points14":"382",
+              "points15":"506",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "manufacturing-design-engineering":{
+              "id":"3",
+              "title":"Manufacturing & Design Engineering ",
+              "code":"DT023",
+              "points14":"370",
+              "points15":"390",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "transport-operations-tech":{
+              "id":"4",
+              "title":"Transport Operations & Technology",
+              "code":"DT028",
+              "points14":"275",
+              "points15":"275",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "engineering":{
+              "id":"5",
+              "title":"Engineering",
+              "code":"DT066",
+              "points14":"0",
+              "points15":"380",
+              "duration":"1yr",
+              "level":"8"
+            },
+            "computer-communications-engineering":{
+              "id":"6",
+              "title":"Computer & Communications Engineering",
+              "code":"DT081",
+              "points14":"450",
+              "points15":"465",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "architecture":{
+              "id":"7",
+              "title":"Architecture",
+              "code":"DT101",
+              "points14":"#590",
+              "points15":"#590",
+              "duration":"5yrs",
+              "level":"8"
+            },
+            "planning-environment-management":{
+              "id":"8",
+              "title":"Planning & Environment Management",
+              "code":"DT106",
+              "points14":"280",
+              "points15":"280",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "property-economics":{
+              "id":"9",
+              "title":"Property Economics",
+              "code":"DT110",
+              "points14":"320",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "quantity-surveying":{
+              "id":"10",
+              "title":"Quantity Surveying",
+              "code":"DT111",
+              "points14":"320",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "geomatics":{
+              "id":"11",
+              "title":"Geomatics",
+              "code":"DT112",
+              "points14":"315",
+              "points15":"315",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "construction-management":{
+              "id":"12",
+              "title":"Construction Management",
+              "code":"DT117",
+              "points14":"300",
+              "points15":"315",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "architectural-technology":{
+              "id":"13",
+              "title":"Architectural Technology",
+              "code":"DT175",
+              "points14":"300",
+              "points15":"335",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "science":{
+              "id":"14",
+              "title":"Science",
+              "code":"DT201",
+              "points14":"435",
+              "points15":"460",
+              "duration":"1yr",
+              "level":"8"
+            },
+            "forensic-environmental-chemistry":{
+              "id":"15",
+              "title":"Forensic & Environmental Chemsitry",
+              "code":"DT203",
+              "points14":"345",
+              "points15":"325",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "bio-med-science":{
+              "id":"16",
+              "title":"Biomedical Science",
+              "code":"DT204",
+              "points14":"500",
+              "points15":"500",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "math-sciences":{
+              "id":"17",
+              "title":"Mathematical Science",
+              "code":"DT205",
+              "points14":"300",
+              "points15":"300",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "computing":{
+              "id":"18",
+              "title":"Computing",
+              "code":"DT211",
+              "points14":"370",
+              "points15":"355",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "industrial-maths":{
+              "id":"19",
+              "title":"Industrial Mathematics",
+              "code":"DT220",
+              "points14":"280",
+              "points15":"285",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physics-energy-enviroment":{
+              "id":"20",
+              "title":"Physics with Energy & Environment",
+              "code":"DT221",
+              "points14":"335",
+              "points15":"340",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physics-tech":{
+              "id":"21",
+              "title":"Physics Technology",
+              "code":"DT222",
+              "points14":"315",
+              "points15":"340",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "health-performance-science":{
+              "id":"22",
+              "title":"Human Nutrition & Dietetics",
+              "code":"DT223",
+              "points14":"555",
+              "points15":"560*",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "optometry":{
+              "id":"23",
+              "title":"Optometry",
+              "code":"D224",
+              "points14":"505",
+              "points15":"480",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "public-health-nutrition":{
+              "id":"24",
+              "title":"Public Health Nutrition",
+              "code":"DT225",
+              "points14":"380",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "nano-science":{
+              "id":"25",
+              "title":"Science with Nanotechnology",
+              "code":"DT227",
+              "points14":"350",
+              "points15":"325",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "computer-science":{
+              "id":"26",
+              "title":"Computer Science",
+              "code":"DT228",
+              "points14":"425",
+              "points15":"425",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "clinical-measurement-science":{
+              "id":"27",
+              "title":"Clinical Measurement Science",
+              "code":"DT229",
+              "points14":"460",
+              "points15":"465",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physics-medical-bio-engineering":{
+              "id":"28",
+              "title":"Physics with Medical Physics & Bioengineering",
+              "code":"DT235",
+              "points14":"310",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "computer-sciecne-international":{
+              "id":"29",
+              "title":"Computer Science International",
+              "code":"DT282",
+              "points14":"375",
+              "points15":"365",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "chem-sciences-medicinal-chemistry":{
+              "id":"30",
+              "title":"Chemical Sciences with Medicinal Chemistry",
+              "code":"DT299",
+              "points14":"405",
+              "points15":"380",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "business-law":{
+              "id":"31",
+              "title":"Business & Law",
+              "code":"DT231",
+              "points14":"450",
+              "points15":"465",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "marketing":{
+              "id":"32",
+              "title":"Marketing",
+              "code":"DT341",
+              "points14":"400",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "retails-services-management":{
+              "id":"33",
+              "title":"Retail & Services Management",
+              "code":"DT343",
+              "points14":"330",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "business-computing":{
+              "id":"34",
+              "title":"Business Computing",
+              "code":"DT354",
+              "points14":"365",
+              "points15":"380",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "logistics-supply-chain-management":{
+              "id":"35",
+              "title":"Logistics & Supply Chain Management",
+              "code":"DT358",
+              "points14":"300",
+              "points15":"300",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "business-manangement":{
+              "id":"36",
+              "title":"Business with Management",
+              "code":"DT365",
+              "points14":"430",
+              "points15":"445",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "accounting-finance":{
+              "id":"37",
+              "title":"Accounting & Finance",
+              "code":"DT366",
+              "points14":"425",
+              "points15":"440",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "hrm":{
+              "id":"38",
+              "title":"Human Resource Management",
+              "code":"DT398",
+              "points14":"370",
+              "points15":"385",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "economics-finance":{
+              "id":"39",
+              "title":"Economics & Finance",
+              "code":"DT399",
+              "points14":"410",
+              "points15":"440",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "international-hospitality-management":{
+              "id":"40",
+              "title":"International Hospitality Management",
+              "code":"DT401",
+              "points14":"300",
+              "points15":"310",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "culinary-arts":{
+              "id":"41",
+              "title":"Culinary Arts",
+              "code":"DT407",
+              "points14":"385",
+              "points15":"350",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "tourism-marketing":{
+              "id":"42",
+              "title":"Tourism Marketing",
+              "code":"DT412",
+              "points14":"290",
+              "points15":"295",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "event-management":{
+              "id":"43",
+              "title":"Event Management",
+              "code":"DT413",
+              "points14":"380",
+              "points15":"370",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "culinary-entrepreneurship":{
+              "id":"44",
+              "title":"Culinary Entrepreneurship",
+              "code":"DT416",
+              "points14":"330",
+              "points15":"310",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "bar-studies":{
+              "id":"45",
+              "title":"Bar Studies",
+              "code":"DT417",
+              "points14":"300",
+              "points15":"290",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "nutraceutical-health-nutrition":{
+              "id":"46",
+              "title":"Nutraceuticals in Health & Nutrition",
+              "code":"DT420",
+              "points14":"415",
+              "points15":"430",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "food-innovation":{
+              "id":"47",
+              "title":"Food Innovation",
+              "code":"DT421",
+              "points14":"365",
+              "points15":"410",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "pharm-health-care":{
+              "id":"48",
+              "title":"Pharmaceutical Healthcare",
+              "code":"DT422",
+              "points14":"395",
+              "points15":"395",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "environmental-health":{
+              "id":"49",
+              "title":"Environmental Health",
+              "code":"DT491",
+              "points14":"315",
+              "points15":"340",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "music":{
+              "id":"50",
+              "title":"Music",
+              "code":"DT501",
+              "points14":"#318",
+              "points15":"#423",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "film-broadcasting":{
+              "id":"51",
+              "title":"Film & Broadcasting",
+              "code":"DT504",
+              "points14":"455",
+              "points15":"430",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "film-broadcast-language":{
+              "id":"52",
+              "title":"Film & Broadcast with Language",
+              "code":"DT505",
+              "points14":"450",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "commercial-modern-music":{
+              "id":"53",
+              "title":"Commercial Modern Music",
+              "code":"DT506",
+              "points14":"#860",
+              "points15":"#860",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "games-design":{
+              "id":"54",
+              "title":"Games Design",
+              "code":"DT508",
+              "points14":"0",
+              "points15":"375",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "english-studies-languages":{
+              "id":"55",
+              "title":"English Studies & Languages",
+              "code":"DT517",
+              "points14":"320",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "languages-international-tourism-french":{
+              "id":"56",
+              "title":"Languages & International Tourism French",
+              "code":"DT518",
+              "points14":"315",
+              "points15":"315",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "languages-international-tourism-german":{
+              "id":"57",
+              "title":"Languages & International Tourism German",
+              "code":"DT519",
+              "points14":"300",
+              "points15":"315",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "languages-international-tourism-spanish":{
+              "id":"58",
+              "title":"Languages & International Tourism Spanish",
+              "code":"DT520",
+              "points14":"300",
+              "points15":"345",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "drama":{
+              "id":"59",
+              "title":"Drama Performance",
+              "code":"DT529",
+              "points14":"#450",
+              "points15":"#405",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "law-llb":{
+              "id":"60",
+              "title":"Law (LL.B.)",
+              "code":"DT532",
+              "points14":"415",
+              "points15":"420",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "visual-critical-studies":{
+              "id":"61",
+              "title":"Visual & Critical Studies",
+              "code":"DT533",
+              "points14":"315",
+              "points15":"340",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "design-interior-furniture":{
+              "id":"62",
+              "title":"Design Interior - Furniture",
+              "code":"DT544",
+              "points14":"#600",
+              "points15":"#575",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "design-visual-communication":{
+              "id":"63",
+              "title":"Design & Visual Communication",
+              "code":"DT545",
+              "points14":"#610",
+              "points15":"#750",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "fine-art":{
+              "id":"64",
+              "title":"Fine Art",
+              "code":"DT546",
+              "points14":"#675",
+              "points15":"#650",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "journalism-language":{
+              "id":"65",
+              "title":"Journalism with a Language",
+              "code":"DT553",
+              "points14":"360",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "international-language-french":{
+              "id":"66",
+              "title":"International Language French",
+              "code":"DT555",
+              "points14":"410",
+              "points15":"440",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "international-language-german":{
+              "id":"67",
+              "title":"International Language German",
+              "code":"DT556",
+              "points14":"405",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "international-language-spanish":{
+              "id":"68",
+              "title":"International Language Spanish",
+              "code":"DT557",
+              "points14":"390",
+              "points15":"415",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "photography":{
+              "id":"69",
+              "title":"Photography",
+              "code":"DT559",
+              "points14":"#605",
+              "points15":"#695",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "international-business-languages-italian":{
+              "id":"70",
+              "title":"International Business & Languages Italian",
+              "code":"DT564",
+              "points14":"340",
+              "points15":"345",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "chinese-international-business":{
+              "id":"71",
+              "title":"Chinese & International Business",
+              "code":"DT565",
+              "points14":"360",
+              "points15":"375",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "social-care":{
+              "id":"72",
+              "title":"Social Care",
+              "code":"DT571",
+              "points14":"405",
+              "points15":"400",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "early-childhood-education":{
+              "id":"73",
+              "title":"Early Childhood Education",
+              "code":"DT572",
+              "points14":"420",
+              "points15":"380",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "journalism":{
+              "id":"74",
+              "title":"Journalism",
+              "code":"DT582",
+              "points14":"395",
+              "points15":"380",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "print-digital-media":{
+              "id":"75",
+              "title":"Print & Digital Media Technology",
+              "code":"DT596",
+              "points14":"285",
+              "points15":"285",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "creative-cultural-industries":{
+              "id":"76",
+              "title":"Creative & Cultural Industries",
+              "code":"DT597",
+              "points14":"350",
+              "points15":"315",
+              "duration":"3yrs",
+              "level":"8"
+            }
+          }
         }
+
 
 
 
