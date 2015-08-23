@@ -57,8 +57,8 @@
       <file leaf-file-name="info.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/json/info.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17410715" vertical-offset="567" max-vertical-offset="2085">
-              <caret line="10496" column="17" selection-start-line="10496" selection-start-column="17" selection-end-line="10496" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.3638393" vertical-offset="452" max-vertical-offset="900">
+              <caret line="10494" column="0" selection-start-line="10494" selection-start-column="0" selection-end-line="10494" selection-end-column="0" />
               <folding>
                 <element signature="n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -607,6 +607,7 @@
                 <element signature="n#!!block;n#computing-media#0;n#!!block;n#courses#0;n#!!block;n#dorset-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#courses#0;n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#early-child-education#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#primary-teaching#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
                 <element signature="n#!!block;n#primary-teaching-irish#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -870,10 +871,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="578" y="23" width="702" height="773" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657856" sideWeight="0.4992658" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.4992658" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657856" sideWeight="0.4992658" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1467,6 +1468,7 @@
             <element signature="n#!!block;n#computing-media#0;n#!!block;n#courses#0;n#!!block;n#dorset-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#early-child-education#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching-irish#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -2126,6 +2128,7 @@
             <element signature="n#!!block;n#computing-media#0;n#!!block;n#courses#0;n#!!block;n#dorset-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#early-child-education#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching-irish#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -2642,8 +2645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/json/info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17410715" vertical-offset="567" max-vertical-offset="2085">
-          <caret line="10496" column="17" selection-start-line="10496" selection-start-column="17" selection-end-line="10496" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.3638393" vertical-offset="452" max-vertical-offset="900">
+          <caret line="10494" column="0" selection-start-line="10494" selection-start-column="0" selection-end-line="10494" selection-end-column="0" />
           <folding>
             <element signature="n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
@@ -3192,6 +3195,7 @@
             <element signature="n#!!block;n#computing-media#0;n#!!block;n#courses#0;n#!!block;n#dorset-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#courses#0;n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#early-child-education#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
             <element signature="n#!!block;n#primary-teaching-irish#0;n#!!block;n#courses#0;n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
