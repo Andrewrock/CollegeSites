@@ -10492,50 +10492,49 @@
 
           }
         },
-
         "dublin-city-university":{
-          "id":27,
+          "id":31,
           "title":"Dublin city University",
-          "phone":"+",
-          "site":"",
+          "phone":"+353 (1) 700 5000",
+          "site":"http://www.dcu.ie/",
           "province":"Leinster",
-          "address":"",
+          "address":"Glasnevin",
           "location":"Dublin",
           "courses":{
             "early-child-education":{
               "id":"1",
               "title":"Early Childhood Education",
               "code":"DC001",
-              "points14":"",
+              "points14":"0",
               "points15":"380",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "primary-teaching":{
               "id":"2",
               "title":"Primary Teaching",
               "code":"DC002",
-              "points14":"",
+              "points14":"465*",
               "points15":"470",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "primary-teaching-irish":{
               "id":"3",
               "title":"Primary Teaching Gaeltacht",
               "code":"DC003",
-              "points14":"",
+              "points14":"425",
               "points15":"430",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "humanities":{
               "id":"4",
               "title":"Humanities",
               "code":"DC009",
-              "points14":"",
+              "points14":"0",
               "points15":"390",
-              "duration":"",
+              "duration":"3-4",
               "level":"8"
             },
             "post-primary-religion-english":{
@@ -10569,61 +10568,61 @@
               "id":"8",
               "title":"Business Studies International",
               "code":"DC110",
-              "points14":"",
+              "points14":"465",
               "points15":"465",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "business-studies":{
               "id":"9",
               "title":"Business Studies",
               "code":"DC111",
-              "points14":"",
+              "points14":"455",
               "points15":"465",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "global-business-france":{
               "id":"10",
               "title":"Global Business France",
               "code":"DC112",
-              "points14":"",
+              "points14":"490",
               "points15":"500",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "global-business-germany":{
               "id":"11",
               "title":"Global Business Germany",
               "code":"DC113",
-              "points14":"",
+              "points14":"475",
               "points15":"465",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "global-business-spain":{
               "id":"12",
               "title":"Global Business Spain",
               "code":"DC114",
-              "points14":"",
+              "points14":"490",
               "points15":"500",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "accounting-finance":{
               "id":"13",
               "title":"Accounting & Finance",
               "code":"DC115",
-              "points14":"",
+              "points14":"475",
               "points15":"475",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "gloabal-business-usa":{
               "id":"14",
-              "title":"Global Buisness USA",
+              "title":"Global Business USA",
               "code":"DC116",
-              "points14":"",
+              "points14":"585*",
               "points15":"580",
               "duration":"4yrs",
               "level":"8"
@@ -10632,355 +10631,490 @@
               "id":"15",
               "title":"Aviation Management",
               "code":"DC117",
-              "points14":"",
+              "points14":"430",
               "points15":"455",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "business-irish":{
               "id":"16",
               "title":"Business & Irish",
               "code":"DC118",
-              "points14":"0",
+              "points14":"340",
               "points15":"340",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
-            "gloabl-business-canada":{
+            "global-business-canada":{
               "id":"17",
-              "title":"Gloabl Business Canada",
+              "title":"Global Business Canada",
               "code":"DC119",
-              "points14":"",
+              "points14":"0",
               "points15":"570",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "enterprise-computing":{
               "id":"18",
               "title":"Enterprise Computing",
               "code":"DC120",
-              "points14":"",
+              "points14":"0",
               "points15":"370",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "computer-apps":{
               "id":"19",
               "title":"Computer Applications",
-              "code":"DN401",
-              "points14":"",
+              "code":"DC121",
+              "points14":"400",
               "points15":"400",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "problem-solving-computer":{
               "id":"20",
               "title":"Computational Problem Solving",
               "code":"DC122",
-              "points14":"",
+              "points14":"#380",
               "points15":"#375",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "actuary-maths":{
               "id":"21",
               "title":"Actuarial Mathematics",
               "code":"DC126",
-              "points14":"",
+              "points14":"535",
               "points15":"535",
-              "duration":"",
+              "duration":"4yrs",
               "level":"8"
             },
             "actuary-financial-maths":{
               "id":"22",
               "title":"Actuarial Financial & Mathematical Sciences",
               "code":"DC127",
-              "points14":"",
+              "points14":"480",
               "points15":"500",
-              "duration":"",
-              "level":"8"
-            },
-            "sport-exercise-management":{
-              "id":"23",
-              "title":"Sport & Exercise Management",
-              "code":"DN430",
-              "points14":"450",
-              "points15":"440",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "bio-med-health-life-science":{
-              "id":"24",
-              "title":"Biomedical Health & Life Sciences",
-              "code":"DN440",
-              "points14":"560",
-              "points15":"565",
               "duration":"4yrs",
               "level":"8"
             },
-            "nursing":{
+            "communication-studies":{
+              "id":"23",
+              "title":"Communication Studies",
+              "code":"DC131",
+              "points14":"415",
+              "points15":"420",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "journalism":{
+              "id":"24",
+              "title":"Journalism",
+              "code":"DC132",
+              "points14":"440",
+              "points15":"435",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "multimedia":{
               "id":"25",
+              "title":"Multimedia",
+              "code":"DC133",
+              "points14":"415",
+              "points15":"445",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "applied-language-translation-studies":{
+              "id":"26",
+              "title":"Applied Languages & Translation Studies",
+              "code":"DC155",
+              "points14":"375",
+              "points15":"375",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "analytical-science":{
+              "id":"27",
+              "title":"Analytical Science",
+              "code":"DC161",
+              "points14":"440",
+              "points15":"460",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "chem-pharm-science":{
+              "id":"28",
+              "title":"Chemical & Pharmaceutical Science",
+              "code":"DC162",
+              "points14":"480",
+              "points15":"485",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "environmental-science-health":{
+              "id":"29",
+              "title":"Environmental Science & Health",
+              "code":"DC166",
+              "points14":"420",
+              "points15":"435",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physics-astronomy":{
+              "id":"30",
+              "title":"Physics & Astronomy",
+              "code":"DC167",
+              "points14":"450",
+              "points15":"440",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "genetics-cell-biology":{
+              "id":"31",
+              "title":"Genetics & Cell Biology",
+              "code":"DC168",
+              "points14":"490",
+              "points15":"475",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "applied-physics":{
+              "id":"32",
+              "title":"Applied Physics",
+              "code":"DC171",
+              "points14":"430",
+              "points15":"410",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physics-biomedical":{
+              "id":"33",
+              "title":"Physics & Biomedical Science",
+              "code":"DC173",
+              "points14":"435",
+              "points15":"435",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "bio-tech":{
+              "id":"34",
+              "title":"Biotechnology",
+              "code":"DC181",
+              "points14":"470",
+              "points15":"435",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "electronic-computer-engineering":{
+              "id":"35",
+              "title":"Electronic & Computer Engineering",
+              "code":"DC191",
+              "points14":"400",
+              "points15":"415",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mech-engineering":{
+              "id":"36",
+              "title":"Mechatronic Engineering",
+              "code":"DC193",
+              "points14":"390",
+              "points15":"415",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mech-manufacturing-engineering":{
+              "id":"37",
+              "title":"Mechanical & Manufacturing Engineering",
+              "code":"DC195",
+              "points14":"390",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "bio-medical-engineering":{
+              "id":"38",
+              "title":"Biomedical Engineering",
+              "code":"DC197",
+              "points14":"390",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "engineering-common":{
+              "id":"39",
+              "title":"Engineering Common Entry",
+              "code":"DC200",
+              "points14":"375",
+              "points15":"390",
+              "duration":"1yr",
+              "level":"8"
+            },
+            "common-science":{
+              "id":"40",
+              "title":"Common Entry Science",
+              "code":"DC201",
+              "points14":"460",
+              "points15":"470",
+              "duration":"1yr",
+              "level":"8"
+            },
+            "sport-science-health":{
+              "id":"41",
+              "title":"Sport Sceince & Health",
+              "code":"DC202",
+              "points14":"490",
+              "points15":"500",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "science":{
+              "id":"42",
+              "title":"Science",
+              "code":"DC203",
+              "points14":"440",
+              "points15":"435",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "athletic-therapy-training":{
+              "id":"43",
+              "title":"Athletic Therapy & Training",
+              "code":"DC204",
+              "points14":"510*",
+              "points15":"505",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physical-education-biology":{
+              "id":"44",
+              "title":"Psychical Education with Biology",
+              "code":"DC205",
+              "points14":"490",
+              "points15":"495",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "physical-education-maths":{
+              "id":"45",
+              "title":"Psychical Education with Maths",
+              "code":"DC206",
+              "points14":"500",
+              "points15":"500",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "psychology":{
+              "id":"46",
+              "title":"Psychology",
+              "code":"DC208",
+              "points14":"510",
+              "points15":"515",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "health-society":{
+              "id":"47",
+              "title":"Health & Society",
+              "code":"DC209",
+              "points14":"415",
+              "points15":"435",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "general-nursing":{
+              "id":"48",
               "title":"General Nursing",
-              "code":"DN450",
+              "code":"DC215",
+              "points14":"435*",
+              "points15":"430*",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "psychiatric-nursing":{
+              "id":"49",
+              "title":"Psychiatric Nursing",
+              "code":"DC216",
+              "points14":"395*",
+              "points15":"405",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mental-nursing":{
+              "id":"50",
+              "title":"Intellectual Nursing",
+              "code":"DC217",
+              "points14":"395*",
+              "points15":"410",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "child-general-nursing":{
+              "id":"51",
+              "title":"Children's & General Nursing",
+              "code":"DC218",
+              "points14":"475*",
+              "points15":"490",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "general-nursing-mature":{
+              "id":"52",
+              "title":"General Nursing Mature",
+              "code":"DC225",
+              "points14":"0",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mental-nursing-mature":{
+              "id":"53",
+              "title":"Psychiatric Nursing Mature",
+              "code":"DC226",
+              "points14":"0",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "mental-nursing-mature":{
+              "id":"54",
+              "title":"Intellectual Nursing Mature",
+              "code":"DC227",
+              "points14":"0",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "children-nursing-mature":{
+              "id":"55",
+              "title":"Children's & General Nursing Mature",
+              "code":"DC228",
+              "points14":"0",
+              "points15":"0",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "economics-politics-law":{
+              "id":"56",
+              "title":"Economics Politics & Law",
+              "code":"DC230",
+              "points14":"380",
+              "points15":"400",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "international-relations":{
+              "id":"57",
+              "title":"International Relations",
+              "code":"DC231",
+              "points14":"370",
+              "points15":"380",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "law-society":{
+              "id":"58",
+              "title":"Law & Society",
+              "code":"DC332",
+              "points14":"415",
+              "points15":"435",
+              "duration":"3yrs",
+              "level":"8"
+            },
+            "education-training":{
+              "id":"59",
+              "title":"Education & Training",
+              "code":"DC235",
+              "points14":"315",
+              "points15":"315",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "contemporary-culture-society":{
+              "id":"60",
+              "title":"Contemporary Science",
+              "code":"DC238",
+              "points14":"325",
+              "points15":"330",
+              "duration":"4yrs",
+              "level":"8"
+            },
+            "irish-journalism":{
+              "id":"61",
+              "title":"Irish & Journalism",
+              "code":"DC239",
               "points14":"425",
               "points15":"415",
               "duration":"4yrs",
               "level":"8"
             },
-            "child-general-nursing":{
-              "id":"26",
-              "title":"Child & General Nursing",
-              "code":"DN451",
-              "points14":"495",
-              "points15":"495",
-              "duration":"4.5yrs",
-              "level":"8"
-            },
-            "midwife":{
-              "id":"27",
-              "title":"Midwifery",
-              "code":"DN452",
-              "points14":"475",
-              "points15":"465*",
+            "marketing-innovation-technology":{
+              "id":"62",
+              "title":"Marketing Innovation & Technology",
+              "code":"DC240",
+              "points14":"450",
+              "points15":"470",
               "duration":"4yrs",
               "level":"8"
             },
-            "mental-nurse":{
-              "id":"28",
-              "title":"Psychiatric Nursing",
-              "code":"DN453",
-              "points14":"415",
-              "points15":"430",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "general-nursing-mature":{
-              "id":"29",
-              "title":"General Nursing Mature",
-              "code":"DN460",
+            "joint-media":{
+              "id":"63",
+              "title":"Joint Honours Media Studies",
+              "code":"DC291",
               "points14":"0",
-              "points15":"0",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "mature-child-general":{
-              "id":"30",
-              "title":"Mature Child & General Nursing",
-              "code":"DN461",
-              "points14":"0",
-              "points15":"0",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "mature-midwife":{
-              "id":"31",
-              "title":"Mature Midwifery",
-              "code":"DN462",
-              "points14":"0",
-              "points15":"0",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "mature-mental-nurse":{
-              "id":"32",
-              "title":"Mature Psychiatric Nursing",
-              "code":"DN463",
-              "points14":"0",
-              "points15":"0",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "joint-degree-full":{
-              "id":"33",
-              "title":"BA Degree joint honours full time",
-              "code":"DN500",
-              "points14":"340",
-              "points15":"335",
-              "duration":"3-4",
-              "level":"8"
-            },
-            "joint-degree-part":{
-              "id":"34",
-              "title":"BA Degree joint honours part time",
-              "code":"DN501",
-              "points14":"340",
-              "points15":"335",
-              "duration":"3-4",
-              "level":"8"
-            },
-            "economics":{
-              "id":"35",
-              "title":"Economics",
-              "code":"DN510",
-              "points14":"470",
-              "points15":"485",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "english":{
-              "id":"36",
-              "title":"English",
-              "code":"DN511",
-              "points14":"470",
-              "points15":"460",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "english-drama":{
-              "id":"37",
-              "title":"English with Drama",
-              "code":"DN512",
-              "points14":"470",
-              "points15":"320",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "english-film":{
-              "id":"38",
-              "title":"English with Film",
-              "code":"DN512",
-              "points14":"355",
-              "points15":"425",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "planning-geog-environment":{
-              "id":"39",
-              "title":"Planning Geography and Environment",
-              "code":"DN514",
-              "points14":"345",
-              "points15":"375",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "history":{
-              "id":"40",
-              "title":"History",
-              "code":"DN515",
-              "points14":"420",
-              "points15":"435",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "music":{
-              "id":"41",
-              "title":"Music",
-              "code":"DN517",
-              "points14":"#AQA",
-              "points15":"#AQA",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "philosophy":{
-              "id":"42",
-              "title":"Philosophy",
-              "code":"DN518",
-              "points14":"320",
-              "duration":"3yrs",
-              "points15":"320",
-              "level":"8"
-            },
-            "psychology":{
-              "id":"43",
-              "title":"Psychology",
-              "code":"DN519",
-              "points14":"515",
-              "points15":"515",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "international-languages":{
-              "id":"44",
-              "title":"International languages",
-              "code":"DN541",
-              "points14":"475",
-              "points15":"460",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "social-science":{
-              "id":"45",
-              "title":"Social Science",
-              "code":"DN550",
-              "points14":"405",
-              "points15":"420",
-              "duration":"3yrs",
-              "level":"8"
-            },
-            "law":{
-              "id":"46",
-              "title":"Law",
-              "code":"DN600",
-              "points14":"510",
-              "points15":"520",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "business-law":{
-              "id":"47",
-              "title":"Business Law",
-              "code":"DN610",
-              "points14":"520",
-              "points15":"530",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "maitrise":{
-              "id":"48",
-              "title":"BCL Maitrise",
-              "code":"DN615",
-              "points14":"560",
-              "points15":"550",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "law-french-law":{
-              "id":"49",
-              "title":"Law with French Law",
-              "code":"DN616",
-              "points14":"570",
-              "points15":"570",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "commerce":{
-              "id":"50",
-              "title":"Commerce",
-              "code":"DN650",
-              "points14":"490",
-              "points15":"500",
+              "points15":"395",
               "duration":"3-4yrs",
               "level":"8"
             },
-            "commerce-international":{
-              "id":"51",
-              "title":"Commerce International",
-              "code":"DN660",
-              "points14":"510",
-              "points15":"515",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "economics-finance":{
-              "id":"52",
-              "title":"Economics & Finance",
-              "code":"DN671",
-              "points14":"580",
-              "points15":"580",
-              "duration":"4yrs",
-              "level":"8"
-            },
-            "quantitative-business":{
-              "id":"53",
-              "title":"Quantitative Business",
-              "code":"DN670",
+            "joint-law":{
+              "id":"64",
+              "title":"Joint Honours Law",
+              "code":"DC292",
               "points14":"0",
-              "points15":"580",
+              "points15":"395",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "joint-international-languages":{
+              "id":"65",
+              "title":"Joint Honours International Languages",
+              "code":"DC293",
+              "points14":"0",
+              "points15":"405",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "joint-irish":{
+              "id":"66",
+              "title":"Joint Honours Irish",
+              "code":"DC294",
+              "points14":"0",
+              "points15":"385",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "joint-politics":{
+              "id":"67",
+              "title":"Joint Honours Politics",
+              "code":"DC295",
+              "points14":"0",
+              "points15":"385",
+              "duration":"3-4yrs",
+              "level":"8"
+            },
+            "joint-world-cultures":{
+              "id":"68",
+              "title":"Joint Honours World Cultures",
+              "code":"DC296",
+              "points14":"0",
+              "points15":"385",
               "duration":"4yrs",
               "level":"8"
             }
           }
-        },
+        }
 
 
 
