@@ -2,93 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556baf14-92d5-4e7e-b8cc-68c155cced1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/error.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/template/head.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/template/header.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/video.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hb.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/velocity-LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/velocity.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/colleges-course.html" afterPath="$PROJECT_DIR$/views/colleges-course.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/colleges.html" afterPath="$PROJECT_DIR$/views/colleges.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/views/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/public/stylesheets/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/public/stylesheets/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cao.jpeg" afterPath="$PROJECT_DIR$/public/images/cao.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cd-icon-arrow.svg" afterPath="$PROJECT_DIR$/public/images/cd-icon-arrow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cir.png" afterPath="$PROJECT_DIR$/public/images/cir.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/college-header.jpeg" afterPath="$PROJECT_DIR$/public/images/college-header.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges.jpeg" afterPath="$PROJECT_DIR$/public/images/colleges.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/American-College-Dublin - 25 Jul 2015 20-19-57.png" afterPath="$PROJECT_DIR$/public/images/American-College-Dublin - 25 Jul 2015 20-19-57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/DCU - 25 Jul 2015 20-19-55.png" afterPath="$PROJECT_DIR$/public/images/DCU - 25 Jul 2015 20-19-55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/DIT - 25 Jul 2015 20-19-55.png" afterPath="$PROJECT_DIR$/public/images/DIT - 25 Jul 2015 20-19-55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/DundalkIT - 25 Jul 2015 20-19-54.png" afterPath="$PROJECT_DIR$/public/images/DundalkIT - 25 Jul 2015 20-19-54.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/Dún_Laoghaire_Institute_of_Art_Design_and_Technology_Media_Cube - 25 Jul 2015 20-19-54.png" afterPath="$PROJECT_DIR$/public/images/Dún_Laoghaire_Institute_of_Art_Design_and_Technology_Media_Cube - 25 Jul 2015 20-19-54.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/GMIT - 25 Jul 2015 20-19-54.png" afterPath="$PROJECT_DIR$/public/images/GMIT - 25 Jul 2015 20-19-54.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/GriggithLimerick - 25 Jul 2015 20-19-53.png" afterPath="$PROJECT_DIR$/public/images/GriggithLimerick - 25 Jul 2015 20-19-53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/IBAT - 25 Jul 2015 20-19-53.png" afterPath="$PROJECT_DIR$/public/images/IBAT - 25 Jul 2015 20-19-53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ICD - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/ICD - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ICHAS - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/ICHAS - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/LIT - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/LIT - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/LetterkennyIT - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/LetterkennyIT - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/MARYi - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/MARYi - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/NUIG - 25 Jul 2015 20-19-51.png" afterPath="$PROJECT_DIR$/public/images/NUIG - 25 Jul 2015 20-19-51.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/RespondCollege - 25 Jul 2015 20-19-50.png" afterPath="$PROJECT_DIR$/public/images/RespondCollege - 25 Jul 2015 20-19-50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/Royal_College_of_Surgeons_in_Ireland,_St._Stephens_Green_(2)_-_geograph.org.uk_-_715737 - 25 Jul 2015 20-19-50.png" afterPath="$PROJECT_DIR$/public/images/Royal_College_of_Surgeons_in_Ireland,_St._Stephens_Green_(2)_-_geograph.org.uk_-_715737 - 25 Jul 2015 20-19-50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/SIT - 25 Jul 2015 20-19-50.png" afterPath="$PROJECT_DIR$/public/images/SIT - 25 Jul 2015 20-19-50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/Saint-Nicholas - 25 Jul 2015 20-19-50.png" afterPath="$PROJECT_DIR$/public/images/Saint-Nicholas - 25 Jul 2015 20-19-50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ShannonCollege - 25 Jul 2015 20-19-50.png" afterPath="$PROJECT_DIR$/public/images/ShannonCollege - 25 Jul 2015 20-19-50.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/StAngelaSligo - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/StAngelaSligo - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/Tallaght_IT - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/Tallaght_IT - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/TraleeIT - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/TraleeIT - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/UCD - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/UCD - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/UL - 25 Jul 2015 20-19-48.png" afterPath="$PROJECT_DIR$/public/images/UL - 25 Jul 2015 20-19-48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/WaterfordIT - 25 Jul 2015 20-19-48.png" afterPath="$PROJECT_DIR$/public/images/WaterfordIT - 25 Jul 2015 20-19-48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ait - 25 Jul 2015 20-19-57.png" afterPath="$PROJECT_DIR$/public/images/ait - 25 Jul 2015 20-19-57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/blanchardstown-it-003 - 25 Jul 2015 20-19-57.png" afterPath="$PROJECT_DIR$/public/images/blanchardstown-it-003 - 25 Jul 2015 20-19-57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/carlow - 25 Jul 2015 20-19-56.png" afterPath="$PROJECT_DIR$/public/images/carlow - 25 Jul 2015 20-19-56.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/carlowIT - 25 Jul 2015 20-19-56.png" afterPath="$PROJECT_DIR$/public/images/carlowIT - 25 Jul 2015 20-19-56.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ccit - 25 Jul 2015 20-19-56.png" afterPath="$PROJECT_DIR$/public/images/ccit - 25 Jul 2015 20-19-56.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/churchOfI - 25 Jul 2015 20-19-56.png" afterPath="$PROJECT_DIR$/public/images/churchOfI - 25 Jul 2015 20-19-56.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/cit - 25 Jul 2015 20-19-55.png" afterPath="$PROJECT_DIR$/public/images/cit - 25 Jul 2015 20-19-55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/dbs - 25 Jul 2015 20-19-55.png" afterPath="$PROJECT_DIR$/public/images/dbs - 25 Jul 2015 20-19-55.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/dit - 25 Jul 2015 20-19-54.png" afterPath="$PROJECT_DIR$/public/images/dit - 25 Jul 2015 20-19-54.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/dorset - 25 Jul 2015 20-19-54.png" afterPath="$PROJECT_DIR$/public/images/dorset - 25 Jul 2015 20-19-54.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/grafton_COllege - 25 Jul 2015 20-19-53.png" afterPath="$PROJECT_DIR$/public/images/grafton_COllege - 25 Jul 2015 20-19-53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/griffCollegeCork - 25 Jul 2015 20-19-53.png" afterPath="$PROJECT_DIR$/public/images/griffCollegeCork - 25 Jul 2015 20-19-53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/griffith_College_Dublin - 25 Jul 2015 20-19-53.png" afterPath="$PROJECT_DIR$/public/images/griffith_College_Dublin - 25 Jul 2015 20-19-53.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/independentcollege - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/independentcollege - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/independentcollege.png" afterPath="$PROJECT_DIR$/public/images/independentcollege.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/marino - 25 Jul 2015 20-19-52.png" afterPath="$PROJECT_DIR$/public/images/marino - 25 Jul 2015 20-19-52.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/maynooth - 25 Jul 2015 20-19-51.png" afterPath="$PROJECT_DIR$/public/images/maynooth - 25 Jul 2015 20-19-51.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/nationalcollegeofireland - 25 Jul 2015 20-19-51.png" afterPath="$PROJECT_DIR$/public/images/nationalcollegeofireland - 25 Jul 2015 20-19-51.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/portabello - 25 Jul 2015 20-19-51.png" afterPath="$PROJECT_DIR$/public/images/portabello - 25 Jul 2015 20-19-51.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/trinity - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/trinity - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colleges/ucc - 25 Jul 2015 20-19-49.png" afterPath="$PROJECT_DIR$/public/images/ucc - 25 Jul 2015 20-19-49.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/courses.jpeg" afterPath="$PROJECT_DIR$/public/images/courses.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/grit.png" afterPath="$PROJECT_DIR$/public/images/grit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/library.png" afterPath="$PROJECT_DIR$/public/images/library.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/points.jpg" afterPath="$PROJECT_DIR$/public/images/points.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/postgraduate.png" afterPath="$PROJECT_DIR$/public/images/postgraduate.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/undergrad.png" afterPath="$PROJECT_DIR$/public/images/undergrad.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-2.1.4.js" afterPath="$PROJECT_DIR$/public/javascripts/jquery-2.1.4.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.countTo.js" afterPath="$PROJECT_DIR$/public/javascripts/jquery.countTo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/public/javascripts/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/public/javascripts/modernizr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/json/info.json" afterPath="$PROJECT_DIR$/colleges.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/video/people.mp4" afterPath="$PROJECT_DIR$/public/video/people.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/sections/index-blurb.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/sections/index-cao.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/sections/index-colleges.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/sections/index-courses.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/colleges-course.html" afterPath="$PROJECT_DIR$/views/colleges-course.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/colleges.html" afterPath="$PROJECT_DIR$/views/college.ejs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/contact.html" afterPath="$PROJECT_DIR$/views/contact.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/head.ejs" afterPath="$PROJECT_DIR$/views/partials/template/head.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/header.ejs" afterPath="$PROJECT_DIR$/views/partials/template/header.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" afterPath="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CollegeSites.iws" />
@@ -113,31 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="330">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="960">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.6666665" vertical-offset="301" max-vertical-offset="5190">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.48096192" vertical-offset="0" max-vertical-offset="930">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -146,18 +51,28 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="780">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="colleges-course.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/colleges-course.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.886076" vertical-offset="0" max-vertical-offset="555">
-              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state vertical-scroll-proportion="-9.375" vertical-offset="30" max-vertical-offset="1350">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="college.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/college.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="18855">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,8 +81,8 @@
       <file leaf-file-name="head.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/template/head.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-              <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -176,8 +91,8 @@
       <file leaf-file-name="header.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-32.5" vertical-offset="0" max-vertical-offset="870">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="870">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -186,8 +101,8 @@
       <file leaf-file-name="jsdefaults.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/template/jsdefaults.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -211,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/json/colleges.json" />
         <option value="$PROJECT_DIR$/css/reset.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
@@ -227,12 +141,17 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/index.html" />
-        <option value="$PROJECT_DIR$/views/partials/template/head.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/template/header.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/video.ejs" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index-blurb.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index-cao.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index-colleges.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index-courses.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/template/head.ejs" />
         <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/views/partials/template/header.ejs" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
       </list>
     </option>
   </component>
@@ -240,10 +159,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
-    <option name="y" value="23" />
-    <option name="width" value="640" />
-    <option name="height" value="773" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -310,65 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -382,7 +241,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -451,17 +310,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="23" width="640" height="773" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.4992658" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26500732" sideWeight="0.65011823" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24726775" sideWeight="0.6773283" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31663975" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1556791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26500732" sideWeight="0.3498818" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24726775" sideWeight="0.32267168" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -492,7 +351,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -505,42 +364,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="960">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/magpie.rc/views/partials/template/head.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="450">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/jsdefaults.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-32.5" vertical-offset="0" max-vertical-offset="870">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
-          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
           <folding />
         </state>
       </provider>
@@ -553,26 +380,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.6666665" vertical-offset="301" max-vertical-offset="5190">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.79113925" vertical-offset="0" max-vertical-offset="495">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="960">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index-blurb.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="315">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index-cao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.541666" vertical-offset="266" max-vertical-offset="825">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index-colleges.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="1515">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index-courses.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9398798" vertical-offset="1226" max-vertical-offset="1785">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/jsdefaults.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/college.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="18855">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/colleges-course.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="30" max-vertical-offset="1350">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="780">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="705">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.886076" vertical-offset="0" max-vertical-offset="555">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="870">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48096192" vertical-offset="0" max-vertical-offset="930">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
