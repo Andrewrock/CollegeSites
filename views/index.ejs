@@ -14,18 +14,16 @@
                     </video>
                 </div><!-- emd of my video container -->
             </div>
-<a href="/college"></a>
             <div class="cd-content" id="index-content">
                 <div class="container intro">
-                    <% include partials/sections/index-blurb.ejs %>
-                    <% include partials/sections/index-cao.ejs %>
-                    <% include partials/sections/index-colleges.ejs %>
-                    <% include partials/sections/index-courses.ejs %>
+                    <% include partials/sections/index/index-blurb.ejs %>
+                    <% include partials/sections/index/index-cao.ejs %>
+                    <% include partials/sections/index/index-colleges.ejs %>
+                    <% include partials/sections/index/index-courses.ejs %>
                 </div><!-- container -->
             </div><!-- cd-content -->
         </section> <!-- .cd-section -->
     </main> <!-- .cd-main -->
-
 <div id="cd-loading-bar" data-scale="1" class="index"></div> <!-- lateral loading bar -->
 <% include partials/template/jsdefaults.ejs %>
 
@@ -52,6 +50,162 @@
     });
 
 
-</script>
+
+    var barChartData = {
+        labels : [
+            "600",
+            "500-599",
+            "400-499",
+            "300-399",
+            "200-299",
+            "100-199",
+            ">100",
+        ],
+        datasets : [
+            {
+                fillColor : "#8DB986",
+                strokeColor : "#8DB986",
+                highlightFill: "#ACCE91",
+                highlightStroke: "#ACCE91",
+                data : [215,5431,14097,14446,9768,6562,4526]
+            }
+        ],
+        scaleGridLineColor : "#000",
+        scaleOverride:true,
+        scaleSteps:10,
+        scaleStartValue:0,
+        scaleStepWidth:1
+    }
+    var doughnutData = [
+        {
+            value: 12,
+            color:'#99B898',
+            label : 'Munster',
+            labelColor : 'white',
+            labelFontSize : '16'
+        },
+        {
+            value : 4,
+            color : '#2A363B',
+            label : 'Connacht',
+            labelColor : 'white',
+            labelFontSize : '16'
+        },
+        {
+            value : 1,
+            color : '#CB4B16',
+            label : "Ulster",
+            labelColor : 'white',
+            labelFontSize : '16'
+        },
+        {
+            value : 31,
+            color : "#FF847C",
+            label : 'Leinster',
+            labelColor : 'white',
+            labelFontSize : '16'
+        }
+    ]
+    var lineChartData =  {
+        labels : ["a1","b1","c1"],
+        datasets : [
+            {
+                fillColor : "#99B898",
+                strokeColor : "#99B898",
+                pointColor : "#99B898",
+                pointStrokeColor : "#fff",
+                data : [4.7, 10.2, 14.8]
+            },
+
+            {
+                fillColor : "#2A363B",
+                strokeColor : "#2A363B",
+                pointColor : "#2A363B",
+                pointStrokeColor : "#fff",
+                data : [1.4, 6.3, 12.9]
+            }
+        ]
+    }
+
+
+
+
+    var doughnutOptions = {
+        //Boolean - Whether we should show a stroke on each segment
+        segmentShowStroke : true,
+
+        //String - The colour of each segment stroke
+        segmentStrokeColor : "#fff",
+
+        //Number - The width of each segment stroke
+        segmentStrokeWidth : 2,
+
+        //The percentage of the chart that we cut out of the middle.
+        percentageInnerCutout : 50,
+
+        //Boolean - Whether we should animate the chart
+        animation : true,
+
+        //Number - Amount of animation steps
+        animationSteps : 100,
+
+        //String - Animation easing effect
+        animationEasing : "easeOutBounce",
+
+        //Boolean - Whether we animate the rotation of the Doughnut
+        animateRotate : true,
+
+        //Boolean - Whether we animate scaling the Doughnut from the centre
+        animateScale : true,
+
+        //Function - Will fire on animation completion.
+        onAnimationComplete : null,
+
+        "legend": {
+            "data":  [{
+                title: "Munster",
+                color: "#3366CC"
+            },
+            {
+                title: "Connacht",
+                color: "#2A363B"
+            },
+            {
+                title:"Ulster",
+                color:"#CB4B16"
+            },
+            {
+                title:"Leinster",
+                color:"#FF847C"
+            }
+
+
+
+
+
+            ]
+        }
+    }
+
+
+    // Doughnut Chart Data
+
+
+
+    var ctx = document.getElementById("points").getContext("2d");
+    window.myBar = new Chart(ctx).Bar(barChartData, {
+        responsive : true
+    });
+
+    var ctx = document.getElementById("doughnutChart").getContext("2d");
+    // Create the Doughnut Chart
+    var mydoughnutChart = new Chart(ctx).Doughnut(doughnutData, doughnutOptions);
+
+
+
+
+
+
+    new Chart(document.getElementById("lineChart").getContext("2d")).Line(lineChartData)</script>
 </body>
 </html>
