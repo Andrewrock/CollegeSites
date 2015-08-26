@@ -5,26 +5,21 @@
 </head>
 <body>
 <% include partials/template/header.ejs %>
-    <main class="cd-main">
-        <section class="cd-section index visible">
-            <div class="header-container nopadding">
-                <div class="video-container">
-                    <video preload="true" autoplay="autoplay" loop="loop" volume="0" poster="">
-                        <source src="video/people.mp4" type="video/mp4">
-                    </video>
-                </div><!-- emd of my video container -->
+<div class="wrapper">
+
+    <div class="main-panel">
+        <div class="content">
+            <% include partials/sections/index/index-header.ejs %>
+            <div class="container-fluid">
+                <% include partials/sections/index/index-blurb.ejs %>
+                <% include partials/sections/index/index-cao.ejs %>
+                <% include partials/sections/index/index-colleges.ejs %>
+                <% include partials/sections/index/index-courses.ejs %>
+
             </div>
-            <div class="cd-content" id="index-content">
-                <div class="container intro">
-                    <% include partials/sections/index/index-blurb.ejs %>
-                    <% include partials/sections/index/index-cao.ejs %>
-                    <% include partials/sections/index/index-colleges.ejs %>
-                    <% include partials/sections/index/index-courses.ejs %>
-                </div><!-- container -->
-            </div><!-- cd-content -->
-        </section> <!-- .cd-section -->
-    </main> <!-- .cd-main -->
-<div id="cd-loading-bar" data-scale="1" class="index"></div> <!-- lateral loading bar -->
+        </div>
+    </div>
+</div>
 <% include partials/template/jsdefaults.ejs %>
 
 <script>
@@ -209,3 +204,10 @@
     new Chart(document.getElementById("lineChart").getContext("2d")).Line(lineChartData)</script>
 </body>
 </html>
+
+
+
+
+
+
+
