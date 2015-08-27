@@ -14,41 +14,56 @@
 
 <div class="row nopadding">
     <div class="col-xs-12 nopadding">
-        <div class="col-sm-4 col-xs-6">
-            <div class="chart-panel">
-                <div class="panel-heading text-center">Cao Breakdown</div>
-                <div class="panel-body">
+        <div class="col-sm-4 col-xs-12">
+            <div class="card">
+                <div class="header">
+                    <h4 class="text-center">Cao Breakdown</h4>
+                </div>
+                <div class="content">
                     <canvas id="points"></canvas>
+                </div>
+                <div class="footer">
+                    <div class="legend text-center">
+                        <i class="fa fa-circle chart-munster"></i> Number of students and grade
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-sm-4 col-xs-6">
-            <div class="chart-panel">
-                <div class="panel-heading text-center">College and courses</div>
-                  <div class="panel-body">
+
+
+
+
+        <div class="col-sm-4 col-xs-12">
+            <div class="card">
+                <div class="header">
+                    <h4 class="text-center">College Statistics</h4>
+                </div>
+                <div class="content">
                    <canvas id="doughnutChart"></canvas>
-                     <div class="chart-legend text-center">
-                       <ul>
-                          <li class="chart-munster text-center">Munster</li>
-                          <li class="chart-connacht text-center">Connacht</li>
-                          <li class="chart-ulster text-center">Ulster</li>
-                          <li class="chart-leinster text-center">Leinster</li>
-                       </ul>
-                     </div>
-                   </div>
+                </div>
+                <div class="footer">
+                    <div class="legend text-center">
+                        <i class="fa fa-circle chart-munster"></i> Munster
+                        <i class="fa fa-circle chart-connacht"></i> Connacht
+                        <i class="fa fa-circle chart-ulster"></i> Ulster
+                        <i class="fa fa-circle chart-leinster"></i> Leinster
+                    </div>
                 </div>
             </div>
-        <div class="col-sm-4 col-xs-6">
-            <div class="chart-panel">
-                <div class="panel-heading text-center">Leaving cert stats</div>
-                <div class="panel-body">
+        </div>
+
+        <div class="col-sm-4 col-xs-12">
+            <div class="card">
+                <div class="header">
+                    <h4 class="text-center">Cao Breakdown</h4>
+                </div>
+                <div class="content">
                     <canvas id="lineChart"></canvas>
-                    <div class="chart-legend text-center">
-                        <ul>
-                            <li class="grade">Honours Irish grades</li>
-                            <li class="chart-female">% of females</li>
-                            <li class="chart-male">% of males</li>
-                        </ul>
+                </div>
+                <div class="footer">
+                    <div class="legend text-center">
+                        <i class="fa fa-circle chart-female"></i> % females
+                        <i class="fa fa-circle chart-male"></i> % males
                     </div>
                 </div>
             </div>

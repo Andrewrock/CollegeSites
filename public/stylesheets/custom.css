@@ -59,6 +59,30 @@ h1:after{
   transition: all 0.3s ease 0s;
 }
 
+/*navigation active class */
+#home ul.nav li.side-home {
+  color: #FFFFFF;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.23);
+}
+
+#college ul.nav li.side-college {
+  color: #FFFFFF;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.23);
+}
+#courses ul.nav li.side-college-course {
+  color: #FFFFFF;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.23);
+}
+#cao ul.nav li.side-cao{
+  color: #FFFFFF;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.23);
+}
+
+
 
 .college-header {
   height: 350px;
@@ -74,7 +98,28 @@ h1:after{
   -o-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
 }
+.cao-header {
+  height: 350px;
+  background: #2A363B url('../images/cao-header.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+}
 
+.cao-heading{
+  position: absolute;
+  top:90%;
+  left: 48%;
+  transform: translate(-48%, -90%);
+
+}
 .heading{
   position: absolute;
   top: 50%;
@@ -159,11 +204,6 @@ Video
   height:100%;
   width:100%;
   overflow: hidden;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
 
 }
 video {
@@ -184,6 +224,10 @@ Hacks and fixes
 .intro{
   padding: 25px 0;
   background-color:#fff;
+}
+
+.card-dark{
+  background: #3d3d3d;
 }
 
 /* --------------------------------
@@ -453,9 +497,6 @@ College Page Styling
   padding-bottom: 18px;
 }
 
-
-
-
 .course{
   border-style: solid;
   border-color: inherit;
@@ -610,84 +651,37 @@ College Page Styling
   color:#fff;
 }
 
-.chart-panel{
-  min-height:300px;
-}
-
-
-
 #points{
-  width: 90%;
-  height:100%;
-  min-height:235px;
+  width: 100%!important;
+  height:100%!important;
 }
 #lineChart{
-  width: 90%;
-  min-height:170px;
-}
-.points-list{
-  margin-bottom: 0;
-  padding: 40px 0;
-}
-.points-list dt{
-display:none
-}
-.points-list dd{
-  color:#78909c;
-  font-size:0.90em;
+  width: 100%!important;
+  height:100%!important;
 }
 
-.chart-legend{
-  padding:0 50px;
+#doughnutChart{
+  height:100%!important;
+  width: 100%!important;
 }
 
-.chart-legend ul {
-  list-style: none;
-  width: 100%;
-  margin: 30px auto 0;
+.chart-male{
+  color:#2A363B;
 }
-.chart-legend li {
-  text-indent: 16px;
-  line-height: 24px;
-  position: relative;
-  font-weight: 200;
-  display: block;
-  float: left;
-  width: 50%;
-  font-size: 0.8em;
-}
-.chart-legend  li:before {
-  display: block;
-  width: 10px;
-  height: 16px;
-  position: absolute;
-  left: 0;
-  top: 3px;
-  content: "";
-  width:20%;
+.chart-female{
+  color:#99B898;
 }
 
-.chart-legend li.grade{
-  width:100%;
+.chart-munster{
+  color: #99B898;
+}
+.chart-leinster{
+  color: #FF847C;
+}
+.chart-connacht{
+  color:#2A363B;
+}
+.chart-ulster{
+  color:#CB4B16;
 }
 
-
-.chart-munster:before{
-  background-color: #99B898;
-}
-.chart-leinster:before{
-background-color: #FF847C;
-}
-.chart-connacht:before{
-background-color:#2A363B;
-}
-.chart-ulster:before{
-background-color:#CB4B16;
-}
-
-.chart-male:before{
-  background-color:#2A363B;
-}
-.chart-female:before{
-  background-color:#99B898;
-}

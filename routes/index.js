@@ -13,7 +13,8 @@ router.get('/', function(req, res) {
     //req.app.locals.appdata.offerings = JSON.parse(body);
     //console.log(body);
     res.render('index', {
-      title: 'Welcome to WhatCourse'
+      title: 'Welcome to WhatCourse',
+      id : 'home'
     });
   });
 //});
@@ -21,17 +22,25 @@ router.get('/', function(req, res) {
 
 router.get('/college', function(req, res) {
   res.render('college', { req:req, res:res,
-     title: 'Colleges'
+     title: 'Colleges',
+     id : 'college'
     });
   });
 
-router.get('/colleges-course', function(req, res) {
-  res.render('colleges-course', {
-   title: 'Select a plan'
+router.get('/cao', function(req, res) {
+  res.render('cao', {
+   title: 'CAO',
+    id: 'cao'
    });
   });
 
 
+router.get('/cao', function(req, res) {
+  res.render('colleges-courses', {
+    title: 'College Courses',
+    id: 'courses'
+  });
+});
 
 
 

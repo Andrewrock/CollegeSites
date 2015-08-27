@@ -129,10 +129,17 @@ input:focus {
   background-size: cover;
   background-position: center center;
 }
-.sidebar .logo {
-  padding: 10px 15px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+.sidebar .logo::before{
+  padding: 1.5px;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  border-top: 3px solid #3dc9b3;
 }
+
 .sidebar .logo p {
   float: left;
   font-size: 20px;
@@ -140,6 +147,7 @@ input:focus {
   color: #FFFFFF;
   line-height: 20px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-bottom:2px solid #3dc9b3
 }
 .sidebar .logo .simple-text {
   text-transform: uppercase;
@@ -214,11 +222,6 @@ body > .navbar-collapse:before {
 body > .navbar-collapse:before {
   opacity: .33;
   background: #000000;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
 }
 .sidebar:after,
 body > .navbar-collapse:after {
@@ -232,11 +235,6 @@ body > .navbar-collapse:after {
   background-size: 150% 150%;
   z-index: 3;
   opacity: 1;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
 
 }
 .sidebar[data-image]:after, .sidebar.has-image:after,
@@ -632,9 +630,6 @@ body > .navbar-collapse.has-image:after {
 }
 .card .stats {
   color: #a9a9a9;
-}
-.card .footer div {
-  display: inline-block;
 }
 .card .author {
   font-size: 12px;
