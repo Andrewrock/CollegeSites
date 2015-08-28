@@ -23,29 +23,6 @@
 <% include partials/template/jsdefaults.ejs %>
 
 <script>
-    $('.counter').each(function() {
-        var $this = $(this),
-                countTo = $this.attr('data-count');
-
-        $({ countNum: $this.text()}).animate({
-                    countNum: countTo
-                },
-
-                {
-                    duration: 8000,
-                    easing:'linear',
-                    step: function() {
-                        $this.text(Math.floor(this.countNum));
-                    },
-                    complete: function() {
-                        $this.text(this.countNum);
-                    }
-
-                });
-    });
-
-
-
     var barChartData = {
         labels : [
             "600",
@@ -58,44 +35,51 @@
         ],
         datasets : [
             {
-                fillColor : "#8DB986",
-                strokeColor : "#8DB986",
-                highlightFill: "#ACCE91",
-                highlightStroke: "#ACCE91",
+                fillColor : "#3d9e40",
+                strokeColor : "#fefefe",
+                pointColor: 'transparent',
+                pointStrokeColor: 'transparent',
+                pointHighlightFill: '#fefefe',
+                pointHighlightStroke: 'rgba(255,255,255,0.3)',
                 data : [215,5431,14097,14446,9768,6562,4526]
             }
         ],
-        scaleGridLineColor : "#000",
-        scaleOverride:true,
-        scaleSteps:10,
-        scaleStartValue:0,
-        scaleStepWidth:1
+        responsive: true,
+        animationSteps: 30,
+        scaleFontColor: '#fefefe',
+        datasetStrokeWidth: 6,
+        pointDotRadius: 6,
+        pointDotStrokeWidth: 6,
+        scaleShowVerticalLines: false,
+        scaleLineColor: '#9ec3b8',
+        scaleGridLineColor: "#54b858",
+        scaleGridLineWidth: 1
     }
     var doughnutData = [
         {
             value: 12,
-            color:'#99B898',
+            color:'#8cc152',
             label : 'Munster',
             labelColor : 'white',
             labelFontSize : '16'
         },
         {
             value : 4,
-            color : '#2A363B',
+            color : '#967ADC',
             label : 'Connacht',
             labelColor : 'white',
             labelFontSize : '16'
         },
         {
             value : 1,
-            color : '#CB4B16',
+            color : '#E9573f',
             label : "Ulster",
             labelColor : 'white',
             labelFontSize : '16'
         },
         {
             value : 31,
-            color : "#FF847C",
+            color : "#3bafda",
             label : 'Leinster',
             labelColor : 'white',
             labelFontSize : '16'
@@ -105,17 +89,16 @@
         labels : ["a1","b1","c1"],
         datasets : [
             {
-                fillColor : "#99B898",
-                strokeColor : "#99B898",
-                pointColor : "#99B898",
+                fillColor : "#8cc152",
+                strokeColor : "#8cc152",
+                pointColor : "#8cc152",
                 pointStrokeColor : "#fff",
                 data : [4.7, 10.2, 14.8]
             },
-
             {
-                fillColor : "#2A363B",
-                strokeColor : "#2A363B",
-                pointColor : "#2A363B",
+                fillColor : "rgb(255,84,96)",
+                strokeColor : "rgb(255,84,96)",
+                pointColor : "rgb(255,84,96)",
                 pointStrokeColor : "#fff",
                 data : [1.4, 6.3, 12.9]
             }
@@ -177,55 +160,27 @@
             ]
         }
     }
-    var polarData = [
-        {
-            value: 215,
-            color:"#F7464A",
-            highlight: "#FF5A5E",
-            label: "600"
-        },
-        {
-            value: 5431,
-            color: "#46BFBD",
-            highlight: "#5AD3D1",
-            label: "500-599"
-        },
-        {
-            value: 14097,
-            color: "#FDB45C",
-            highlight: "#FFC870",
-            label: "400-499"
-        },
-        {
-            value: 14446,
-            color: "#949FB1",
-            highlight: "#A8B3C5",
-            label: "300-399"
-        },
-        {
-            value: 9768,
-            color: "#4D5360",
-            highlight: "#616774",
-            label: "200-299"
-        },
-        {
-            value: 6562,
-            color: "#4D5360",
-            highlight: "#616774",
-            label: "100-199"
-        },
-        {
-            value: 4526,
-            color: "#4D5360",
-            highlight: "#616774",
-            label: "> 100"
-        }
-
-    ];
 
     // Doughnut Chart Data
 
-
+    var horizontalChartData = {
+        labels: [
+            '2015', '2014', '2013', '2012', '2011', '2010'
+        ],
+        datasets: [
+            {
+                label: 'Months',
+                fillColor: '#3bafda',
+                highlightFill: 'rgba(0,163,124,0.5)',
+                data: [215, 162, 152, 165, 162, 136]
+            }
+        ]
+    };
+    var horizontalChartoptions = {
+        barStrokeWidth : 1,
+        responsive: true,
+        animation: true
+    };
 
     var ctx = document.getElementById("points").getContext("2d");
     window.myBar = new Chart(ctx).Bar(barChartData, {
@@ -238,9 +193,11 @@
 
 
 
-    var ctx = document.getElementById("polar-chart").getContext("2d");
-    window.myPolarArea = new Chart(ctx).PolarArea(polarData, {
-        responsive:true
+    var ctx = document.getElementById("barChartData").getContext("2d");
+
+    var chart = new Chart(ctx).HorizontalBar(horizontalChartData,horizontalChartoptions, {
+        responsive: true,
+        barShowStroke: false
     });
 
     new Chart(document.getElementById("lineChart").getContext("2d")).Line(lineChartData)</script>

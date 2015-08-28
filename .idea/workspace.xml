@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556baf14-92d5-4e7e-b8cc-68c155cced1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/CollegeSites_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/colleges-course.ejs" afterPath="$PROJECT_DIR$/views/cao.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CollegeSites.iml" afterPath="$PROJECT_DIR$/.idea/CollegeSites.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/college.ejs" afterPath="$PROJECT_DIR$/views/college.ejs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/college-header.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/colleges.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/jquery.countTo.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/images/library-header.jpg" afterPath="$PROJECT_DIR$/public/images/course-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/custom.css" afterPath="$PROJECT_DIR$/public/stylesheets/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/header.ejs" afterPath="$PROJECT_DIR$/views/partials/template/header.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/index/index-blurb.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/index/index-blurb.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/index/index-colleges.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/index/index-colleges.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs" afterPath="$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/main.css" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" afterPath="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CollegeSites.iws" />
@@ -39,33 +37,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="college.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/college.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.9583335" vertical-offset="4" max-vertical-offset="525">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.296296" vertical-offset="2731" max-vertical-offset="10395">
-              <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.553571" vertical-offset="5580" max-vertical-offset="6150">
+              <caret line="468" column="22" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="22" />
               <folding>
                 <element signature="e#296#12070#1" expanded="true" />
+                <element signature="e#15158#15258#0" expanded="false" />
+                <element signature="e#15276#15301#0" expanded="false" />
+                <element signature="e#15319#15393#0" expanded="false" />
+                <element signature="e#15400#15438#0" expanded="false" />
+                <element signature="e#15455#15473#0" expanded="false" />
+                <element signature="e#15572#15624#0" expanded="false" />
+                <element signature="e#15631#15678#0" expanded="false" />
+                <element signature="e#15685#15744#0" expanded="false" />
+                <element signature="e#15905#16321#0" expanded="false" />
+                <element signature="e#16387#16412#0" expanded="false" />
+                <element signature="e#16446#16754#0" expanded="false" />
+                <element signature="e#16772#17199#0" expanded="false" />
+                <element signature="e#17274#17341#0" expanded="false" />
+                <element signature="e#17386#17432#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <file leaf-file-name="index-cao.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="840">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1170">
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="41" />
+              <folding>
+                <element signature="n#div#1;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-courses.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12072434" vertical-offset="165" max-vertical-offset="1545">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colleges.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/colleges.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.416667" vertical-offset="20003" max-vertical-offset="205935">
+              <caret line="1355" column="0" selection-start-line="1349" selection-start-column="0" selection-end-line="1355" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,77 +101,14 @@
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.666667" vertical-offset="557" max-vertical-offset="1350">
-              <caret line="230" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.416667" vertical-offset="479" max-vertical-offset="1560">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
               <folding>
-                <element signature="e#1361#1979#0#HTML" expanded="false" />
-                <element signature="e#2003#2701#0#HTML" expanded="false" />
-                <element signature="e#2727#3265#0#HTML" expanded="false" />
-                <element signature="e#3292#4667#0#HTML" expanded="false" />
-                <element signature="e#4688#5662#0#HTML" expanded="false" />
+                <element signature="e#1714#2412#0#HTML" expanded="false" />
+                <element signature="e#2438#2996#0#HTML" expanded="false" />
+                <element signature="e#3023#4398#0#HTML" expanded="false" />
+                <element signature="e#4458#4789#0#HTML" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3121" max-vertical-offset="17130">
-              <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
-              <folding>
-                <element signature="e#22975#23226#0" expanded="false" />
-                <element signature="e#23229#23520#0" expanded="false" />
-                <element signature="e#23523#23799#0" expanded="false" />
-                <element signature="e#23802#24051#0" expanded="false" />
-                <element signature="e#24054#24343#0" expanded="false" />
-                <element signature="e#24346#24620#0" expanded="false" />
-                <element signature="e#24623#24886#0" expanded="false" />
-                <element signature="e#24889#25192#0" expanded="false" />
-                <element signature="e#25195#25483#0" expanded="false" />
-                <element signature="e#25486#25745#0" expanded="false" />
-                <element signature="e#25748#26047#0" expanded="false" />
-                <element signature="e#26050#26334#0" expanded="false" />
-                <element signature="e#26337#26436#0" expanded="false" />
-                <element signature="e#26439#26535#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cao.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/cao.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="510">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="15" max-vertical-offset="1065">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ait - 25 Jul 2015 20-19-57.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/images/ait - 25 Jul 2015 20-19-57.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cao-header.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -183,21 +147,22 @@
         <option value="$PROJECT_DIR$/views/partials/sections/colleges/college-blurb.ejs" />
         <option value="$PROJECT_DIR$/views/partials/sections/colleges/college-header.ejs" />
         <option value="$PROJECT_DIR$/public/javascripts/light-bootstrap-dashboard.js" />
-        <option value="$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
         <option value="$PROJECT_DIR$/views/partials/template/head.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs" />
         <option value="$PROJECT_DIR$/views/college.ejs" />
         <option value="$PROJECT_DIR$/views/colleges-course.ejs" />
         <option value="$PROJECT_DIR$/views/partials/sections/index/index-blurb.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/views/cao.ejs" />
         <option value="$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs" />
-        <option value="$PROJECT_DIR$/public/stylesheets/custom.css" />
-        <option value="$PROJECT_DIR$/public/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/views/partials/template/header.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index/index-colleges.ejs" />
+        <option value="$PROJECT_DIR$/public/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs" />
+        <option value="$PROJECT_DIR$/public/stylesheets/custom.css" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs" />
       </list>
     </option>
   </component>
@@ -484,24 +449,6 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CollegeSites" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -587,22 +534,22 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.4992658" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2479452" sideWeight="0.6771653" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2479452" sideWeight="0.6759333" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29388404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40349483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2479452" sideWeight="0.32283464" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2479452" sideWeight="0.32406673" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -630,6 +577,148 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3121" max-vertical-offset="17130">
+          <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding>
+            <element signature="e#22975#23226#0" expanded="false" />
+            <element signature="e#23229#23520#0" expanded="false" />
+            <element signature="e#23523#23799#0" expanded="false" />
+            <element signature="e#23802#24051#0" expanded="false" />
+            <element signature="e#24054#24343#0" expanded="false" />
+            <element signature="e#24346#24620#0" expanded="false" />
+            <element signature="e#24623#24886#0" expanded="false" />
+            <element signature="e#24889#25192#0" expanded="false" />
+            <element signature="e#25195#25483#0" expanded="false" />
+            <element signature="e#25486#25745#0" expanded="false" />
+            <element signature="e#25748#26047#0" expanded="false" />
+            <element signature="e#26050#26334#0" expanded="false" />
+            <element signature="e#26337#26436#0" expanded="false" />
+            <element signature="e#26439#26535#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="510">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/college.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="525">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2731" max-vertical-offset="10395">
+          <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding>
+            <element signature="e#296#12070#1" expanded="true" />
+            <element signature="e#15158#15258#0" expanded="false" />
+            <element signature="e#15276#15301#0" expanded="false" />
+            <element signature="e#15319#15393#0" expanded="false" />
+            <element signature="e#15400#15438#0" expanded="false" />
+            <element signature="e#15455#15473#0" expanded="false" />
+            <element signature="e#15572#15624#0" expanded="false" />
+            <element signature="e#15631#15678#0" expanded="false" />
+            <element signature="e#15685#15744#0" expanded="false" />
+            <element signature="e#15905#16321#0" expanded="false" />
+            <element signature="e#16387#16412#0" expanded="false" />
+            <element signature="e#16446#16754#0" expanded="false" />
+            <element signature="e#16772#17199#0" expanded="false" />
+            <element signature="e#17274#17341#0" expanded="false" />
+            <element signature="e#17386#17432#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="840">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3450" max-vertical-offset="3915">
+          <caret line="230" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3121" max-vertical-offset="17130">
+          <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+          <folding>
+            <element signature="e#22975#23226#0" expanded="false" />
+            <element signature="e#23229#23520#0" expanded="false" />
+            <element signature="e#23523#23799#0" expanded="false" />
+            <element signature="e#23802#24051#0" expanded="false" />
+            <element signature="e#24054#24343#0" expanded="false" />
+            <element signature="e#24346#24620#0" expanded="false" />
+            <element signature="e#24623#24886#0" expanded="false" />
+            <element signature="e#24889#25192#0" expanded="false" />
+            <element signature="e#25195#25483#0" expanded="false" />
+            <element signature="e#25486#25745#0" expanded="false" />
+            <element signature="e#25748#26047#0" expanded="false" />
+            <element signature="e#26050#26334#0" expanded="false" />
+            <element signature="e#26337#26436#0" expanded="false" />
+            <element signature="e#26439#26535#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="510">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1065">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/college.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="525">
@@ -644,6 +733,20 @@
           <caret line="184" column="19" selection-start-line="184" selection-start-column="19" selection-end-line="184" selection-end-column="19" />
           <folding>
             <element signature="e#296#12070#1" expanded="true" />
+            <element signature="e#15158#15258#0" expanded="false" />
+            <element signature="e#15276#15301#0" expanded="false" />
+            <element signature="e#15319#15393#0" expanded="false" />
+            <element signature="e#15400#15438#0" expanded="false" />
+            <element signature="e#15455#15473#0" expanded="false" />
+            <element signature="e#15572#15624#0" expanded="false" />
+            <element signature="e#15631#15678#0" expanded="false" />
+            <element signature="e#15685#15744#0" expanded="false" />
+            <element signature="e#15905#16321#0" expanded="false" />
+            <element signature="e#16387#16412#0" expanded="false" />
+            <element signature="e#16446#16754#0" expanded="false" />
+            <element signature="e#16772#17199#0" expanded="false" />
+            <element signature="e#17274#17341#0" expanded="false" />
+            <element signature="e#17386#17432#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -652,13 +755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="3285">
           <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="e#1361#1979#0#HTML" expanded="false" />
-            <element signature="e#2003#2701#0#HTML" expanded="false" />
-            <element signature="e#2727#3265#0#HTML" expanded="false" />
-            <element signature="e#3292#4667#0#HTML" expanded="false" />
-            <element signature="e#4688#5662#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -666,9 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1170">
           <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#1;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,75 +841,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-colleges.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="1515">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colleges.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.708334" vertical-offset="620" max-vertical-offset="9135">
-          <caret line="1385" column="0" selection-start-line="1385" selection-start-column="0" selection-end-line="1385" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!block;n#university-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#cork-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#griffith-college-cork#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#griffith-college-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#mary-immaculate-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#waterford-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#university-of-limerick#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#limerick-institute-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#tralee-institute-of-technology#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#irish-college-of-humanities-applied-science#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#shannon-college#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#st-patricks-thurles#0;n#!!block;n#munster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#trinity-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#royal-college-of-surgeons#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#st-patricks-drumcondra#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#national-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#national-college-of-art-design#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#mater-dei#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#american-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#church-of-ireland-college-of-education#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#marino-institute-technology#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#independent-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#ibat-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#icd-business-school#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#st-patricks-pontifical-maynooth#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#portobello-institute#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#grafton-college-management-sciences#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#college-of-computer-training#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#carlow-college#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#nui-maynooth#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#athlone-institute-of-technology#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dublin-business-school#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dun-laoghaire-institute-art-design-tech#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#griffith-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#institute-of-technology-tallaght#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#institute-of-technology-blanchardstown#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#institute-of-technology-carlow#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dundalk-institute-of-technology#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#university-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dublin-institute-of-technology#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dorset-college-dublin#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#st-nicholas-montessori-college-ireland#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#dublin-city-university#0;n#!!block;n#leinster#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#galway-mayo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#st-angelas-college#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#sligo-it#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-            <element signature="n#!!block;n#university-college-galway#0;n#!!block;n#connacht#0;n#!!block;n#province#0;n#!!block;n#colleges-courses#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9570">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.777779" vertical-offset="2442" max-vertical-offset="6240">
           <caret line="193" column="19" selection-start-line="193" selection-start-column="19" selection-end-line="193" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,13 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/jsdefaults.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="225">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/template/head.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="300">
@@ -869,40 +890,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-681.25" vertical-offset="420" max-vertical-offset="16860">
-          <caret line="1118" column="0" selection-start-line="1118" selection-start-column="0" selection-end-line="1118" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19114688" vertical-offset="145" max-vertical-offset="1395">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-blurb.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.4583335" vertical-offset="418" max-vertical-offset="915">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#1;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1666665" vertical-offset="767" max-vertical-offset="1215">
-          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
-          <folding>
-            <element signature="n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -910,21 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
           <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.666667" vertical-offset="557" max-vertical-offset="1350">
-          <caret line="230" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
-          <folding>
-            <element signature="e#1361#1979#0#HTML" expanded="false" />
-            <element signature="e#2003#2701#0#HTML" expanded="false" />
-            <element signature="e#2727#3265#0#HTML" expanded="false" />
-            <element signature="e#3292#4667#0#HTML" expanded="false" />
-            <element signature="e#4688#5662#0#HTML" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,56 +908,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
           <caret line="15" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="510">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/ait - 25 Jul 2015 20-19-57.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50223213" vertical-offset="0" max-vertical-offset="448">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="15" max-vertical-offset="1065">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/course-header.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/college-header.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/college.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4263393" vertical-offset="4" max-vertical-offset="525">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="840">
+        <state vertical-scroll-proportion="0.69067794" vertical-offset="154" max-vertical-offset="840">
           <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/college.ejs">
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/colleges/college-college-lookup.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.9583335" vertical-offset="4" max-vertical-offset="525">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state vertical-scroll-proportion="34.687077" vertical-offset="408" max-vertical-offset="17115">
+          <caret line="1047" column="41" selection-start-line="1047" selection-start-column="41" selection-end-line="1047" selection-end-column="41" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/cao.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="510">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/sections/cao/cao-header.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.296296" vertical-offset="2731" max-vertical-offset="10395">
-          <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
-          <folding>
-            <element signature="e#296#12070#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3121" max-vertical-offset="17130">
-          <caret line="237" column="0" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5451056" vertical-offset="7756" max-vertical-offset="17130">
+          <caret line="536" column="0" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
           <folding>
             <element signature="e#22975#23226#0" expanded="false" />
             <element signature="e#23229#23520#0" expanded="false" />
@@ -1001,17 +997,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/header.ejs">
+    <entry file="file://$PROJECT_DIR$/views/partials/template/jsdefaults.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="15" max-vertical-offset="1065">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="497">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/ait - 25 Jul 2015 20-19-57.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/colleges.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.416667" vertical-offset="20003" max-vertical-offset="205935">
+          <caret line="1355" column="0" selection-start-line="1349" selection-start-column="0" selection-end-line="1355" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.553571" vertical-offset="5580" max-vertical-offset="6150">
+          <caret line="468" column="22" selection-start-line="468" selection-start-column="8" selection-end-line="468" selection-end-column="22" />
+          <folding>
+            <element signature="e#296#12070#1" expanded="true" />
+            <element signature="e#15158#15258#0" expanded="false" />
+            <element signature="e#15276#15301#0" expanded="false" />
+            <element signature="e#15319#15393#0" expanded="false" />
+            <element signature="e#15400#15438#0" expanded="false" />
+            <element signature="e#15455#15473#0" expanded="false" />
+            <element signature="e#15572#15624#0" expanded="false" />
+            <element signature="e#15631#15678#0" expanded="false" />
+            <element signature="e#15685#15744#0" expanded="false" />
+            <element signature="e#15905#16321#0" expanded="false" />
+            <element signature="e#16387#16412#0" expanded="false" />
+            <element signature="e#16446#16754#0" expanded="false" />
+            <element signature="e#16772#17199#0" expanded="false" />
+            <element signature="e#17274#17341#0" expanded="false" />
+            <element signature="e#17386#17432#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-cao.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1170">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="41" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-colleges.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5653924" vertical-offset="928" max-vertical-offset="1515">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.416667" vertical-offset="479" max-vertical-offset="1560">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding>
+            <element signature="e#1714#2412#0#HTML" expanded="false" />
+            <element signature="e#2438#2996#0#HTML" expanded="false" />
+            <element signature="e#3023#4398#0#HTML" expanded="false" />
+            <element signature="e#4458#4789#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/sections/index/index-courses.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12072434" vertical-offset="165" max-vertical-offset="1545">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
