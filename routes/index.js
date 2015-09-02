@@ -1,7 +1,5 @@
 var express = require('express');
 var router = express.Router();
-//var appdata = require('/colleges.json');
-//var request = require('request');
 
 
 
