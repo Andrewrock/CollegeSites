@@ -7,8 +7,10 @@
                 among subjects. A lot of stress is usually caused un-necessarily by the CAO, Students
                 only ever hear of 600 point students.
             </p>
+
             <p>Once you have looked through at the numbers you will be surprised to find
-            you are no doubt better prepared than you previously thought.</p>
+                you are no doubt better prepared than you previously thought.
+            </p>
         </div>
     </div>
 </div>
@@ -21,14 +23,128 @@
             </div>
             <div class="form-group col-xs-8">
                 <select class="basic">
-                    <% appdata.year.forEach(function(item) { %>
-                    <option><%= item.year %></option>
+                    <% appdata.years.forEach(function(item) { %>
+                    <option value="<%= item.year %>"><%= item.year %></option>
                     <% }); %>
-
                 </select>
             </div>
-
         </form>
     </div>
 </div>
+
+<!--
+<div class="row">
+    <div class="col-xs-12">
+        <input type="text" id="showYear"/>
+    </div>
+</div>
+
+-->
+
+<section class="cao-stats">
+        <div class="row">
+            <div class="col-xs-12 col-md-6">
+                <div class="card no-Box-Shadow">
+                    <div class="header">
+                        <h4 class="text-center">Leaving Cert points 2015-2010</h4>
+                    </div>
+                    <div class="content">
+                        <canvas id="cao-points" style="height: 320px; width:100%;"></canvas>
+                    </div>
+                    <div class="footer">
+                        <div class="legend text-center">
+                            <!--
+                            <i class="fa fa-circle chart-munster"></i> 600
+                            <i class="fa fa-circle chart-connacht"></i> 500-599
+                            <i class="fa fa-circle chart-ulster"></i> 400-499
+                            <i class="fa fa-circle chart-leinster"></i> 300-399
+                            <i class="fa fa-circle chart-leinster"></i> 200-299
+                            <i class="fa fa-circle chart-leinster"></i> 100-199
+                            <i class="fa fa-circle chart-leinster"></i> < 100
+                            -->
+
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h4 class ="datatitle-students text-center">Average number of students</h4>
+                        <div class="info-big text-center">
+                            <span class="big-figure text-center">
+                                53,875
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">600 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                165
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">500-599 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                4,964
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">400-499 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                12,825
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">300-399 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                13,797
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">200-299 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                9,811
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle">100-199 points</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                7,029
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle"> < 100</h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                5,314
+                            </span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+
 
