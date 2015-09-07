@@ -422,6 +422,8 @@ hr{
 .chart-female{
   color:rgb(255,107,107);
 }
+
+/* chart prov */
 .chart-munster{
   color:#8cc152;
 }
@@ -438,18 +440,37 @@ hr{
 
 /* Chart colors */
 
-.chart-dark{
-color:rgb(77,77,77);
+.color-1{
+color:#059ece;
 }
-.chart-green{
-color:rgb(200,222,124);
+.color-2{
+  color:#42c697;
 }
-.chart-blue{
-color:rgb(91,196,191);
+.color-3{
+  color:#4bc8dd;
 }
-.chart-pink{
-  background-color:rgb(241,106,112);
+.color-4{
+  color:#916fb5;
 }
+.color-5{
+  color:#ef6c6c;
+}
+.color-6{
+  color:#f4b571;
+}
+.color-7{
+  color:#d6639d;
+}
+.color-8{
+  color:#f7db63;
+}
+.color-9{
+  color:#6accc0;
+}
+.color-10{
+  color:#4b74b5;
+}
+
 
 
 

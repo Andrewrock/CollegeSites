@@ -1,298 +1,395 @@
 {
-  "years": [
-    {
-      "id": "1",
-      "year": "2015",
-      "total": "55045",
-      "points": [
-        {
-          "id": "2",
-          "points": "600",
-          "total": "215",
-          "percent": "0.4"
-        },
-        {
-          "id": "3",
-          "points": "500-599",
-          "total": "5431",
-          "percent": "9.9"
-        },
-        {
-          "id": "4",
-          "points": "400-499",
-          "total": "14097",
-          "percent": "25.6"
-        },
-        {
-          "id": "5",
-          "points": "300-399",
-          "total": "14446",
-          "percent": "26.2"
-        },
-        {
-          "id": "6",
-          "points": "200-299",
-          "total": "9768",
-          "percent": "17.7"
-        },
-        {
-          "id": "7",
-          "points": "100-199",
-          "total": "6562",
-          "percent": "11.9"
-        },
-        {
-          "id": "8",
-          "points": " >100",
-          "total": "4526",
-          "percent": "8.2"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "year": "2014",
-      "total": "54025",
-      "points": [
-        {
-          "id": "10",
-          "points": "600",
-          "total": "162",
-          "percent": "0.3"
-        },
-        {
-          "id": "11",
-          "points": "500-599",
-          "total": "5088",
-          "percent": "9.4"
-        },
-        {
-          "id": "12",
-          "points": "400-499",
-          "total": "13447",
-          "percent": "24.9"
-        },
-        {
-          "id": "13",
-          "points": "300-399",
-          "total": "14047",
-          "percent": "26"
-        },
-        {
-          "id": "14",
-          "points": "200-299",
-          "total": "9584",
-          "percent": "17.7"
-        },
-        {
-          "id": "15",
-          "points": "100-199",
-          "total": "6926",
-          "percent": "12.8"
-        },
-        {
-          "id": "16",
-          "points": " >100",
-          "total": "4771",
-          "percent": "8.8"
-        }
-      ]
-    },
-    {
-      "id": "17",
-      "year": "2013",
-      "total": "52767",
-      "points": [
-        {
-          "id": "18",
-          "points": "600",
-          "total": "152",
-          "percent": "0.3"
-        },
-        {
-          "id": "19",
-          "points": "500-599",
-          "total": "4813",
-          "percent": "9.1"
-        },
-        {
-          "id": "20",
-          "points": "400-499",
-          "total": "12803",
-          "percent": "24.3"
-        },
-        {
-          "id": "21",
-          "points": "300-399",
-          "total": "13381",
-          "percent": "25.4"
-        },
-        {
-          "id": "22",
-          "points": "200-299",
-          "total": "9566",
-          "percent": "18.1"
-        },
-        {
-          "id": "23",
-          "points": "100-199",
-          "total": "6914",
-          "percent": "13.1"
-        },
-        {
-          "id": "24",
-          "points": " >100",
-          "total": "5138",
-          "percent": "9.7"
-        }
-      ]
-    },
-    {
-      "id": "25",
-      "year": "2012",
-      "total": "52589",
-      "points": [
-        {
-          "id": "26",
-          "points": "600",
-          "total": "165",
-          "percent": "0.2"
-        },
-        {
-          "id": "27",
-          "points": "500-599",
-          "total": "5026",
-          "percent": "9.6"
-        },
-        {
-          "id": "28",
-          "points": "400-499",
-          "total": "12395",
-          "percent": "23.6"
-        },
-        {
-          "id": "29",
-          "points": "300-399",
-          "total": "13170",
-          "percent": "25"
-        },
-        {
-          "id": "30",
-          "points": "200-299",
-          "total": "9588",
-          "percent": "18.2"
-        },
-        {
-          "id": "31",
-          "points": "100-199",
-          "total": "6999",
-          "percent": "13.3"
-        },
-        {
-          "id": "32",
-          "points": " >100",
-          "total": "5276",
-          "percent": "10"
-        }
-      ]
-    },
-    {
-      "id": "33",
-      "year": "2011",
-      "total": "54341",
-      "points": [
-        {
-          "id": "34",
-          "points": "600",
-          "total": "162",
-          "percent": "0.3"
-        },
-        {
-          "id": "35",
-          "points": "500-599",
-          "total": "4863",
-          "percent": "8.6"
-        },
-        {
-          "id": "36",
-          "points": "400-499",
-          "total": "12235",
-          "percent": "22.5"
-        },
-        {
-          "id": "37",
-          "points": "300-399",
-          "total": "13860",
-          "percent": "18.4"
-        },
-        {
-          "id": "38",
-          "points": "200-299",
-          "total": "9966",
-          "percent": "18.4"
-        },
-        {
-          "id": "39",
-          "points": "100-199",
-          "total": "7477",
-          "percent": "13.8"
-        },
-        {
-          "id": "40",
-          "points": " >100",
-          "total": "5928",
-          "percent": "10.9"
-        }
-      ]
-    },
-    {
-      "id": "34",
-      "year": "2010",
-      "total": "54480",
-      "points": [
-        {
-          "id": "35",
-          "points": "600",
-          "total": "136",
-          "percent": "0.2"
-        },
-        {
-          "id": "36",
-          "points": "500-599",
-          "total": "4564",
-          "percent": "8.4"
-        },
-        {
-          "id": "37",
-          "points": "400-499",
-          "total": "11973",
-          "percent": "22"
-        },
-        {
-          "id": "38",
-          "points": "300-399",
-          "total": "13878",
-          "percent": "25.5"
-        },
-        {
-          "id": "39",
-          "points": "200-299",
-          "total": "10391",
-          "percent": "19.1"
-        },
-        {
-          "id": "40",
-          "points": "100-199",
-          "total": "7294",
-          "percent": "13.4"
-        },
-        {
-          "id": "41",
-          "points": " >100",
-          "total": "6244",
-          "percent": "11.5"
-        }
-      ]
-    }
-  ]
+  "id":1,
+  "name":"CAO",
+  "description":"breakdown of cao points",
+  "Cao":{
+    "id":1,
+    "description":"Year by year breakdown",
+    "Years":[
+      {
+        "yearId":1,
+        "name":"2015",
+        "description":"2015 points",
+        "totalStudents":"55,045",
+        "label":"2015",
+        "Points":[
+          {
+            "pointsId":1,
+            "name":"points",
+            "description":"pointsyear",
+            "isDefault": true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":1,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":215,
+                    "percent": 0.4
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":5431,
+                    "percent": 9.9
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":14097,
+                    "percent": 25.6
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":14446,
+                    "percent": 26.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":9768,
+                    "percent": 17.7
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":6562,
+                    "percent": 11.9
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":4526,
+                    "percent": 8.2
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yearId":2,
+        "name":"2014",
+        "description":"2014 points",
+        "totalStudents":"54,025",
+        "label":"2014",
+        "Points":[
+          {
+            "pointsId":2,
+            "name":"points",
+            "description":"pointsyear",
+            "isDefault": true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":2,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":162,
+                    "percent": 0.3
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":5088,
+                    "percent": 9.4
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":13447,
+                    "percent": 24.9
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":14047,
+                    "percent": 26
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":9584,
+                    "percent": 17.7
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":6926,
+                    "percent": 12.8
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":4771,
+                    "percent": 8.8
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yearId":3,
+        "name":"2013",
+        "description":"2013 points",
+        "totalStudents":"52,767",
+        "label":"2013",
+        "Points":[
+          {
+            "pointsId":3,
+            "name":"points",
+            "description":"pointsyear",
+            "isDefault": true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":3,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":152,
+                    "percent": 0.3
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":4813,
+                    "percent": 9.1
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":12803,
+                    "percent": 24.3
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":13381,
+                    "percent": 25.4
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":9566,
+                    "percent": 18.1
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":6914,
+                    "percent": 13.1
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":5138,
+                    "percent": 9.7
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yearId":4,
+        "name":"2012",
+        "description":"2012 points",
+        "totalStudents":"52,589",
+        "label":"2012",
+        "Points":[
+          {
+            "pointsId":4,
+            "name":"points",
+            "description":"pointsyear",
+            "isDefault": true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":4,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":165,
+                    "percent": 0.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":5026,
+                    "percent": 9.6
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":12395,
+                    "percent": 23.6
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":13170,
+                    "percent": 25
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":9588,
+                    "percent": 18.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":6999,
+                    "percent": 13.3
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":5276,
+                    "percent": 10
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yearId":5,
+        "name":"2011",
+        "description":"2011 points",
+        "totalStudents":"54,341",
+        "label":"2011",
+        "Points":[
+          {
+            "pointsId":5,
+            "Name":"points",
+            "description":"pointsyear",
+            "isDefault": true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":5,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":165,
+                    "percent": 0.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":5026,
+                    "percent": 9.6
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":12395,
+                    "percent": 23.6
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":13170,
+                    "percent": 25
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":9588,
+                    "percent": 18.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":6999,
+                    "percent": 13.3
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":5276,
+                    "percent": 10
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "yearId":6,
+        "name":"2010",
+        "description":"2010 points",
+        "totalStudents":"54,480",
+        "label":"2010",
+        "Points":[
+          {
+            "pointsId":6,
+            "name":"points",
+            "description":"pointsyear",
+            "isDefault":true,
+            "PointBreakdown":[
+              {
+                "PointBreakdownId":6,
+                "results":[
+                  {
+                    "isMax":true,
+                    "label":"600",
+                    "total":136,
+                    "percent": 0.2
+                  },
+                  {
+                    "isMax":false,
+                    "label":"500-599",
+                    "total":4564,
+                    "percent": 8.4
+                  },
+                  {
+                    "isMax":false,
+                    "label":"400-499",
+                    "total":11973,
+                    "percent": 22
+                  },
+                  {
+                    "isMax":false,
+                    "label":"300-399",
+                    "total":13878,
+                    "percent": 25.5
+                  },
+                  {
+                    "isMax":false,
+                    "label":"200-299",
+                    "total":10391,
+                    "percent": 19.1
+                  },
+                  {
+                    "isMax":false,
+                    "label":"100-199",
+                    "total":7294,
+                    "percent": 13.4
+                  },
+                  {
+                    "isMax":false,
+                    "label":">100",
+                    "total":6244,
+                    "percent": 11.5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

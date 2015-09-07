@@ -35,17 +35,14 @@
         ],
         datasets : [
             {
-                fillColor : "#8cc152",
-                strokeColor : "#8cc152",
-                pointColor: '#8cc152',
-                pointStrokeColor: 'rgb(77,77,77)',
-                pointHighlightFill: 'rgb(77,77,77)',
-                pointHighlightStroke: 'rgb(77,77,77)',
                 data : [215,5431,14097,14446,9768,6562,4526]
             }
         ]
 
-    }
+    };
+
+
+
     var doughnutData = [
         {
             value: 12,
@@ -181,6 +178,18 @@
     window.myBar = new Chart(ctx).Bar(barChartData, {
         responsive : true
     });
+
+    myBar.datasets[0].bars[0].fillColor = "#4b74b5";
+    myBar.datasets[0].bars[1].fillColor = "#059ece";
+    myBar.datasets[0].bars[2].fillColor = "#42c697";
+    myBar.datasets[0].bars[3].fillColor = "#6accc0";
+    myBar.datasets[0].bars[4].fillColor = "#f4b571";
+    myBar.datasets[0].bars[5].fillColor = "#f4b571";
+    myBar.datasets[0].bars[6].fillColor = "#ef6c6c";
+
+
+
+    myBar.update();
 
     var ctx = document.getElementById("doughnutChart").getContext("2d");
     // Create the Doughnut Chart

@@ -1,6 +1,36 @@
+<%
+var connection = appdata.Cao.Years;
+for(var i=0; i < connection.length;i++){
+
+%>
+
+<p>"year": <%= connection[i].label %></p>
+<p>"Amount of students": <%= connection[i].totalStudents %></p>
+
+<%
+for(var j = 0; j < connection[i].Points.length;j++){
+if(connection[i].Points[j].isDefault){
+for(var k = 0; k < connection[i].Points[j].PointBreakdown.length; k++){
+for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++) {
+%>
+<p>
+   "point total": <%= connection[i].Points[j].PointBreakdown[k].results[l].label%>
+    "Amount of students to get grade":<%= connection[i].Points[j].PointBreakdown[k].results[l].total%>
+    "Percentage of students getting grade":<%= connection[i].Points[j].PointBreakdown[k].results[l].percent%>
+</p>
+
+<%
+}
+}
+}
+}
+}
+%>
+
 <div class="row">
     <div class="col-xs-12 col-md-8 col-md-offset-2 intro">
         <h1>CAO</h1>
+        <h3 class="best-heading"></h3>
 
         <div class="block">
             <p><span class="pale">C</span>ao statistics can be key to discovering trends
@@ -14,8 +44,7 @@
         </div>
     </div>
 </div>
-
-<div class="row">
+ <div class="row">
     <div class="col-xs-12 col-md-8 col-md-offset-2 intro">
         <form role="form" class="form-horizontal">
             <div class="form-group col-xs-4">
@@ -23,9 +52,6 @@
             </div>
             <div class="form-group col-xs-8">
                 <select class="basic">
-                    <% appdata.years.forEach(function(item) { %>
-                    <option value="<%= item.year %>"><%= item.year %></option>
-                    <% }); %>
                 </select>
             </div>
         </form>
