@@ -4,7 +4,6 @@ var router = express.Router();
 
 
 
-
 /* GET home page. */
 router.get('/', function(req, res) {
   //request("https://web-magpie-int-staging.magpiecrm.com/api/cfg/salesoutlet?salesoutletId=3", function(error, response, body){
@@ -26,6 +25,7 @@ router.get('/college', function(req, res) {
   });
 
 router.get('/cao', function(req, res) {
+
   res.render('cao', {
    title: 'CAO',
     id: 'cao'

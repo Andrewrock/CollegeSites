@@ -146,11 +146,11 @@ p{
 Video
 -------------------------------- */
 .hero-unit {
-  height:300px;
+  height:410px;
   border-right:none;
   border-left: none;
   position: relative;
-  padding: 20px;
+  padding:20px;
 }
 #video-container {
   position: absolute;
@@ -164,12 +164,13 @@ Video
 
 }
 video {
-  position:absolute;
+  position:relative;
   z-index:-1;
 }
 video.fillWidth {
   width: 100%;
 }
+
 /* --------------------------------
 Hacks and fixes
 -------------------------------- */

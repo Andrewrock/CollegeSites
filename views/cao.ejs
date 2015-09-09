@@ -12,6 +12,7 @@
         <div class="content">
             <% include partials/sections/cao/cao-header.ejs %>
             <div class="container-fluid">
+
                 <% include partials/sections/cao/cao-blurb.ejs %>
                 <br/>
                 <% include partials/sections/cao/cao-details.ejs %>
@@ -22,11 +23,23 @@
 
 <% include partials/template/jsdefaults.ejs %>
 <script>
-
     $("select").selectOrDie();
 
-    $('.basic').on('change', function () {
-        $('#showYear').val($(this).find('option:selected').val());
+
+
+    console.log($('#showYear').val());
+
+    // all option's value
+    $('.basic').find('option').each(function(){
+        console.log($(this).val());
+
+
+    });
+
+    // change event
+    $('.basic').change(function(){
+        console.log($(this).find(':selected').val());
+
     });
 
 

@@ -1,31 +1,41 @@
+
+
 <%
 var connection = appdata.Cao.Years;
+var years, totalStudents;
 for(var i=0; i < connection.length;i++){
-
-%>
-
-<p>"year": <%= connection[i].label %></p>
-<p>"Amount of students": <%= connection[i].totalStudents %></p>
-
-<%
+var yearId = connection[i].yearId;
 for(var j = 0; j < connection[i].Points.length;j++){
 if(connection[i].Points[j].isDefault){
 for(var k = 0; k < connection[i].Points[j].PointBreakdown.length; k++){
 for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++) {
+if(connection[i].label == 2015){
+    years = connection[i].label;
+    totalStudents = connection [i].totalStudents;
+}
+}
+}
+}
+}
+}
 %>
-<p>
-   "point total": <%= connection[i].Points[j].PointBreakdown[k].results[l].label%>
-    "Amount of students to get grade":<%= connection[i].Points[j].PointBreakdown[k].results[l].total%>
-    "Percentage of students getting grade":<%= connection[i].Points[j].PointBreakdown[k].results[l].percent%>
-</p>
 
-<%
-}
-}
-}
-}
-}
-%>
+<div class="row">
+    <div class="col-xs-12">
+        <select class="basic">
+            <%
+            connection.forEach(function(item) {
+            %>
+            <option value="<%= item.yearId %>"><%=item.label%></option>
+            <% });
+            %>
+        </select>
+
+    </div>
+</div>
+
+
+
 
 <div class="row">
     <div class="col-xs-12 col-md-8 col-md-offset-2 intro">
@@ -52,11 +62,16 @@ for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++
             </div>
             <div class="form-group col-xs-8">
                 <select class="basic">
+                    <%connection.forEach(function(item) { %>
+                    <option value="<%= item.label %>"><%=item.label%></option>
+                    <% }); %>
                 </select>
             </div>
         </form>
     </div>
 </div>
+
+
 
 <!--
 <div class="row">
@@ -95,13 +110,15 @@ for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++
 
                 </div>
             </div>
+
+
             <div class="col-xs-12 col-md-6">
                 <div class="row">
                     <div class="col-xs-12">
                         <h4 class ="datatitle-students text-center">Average number of students</h4>
                         <div class="info-big text-center">
                             <span class="big-figure text-center">
-                                53,875
+                                <%= totalStudents%>
                             </span>
                         </div>
                     </div>
@@ -109,68 +126,45 @@ for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++
 
 
                 <div class="row">
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">600 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                165
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">500-599 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                4,964
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">400-499 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                12,825
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">300-399 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                13,797
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">200-299 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                9,811
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle">100-199 points</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                7,029
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col-xs-6">
-                        <h4 class ="datatitle"> < 100</h4>
-                        <div class="info-big">
-                            <span class="cao-figure">
-                                5,314
-                            </span>
-                        </div>
-                    </div>
+                    <%
+                    var connection = appdata.Cao.Years;
+                    var points, pointstotal, percent
+                    for(var i=0; i < connection.length;i++){
+                        var years = connection[i].label
+                        var yearId = connection[i].yearId;
+                    for(var j = 0; j < connection[i].Points.length;j++){
+                    if(connection[i].Points[j].isDefault){
+                    for(var k = 0; k < connection[i].Points[j].PointBreakdown.length; k++){
+                    for(var l = 0; l < connection[i].Points[j].PointBreakdown[k].results.length; l++) {
+                    if(connection[i].label == 2015){
+                        points = connection[i].Points[j].PointBreakdown[k].results[l].label;
+                        pointstotal = connection[i].Points[j].PointBreakdown[k].results[l].total;
+                        percent =connection[i].Points[j].PointBreakdown[k].results[l].percent;
 
+                    %>
+
+                    <div class="col-xs-6">
+                        <h4 class ="datatitle"><%= points%></h4>
+                        <div class="info-big">
+                            <span class="cao-figure">
+                                <%= pointstotal%>
+                            </span>
+                        </div>
+                    </div>
+                    <%
+                    }
+                    }
+                    }
+                    }
+                    }
+                    }
+                    %>
                 </div>
+
+
             </div>
 
 
         </div>
     </section>
-
 
